@@ -1,0 +1,91 @@
+/*Start FAQ*/
+.faq {
+  background-size: cover;
+  background-color: #fff;
+  position: relative;
+  overflow: hidden;
+}
+.faqimg {
+  width: 85%;
+  margin: 0 auto;
+}
+.faq .accordion {
+  font-size: 18px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+}
+.box.active {
+  background: #0f79be;
+  border-radius: 15px 15px 0 0;
+}
+.box.active label {
+  background: #0f79be;
+}
+.box.active .label,
+.box.active .content {
+  background: #0f79be;
+  border-radius: 10px 10px 0 0;
+  color: #fff;
+  padding: 20px 15px;
+}
+.faq .label {
+  font-size: 18px;
+  font-family: "LexendMedium";
+  border: 1px solid #d8dbdc;
+  color: #0f79be;
+  width: 100%;
+  padding: 15px 15px;
+  position: relative;
+  letter-spacing: 0.05em;
+  text-transform: inherit;
+  cursor: pointer;
+  border-radius: 8px;
+  background: #fff;
+}
+.faq .label::before {
+  content: "+";
+  position: absolute;
+  right: 15px;
+  top: 50%;
+  font-size: 19px;
+}
+.faq .content {
+  font-size: 16px;
+  font-family: "LexendRegular";
+  background-color: transparent;
+  overflow: auto;
+  color: inherit;
+  height: 0;
+  text-align: left;
+  position: relative;
+  line-height: 25px;
+  letter-spacing: 0.03em;
+}
+.content ul li {
+  font-size: 16px;
+  font-family: "LexendRegular";
+  background-color: transparent;
+  overflow: auto;
+  color: #616161;
+  height: 0;
+  text-align: left;
+  position: relative;
+  transition: all 1s ease;
+  line-height: 25px;
+  letter-spacing: 0.01em;
+  display: table;
+}
+.faq .content::-webkit-scrollbar {
+  display: none;
+}
+.faq .box.active .content {
+  height: 100%;
+}
+.faq .box.active .label::before {
+  content: "-";
+}
+.faq .box {
+  margin: 0 0 15px;
+}
+/*End FAQ*/

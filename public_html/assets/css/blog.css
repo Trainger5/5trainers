@@ -1,0 +1,13 @@
+.blogpage {
+  background: url(../image/bg/bg0.jpg);
+}
+.blogpage:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: auto;
+  top: 0;
+  right: 0;
+  z-index: 1;
+  background-image: url(../image/bg/bg3.png);
+}

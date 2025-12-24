@@ -1,0 +1,106 @@
+.single-boxes-item {
+  padding: 40px;
+  position: relative;
+  background-color: #f8f8f8;
+  z-index: 1;
+  min-height: 210px;
+}
+.single-boxes-item h3 {
+  margin-bottom: 10px;
+  font-size: 22px;
+  font-family: "PoppinsBold";
+  line-height: inherit;
+}
+.single-boxes-item h3 span {
+  color: #ff8503;
+  font-family: "PoppinsBold";
+  font-size: 30px;
+}
+.single-boxes-item.whitetext h3 {
+  color: #fff;
+}
+.single-boxes-item.whitetext p {
+  color: #fff;
+}
+.single-boxes-item.whitetext .boxes-btn {
+  color: #fff;
+}
+.single-boxes-item.whitetext .boxes-btn::before {
+  background-color: #fff;
+}
+.single-boxes-item p {
+  margin-bottom: 15px;
+  line-height: 1.7;
+  font-family: "LexendMedium";
+  font-size: 17px;
+  /* color: #407690; */
+  color: #0f79be;
+}
+.single-boxes-item .boxes-btn {
+  display: inline-block;
+  position: relative;
+  color: #252525;
+  z-index: 1;
+  padding-right: 22px;
+  transition: 0.4s;
+  font-size: 17px;
+  font-family: "NunitoBold";
+}
+.single-boxes-item .boxes-btn::before {
+  content: "";
+  position: absolute;
+  background-color: #252525;
+  left: 0;
+  bottom: 0;
+  height: 1px;
+  width: 100%;
+  z-index: -1;
+  transition: 0.5s;
+}
+.single-boxes-item.bg-color {
+  background-color: #0f79be;
+}
+.single-boxes-item.bg-color::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  z-index: -1;
+  width: 50px;
+  height: 35px;
+  background: #ffffff;
+  opacity: 0.3;
+  border-radius: 50% 50% 0 0;
+}
+.single-boxes-item.bg-color::after {
+  content: "";
+  position: absolute;
+  top: 18px;
+  right: 18px;
+  width: 40px;
+  height: 40px;
+  background: #ffffff;
+  z-index: -1;
+  border-radius: 50%;
+  opacity: 0.2;
+  animation: border-transform 5s linear infinite alternate forwards;
+}
+.single-boxes-item.bg-image {
+  background-color: #0f79be;
+  background-image: url(../image/other/mission-bg.jpg);
+  background-position: right;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.boxes-area .container-fluid .row .col-lg-3 {
+  padding-left: 0;
+  padding-right: 0;
+}
+.single-boxes-item .boxes-btn:hover,
+.single-boxes-item .boxes-btn:focus {
+  padding-right: 25px;
+}
+.single-boxes-item .boxes-btn:hover::before,
+.single-boxes-item .boxes-btn:focus::before {
+  width: 0;
+}

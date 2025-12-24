@@ -1,0 +1,11 @@
+RewriteEngine On
+
+# Redirect index.php to root domain without index.php
+RewriteCond %{THE_REQUEST} \s/index\.php[\s?] [NC]
+RewriteRule ^index\.php$ https://5trainers.com/ [R=301,L]
+
+# Redirect www to non-www
+RewriteCond %{HTTP_HOST} ^www\.5trainers\.com$ [NC]
+RewriteRule ^(.*)$ https://5trainers.com/$1 [R=301,L]
+
+ErrorDocument 404 /404.php

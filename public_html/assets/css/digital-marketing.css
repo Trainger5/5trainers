@@ -1,0 +1,402 @@
+/*overview sec*/
+.over-dm {
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  background: #fff;
+}
+.over-dm-circle {
+  width: 220px;
+  height: 220px;
+  right: 10px;
+  top: 0;
+  background-color: transparent;
+  border-radius: 50%;
+  border: 35px solid rgba(255, 54, 107, 0.05);
+  position: absolute;
+  z-index: -1;
+}
+
+/*Start industries-area */
+.industries-area {
+  /*background: url(../image/bg/work-for.jpg) no-repeat center;*/
+  background-size: auto;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  position: relative;
+  height: 90vh;
+  overflow: hidden;
+}
+.industries-area .slider-shape-3 {
+  position: absolute;
+  top: 5%;
+  right: 5%;
+  -webkit-animation: spinner 15s infinite linear;
+  -webkit-animation: spin 4s linear infinite;
+  -moz-animation: spin 4s linear infinite;
+  animation: spin 4s linear infinite;
+}
+@-moz-keyframes spin {
+  100% {
+    -moz-transform: rotate(360deg);
+  }
+}
+@-webkit-keyframes spin {
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+@keyframes spin {
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+.single-industries-box {
+  position: relative;
+  margin-bottom: 30px;
+  z-index: 1;
+  border-radius: 0 50px;
+  background-color: #fff;
+  overflow: hidden;
+  transition: 0.5s;
+  padding: 35px 30px 35px 25px;
+  box-shadow: inset 2px 2px 2px 0px rgb(255 255 255 / 50%),
+    7px 7px 20px 0px rgb(0 0 0 / 10%), 4px 4px 5px 0px rgb(0 0 0 / 10%);
+}
+.single-industries-box:before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 0;
+  height: 100%;
+  background: linear-gradient(
+    to right top,
+    #0079c4,
+    #0079c4,
+    #04629d,
+    #0f3564,
+    #0f3564
+  );
+  z-index: -1;
+  content: "";
+  transition: 0.5s;
+}
+.single-industries-box:hover:before {
+  width: 100%;
+}
+.single-industries-box .iconimag {
+  position: absolute;
+  content: "";
+  right: 15px;
+  bottom: 18px;
+  width: 60px;
+}
+.iconimag img {
+  border-radius: 50px;
+}
+.single-industries-box .iconimag {
+  border-radius: 50px;
+}
+.single-industries-box:hover .iconimag {
+  left: 6px;
+  bottom: 30px;
+}
+.single-industries-box h3 {
+  margin-bottom: 0;
+  transition: 0.5s;
+  font-size: 17px;
+  font-family: "LexendMedium";
+  letter-spacing: 0.03em;
+  color: #202647;
+}
+.single-industries-box:hover h3 {
+  color: #fff;
+}
+.single-industries-box a {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 4;
+}
+.single-industries-box:hover {
+  padding-left: 68px;
+}
+.industries-row {
+  padding-top: 80px;
+}
+/*End industries-area */
+
+/*Why Choose Us*/
+.why-choose {
+  background: url(../image/bg/service-bg3.jpg) right repeat;
+  background-size: contain;
+  padding-top: 40px;
+  min-height: 87vh;
+  position: relative;
+  z-index: 1;
+  background-color: #fff;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  overflow: hidden;
+}
+.servicerw {
+  margin-top: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 400px;
+  position: relative;
+  z-index: 1;
+}
+.centerserow {
+  margin-top: 0;
+  padding-top: 20px;
+  text-align: center;
+}
+.allservice {
+  padding-top: 40px;
+  min-height: 87vh;
+  position: relative;
+  padding-bottom: 20px;
+}
+.service-col h3 {
+  font-family: "DosisExtraBold";
+  font-size: 37px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  margin: 0 0 20px;
+  color: #202647;
+}
+.service-col p {
+  font-family: "LexendBold";
+  font-size: 22px;
+  text-transform: capitalize;
+  color: #000;
+  margin: 0 0 30px;
+  letter-spacing: 0.03em;
+}
+.service-col ul {
+  margin: 0;
+  padding: 0;
+}
+.service-col ul li {
+  list-style: none;
+  font-family: "LexendRegular";
+  font-size: 18px;
+  margin: 0 0 7px;
+  color: #616161;
+  letter-spacing: 0.03em;
+}
+.service-col .services-btn {
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  padding: 10px 35px;
+  display: inline-block;
+  overflow: hidden;
+  clear: both;
+  position: relative;
+  margin: 40px 0 0;
+  font-size: 16px;
+  font-family: "PoppinsMedium";
+  letter-spacing: 0.05em;
+  border-radius: 8px;
+  border-bottom: 4px solid rgba(0, 0, 0, 0.2);
+  -webkit-perspective: 230px;
+  perspective: 230px;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, 0.5),
+    7px 7px 20px 0px rgba(0, 0, 0, 0.1), 4px 4px 5px 0px rgba(0, 0, 0, 0.1);
+}
+.service-col .services-btn:hover {
+  background: rgba(0, 0, 0, 1) !important;
+}
+.service-col span {
+  background: #202647;
+  margin: 0 10px 0;
+  height: 20px;
+  width: 20px;
+  line-height: 20px;
+  border-radius: 4px;
+  padding: 1px;
+  display: inline-flex;
+}
+.allservice .image {
+  display: block;
+  text-align: right;
+}
+.fst-service h3 {
+  color: #0079c4;
+}
+.fst-service .services-btn {
+  background: #0079c4 !important;
+}
+.fst-service .service-col span {
+  background: #0079c4;
+}
+.services-grid {
+  border: 1px solid #ebebeb;
+  border-radius: 3px;
+  padding: 25px;
+  position: relative;
+  background: #fff;
+  min-height: 318px;
+  transition: all 0.5s ease 0s;
+}
+.services-grid:after {
+  content: "";
+  position: absolute;
+  background: rgba(255, 176, 1, 0.15);
+  width: 97%;
+  height: 97%;
+  left: 28px;
+  top: 24px;
+  display: block;
+  z-index: -1;
+  border-radius: 3px;
+}
+.services-grid .content-part .title {
+  font-size: 18px;
+  letter-spacing: 0.03em;
+  text-transform: capitalize;
+  color: #101010;
+  font-family: "PoppinsBold";
+  margin: 0 0 4px 0;
+}
+.services-grid .content-part .title a {
+  color: #101010;
+  font-family: "PoppinsBold";
+}
+.services-grid .content-part .title a:hover {
+  color: #f6a800;
+}
+.services-grid .content-part .desc {
+  font-size: 16px;
+  font-family: "PoppinsRegular";
+  color: #616161;
+  letter-spacing: 0.02em;
+  text-transform: inherit;
+  text-align: inherit;
+  line-height: 23px;
+}
+.services-grid .content-part.desclist .desc {
+  font-size: 14px;
+  font-family: "PoppinsRegular";
+  color: #666;
+  letter-spacing: 0.02em;
+  text-transform: inherit;
+  text-align: inherit;
+  line-height: 23px;
+  position: relative;
+  padding-left: 28px;
+}
+
+.services-grid .content-part.desclist .desc:before,
+.services-grid .content-part.desclist .desc:after {
+  position: absolute;
+  content: "";
+  left: 0;
+  width: 15px;
+  height: 15px;
+  border-radius: 100%;
+}
+.services-grid .content-part.desclist .desc:after {
+  top: 5px;
+  background: rgba(255, 176, 1, 0.5);
+}
+.services-grid .content-part.desclist .desc:before {
+  top: 3px !important;
+  left: 3px !important;
+  border: 1px dashed rgba(255, 176, 1, 0.5);
+  animation: spin 15s linear infinite;
+  -webkit-animation: spin 15s linear infinite;
+}
+.services-grid ul {
+  float: right;
+}
+.services-grid ul li {
+  font-size: 17px;
+  font-family: "LexendRegular";
+  color: #666;
+  letter-spacing: 0.03em;
+  text-align: inherit;
+  text-transform: capitalize;
+  margin: 0 0 5px;
+  position: relative;
+  padding-left: 28px;
+}
+.services-grid ul li:first-child {
+  font-family: PoppinsBold;
+  color: #000;
+}
+.services-grid ul li:last-child:before {
+  border: none;
+}
+.services-grid ul li:last-child:after {
+  background: none;
+}
+.services-grid ul li:before,
+.services-grid ul li:after {
+  position: absolute;
+  content: "";
+  left: 0;
+  width: 15px;
+  height: 15px;
+  border-radius: 100%;
+}
+.services-grid ul li:before {
+  top: 3px !important;
+  left: 3px !important;
+  border: 1px dashed rgba(255, 176, 1, 0.5);
+  animation: spin 15s linear infinite;
+  -webkit-animation: spin 15s linear infinite;
+}
+.services-grid ul li:after {
+  top: 5px;
+  background: rgba(255, 176, 1, 0.5);
+}
+.services-grid:hover {
+  border-color: transparent;
+  box-shadow: 0 3px 20px rgba(0, 0, 0, 0.08);
+}
+.services-grid .icon-part {
+  margin-bottom: 10px;
+  background: url(../image/shape/shape03.png) no-repeat;
+  background-position: left center;
+  background-size: contain;
+}
+.services-grid .shape-0 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  animation: spin 15s linear infinite;
+}
+.content-part {
+  margin: 12px 0 0;
+}
+.services-grid .icon-part img {
+  width: 40px;
+}
+.content-part.desclist h4.title {
+  margin: 0 0 10px;
+}
+.digital-marketimage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 60%;
+  margin: 0 auto;
+}
+/*End Why Choose Us*/
+/*Start Choose Details*/
+.choose-details {
+  background: url(../image/bg/bg7.jpg) no-repeat right top;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+/*End Choose Details*/

@@ -1,0 +1,1033 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Google Ads - 5Trainers</title>
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/hf.css" type="text/css" rel="stylesheet" />
+    <link href="assets/css/style.css" type="text/css" rel="stylesheet" />
+    <link href="../assets/css/faq.css" type="text/css" rel="stylesheet" />
+    <link href="../assets/css/counseling-for-students.css" type="text/css" rel="stylesheet" />
+
+    <link href="assets/css/landing-page.css" type="text/css" rel="stylesheet" />
+    <link href="assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
+    <link href="assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
+    <link href="assets/css/shorttermcourse.css" type="text/css" rel="stylesheet" />
+    <link href="assets/css/coursedetails.css" type="text/css" rel="stylesheet" />
+
+    <link href="assets/css/responsive.css" type="text/css" rel="stylesheet" />
+
+    <link rel="shortcut icon" href="assets/image/favicon32.png">
+    <link href="assets/css/animate.css" rel="stylesheet">
+    <link href="assets/css/aos.css" rel="stylesheet">
+</head>
+<style>
+    .slide-text h2 {
+        font-size: 57px;
+    }
+</style>
+
+<body class="aos-all" id="transcroller-body">
+    <?php include('floating-icons.php'); ?>
+    <?php include('header.php'); ?>
+    <!--Slider-->
+    <section id="slide-show" class="setbg">
+        <div class="custom-container width80">
+            <div class="">
+                <div class="row">
+                    <div class="col-lg-7">
+                        <div class="intro-details">
+                            <div class="slide-text">
+                                <p class="topP mb-15">Restricted by opportunities?</p>
+                                <div class="sliderHeading mb-20">
+                                    <h2>Google Ads in 30 Days</h2>
+                                    <h2>Job Bootcamp with GenAI</h2>
+                                </div>
+                                <p class="coDetail">Google Ads Mastery in 30 Days Course with Guaranteed Placement
+                                    Support <br> Perfect for Both Freshers & Working Professionals.</p>
+                            </div><!--/slider text-->
+
+                            <div class="course-features mtb-40">
+                                <div class="features">
+                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                                    <div class="typo-pills"> Affordable Fees </div>
+                                </div><!--/features-->
+
+                                <div class="features">
+                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                                    <div class="typo-pills"> Certified Trainers </div>
+                                </div><!--/features-->
+
+                                <div class="features">
+                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                                    <div class="typo-pills"> Internship Opportunity </div>
+                                </div><!--/features-->
+
+                                <div class="features">
+                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                                    <div class="typo-pills"> Placement assistance</div>
+                                </div><!--/features-->
+
+                                <div class="features">
+                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                                    <div class="typo-pills"> Professional Resume Building </div>
+                                </div><!--/features-->
+                                <div class="features">
+                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                                    <div class="typo-pills"> Mock Interviews & HR Rounds</div>
+                                </div><!--/features-->
+
+                                <div class="features">
+                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                                    <div class="typo-pills"> Lifetime Access to Study Material</div>
+                                </div><!--/features-->
+                            </div><!--/course-features-->
+
+                            <div class="course-metrics mt-15 mb-40">
+                                <div class="course-metric">
+                                    <div class="metric-heading"> 95%</div>
+                                    <div class="metric-sub-heading"> placement rate </div>
+                                </div><!--/course-metric-->
+                                <div class="divider"></div><!--/divider-->
+
+                                <div class="course-metric">
+                                    <div class="metric-heading"> 1200+</div>
+                                    <div class="metric-sub-heading"> Companies Hiring</div>
+                                </div><!--/course-metric-->
+                                <div class="divider"></div><!--/divider-->
+
+                                <div class="course-metric">
+                                    <div class="metric-heading"> 128%</div>
+                                    <div class="metric-sub-heading"> Average hike</div>
+                                </div><!--/course-metric-->
+                                <div class="divider"></div><!--/divider-->
+
+                                <div class="course-metric">
+                                    <div class="metric-heading"> 1.5 L+</div>
+                                    <div class="metric-sub-heading"> Learners</div>
+                                </div><!--/course-metric-->
+                            </div><!--/course-metrics-->
+
+                            <div class="webinar-text">
+                                <p>Know in-depth details in our free Consultancy</p>
+                                <img src="assets/image/icon/hand.webp" alt="Icon">
+                            </div><!--/class="webinar-text-->
+                        </div><!--/intro-details-->
+                    </div>
+                    <div class="col-lg-5">
+                        <div class="formAlign">
+                            <div class="form-screen">
+                                <div class="title">Book a <span class="talert">Course</span> <span
+                                        class="more">Now</span></div>
+                                <form action="mailto:info@5trainers.com" method="POST" enctype="text/plain">
+                                    <div class="row">
+                                        <div class="col-lg-12 col-md-12">
+                                            <div class="form-group">
+                                                <label>name</label>
+                                                <input type="text" name="name" required="required" placeholder="Name"
+                                                    class="form-control">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-12 col-md-12">
+                                            <div class="form-group">
+                                                <label>email</label>
+                                                <input type="email" name="email" required="required" placeholder="Email"
+                                                    class="form-control">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-12 col-md-12">
+                                            <div class="form-group">
+                                                <label>phone number</label>
+                                                <input type="tel" name="phone_number" required="required"
+                                                    placeholder="Phone Number" class="form-control">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-12 col-md-12">
+                                            <div class="form-group">
+                                                <label>Courses</label>
+                                                <div class="basic-container">
+                                                    <div>
+                                                        <input type="radio" id="option1" name="basic">
+                                                        <label for="Working-professional-Technical-roles"> Google
+                                                            Ads</label>
+                                                    </div>
+                                                    <div>
+                                                        <input type="radio" id="option2" name="basic">
+                                                        <label for="Working-professional-Non-technical"> Digital
+                                                            Marketing</label>
+                                                    </div>
+                                                    <div>
+                                                        <input type="radio" id="option3" name="basic">
+                                                        <label for="College student - Final year">SEO</label>
+                                                    </div>
+                                                    <div>
+                                                        <input type="radio" id="option4" name="basic">
+                                                        <label for="College student - 1st to pre-final yearl"> Social
+                                                            Media</label>
+                                                    </div>
+                                                    <div>
+                                                        <input type="radio" id="Others" name="basic" checked>
+                                                        <label for="Others">Meta Ads</label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-lg-12 col-md-12"><input type="submit"
+                                                class="submitbtn btn btn-primary" value="Enroll for Course Booking">
+                                        </div>
+                                    </div>
+                                </form>
+                            </div><!--/form-screen-->
+                        </div>
+                    </div>
+                </div>
+                <div class="bg1" style="display:none;">
+                    <div class="staticSliderCont">
+                    </div><!--/row-->
+                </div>
+            </div>
+    </section><!--/Slider-->
+    <span id="top"></span>
+    <section class="container-fluid slider-hding">
+        <div class="custom-container width80">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="buildText">
+                        <h2>You Are One Step Closer To Building A Thriving Career As <span>Google Ads Expert</span></h2>
+                        <?php include('registernow-popup.php'); ?>
+                    </div>
+                </div><!--col-->
+            </div><!--/row-->
+        </div><!--container-->
+    </section><!--/slider Heading-->
+
+    <section class="continer-fluid pt pb counseling">
+        <div class="no-container width80">
+            <div class="row">
+                <div class="col-lg-7">
+                    <div class="section-title-area">
+                        <h6 data-aos="fade-up" data-aos-duration="500"
+                            class="section-subtitle section-subtitle-2 aos-init aos-animate">Transform Your Career with
+                            Industry-Focused Data Science Training</h6>
+                        <h2 data-aos="fade-up" data-aos-duration="800" class="section-title aos-init aos-animate">Google
+                            Ads Mastery in 30 Days</h2>
+                        <p data-aos="fade-up" data-aos-duration="1100" class="aos-init aos-animate">This 30-day course
+                            will teach you everything you need to know about Google Ads (PPC Advertising). From creating
+                            your first campaign to advanced targeting, optimization, and conversion tracking, you’ll
+                            gain practical, hands-on skills to run profitable ad campaigns.</p>
+                        <p data-aos="fade-up" data-aos-duration="1300" class="aos-init aos-animate">By the end of this
+                            course, you’ll be able to confidently set up, manage, and scale Google Ads campaigns for any
+                            business or client.</p>
+                    </div>
+                    <!--/heading div-->
+                    <div class="keywordsBox">
+                        <ul class="mt-20">
+                            <li data-aos="fade-up" data-aos-duration="500" class="aos-init aos-animate">career
+                                counseling for students</li>
+                            <li data-aos="fade-up" data-aos-duration="500" class="aos-init aos-animate">importance of
+                                career counseling</li>
+                            <li data-aos="fade-up" data-aos-duration="500" class="aos-init aos-animate">student career
+                                guidance</li>
+                        </ul>
+                    </div>
+                    <div class="counselingButn">
+                        <div class="yellowBtn"><a href="#">Get a Free Consultation</a></div>
+                    </div>
+                </div>
+                <!--/col-->
+                <div class="col-lg-5">
+                    <div class="counselingAbout">
+                        <img src="../assets/image/slider/counseling-for-students.png" class="img-fluid"
+                            alt="Counseling">
+                    </div>
+                </div>
+                <!--/col-->
+            </div>
+            <!--/row-->
+        </div><!--/container-->
+    </section><!--/Course Overview-->
+
+    <section class="contaianer-fluid pt pb courseModules">
+        <div class="cutom-container width80">
+            <div class="row mt-80">
+                <div class="col-lg-4">
+                    <div class="courseMleft">
+                        <div class="widget-container">
+                            <h3 class="heading-title">Course Modules</h3>
+                        </div>
+                        <div class="service-catagery-list">
+                            <div class="widget-container">
+                                <ul class="icon-list-items">
+                                    <li class="icon-list-item tab active one">
+                                        <a href="#">
+                                            <span class="icon-list-icon"><img src="assets/image/icon/arrow22.png"
+                                                    alt="Arrow"></span>
+                                            <div class="weekdivision">
+                                                <span class="icon-list-text">Week 1</span>
+                                                <h6>Introduction to Google Ads & Account Setup</h6>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="icon-list-item tab two">
+                                        <a href="#">
+                                            <span class="icon-list-icon"><img src="assets/image/icon/arrow22.png"
+                                                    alt="Arrow"></span>
+                                            <div class="weekdivision">
+                                                <span class="icon-list-text">Week 2</span>
+                                                <h6>Campaign Creation & Ad Copywriting</h6>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="icon-list-item tab three">
+                                        <a href="#">
+                                            <span class="icon-list-icon"><img src="assets/image/icon/arrow22.png"
+                                                    alt="Arrow"></span>
+                                            <div class="weekdivision">
+                                                <span class="icon-list-text">Week 3</span>
+                                                <h6>Optimization & Advanced Targeting</h6>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="icon-list-item tab four">
+                                        <a href="#">
+                                            <span class="icon-list-icon"><img src="assets/image/icon/arrow22.png"
+                                                    alt="Arrow"></span>
+                                            <div class="weekdivision">
+                                                <span class="icon-list-text">Week 4</span>
+                                                <h6>Scaling & Final Project</h6>
+                                            </div>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div><!--/courseMleft-->
+                </div><!--/col-->
+                <div class="col-lg-8">
+                    <div class="courseMright">
+                        <div class="course-tab-content coursetab1">
+                            <h5>SEO Fundamentals & Website Optimization</h5>
+                            <div class="row fourdivision">
+                                <div class="col-lg-6 prb-0">
+                                    <div class="daybox borderrightbottom">
+                                        <h6><span>Day 1–2</span> Google Ads Overview</h6>
+                                        <ul>
+                                            <li>What is Google Ads and how it works.</li>
+                                            <li>Understanding PPC, CPM, CPA, and ROAS.</li>
+                                            <li>Types of Google Ads Campaigns (Search, Display, Video, Shopping,
+                                                Performance Max).</li>
+                                        </ul>
+                                    </div><!--/daybox-->
+                                </div><!--/col-->
+                                <div class="col-lg-6 plb-0">
+                                    <div class="daybox prb-30 borderbottom">
+                                        <h6><span>Day 3–4</span> Account Setup & Structure</h6>
+                                        <ul>
+                                            <li>Setting up a Google Ads account.</li>
+                                            <li>Campaign, Ad Group, and Ad hierarchy.</li>
+                                            <li>Billing setup and dashboard overview.</li>
+                                        </ul>
+                                    </div><!--/daybox-->
+                                </div><!--/col-->
+                                <div class="col-lg-6 pr-0">
+                                    <div class="daybox ptr-30 borderright">
+                                        <h6><span>Day 5–7</span> Keyword Research for Google Ads</h6>
+                                        <ul>
+                                            <li>Finding profitable keywords using Google Keyword Planner.</li>
+                                            <li>Match types: Broad, Phrase, Exact.</li>
+                                            <li>Understanding search intent and CPC analysis.</li>
+                                        </ul>
+                                    </div><!--/daybox-->
+                                </div><!--/col-->
+                            </div><!--/fourdivision-->
+                        </div><!--/course-tab-content tab-1-->
+
+                        <div class="course-tab-content coursetab2 two" id="">
+                            <h5>Campaign Creation & Ad Copywriting</h5>
+                            <div class="row fourdivision">
+                                <div class="col-lg-6">
+                                    <div class="daybox borderrightbottom">
+                                        <h6><span>Day 8-10</span> Creating Search Campaigns</h6>
+                                        <ul>
+                                            <li>Step-by-step campaign creation.</li>
+                                            <li>Setting budgets and bidding strategies.</li>
+                                            <li>Geo-targeting, language targeting, and scheduling.</li>
+                                            <li>Google Search Console & Google Analytics setup</li>
+                                        </ul>
+                                    </div><!--/daybox-->
+                                </div><!--/col-->
+                                <div class="col-lg-6 plb-0">
+                                    <div class="daybox borderright">
+                                        <h6><span>Day 11-12</span> Writing High-Converting Ads</h6>
+                                        <ul>
+                                            <li>Crafting attention-grabbing headlines.</li>
+                                            <li>Writing persuasive ad descriptions.</li>
+                                            <li>Using ad extensions for better CTR.</li>
+                                        </ul>
+                                    </div><!--/daybox-->
+                                </div><!--/col-->
+                                <div class="col-lg-6">
+                                    <div class="daybox borderright ptr-30">
+                                        <h6><span>Day 13-14</span> Display & Video Ads</h6>
+                                        <ul>
+                                            <li>Creating visually appealing display campaigns.</li>
+                                            <li>Running YouTube Ads for brand awareness and leads.</li>
+                                            <li>Audience targeting for display & video.</li>
+                                        </ul>
+                                    </div><!--/daybox-->
+                                </div><!--/col-->
+                            </div><!--/fourdivision-->
+                        </div><!--/course-tab-content tab-2-->
+
+                        <div class="course-tab-content coursetab3 three" id="">
+                            <h5>Optimization & Advanced Targeting</h5>
+                            <div class="row fourdivision">
+                                <div class="col-lg-6 prb-0">
+                                    <div class="daybox borderrightbottom">
+                                        <h6><span>Day 15–16</span> Conversion Tracking & Analytics</h6>
+                                        <ul>
+                                            <li>Setting up Google Tag Manager.</li>
+                                            <li>Tracking conversions, calls, and form submissions.</li>
+                                            <li>Linking Google Ads with Google Analytics.</li>
+                                        </ul>
+                                    </div><!--/daybox-->
+                                </div><!--/col-->
+                                <div class="col-lg-6 plb-0">
+                                    <div class="daybox prb-30">
+                                        <h6><span>Day 17–18</span> Campaign Optimization</h6>
+                                        <ul>
+                                            <li>Quality Score improvement techniques.</li>
+                                            <li>Reducing CPC while increasing CTR.</li>
+                                            <li>A/B testing ads and landing pages.</li>
+                                        </ul>
+                                    </div><!--/daybox-->
+                                </div><!--/col-->
+                                <div class="col-lg-6 pr-0">
+                                    <div class="daybox ptr-30">
+                                        <h6><span>Day 19-20</span> Remarketing Strategies</h6>
+                                        <ul>
+                                            <li>Setting up remarketing audiences.</li>
+                                            <li>Dynamic remarketing for e-commerce.</li>
+                                            <li>Sequential remarketing for funnels.</li>
+                                        </ul>
+                                    </div><!--/daybox-->
+                                </div><!--/col-->
+                                <div class="col-lg-6 pl-0">
+                                    <div class="daybox bordertopleft plt-30">
+                                        <h6><span>Day 21</span> Shopping Campaigns (E-commerce)</h6>
+                                        <ul>
+                                            <li>Setting up Merchant Center.</li>
+                                            <li>Creating Shopping Ads.</li>
+                                            <li>Optimizing product feeds.</li>
+                                        </ul>
+                                    </div><!--/daybox-->
+                                </div><!--/col-->
+                            </div><!--/fourdivision-->
+                        </div><!--/course-tab-content tab-3-->
+
+                        <div class="course-tab-content coursetab4 four" id="">
+                            <h5>Scaling & Final Project</h5>
+                            <div class="row fourdivision">
+                                <div class="col-lg-6 prb-0">
+                                    <div class="daybox borderrightbottom">
+                                        <h6><span>Day 22-23</span> Performance Max Campaigns</h6>
+                                        <ul>
+                                            <li>Understanding automation in Performance Max.</li>
+                                            <li>Smart bidding strategies.</li>
+                                        </ul>
+                                    </div><!--/daybox-->
+                                </div><!--/col-->
+                                <div class="col-lg-6 plb-0">
+                                    <div class="daybox prb-30">
+                                        <h6><span>Day 24–25</span> Local Campaigns & Lead Generation</h6>
+                                        <ul>
+                                            <li>Creating ads for local businesses.</li>
+                                            <li>Using lead form extensions.</li>
+                                        </ul>
+                                    </div><!--/daybox-->
+                                </div><!--/col-->
+                                <div class="col-lg-6 pr-0">
+                                    <div class="daybox ptr-30">
+                                        <h6><span>Day 26-27</span> Scaling Ad Campaigns</h6>
+                                        <ul>
+                                            <li>Budget scaling without losing ROI.</li>
+                                            <li>Targeting expansion and automation tools.</li>
+                                        </ul>
+                                    </div><!--/daybox-->
+                                </div><!--/col-->
+                                <div class="col-lg-6 pl-0">
+                                    <div class="daybox bordertopleft plt-30">
+                                        <h6><span>Day 28</span> Troubleshooting & Common Issues</h6>
+                                        <ul>
+                                            <li>Fixing low CTR and high CPC.</li>
+                                            <li>Policy violations and disapprovals.</li>
+                                        </ul>
+                                    </div><!--/daybox-->
+                                </div><!--/col-->
+                                <div class="col-lg-6 pr-0">
+                                    <div class="daybox bordertopright ptr-30">
+                                        <h6><span>Day 29-30</span> Final Project: Launch a Profitable Campaign</h6>
+                                        <ul>
+                                            <li>Create a complete SEO strategy for a chosen website</li>
+                                        </ul>
+                                    </div><!--/daybox-->
+                                </div><!--/col-->
+                            </div><!--/course-tab-content tab-4-->
+                        </div>
+                    </div><!--/courseMright-->
+                </div>
+            </div><!--/container-->
+    </section><!--/courseModules-->
+
+    <section class="contaianer-fluid pt pb courseModules">
+        <div class="cutom-container width80">
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="section-title-area">
+                        <h6 data-aos="fade-up" data-aos-duration="1000" class="section-subtitle section-subtitle-2">
+                            Course Features</h6>
+                        <h2 data-aos="fade-up" data-aos-duration="1500" class="section-title">Future-proof your career
+                            with GenAI skills</h2>
+                    </div><!--/heading-->
+                </div><!--/col-->
+                <div class="col-lg-8">
+                    <div class="rightsec">
+
+                        <div class="course-journey-card-desktop one">
+                            <div class="course-journey-card-desktop-wrapper">
+                                <div class="emoji">
+                                    <img alt="Iocn" src="assets/image/icon/Certification-Ready.png">
+                                    <div class="gesture-notch notch-0 zen-typo-pills"> Google Ads Certification Prep
+                                    </div>
+                                </div>
+                                <div class="side-tracker-container">
+                                    <div class="ng-star-inserted leftright">
+                                        <div style="border: none; margin-top: -1px; height: 0px; width: 0px;"></div>
+                                    </div>
+                                </div>
+                                <div class="feature-card">
+                                    <div class="feature-title zen-typo-subtitle-small">
+                                        <h6>Google Ads Certification Prep </h6>
+                                    </div>
+                                    <ul class="unordered-list">
+                                        <li class="zen-typo-body-small">Prepare for official Google Ads certifications.
+                                        </li>
+                                    </ul>
+                                    <div class="ng-star-inserted topbtm">
+                                        <div style="border: none; margin-left: -1px; height: 0px; width: 0px;"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="course-journey-card-desktop two">
+                            <div class="course-journey-card-desktop-wrapper">
+                                <div class="emoji">
+                                    <img alt="Iocn" class="" src="assets/image/icon/Hands-on-Assignments.png">
+                                    <div class="gesture-notch notch-0 zen-typo-pills"> Hands-on Assignments </div>
+                                </div>
+                                <div class="side-tracker-container">
+                                    <div class="ng-star-inserted leftright">
+                                        <div style="border: none; margin-top: -1px; height: 0px; width: 0px;"></div>
+                                    </div>
+                                </div>
+                                <div class="feature-card">
+                                    <div class="feature-title zen-typo-subtitle-small">
+                                        <h6>Hands-on Assignments </h6>
+                                    </div>
+                                    <ul class="unordered-list">
+                                        <li class="zen-typo-body-small">Real-world campaign creation & optimization.
+                                        </li>
+                                    </ul>
+                                    <div class="ng-star-inserted topbtm">
+                                        <div style="border: none; margin-left: -1px; height: 0px; width: 0px;"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="course-journey-card-desktop three">
+                            <div class="course-journey-card-desktop-wrapper">
+                                <div class="emoji">
+                                    <img alt="Iocn" class="" src="assets/image/icon/Live-Q&A.png">
+                                    <div class="gesture-notch notch-0 zen-typo-pills"> Live Q&A </div>
+                                </div>
+                                <div class="side-tracker-container">
+                                    <div class="ng-star-inserted leftright">
+                                        <div style="border: none; margin-top: -1px; height: 0px; width: 0px;"></div>
+                                    </div>
+                                </div>
+                                <div class="feature-card">
+                                    <div class="feature-title zen-typo-subtitle-small">
+                                        <h6> Live Q&A</h6>
+                                    </div>
+                                    <ul class="unordered-list">
+                                        <li class="zen-typo-body-small">Weekly interactive doubt-solving sessions.</li>
+                                    </ul>
+                                    <div class="ng-star-inserted topbtm">
+                                        <div style="border: none; margin-left: -1px; height: 0px; width: 0px;"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="course-journey-card-desktop four">
+                            <div class="course-journey-card-desktop-wrapper">
+                                <div class="emoji">
+                                    <img alt="Iocn" src="assets/image/icon/SMO-Tool-Access.png">
+                                    <div class="gesture-notch notch-0 zen-typo-pills"> Tool Access </div>
+                                </div>
+                                <div class="side-tracker-container">
+                                    <div class="ng-star-inserted leftright">
+                                        <div style="border: none; margin-top: -1px; height: 0px; width: 0px;"></div>
+                                    </div>
+                                </div>
+                                <div class="feature-card">
+                                    <div class="feature-title zen-typo-subtitle-small">
+                                        <h6>Tool Access </h6>
+                                    </div>
+                                    <ul class="unordered-list">
+                                        <li class="zen-typo-body-small">Google Keyword Planner, SEMrush, SpyFu, Canva.
+                                        </li>
+                                    </ul>
+                                    <div class="ng-star-inserted topbtm">
+                                        <div style="border: none; margin-left: -1px; height: 0px; width: 0px;"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="course-journey-card-desktop five">
+                            <div class="course-journey-card-desktop-wrapper">
+                                <div class="emoji">
+                                    <img alt="Iocn" src="assets/image/icon/access.png">
+                                    <div class="gesture-notch notch-0 zen-typo-pills"> Lifetime Access </div>
+                                </div>
+                                <div class="side-tracker-container">
+                                    <div class="ng-star-inserted leftright">
+                                        <div style="border: none; margin-top: -1px; height: 0px; width: 0px;"></div>
+                                    </div>
+                                </div>
+                                <div class="feature-card">
+                                    <div class="feature-title zen-typo-subtitle-small">
+                                        <h6> Lifetime Access </h6>
+                                    </div>
+                                    <ul class="unordered-list">
+                                        <li class="zen-typo-body-small">Course materials & updates for future strategies
+                                        </li>
+                                    </ul>
+                                    <div class="ng-star-inserted topbtm">
+                                        <div style="border: none; margin-left: -1px; height: 0px; width: 0px;"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!--/course Modules Col-->
+                </div><!--/col-->
+            </div><!--/row-->
+        </div><!--/container-->
+    </section><!--/Course Modules-->
+
+    <section class="container-fluid pt pb whyShould">
+        <div class="no-container width80">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-title-area text-center">
+                        <h2 data-aos="fade-up" class="section-title aos-init aos-animate">Who Should Join?</h2>
+                        <p data-aos="fade-up" data-aos-duration="800" class="aos-init text-center aos-animate">Become a
+                            job-ready data science professional in just 6 months! Our comprehensive training covers the
+                            most in-demand tools and techniques used by top data analysts and data scientists.</p>
+                    </div><!--/heading div-->
+                </div><!--/col-->
+            </div><!--/row-->
+            <div class="row mt-80">
+                <div class="col-lg-3 col-md-6">
+                    <div class="whyShould-container">
+                        <div class="whyShould-image-box-wrapper">
+                            <figure class="whyShould-image-box-img">
+                                <img src="../assets/image/icon/capital-gain-1.svg" class="img-fluid" alt="">
+                            </figure>
+                            <div class="whyShould-image-box-content">
+                                <h3 class="whyShould-image-box-title">Quick Learning</h3>
+                                <p class="whyShould-image-box-description">Master Google Ads in just 30 days.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div><!--/col-->
+                <div class="col-lg-3 col-md-6">
+                    <div class="whyShould-container">
+                        <div class="whyShould-image-box-wrapper">
+                            <figure class="whyShould-image-box-img">
+                                <img src="../assets/image/icon/capital-gain-1.svg" class="img-fluid" alt="">
+                            </figure>
+                            <div class="whyShould-image-box-content">
+                                <h3 class="whyShould-image-box-title">Result-Oriented</h3>
+                                <p class="whyShould-image-box-description">Learn strategies that drive real leads &
+                                    sales.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div><!--/col-->
+                <div class="col-lg-3 col-md-6">
+                    <div class="whyShould-container">
+                        <div class="whyShould-image-box-wrapper">
+                            <figure class="whyShould-image-box-img">
+                                <img src="../assets/image/icon/capital-gain-1.svg" class="img-fluid" alt="">
+                            </figure>
+                            <div class="whyShould-image-box-content">
+                                <h3 class="whyShould-image-box-title">Expert-Led</h3>
+                                <p class="whyShould-image-box-description">Taught by PPC professionals with proven
+                                    results.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div><!--/col-->
+                <div class="col-lg-3 col-md-6">
+                    <div class="whyShould-container">
+                        <div class="whyShould-image-box-wrapper">
+                            <figure class="whyShould-image-box-img">
+                                <img src="../assets/image/icon/capital-gain-1.svg" class="img-fluid" alt="">
+                            </figure>
+                            <div class="whyShould-image-box-content">
+                                <h3 class="whyShould-image-box-title">Comprehensive</h3>
+                                <p class="whyShould-image-box-description">Covers Search, Display, Video, Shopping &
+                                    Performance Max.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div><!--/col-->
+            </div><!--/row-->
+        </div>
+    </section><!--/Why Choose This Course?-->
+
+    <section class="contaianer-fluid pt pb skill-cover">
+        <div class="cutom-container width80">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-title-area text-center centerhding">
+                        <h6 data-aos="fade-up" data-aos-duration="1000" class="section-subtitle section-subtitle-2">
+                            Placement</h6>
+                        <h2 data-aos="fade-up" data-aos-duration="1500" class="section-title">Check Out Our Placement
+                            Record to See the Highest Salary Package that a Student Received</h2>
+                        <p data-aos="fade-up" data-aos-duration="1700" class="aos-init aos-animate text-center">If
+                            you're looking to skyrocket your career, look no further than 5Trainers. Our courses provide
+                            you with the skills and training you need to get ahead in your field. Plus, our placement
+                            record speaks for itself - our students have landed high-paying jobs right after completing
+                            our courses. Do you want to know how our previous students benefited from our courses?</p>
+                    </div>
+                </div>
+            </div><!--/row-->
+            <div class="row mt-80">
+                <div class="col-6 col-md-2 col-lg-2">
+                    <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
+                        <div class=""><img src="../assets/image/landing-page/placement/microsoft.webp" alt=""
+                                class="img-fluid"></div>
+                    </div>
+                </div><!--/col-->
+                <div class="col-6 col-md-2 col-lg-2">
+                    <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
+                        <div class=""><img src="../assets/image/landing-page/placement/IBM_logo.png" alt=""
+                                class="img-fluid"></div>
+                    </div>
+                </div><!--/col-->
+                <div class="col-6 col-md-2 col-lg-2">
+                    <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
+                        <div class=""><img src="assets/image/landing-page/placement/CSB-logo.webp" alt=""
+                                class="img-fluid"></div>
+                    </div>
+                </div><!--/col-->
+                <div class="col-6 col-md-2 col-lg-2">
+                    <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
+                        <div class=""><img src="assets/image/landing-page/placement/Cisco_logo_blue.webp" alt=""
+                                class="img-fluid"></div>
+                    </div>
+                </div><!--/col-->
+                <div class="col-6 col-md-2 col-lg-2">
+                    <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
+                        <div class=""><img src="assets/image/landing-page/placement/ESB_Logo.webp" alt=""
+                                class="img-fluid"></div>
+                    </div>
+                </div><!--/col-->
+                <div class="col-6 col-md-2 col-lg-2">
+                    <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
+                        <div class=""><img src="assets/image/landing-page/placement/Autodesk_Logo.webp" alt=""
+                                class="img-fluid"></div>
+                    </div>
+                </div><!--/col-->
+                <div class="col-6 col-md-2 col-lg-2">
+                    <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
+                        <div class=""><img src="assets/image/landing-page/placement/Adobe_Corporate_logo.webp" alt=""
+                                class="img-fluid"></div>
+                    </div>
+                </div><!--/col-->
+                <div class="col-6 col-md-2 col-lg-2">
+                    <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
+                        <div class=""><img src="assets/image/landing-page/placement/Unity_2021.webp" alt=""
+                                class="img-fluid"></div>
+                    </div>
+                </div><!--/col-->
+                <div class="col-6 col-md-2 col-lg-2">
+                    <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
+                        <div class=""><img src="assets/image/landing-page/placement/Intuit_Logo.webp" alt=""
+                                class="img-fluid"></div>
+                    </div>
+                </div><!--/col-->
+
+                <div class="col-6 col-md-2 col-lg-2">
+                    <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
+                        <div class=""><img src="assets/image/landing-page/placement/xin.webp" alt="" class="img-fluid">
+                        </div>
+                    </div>
+                </div><!--/col-->
+                <div class="col-6 col-md-2 col-lg-2">
+                    <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
+                        <div class=""><img src="assets/image/landing-page/placement/microsoft-office.webp" alt=""
+                                class="img-fluid"></div>
+                    </div>
+                </div><!--/col-->
+                <div class="col-6 col-md-2 col-lg-2">
+                    <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
+                        <div class=""><img src="assets/image/landing-page/placement/IABAC.webp" alt=""
+                                class="img-fluid"></div>
+                    </div>
+                </div><!--/col-->
+                <div class="col-6 col-md-2 col-lg-2">
+                    <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
+                        <div class=""><img src="assets/image/landing-page/placement/IC3.webp" alt="" class="img-fluid">
+                        </div>
+                    </div>
+                </div><!--/col-->
+
+            </div><!--/row-->
+        </div>
+    </section><!--/placement-->
+
+    <section class="container-fluid download">
+        <div class="custom-container width80">
+            <div class="row">
+                <div class="col-md-8 col-lg-6">
+                    <h2 data-aos="fade-up" data-aos-duration="800" class="section-title">Take your career to the next
+                        level!</h2>
+                </div>
+
+                <div class="col-md-4 col-lg-6">
+                    <div class="callbackButton buildText">
+                        <a href="#">Register Now</a>
+                    </div>
+                </div><!--/row-->
+            </div>
+    </section>
+    <section class="container-fluid pt pb certificateProgram">
+        <div class="custom-container width80">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-title-area">
+                        <h6 data-aos="fade-up" data-aos-duration="1000" class="section-subtitle section-subtitle-2">
+                            certificate program</h6>
+                        <h2 data-aos="fade-up" data-aos-duration="1500" class="section-title">Globally recognized
+                            certificate program</h2>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+
+                    <div class="certificateWidth">
+                        <p class="certip" data-aos="fade-up" data-aos-duration="1700"
+                            class="aos-init aos-animate text-justify">5Trainers Certificates is globally recognized
+                            certificate program. It is evolved to help students to get a complete knowledge of data
+                            science from basics to advanced techniques. Online lectures, videos and assignments are an
+                            important part of the course that helps students understand the core concepts quickly. The
+                            certified instructor teaches them about various techniques.<br>Sections are designed for
+                            easy and quick understanding by providing online tutorials and quizzes to master new
+                            knowledge quickly. The course duration is 3-6 months which means you can learn a lot in 6
+                            months without any hassle!</p>
+                    </div>
+                    <div class="certificateWidth">
+                        <div class="combine-feature2_item" data-aos="fade-up" data-aos-duration="1000">
+                            <div class="combine-icon_color1">
+                                <div class="f-feature-icon-wrapper-white-2"><img
+                                        src="assets/image/landing-page/21_1.webp" loading="lazy" width="40"
+                                        alt="5Trainers Certificate Specification"></div>
+                            </div>
+                            <div class="combine-text-size-regular">Certificate program provides the necessary education
+                                to become a Data Science Expert<br></div>
+                        </div>
+                        <div class="combine-feature2_item" data-aos="fade-up" data-aos-duration="1000">
+                            <div class="combine-icon_color2">
+                                <div class="f-feature-icon-wrapper-white-2"><img
+                                        src="assets/image/landing-page/19_1.webp" loading="lazy" width="40"
+                                        alt="5Trainers Certificate Specification"></div>
+                            </div>
+                            <div class="combine-text-size-regular">Identify the challenges in data science, Learn the
+                                terminology and concepts of data science</div>
+                        </div>
+                        <div class="combine-feature2_item" data-aos="fade-up" data-aos-duration="1000">
+                            <div class="combine-icon_color3">
+                                <div class="f-feature-icon-wrapper-white-2"><img
+                                        src="assets/image/landing-page/18_1.webp" loading="lazy" width="40"
+                                        alt="5Trainers Certificate Specification"></div>
+                            </div>
+                            <div class="combine-text-size-regular">Certificate program provides an insight into the
+                                working life of a data Science Expert</div>
+                        </div>
+                    </div>
+                </div><!--/col-->
+                <div class="col-lg-5">
+                    <div class="cerfificateImage" data-aos="fade-up" data-aos-duration="1000">
+                        <img src="assets/image/landing-page/Certificate.jpeg" class="img-fluid" alt="">
+                    </div>
+                </div><!--/col-->
+            </div><!--/row-->
+        </div>
+    </section><!--/Globally recognized certificate program-->
+
+    <section class="container-fluid pt pb faq">
+        <div class="custom-container width80">
+            <div class="row">
+                <div class="col-sm-5 col-lg-6">
+                    <div class="section-title-area">
+                        <span class="section-subtitle section-subtitle-2">FAQ's</span>
+                        <h3 data-aos="fade-up" data-aos-duration="1000" class="section-title aos-init aos-animate">Got
+                            questions? we've got answers</h3>
+                        <p data-aos="fade-up" data-aos-duration="1700" class="aos-init aos-animate">The Most Eminent
+                            Visas and Immigration Consultant service provider. Branches in Delhi and overseas state.</p>
+                    </div>
+                    <!--heading-->
+                    <div class="faqimg"><img src="../assets/image/services/faq-bg.png" alt="" class="img-fluid"></div>
+                </div>
+                <div class="col-sm-7 col-lg-6">
+                    <div class="accordion rpt mt-80">
+                        <div class="box active aos-init aos-animate" data-aos="fade-up" data-aos-duration="500">
+                            <div class="label">1. Who can join the Google Ads course?</div>
+                            <div class="content">
+                                Anyone interested in learning online advertising – students, business owners, marketers,
+                                or professionals looking to upskill – can join. No prior experience is needed.
+                            </div>
+                        </div>
+                        <div class="box aos-init" data-aos="fade-up" data-aos-duration="700">
+                            <div class="label">2. What will I learn in this 1-month course?</div>
+                            <div class="content">
+                                You’ll learn campaign creation, keyword research, ad targeting, bidding strategies,
+                                conversion tracking, optimization, and Google Ads policies.
+                            </div>
+                        </div>
+                        <div class="box aos-init" data-aos="fade-up" data-aos-duration="900">
+                            <div class="label">3. Will I get hands-on practice?</div>
+                            <div class="content">Yes. You’ll work on live projects and real campaigns to gain practical
+                                experience alongside theoretical concepts.</div>
+                        </div>
+                        <div class="box aos-init" data-aos="fade-up" data-aos-duration="1100">
+                            <div class="label">4. Will I receive a certificate after completion?</div>
+                            <div class="content">
+                                Yes, you will get a recognized certificate from our institute after successfully
+                                completing the course.
+                            </div>
+                        </div>
+                        <div class="box aos-init" data-aos="fade-up" data-aos-duration="1300">
+                            <div class="label">5. How are the classes conducted?</div>
+                            <div class="content">
+                                Classes are conducted online and offline (depending on your preference) with flexible
+                                weekday and weekend batches
+                            </div>
+                        </div>
+                    </div>
+                    <!--/accordion-->
+                </div>
+            </div>
+        </div>
+    </section><!--/FAQ-->
+
+    <section class="container-fluid pt haveQuestion">
+        <div class="custom-container width80">
+            <div class="row">
+                <div class="col-lg-5">
+                    <div class="haveQues-image">
+                        <img src="assets/image/landing-page/request-call.png" alt="" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="section-title-area">
+                        <h3 data-aos="fade-up" data-aos-duration="1000" class="section-title">Have questions?
+                            <br>Request a call from our counselors.</h3>
+                    </div><!--heading-->
+                    <div class="form-screen">
+                        <form>
+                            <div class="row">
+                                <div class="hAdjust">
+                                    <div class="col-lg-12 col-md-12">
+                                        <div class="form-group">
+                                            <label>name</label>
+                                            <input type="text" name="name" required="required" placeholder="Name"
+                                                class="form-control">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12 col-md-12">
+                                        <div class="form-group">
+                                            <label>email</label>
+                                            <input type="email" name="email" required="required" placeholder="Email"
+                                                class="form-control">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12 col-md-12">
+                                        <div class="form-group">
+                                            <label>phone number</label>
+                                            <input type="tel" name="phone_number" required="required"
+                                                placeholder="Phone Number" class="form-control">
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12 col-md-12">
+                                        <div class="form-group">
+                                            <label>experience</label>
+                                            <div class="basic-container">
+                                                <div>
+                                                    <input type="radio" id="option1" name="basic">
+                                                    <label for="Working-professional-Technical-roles">Working
+                                                        professional - Technical roles</label>
+                                                </div>
+                                                <div>
+                                                    <input type="radio" id="option2" name="basic">
+                                                    <label for="Working-professional-Non-technical">Working professional
+                                                        - Non technical</label>
+                                                </div>
+                                                <div>
+                                                    <input type="radio" id="option3" name="basic">
+                                                    <label for="College student - Final year">College student - Final
+                                                        year</label>
+                                                </div>
+                                                <div>
+                                                    <input type="radio" id="option4" name="basic">
+                                                    <label for="College student - 1st to pre-final yearl">College
+                                                        student - 1st to pre-final yearl</label>
+                                                </div>
+                                                <div>
+                                                    <input type="radio" id="Others" name="basic" checked="">
+                                                    <label for="Others">Others</label>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="fFotr">
+                                    <div class="col-lg-12 col-md-12"><input type="submit"
+                                            class="submitbtn btn btn-primary" value="Continue Booking With Webinar">
+                                    </div>
+                                    <div class="col-lg-12 col-md-12">
+                                        <p class="ftrAuthorise">I authorise Coding Ninjas to contact me with course
+                                            updates &amp; offers via Email/SMS/Whatsapp/Call. I have read and agree to
+                                            Privacy Policy &amp; Terms of use</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+    </section><!--/have any questions-->
+
+    <?php include('footer.php'); ?>
+</body>
+
+</html>

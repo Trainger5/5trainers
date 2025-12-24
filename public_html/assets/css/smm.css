@@ -1,0 +1,310 @@
+/*start Methods & work process*/
+.methods-work {
+  background: url(../image/bg/bg6.jpg);
+  background-size: auto;
+  position: relative;
+  overflow: hidden;
+  background-attachment: fixed;
+  z-index: 1;
+}
+.methods-work .section-title-area p {
+  margin: 0 auto;
+}
+.row.methods-work-row {
+  margin-top: 70px;
+}
+.mw-inside {
+  background: #ffffff;
+  box-shadow: 0px 0px 20px 0px rgb(0 0 0 / 9%);
+  padding: 25px 20px;
+  border-radius: 5px;
+  margin-bottom: 30px;
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+  min-height: 180px;
+}
+.mw-inside::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(148deg, #54d6eb 0%, #055fdd 100%);
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  opacity: 0;
+  transition: all 0.3s linear;
+  visibility: hidden;
+}
+.mw-inside:hover::before {
+  opacity: 1;
+  visibility: visible;
+}
+.mw-inside .title {
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 700;
+  margin-top: 12px;
+  transition: all 0.3s linear;
+}
+.mw-inside:hover .mw-content p {
+  color: #ffffff;
+}
+.mw-inside .mw-content p {
+  font-size: 16px;
+  line-height: 20px;
+  font-family: "DosisSemiBold";
+  color: #4c4d56;
+  margin: 0;
+  transition: all 0.3s linear;
+  letter-spacing: 0.03em;
+  text-transform: inherit;
+}
+.mw-inside .mw-icon {
+  display: none;
+  height: 80px;
+  width: 80px;
+  background: #e9f1fc;
+  line-height: 80px;
+  border-radius: 50%;
+  float: left;
+  margin-bottom: 25px;
+  margin-right: 25px;
+  text-align: center;
+}
+.mw-inside:hover .mw-content .title,
+.mw-inside:hover .mw-content.list-services li {
+  color: #fff;
+}
+.mw-inside .mw-content .title {
+  font-size: 18px;
+  font-family: "LexendMedium";
+  letter-spacing: 0.03em;
+  text-transform: capitalize;
+  transition: all 0.3s linear;
+}
+.mw-inside:hover .mw-content .title a {
+  color: #ffffff;
+}
+.mw-icon img {
+  width: 60px;
+  height: 60px;
+}
+.mw-content {
+  display: flex;
+  flex-direction: column;
+}
+.mw-inside:hover .shape-1 {
+  opacity: 1;
+  visibility: visible;
+}
+.mw-inside .shape-1 {
+  width: 235px;
+  height: 235px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.1);
+  position: absolute;
+  top: -80px;
+  right: -80px;
+  opacity: 0;
+  transition: all 0.3s linear;
+  visibility: hidden;
+  z-index: -1;
+}
+.mw-inside:hover .shape-2 {
+  opacity: 0.8;
+  visibility: visible;
+}
+.mw-inside .shape-2 {
+  position: absolute;
+  right: -135px;
+  bottom: 55px;
+  opacity: 0;
+  transition: all 0.3s linear;
+  visibility: hidden;
+  z-index: -1;
+}
+.team-section .slider-shape-3 {
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  -webkit-animation: spinner 15s infinite linear;
+  -webkit-animation: spin 4s linear infinite;
+  -moz-animation: spin 4s linear infinite;
+  animation: spin 4s linear infinite;
+}
+@-moz-keyframes spin {
+  100% {
+    -moz-transform: rotate(360deg);
+  }
+}
+@-webkit-keyframes spin {
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+@keyframes spin {
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+.team-section .shape-10 {
+  position: absolute;
+  bottom: 5%;
+  right: 5%;
+  -webkit-animation: spinner 15s infinite linear;
+  -webkit-animation: spin 4s linear infinite;
+  -moz-animation: spin 4s linear infinite;
+  animation: spin 4s linear infinite;
+}
+.team-section .shape-2 {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.mw-content.list-services li {
+  font-size: 14px;
+  margin: 0 0 10px 0;
+  line-height: 25px;
+}
+.mw-content.list-services {
+  margin: 0;
+}
+.mw-inside.visiblebefore::before {
+  opacity: 1;
+  visibility: visible;
+}
+.mw-inside.visiblebefore .mw-content .title,
+.mw-inside.visiblebefore .list-services li {
+  color: #fff;
+}
+/*End Methods & work process*/
+
+/*Start Tools You’ll Master*/
+.CI-7 {
+  background: url(../image/bg/bg3.png) no-repeat;
+  background-color: #fff;
+  background-position: right;
+  background-size: cover;
+  overflow: hidden;
+  position: relative;
+}
+.AS-type .content {
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  background-color: #ffffff;
+  padding: 15px 30px;
+  box-shadow: 0px 2px 6px 0px rgb(0 0 0 / 10%);
+  border-radius: 6px;
+}
+.AS-type .content::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  width: 3px;
+  height: 100%;
+  background-color: #0079c4;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+.AS-type:hover .content::before {
+  width: 100%;
+}
+.AS-type:hover .content h3 {
+  color: #fff;
+}
+.AS-type .content h3 {
+  font-size: 17px;
+  font-family: "LexendMedium";
+  text-transform: capitalize;
+  color: #000;
+  margin: 0 0 5px;
+  letter-spacing: 0.05em;
+  min-height: 45px;
+}
+.AS-type .content p {
+  font-size: 15px;
+  letter-spacing: 0.05em;
+  text-transform: inherit;
+  margin: 0;
+  line-height: inherit;
+}
+.a-icon {
+  /* width: 65px; */
+  margin: auto auto 15px;
+  /* outline: 4px solid #F6A800; */
+  /* outline-offset: 15px; */
+  /* border-radius: 50%; */
+  background: #0079c4;
+  display: inline-block;
+  width: 70px;
+  height: 70px;
+  line-height: 70px;
+  border-radius: 50%;
+}
+/*End Tools You’ll Master*/
+
+/*Start What Makes Our Social Media Courses The Best*/
+.CI-6 {
+  background: url(../image/bg/bg2.jpg) no-repeat;
+  background-position: left;
+  background-size: cover;
+  overflow: hidden;
+  position: relative;
+}
+.CI-6 .owl-thumb-item {
+  display: block;
+  padding: 0 10px;
+  margin-bottom: 20px;
+}
+.CI-6 .owl-thumb-item .content {
+  position: relative;
+  z-index: 1;
+  background-color: #ffffff;
+  padding: 15px 30px;
+  box-shadow: 0px 2px 6px 0px rgb(0 0 0 / 10%);
+}
+.CI-6 .owl-thumb-item .content::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  width: 3px;
+  height: 100%;
+  background-color: #0079c4;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+.CI-6 .owl-thumb-item .content h3 {
+  font-size: 18px;
+  color: #000;
+  font-family: "LexendRegular";
+  text-transform: capitalize;
+  line-height: 25px;
+  letter-spacing: 0.03em;
+  margin: 0 0 5px;
+}
+.CI-6 .owl-thumb-item .content p {
+  font-size: 15px;
+  margin-bottom: 0;
+  letter-spacing: 0.03em;
+  text-transform: inherit;
+  text-align: inherit;
+}
+.CI-6 .owl-thumb-item:hover .content::before {
+  width: 100%;
+}
+.CI-6 .owl-thumb-item:hover .content h3 {
+  color: #fff;
+}
+.CI-6 .owl-thumb-item:hover .content p {
+  color: #fff;
+  opacity: 0.9;
+}
+/*End What Makes Our Social Media Courses The Best*/

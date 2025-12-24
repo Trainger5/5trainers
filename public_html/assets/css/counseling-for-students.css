@@ -1,0 +1,673 @@
+.width70 {
+  width: 70%;
+  margin: 0 auto;
+}
+.counseling {
+  position: relative;
+  background: #fff;
+}
+.counselingButn a {
+  font-family: "LexendMedium";
+  font-size: 20px;
+  letter-spacing: 0.03em;
+  border-radius: 12px 12px 12px 12px;
+  padding: 15px 35px;
+  text-align: center;
+  transition: all 0.3s;
+}
+.yellowBtn a {
+  background: #ff8503;
+  color: #fff;
+  text-decoration: none;
+}
+.yellowBtn a:hover,
+.blueBtn a:hover {
+  background: #000;
+  color: #fff;
+}
+.blueBtn a {
+  background: #043146;
+  color: #fff !important;
+}
+.counselingButn {
+  display: flex;
+  justify-content: flex-start;
+  margin: 50px 0 0;
+  gap: 40px;
+}
+.counselingAbout {
+  width: 70%;
+  margin: 0 0 0 auto;
+}
+.counselingAbout img {
+  object-fit: cover;
+}
+/* Personalized Learning Paths To Success  */
+.learning-paths {
+  position: relative;
+  background: #fff;
+  z-index: 1;
+}
+.learning-paths .wrapper {
+  margin: auto;
+  margin-top: 50px;
+}
+.learning-paths .tab-wrapper {
+  text-align: center;
+  display: block;
+  margin: auto;
+}
+.learning-paths .tabs {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+.learning-paths .tab-link {
+  margin: 0 1%;
+  list-style: none;
+  color: #043146;
+  cursor: pointer;
+  font-size: 18px;
+  font-family: "PoppinsBold";
+  transition: all ease 0.5s;
+  border-bottom: solid 3px rgba(255, 255, 255, 0);
+  letter-spacing: 1px;
+  background: #e7f4f8;
+  border-radius: 6px;
+  width: 100%;
+  padding: 15px 10px !important;
+}
+.learning-paths .tab-link:hover {
+  color: #043146;
+  border-color: #043146;
+}
+
+.learning-paths .tab-link.active {
+  color: #fff;
+  /* border-color: #1F9CBD; */
+  border-color: #0f79be;
+  background: #043146;
+}
+.learning-paths .content-wrapper {
+  width: 98%;
+  margin: 0 auto;
+}
+.tabBasicInfo {
+  background: #e7f4f8;
+  border-radius: 8px;
+}
+.tabBasicInfo,
+.serviceProcess {
+  margin-top: 30px;
+}
+.learning-paths .tab-content {
+  display: none;
+  text-align: justify;
+  color: #043146;
+  font-size: 18px;
+  opacity: 0;
+  transform: translateY(15px);
+  animation: fadeIn 0.5s ease 1 forwards;
+}
+.learning-paths .tab-content.active {
+  display: block;
+}
+.learning-paths .content-wrapper h2,
+.ourAssemtContainer h2 {
+  font-size: 22px;
+  margin: 0;
+  color: inherit;
+}
+.ourAssemtContainer h2 {
+  font-size: 25px;
+  margin: 0 0 10px;
+  color: #043146;
+  font-family: "LexendBold";
+  letter-spacing: 0.03em;
+}
+.learning-paths .content-wrapper p,
+.ourAssemtContainer p {
+  font-size: 17px;
+  letter-spacing: 0.03em;
+  line-height: 30px;
+  margin: 0 0 3px;
+  padding: 0;
+  font-family: "LexendRegular";
+}
+.learning-paths.dataScience .content-wrapper p {
+  margin: 10px 0 0;
+}
+.learning-paths .content-wrapper li {
+  position: relative;
+  font-size: 20px;
+  font-family: "LexendRegular";
+  letter-spacing: 0em;
+  text-align: left;
+  margin: 0 0 20px;
+  padding: 0 0 0 25px;
+  text-transform: capitalize;
+}
+.learning-paths .content-wrapper li::before {
+  position: absolute;
+  /* content: url(../image/icon/5T.png); */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.dataScience .serviceContent li,
+.dataScience .serviceContent li a {
+  background: #e7f4f8;
+  padding: 0 0 0 15px;
+}
+.dataScience .serviceContent li {
+  padding: 12px 16px !important;
+  display: flex;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+.dataScience .serviceContent li:hover {
+  /* background:#1F9CBD; */
+  background: #0f79be;
+}
+.dataScience .serviceContent li:hover a {
+  color: #fff;
+  background: transparent;
+}
+.learning-paths.dataScience .content-wrapper li::before {
+  position: absolute;
+  /* content: url(../image/icon/5T.png); */
+  top: 15px;
+  left: 10px;
+  width: 100%;
+  height: 100%;
+}
+.servicePBox {
+  background: #fff;
+  border-radius: 8px;
+  position: sticky;
+  top: 80px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+.serviceTitle,
+.processTitle {
+  border-radius: 8px 8px 0 0;
+}
+.tabBasicInfo,
+.serviceContent,
+.processContent,
+.ourAssemtContainer {
+  border-radius: 0 0 8px 8px;
+}
+
+.processContent {
+  background: #fff;
+  z-index: 1;
+  position: relative;
+}
+.tabBasicInfo,
+.serviceContent,
+.processContent,
+.learning-paths .tab-link,
+.ourAssemtContainer {
+  padding: 25px 25px;
+}
+.ourAssemtContainer {
+  padding: 35px;
+}
+.learning-paths .tab-link,
+.processTitle,
+.serviceTitle {
+  padding: 15px 25px;
+}
+.serviceTitle {
+  /* background: #FEB600; */
+  background: #ff8503;
+  color: #fff;
+}
+.processTitle {
+  background: #0f79be;
+  /* background: #1F9CBD; */
+  color: #fff;
+  position: sticky;
+  top: 75px;
+  z-index: 2;
+}
+.tabBasicInfo p {
+  margin: 0 0 4px !important;
+}
+.imgContContainer {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 60px 0px;
+  position: relative;
+  z-index: 1;
+}
+.imgContContainer:not(:last-child)::before {
+  content: "";
+  top: 0;
+  left: calc(104px / 2);
+  width: 2px;
+  height: 100%;
+  position: absolute;
+  /* background-color: #1f9cbd; */
+  background-color: #0f79be;
+  z-index: -1;
+}
+.imgContContainer:last-child::before {
+  width: 0px !important;
+  background-color: rgb(255, 255, 255);
+}
+.image-box-wrapper {
+  display: flex;
+  flex-direction: row;
+  text-align: start;
+  align-items: flex-start;
+}
+.imageBoxImg {
+  width: 104px;
+  min-width: 104px;
+  aspect-ratio: 1 / 1;
+  /* background-color: #1f9cbd; */
+  background-color: #0f79be;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  margin-right: 28px;
+}
+.image-box-title {
+  display: flex;
+  font-size: 20px;
+  margin-bottom: 12px;
+  font-family: "NunitoBold";
+  text-align: left;
+  text-transform: inherit;
+  letter-spacing: 0;
+  /* color: #1F9CBD; */
+  color: #0f79be;
+}
+.image-box-title span {
+  margin: 0 10px 0 0;
+}
+.serviceContent {
+  height: 100vh;
+}
+.processContent .processP {
+  font-size: 18px !important;
+  margin: 0 0 60px !important;
+  text-align: justify;
+}
+.getFreeConsultationButn {
+  margin: 30px 0px 0px 135px;
+  display: block;
+}
+.getFreeConsultation {
+  clear: both;
+  position: relative;
+  height: 100%;
+  width: auto;
+}
+.getFreeConsultation a {
+  border-radius: 12px 12px 12px 12px;
+  padding: 10px 35px 10px 35px;
+  /* background: #FEB600; */
+  background: #ff8503;
+  color: inherit;
+  font-size: 18px;
+  letter-spacing: 0;
+  font-family: "LexendMedium";
+}
+.getFreeConsultation a:hover {
+  background: #043146;
+  color: #fff;
+}
+.ourProcessBox {
+  border-bottom: 3px solid transparent;
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+#courseMenu li a.active {
+  color: #fff;
+  background-color: #0f79be;
+  width: 100%;
+  margin-left: 10px;
+  padding: 0 0 0 10px;
+  border-radius: 4px;
+  transition: background 0.3s;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
+/* End Personalized Learning Paths To Success  */
+
+/*our Assessment*/
+.ourAssessment {
+  position: relative;
+  background: #fff;
+  z-index: 1;
+}
+.ourAssemtContainer {
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+.assesssmentButn a {
+  border-radius: 12px 12px 12px 12px;
+  padding: 10px 35px 10px 35px;
+  color: inherit;
+  font-size: 18px;
+  letter-spacing: 0;
+  display: inline-block;
+  font-family: "NunitoBold";
+}
+.processContent h4 {
+  font-family: "LexendBold";
+  color: #0f79be;
+  letter-spacing: 0.02em;
+}
+.assesssmentButn.yellow a {
+  background: #ff8503;
+}
+.assesssmentButn.blue a {
+  background: #043146;
+  color: #fff;
+}
+
+.buttonBox {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 40px;
+}
+.hdingBox {
+  margin: 0 0 30px;
+}
+/*End our Assessment*/
+
+/*FAQ*/
+.faqSection {
+  position: relative;
+  width: 100%;
+  background: #0f79be;
+  padding: 70px 0;
+  z-index: 1;
+}
+.faqSection::before {
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  left: 0;
+  background-image: url(../image/slider/home_banner.png);
+  background-color: #0f79be;
+  z-index: 0;
+}
+.faqSection .counselingFaq {
+  text-align: center;
+  border-radius: 10px;
+}
+.faqSection .faq__title {
+  text-transform: uppercase;
+  color: #fff;
+}
+.faqSection details {
+  background-color: #fff;
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 20px 30px;
+  margin-block: 30px;
+}
+.faqSection summary,
+p {
+  text-align: left;
+}
+.faqSection summary {
+  margin-inline-start: 1rem;
+  list-style-position: outside;
+}
+.faqSection summary::marker {
+  color: #0f79be;
+  font-size: 18px;
+}
+/*View More*/
+#faqsection {
+  word-wrap: break-word;
+}
+
+.moretext {
+  display: none;
+}
+/*End View More*/
+/*End FAQ*/
+
+/*Start Our Student Got Into*/
+.our-student-Into .title {
+  text-align: center;
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: #111827;
+  margin-bottom: 32px;
+}
+.our-student-Into .carousel-container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding: 16px 0;
+}
+.our-student-Into .gradient {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  width: 80px;
+  z-index: 10;
+}
+.our-student-Into .left-gradient {
+  left: 0;
+  background: linear-gradient(to right, var(--bg-color), transparent);
+}
+
+.our-student-Into .right-gradient {
+  right: 0;
+  background: linear-gradient(to left, var(--bg-color), transparent);
+}
+
+.our-student-Into .carousel {
+  display: flex;
+  animation: scroll 20s linear infinite;
+}
+
+.our-student-Into .logos-slide {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-shrink: 0;
+}
+
+.our-student-Into .logo-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 64px;
+  width: 128px;
+  margin: 0 32px;
+}
+
+.our-student-Into .logo {
+  max-height: 48px;
+  width: 100%;
+  object-fit: contain;
+  filter: grayscale(100%);
+  transition: filter 0.3s ease;
+  aspect-ratio: 1/1;
+  opacity: 0.8;
+}
+
+.our-student-Into .logo:hover {
+  filter: grayscale(0%);
+}
+
+/* Animación del carrusel */
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+/* Estilos responsive */
+@media (max-width: 768px) {
+  .our-student-Into .logo-item {
+    margin: 0 16px;
+    width: 100px;
+  }
+
+  .our-student-Into .gradient {
+    width: 40px;
+  }
+}
+.our-student-Into {
+  background: #fff;
+  position: relative;
+  z-index: 1;
+}
+/*End Our Student Got Into*/
+.keywordsBox li {
+  position: relative;
+  font-size: 18px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  margin: 0 0 10px;
+  padding: 0 0 0 22px;
+  color: #043146;
+  text-transform: capitalize;
+}
+.keywordsBox li::before {
+  position: absolute;
+  /* content: url(../image/icon/5T.png); */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+/*Key Highlight*/
+.keyHbox img {
+  width: 140px;
+  max-width: 140px;
+  height: 140px;
+  object-fit: scale-down;
+  object-position: center center;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: #0f79be;
+  border-radius: 50% 50% 50% 50%;
+}
+.keyHbox {
+  text-align: center;
+}
+.keyHbox h6 {
+  margin: 20px 0 0;
+  line-height: 25px;
+  font-family: "LexendMedium";
+  font-size: 18px;
+}
+/*Start Who Should Join*/
+.whyShould {
+  position: relative;
+  background: #ffffff;
+  z-index: 1;
+}
+.whyShould-container {
+  min-height: 217px;
+  padding: 25px 30px;
+  max-width: 100%;
+  background-image: url(../image/shape/Subtract5.svg);
+  background-position: top right;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  position: relative;
+  max-width: 100%;
+  margin-bottom: 20px;
+}
+.whyShould-container:hover {
+  background-image: url(../image/shape/Subtract5-hover.svg);
+}
+.whyShould-container:hover .whyShould-image-box-title,
+.whyShould-container:hover p.whyShould-image-box-description {
+  color: #fff;
+}
+.whyShould-image-box-img {
+  width: 64px;
+}
+.whyShould-image-box-img {
+  top: 0;
+  right: 0;
+  position: absolute;
+}
+.whyShould-image-box-content {
+  width: 80%;
+}
+.whyShould-image-box-title {
+  font-size: 18px;
+  font-family: "LexendBold";
+  letter-spacing: 0;
+  line-height: 28px;
+  margin: 0 0 5px;
+}
+.dataanalytics .whyShould-image-box-title {
+  font-size: 18px;
+}
+p.whyShould-image-box-description {
+  font-size: 16px;
+  font-family: "LexendRegular";
+  color: #6f6f6f;
+  letter-spacing: 0.01em;
+  text-align: inherit;
+  margin: 0;
+}
+.learning-paths.batchDetails .tab-link {
+  border-radius: 70px;
+}
+.learning-paths.batchDetails .tabs {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  background: #e7f4f8;
+  border-radius: 70px;
+}
+.learning-paths.batchDetails .tab-link:hover {
+  border-color: #0f79be;
+  background: #043146;
+  color: #fff;
+}
+.learning-paths.batchDetails .tabBasicInfo {
+  border-radius: 30px;
+}
+p.image-box-description {
+  position: relative;
+  padding: 0 0 0 25px !important;
+}
+p.image-box-description::before {
+  content: "";
+  position: absolute;
+  top: 8px;
+  left: 0;
+  width: 15px;
+  height: 15px;
+  background-image: url(../image/icon/double_tick.png);
+}
+p.image-box-description strong {
+  font-family: "LexendBold";
+}

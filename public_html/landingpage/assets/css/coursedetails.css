@@ -1,0 +1,179 @@
+.courseMleft,
+.courseMright {
+  background: #fff;
+  border-radius: 30px;
+  padding: 40px;
+  overflow: visible;
+  height: 100%;
+}
+.service-catagery-list ul li a {
+  display: flex;
+  width: 100%;
+  background-color: #e7f4f8;
+  padding: 16px;
+  border-radius: 10px;
+  transition: all 0.3s ease-in-out;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 1px 1px 4px 0px rgba(0, 0, 0, 0.2);
+  text-decoration: none;
+}
+.service-catagery-list ul li a:hover {
+  background: #0f79be;
+  color: #fff;
+}
+.service-catagery-list ul li:hover span.icon-list-text,
+.service-catagery-list ul li a:hover h6,
+.service-catagery-list ul li a:hover span.icon-list-text {
+  color: #fff;
+}
+.widget-container h3.heading-title {
+  font-size: 22px;
+  margin: 0 0 20px;
+  text-align: left;
+  text-transform: capitalize;
+}
+.service-catagery-list ul li {
+  padding: 0px !important;
+  margin: 0 0 25px;
+  transition: all 0.3s ease-in-out;
+}
+/* Hide all tab content by default */
+.course-tab-content {
+  display: none;
+}
+
+/* Show only the active one */
+.course-tab-content.active {
+  display: block;
+}
+
+/* Style for active tab in the list */
+.icon-list-item.active {
+  background-color: #0f79be;
+  border-radius: 10px;
+}
+.icon-list-item.active a {
+  background-color: #0f79be;
+  color: #fff;
+}
+.icon-list-item.active a span.icon-list-text,
+.icon-list-item.active a h6 {
+  color: #fff;
+}
+.icon-list-item.active a span.icon-list-icon img {
+  filter: brightness(0) invert(1);
+}
+
+.service-catagery-list ul li a h6 {
+  font-size: 16px;
+  margin: 7px 0 0;
+  font-family: "NunitoBold";
+}
+span.icon-list-text {
+  color: #0f79be;
+  font-family: "LexendBold";
+}
+/*Course Right*/
+.course-tab-content h5 {
+  font-size: 30px;
+}
+.course-tab-content h5 {
+  font-size: 30px;
+  font-family: "LexendMedium";
+  letter-spacing: 0;
+  margin: 0 0 40px;
+}
+.daybox {
+  position: relative;
+}
+.daybox h6 {
+  font-size: 20px;
+  font-family: "NunitoBold";
+  text-align: left;
+  margin: 0 0 20px;
+}
+.daybox li {
+  color: #6f6f6f;
+  font-size: 16px;
+  margin: 0 0 10px;
+  padding: 0 0 0 20px;
+  letter-spacing: 0.01em;
+  text-align: left;
+  text-transform: inherit;
+  font-family: "LexendRegular";
+  position: relative;
+}
+.daybox li::before {
+  position: absolute;
+  content: url(../assets/css/image/icon/computer1.png);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.borderrightbottom {
+  border-right: 1px solid #ecf2f0;
+  border-bottom: 1px solid #ecf2ef;
+  padding: 0 30px 30px 0;
+}
+.borderright {
+  border-right: 1px solid #ecf2f0;
+}
+.borderbottom {
+  border-bottom: 1px solid #ecf2ef;
+}
+.bordertopleft {
+  border-top: 1px solid #ecf2f0;
+  border-left: 1px solid #ecf2f0;
+}
+.bordertopright {
+  border-top: 1px solid #ecf2f0;
+  border-right: 1px solid #ecf2f0;
+}
+.bordertop {
+  border-top: 1px solid #ecf2f0;
+}
+.prb-0 {
+  padding-right: 0;
+  padding-bottom: 0;
+}
+.plb-0 {
+  padding-left: 0;
+  padding-bottom: 0;
+}
+.pr-0 {
+  padding-right: 0;
+}
+.pl-0 {
+  padding-left: 0;
+}
+.daybox.prb-30 {
+  padding: 0 0 30px 30px;
+}
+.ptr-30 {
+  padding: 30px 30px 0 0;
+}
+.plt-30 {
+  padding: 30px 0 0 30px;
+}
+.pl-30 {
+  padding-left: 30px;
+}
+.pt-30 {
+  padding: 30px 0 0 0;
+}
+.daybox h6 span {
+  display: block;
+  font-size: 16px;
+  margin: 0 0 5px;
+  color: #0f79be;
+}
+.coursetab1 .daybox,
+.coursetab2 .daybox {
+  min-height: 224px;
+}
+.coursetab4 .daybox {
+  min-height: 201px;
+}

@@ -1,0 +1,564 @@
+.school-s {
+  background: #eefbff;
+}
+#careerp {
+  padding-top: 80px;
+}
+.careerlftr i {
+  font-size: 35px;
+  text-align: left;
+  display: block;
+  background: linear-gradient(
+    to right,
+    rgb(115 222 255),
+    rgb(0 120 194),
+    rgb(113 218 250),
+    rgb(0 121 196)
+  );
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+.careerlftr-inside {
+  background: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 4px 20px 0px rgb(0 0 0 / 14%),
+    0 7px 10px -5px rgb(243 115 53 / 40%);
+  position: relative;
+  margin-bottom: 30px;
+}
+.section-title p {
+  font-size: 17px;
+  font-family: "LexendRegular";
+  line-height: 35px;
+  font-weight: 400;
+  text-align: justify;
+  margin: 0 0 25px;
+}
+.section-title p span {
+  font-family: "LexendBold";
+}
+.careerlftr-inside:hover {
+  background: #f7f7f7;
+}
+.careerlftr-inside h4 {
+  font-size: 24px;
+  font-family: "LexendMedium";
+  color: #000;
+  text-align: left;
+  text-transform: capitalize;
+  letter-spacing: 0.03em;
+  margin: 10px 0px;
+  line-height: 30px;
+}
+.careerlftr-inside p {
+  font-size: 17px;
+  font-family: "LexendRegular";
+  color: #616161;
+  text-align: justify;
+  text-transform: initial;
+  letter-spacing: 0.03em;
+  margin: 0;
+  width: 100%;
+  line-height: 25px;
+  min-height: 170px;
+  position: relative;
+  display: block;
+  font-weight: 400;
+}
+.careerlftr-inside.mrgntop {
+  top: 40px;
+}
+.jobopen {
+  box-shadow: 0 4px 20px 0px rgb(0 0 0 / 14%),
+    0 7px 10px -5px rgb(238 251 255 / 40%);
+  background: #fff;
+  padding: 20px 30px;
+  position: relative;
+  display: block;
+  border-radius: 5px;
+  margin: 60px auto;
+}
+.jobhding {
+  font-size: 27px;
+  font-family: "LexendBold";
+  text-transform: capitalize;
+  text-align: left;
+  color: #000;
+  letter-spacing: 0;
+  margin: 0 0 15px;
+  position: relative;
+}
+.jobopenfrm input {
+  background: #f2f6f8;
+  border: none;
+  box-shadow: 0px 7px 5px rgb(0 0 0 / 11%);
+  font-size: 18px;
+  font-family: "LexendRegular";
+  color: #000;
+}
+.jobopenfrm select,
+.jobopenfrm option {
+  background: #f2f6f8;
+  border: none;
+  box-shadow: 0px 7px 5px rgb(0 0 0 / 11%);
+  font-size: 18px;
+  font-family: "LexendRegular";
+  color: #000;
+  width: 100%;
+  padding: 10px;
+  text-transform: capitalize;
+}
+.jobopenfrm select:focus-visible {
+  outline-offset: 0px;
+  outline: none;
+}
+.jobopenfrm input:focus,
+.jobopenfrm select:focus {
+  border-color: #0079c4;
+  box-shadow: 0 0 0 0.2rem rgb(0 121 196 / 25%);
+}
+.jobopenfrm label {
+  position: absolute;
+  top: 10px;
+  left: 25px;
+  color: #0079c4;
+  font-size: 18px;
+}
+input#gsearch {
+  padding-left: 38px;
+}
+.aplyjob {
+  background: rgba(0, 121, 196, 0.1);
+  padding: 8px 20px;
+  color: #1585a4;
+  font-size: 17px;
+  font-family: "LexendMedium";
+  text-align: center;
+  text-transform: capitalize;
+  border-radius: 6px;
+}
+.aplyjob:hover {
+  background: rgba(0, 121, 196, 0.9);
+  color: #fff;
+  box-shadow: 0 5px 20px -8px rgb(0 0 0 / 50%);
+}
+#mjob .whycinside:before {
+  left: 43%;
+  bottom: 48%;
+}
+#mjob .whycinside {
+  margin: 0 auto 30px;
+  padding: 35px;
+  background: #fff;
+  position: relative;
+  transition: 0.3s;
+}
+.jobopenfrm button {
+  background-image: -webkit-linear-gradient(
+    -145deg,
+    rgb(0 121 192) 0%,
+    rgb(68 204 249) 100%
+  );
+  border: none;
+  font-size: 18px;
+  font-family: "LexendMedium";
+  text-transform: capitalize;
+  letter-spacing: 0.03em;
+  width: 100%;
+  padding: 9px 0;
+  box-shadow: 0px 7px 5px rgb(0 0 0 / 11%);
+}
+.jobopenfrm button:hover {
+  background: #000;
+}
+#whychoose .whycih h5 {
+  min-height: 22px !important;
+}
+#learnrqmt .whycih p {
+  min-height: 110px;
+}
+.jobopenfrm button:focus {
+  border-color: #1585a4;
+  box-shadow: 0 0 0 0.2rem rgb(254 153 0 / 25%);
+}
+#learnrqmt {
+  margin-top: 70px;
+}
+#learnrqmt .whycinside h5 {
+  min-height: 43px;
+}
+
+#learnrqmt h2 span {
+  color: #1585a4;
+}
+#learnrqmt .whycinside {
+  background: #fff;
+}
+#learnrqmt img {
+  width: 30%;
+  float: right;
+  margin: 0;
+  top: -9px;
+  right: -5px;
+  position: relative;
+}
+#learnrqmt .whycinside:hover {
+  background: rgb(238 251 255);
+}
+#mjob .whycinside:hover {
+  bottom: 5px;
+  background: rgba(238, 251, 255, 0.5);
+  transform: translateY(-3px);
+}
+#careerp a.load_more_jobs.button {
+  background: #1585a4;
+  color: #fff;
+  box-shadow: 0 4px 12px rgb(254 153 0 / 25%);
+  padding: 10px 20px;
+  border-radius: 3px;
+  margin: 30px auto;
+  display: table;
+  text-align: center;
+  font-family: "LexendRegular";
+  text-transform: capitalize;
+  font-size: 20px;
+  clear: both;
+  position: relative;
+}
+#careerp a.load_more_jobs.button:hover {
+  background: #000;
+}
+#careerp a.load_more_jobs.button i {
+  margin-right: 3px;
+}
+/***job description page**/
+.jobdinside h6 {
+  font-size: 30px;
+  text-align: left;
+  font-family: "LexendBold";
+  color: #000;
+  text-transform: capitalize;
+  letter-spacing: 0.02em;
+  position: relative;
+  display: block;
+}
+.jobdinside p {
+  text-align: justify;
+  font-size: 18px;
+  font-family: "LexendRegular";
+  color: #616161;
+  text-transform: inherit;
+  position: relative;
+  line-height: 30px;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+}
+.jobdinside li {
+  margin: 0 0 5px;
+  text-align: justify;
+  font-family: "LexendRegular";
+  font-size: 18px;
+  color: #616161;
+  line-height: 30px;
+  text-transform: inherit;
+  letter-spacing: 0.02em;
+}
+.sidebr-inside .jobdinside li {
+  text-align: justify;
+  font-family: "LexendRegular";
+  font-size: 16px;
+  color: #666;
+  line-height: 25px;
+  text-transform: capitalize;
+  border-bottom: 1px solid #ededed;
+  padding: 8px 10px;
+  margin: 7px 0px;
+  box-shadow: 0 2px 6px rgb(0 0 0 / 10%);
+}
+.jobdinside {
+  margin: 0 0 35px;
+}
+/*.jobdinside li:before {
+    font-family: "Font Awesome 4 Free";
+    font-weight: 900;
+    content: "\f0da";
+    color: #fe9800;
+    margin-right: 5px;
+}*/
+.jobdinside ul li span {
+  font-family: "LexendBold";
+  color: #191919;
+  margin-right: 10px;
+}
+.noo-messages.noo-message-error {
+  background: #f2dede;
+  color: #a94442;
+  border-color: #ebccd1;
+}
+.noo-messages {
+  padding: 15px;
+  margin-bottom: 2.14285714em;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 0;
+}
+.noo-messages li {
+  font-family: "LexendRegular";
+  font-size: 20px;
+  text-transform: capitalize;
+}
+.sidebr-inside {
+  min-height: 100vh;
+  padding: 25px;
+  background: transparent;
+  border-radius: 0 0 4px 4px;
+  overflow: hidden;
+  box-shadow: 0 3px 8px rgb(0 0 0 / 10%);
+  transition: 0.3s;
+}
+.sidebr-inside h5 {
+  font-family: "LexendMedium";
+  font-size: 20px;
+  text-transform: capitalize;
+  color: #000;
+  position: relative;
+  display: block;
+  margin: 0 0 15px;
+}
+.job-social li {
+  float: left;
+  display: block;
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  text-align: center;
+  background: #c5ebf7;
+  margin-right: 8px;
+  border-radius: 50%;
+  color: #191919;
+  font-size: 15px;
+  text-transform: capitalize;
+  cursor: pointer;
+}
+.job-social li a {
+  color: #333;
+}
+.job-social li.fb:hover {
+  background: #1877f2;
+}
+.job-social li.tw:hover {
+  background: #55aded;
+}
+.job-social li.link:hover {
+  background: #0077b5;
+}
+.job-social li.insta:hover {
+  background: radial-gradient(
+    circle at 30% 107%,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );
+}
+.job-social li:hover a {
+  color: #fff;
+}
+.job-social {
+  display: block;
+  overflow: hidden;
+  clear: both;
+  position: relative;
+}
+.aplyjobtn {
+  display: block;
+  clear: both;
+  position: relative;
+  margin: 30px 0 0;
+}
+.aplyjobtn a {
+  background: #0079c4;
+  color: #fff;
+  padding: 7px 16px;
+  display: table;
+  border-radius: 3px;
+  font-size: 17px;
+  font-family: "LexendRegular";
+  text-transform: capitalize;
+  letter-spacing: 0.02em;
+  box-shadow: 0 3px 8px rgb(0 0 0 / 10%);
+}
+.aplyjobtn a:hover {
+  background: #000;
+  color: #fff;
+  box-shadow: 0 0 28px rgb(0 0 0 / 15%);
+}
+.aplyjobtn a i {
+  margin-right: 5px;
+}
+/***apply job form ***/
+#aplyjob .section {
+  width: calc(55% - 40px);
+  margin: 20px auto;
+  display: block;
+  float: none;
+}
+#aplyjob form .section {
+  width: calc(60% - 40px);
+  padding: 30px 25px 45px;
+  box-shadow: 0 0px 8px rgb(0 0 0 / 20%);
+  margin: 20px auto;
+  border-radius: 5px;
+}
+#aplyjob form .section .input-container {
+  padding: 10px;
+}
+#aplyjob form .section .input-container label {
+  display: block;
+  margin-bottom: 4px;
+  color: #000;
+  font-size: 17px;
+  font-family: "LexendRegular";
+  text-transform: capitalize;
+  letter-spacing: 0.03em;
+}
+#aplyjob form .section .input-container input,
+#aplyjob form .section .input-container textarea {
+  width: 100%;
+  padding: 5px 10px;
+  height: 40px;
+  border-radius: 5px;
+  border: none;
+  background: #eefbff;
+  box-shadow: 0 2px 0px #ccc;
+  font-family: "LexendRegular";
+  font-size: 18px;
+  color: #000;
+  text-transform: inherit;
+}
+#aplyjob form .section .input-container input[type="file"] {
+  background: transparent;
+  box-shadow: none;
+  height: auto;
+}
+#aplyjob form .section .input-container input:focus,
+#aplyjob form .section .input-container textarea:focus {
+  outline: none;
+  background: #fff;
+  border: 1px solid #0079c4;
+  box-shadow: 0 0px 8px rgb(0 0 0 / 20%);
+}
+#aplyjob p {
+  font-size: 15px;
+  font-family: "LexendRegular";
+  color: #666;
+  line-height: 21px;
+  text-align: justify;
+}
+#aplyjob form .send-container input {
+  background-image: -webkit-linear-gradient(
+    -145deg,
+    rgb(0 121 192) 0%,
+    rgb(24 195 247) 100%
+  );
+  border: none;
+  color: #fff;
+  padding: 10px 33px;
+  box-shadow: 0 5px 12px rgb(0 0 0 / 20%);
+  border-radius: 5px;
+  font-size: 17px;
+  cursor: pointer;
+  font-family: "LexendMedium";
+  text-transform: capitalize;
+  letter-spacing: 0.03em;
+}
+#aplyjob form .send-container input:hover {
+  background: rgb(0 121 192);
+  color: #fff;
+}
+#aplyjob h4 {
+  font-size: 22px;
+  font-family: "LexendMedium";
+  text-align: center;
+  text-transform: capitalize;
+  color: #000;
+  margin: 0 0 25px;
+  padding: 0 0 15px;
+  border-bottom: 1px solid #eee;
+}
+.sseriesk h4 {
+  font-size: 16px;
+  font-family: "LexendMedium";
+  text-transform: capitalize;
+  color: #191919;
+  margin: 15px 0 0;
+  line-height: 20px;
+}
+.whycinside {
+  background: #f6f6f6;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 5px 20px -8px rgb(0 0 0 / 50%);
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+}
+.whycinside:before {
+  position: absolute;
+  content: "";
+  background-image: -moz-linear-gradient(
+    -145deg,
+    rgb(35 174 213) 0%,
+    rgb(21 133 164) 100%
+  );
+  background-image: -webkit-linear-gradient(
+    -145deg,
+    rgb(35 174 213) 0%,
+    rgb(21 133 164) 100%
+  );
+  background-image: -ms-linear-gradient(
+    -145deg,
+    rgb(35 174 213) 0%,
+    rgb(21 133 164) 100%
+  );
+  width: 500px;
+  height: 500px;
+  left: 58%;
+  bottom: 65%;
+  opacity: 0.3;
+  transition: all 0.3s cubic-bezier(0.905, 0.395, 0.12, 0.55);
+  -webkit-transition: all 0.3s cubic-bezier(0.905, 0.395, 0.12, 0.55);
+  -moz-transition: all 0.3s cubic-bezier(0.905, 0.395, 0.12, 0.55);
+  -ms-transition: all 0.3s cubic-bezier(0.905, 0.395, 0.12, 0.55);
+  -o-transition: all 0.3s cubic-bezier(0.905, 0.395, 0.12, 0.55);
+  z-index: -1;
+  border-radius: 100%;
+}
+.whycinside h5 {
+  font-size: 18px;
+  font-family: "LexendBold";
+  text-align: left;
+  text-transform: capitalize;
+  color: #222;
+  letter-spacing: 0.03em;
+  min-height: 43px;
+}
+.whycinside p {
+  color: #888;
+  font-family: "LexendRegular";
+  font-size: 16px;
+  text-align: left;
+  line-height: 22px;
+  margin: 0;
+  letter-spacing: 0.03em;
+}
+#whychoose .whycinside p {
+  min-height: 60px;
+}
+/*Start Job Description*/
+#jobdescpage {
+  background: #fff;
+}
+/*End Job Description*/

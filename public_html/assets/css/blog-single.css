@@ -1,0 +1,388 @@
+.bloghding {
+  margin: 15px 0 10px !important;
+  font-size: 22px !important;
+  text-align: justify !important;
+}
+.bloglist {
+  display: flex;
+  position: relative;
+}
+.bloglist li {
+  width: 20%;
+  font-size: 18px;
+  font-family: "LexendRegular";
+  color: #616161;
+  text-transform: capitalize;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+.bloglist li span i {
+  color: #1585a4;
+}
+.bloglist span {
+  margin-right: 5px;
+}
+.blogp {
+  margin: 20px 0 15px;
+  font-size: 17px;
+  color: #616161;
+  font-family: "LexendRegular";
+  text-align: justify;
+  line-height: 30px;
+  letter-spacing: 0.02em;
+}
+.comment-sec .comment-title {
+  font-size: 24px;
+  line-height: 30px;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+  font-family: "LexendMedium";
+  color: #000;
+}
+.course-detail button#myBtn {
+  font-size: 15px;
+  font-family: "LexendMedium";
+  color: #000;
+  padding: 0px 10px;
+  background: #f5f5f5;
+}
+.course-detail button#myBtn:focus {
+  outline: none;
+}
+.comment-list > li:last-child {
+  margin-bottom: 0;
+}
+.comment-list > li {
+  margin-bottom: 20px;
+  position: relative;
+  width: 100%;
+}
+.comment_container {
+  position: relative;
+  width: 100%;
+  border-bottom: 1px solid #ededed;
+}
+.avatar-img {
+  display: table-cell;
+  vertical-align: middle;
+  width: 150px;
+  height: 120px;
+}
+.avatar-img img {
+  border-radius: 50%;
+  width: 60%;
+  border: 1px solid #ededed;
+  padding: 10px;
+}
+.comment-text {
+  padding: 15px 43px;
+  display: table-cell;
+  vertical-align: middle;
+}
+.avatar-img + .comment-text::before {
+  width: 90%;
+}
+.blogmaintxt {
+  box-shadow: 0 8px 48px 0 rgb(0 0 0 / 8%);
+  padding: 10px 30px 30px 30px;
+  margin-bottom: 40px;
+  border: 1px solid #ededed;
+  border-top: none;
+}
+.comment-text::before {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #fafafa;
+  z-index: -1;
+}
+.comment-list > li > ul {
+  margin-top: 20px;
+  padding-left: 74px;
+  width: 100%;
+}
+.comment_container .reply {
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: 5px 20px;
+  font-size: 16px;
+  color: #fff;
+  transition: all 0.2s linear 0s;
+  background: #fe9900;
+  font-family: "LexendMedium";
+  border-radius: 2px;
+}
+.comment-sec .meta {
+  font-size: 20px;
+  text-align: left;
+  font-family: "LexendMedium";
+  color: #222;
+  text-transform: capitalize;
+  margin: 0 0 10px;
+}
+.comment-sec .meta span {
+  font-family: "LexendMedium";
+}
+.description p {
+  font-size: 17px;
+  font-family: "LexendRegular";
+  color: #616161;
+  line-height: 25px;
+  text-align: justify;
+  position: relative;
+  margin: 0;
+  font-weight: normal;
+  letter-spacing: 0.02em;
+}
+.comment-reply-title {
+  font-size: 26px;
+  line-height: 30px;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  display: inline-block;
+  font-family: "LexendBold";
+  color: #000;
+  text-align: left !important;
+}
+.comment-form .row {
+  margin-right: -7px;
+  margin-left: -7px;
+}
+#commentform p {
+  position: relative;
+  margin-bottom: 15px;
+}
+#commentform p label {
+  position: absolute;
+  margin: 0;
+  left: 28px;
+  top: 50%;
+  color: #929292;
+  font-size: 13px;
+  cursor: auto;
+}
+#commentform p input,
+#commentform textarea {
+  border-width: 0;
+  border-color: transparent;
+  width: 100%;
+  padding: 10px 20px 10px 35px;
+  color: #000;
+  font-size: 16px;
+  font-family: "LexendRegular";
+  border-radius: 4px;
+  box-shadow: 0 8px 48px 0 rgb(0 0 0 / 8%);
+  background: #fff;
+}
+#commentform p input:focus,
+#commentform textarea:focus {
+  outline: none;
+}
+.blog-comment-form {
+  margin: 50px 0;
+  padding: 30px;
+  box-shadow: 0 8px 48px 0 rgb(0 0 0 / 8%);
+  background: #fff;
+}
+#commentform .butn-bg {
+  background-image: linear-gradient(131deg, #0e98e9, #0e98e9, #1585a4, #1585a4);
+  color: #fff;
+  font-size: 19px;
+  padding: 8px 0px;
+  border-radius: 8px;
+  width: 28%;
+  text-align: center;
+  margin-top: 20px;
+  border: none;
+  font-family: "LexendMedium";
+}
+#commentform .butn-bg:hover {
+  background: #1585a4;
+}
+
+#commentform .butn-bg:focus {
+  outline: none;
+}
+#more {
+  display: none;
+}
+/***show hide butn**/
+#target {
+  display: none;
+}
+.Hide {
+  display: none;
+}
+.vmoretogle .toggle {
+  margin: 20px auto;
+  text-align: center;
+  font-size: 16px;
+  font-family: "LexendMedium";
+  text-transform: capitalize;
+  padding: 6px 0;
+  width: 15%;
+  border-radius: 3px;
+  color: #000;
+  border: none;
+}
+.vmoretogle .toggle:hover {
+  background: #000;
+  color: #fff;
+}
+.vmoretogle .toggle:hover i {
+  color: #fff;
+}
+.vmoretogle .toggle:focus {
+  outline: none;
+}
+.vmoretogle {
+  text-align: center;
+}
+.vmoretogle .toggle span {
+  color: #555;
+  font-size: 14px;
+  position: relative;
+  left: 2px;
+}
+.comment-list p.meta {
+  text-align: left;
+  font-size: 20px;
+  font-family: "LexendMedium";
+  text-transform: capitalize;
+  color: #000;
+  margin: 0 0 5px;
+}
+.comment-list p.meta span {
+  font-family: "LexendMedium";
+  font-size: 19px;
+}
+.course-detail button#myBtn {
+  font-size: 15px;
+  font-family: "LexendMedium";
+  color: #000;
+  padding: 5px 20px;
+  background: #f5f5f5;
+  margin: 5px 0 0;
+  border: none;
+}
+.course-detail h2 {
+  font-size: 30px;
+  margin-top: 0px;
+  margin-bottom: 27px;
+  font-family: "LexendMedium";
+  color: #000;
+  text-align: left;
+  text-transform: capitalize;
+}
+.event-meta h4 {
+  color: #191919;
+  font-family: "LexendMedium";
+  font-size: 18px;
+  text-align: left;
+  text-transform: inherit;
+  line-height: 25px;
+  margin: 0;
+}
+.event-meta h4 a {
+  color: #191919;
+  font-family: "LexendMedium";
+  font-size: 16px;
+  text-align: left;
+}
+.coming-event p {
+  display: block;
+  width: 100%;
+  font-size: 14px;
+  font-family: "LexendRegular";
+  margin-top: 0px;
+  margin-bottom: 10px;
+  color: #858383;
+  text-transform: capitalize;
+  margin-left: 0;
+  text-align: left;
+}
+.scside i {
+  color: #0079c4;
+  margin-right: 10px;
+}
+.coming-event li {
+  width: 100%;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #e9e9e9;
+}
+.sec-title-one.pb-one h6 {
+  font-family: "LexendBold";
+  font-size: 25px;
+  color: #000;
+  text-transform: capitalize;
+  text-align: left;
+}
+.pb-one {
+  padding-bottom: 20px;
+}
+.sec-title-one {
+  position: relative;
+  bottom: 0px;
+  background: url(../image/icon/sec-title.png) no-repeat scroll left bottom;
+  margin-bottom: 20px;
+}
+.sidebar .widget.black-bg {
+  background-image: linear-gradient(131deg, #62afdd, #1593dd, #1585a4, #1585a4);
+  padding: 20px;
+}
+.newsletter-bg input {
+  background: #fff;
+  color: #000;
+  padding: 6px 8px;
+  font-size: 14px;
+  border: medium none;
+  height: auto;
+  font-family: "RajdhaniMedium";
+}
+.newsletter-bg h4 {
+  font-size: 20px;
+  color: #000;
+  text-transform: uppercase;
+  font-family: "LexendBold";
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+.newsletter-bg p {
+  font-size: 17px;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 0.9);
+  font-family: "LexendRegular";
+  text-align: center;
+}
+.newsletter-bg .form-group {
+  margin-bottom: 8px;
+}
+.newsletter-bg input {
+  background: #fff;
+  color: #000;
+  padding: 6px 8px;
+  font-size: 14px;
+  border: medium none;
+  height: auto;
+  font-family: "LexendRegular";
+}
+.newsletter-bg button {
+  background: #000;
+  margin: 10px 0 0;
+  color: #fff;
+  font-family: "LexendMedium";
+  font-size: 16px;
+  width: 100%;
+}
+.newsletter-bg button:hover {
+  color: #1585a4;
+}
+.comment-list p.meta time {
+  font-family: "LexendRegular";
+  font-size: 18px;
+  color: #565353;
+}
