@@ -809,7 +809,8 @@ a:hover {
   background: url(../image/bg-5.jpg) center no-repeat;
   background-size: cover;
   overflow: hidden;
-  margin-top: 80px;
+  margin: 110px 0px !important;
+
 }
 .about-img-left {
   margin-right: 30px;

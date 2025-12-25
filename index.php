@@ -103,8 +103,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
 </section><!--/key-point-->
 
 <!--About-->
-<section class="container-fluid about-sec pt aos-all" id="transcroller-body"
-    style="padding-bottom:60px; margin-top:150px ;">
+<section class="container-fluid about-sec pt aos-all" id="transcroller-body">
     <div class="no-container width80">
         <div class="row">
             <div class="col-sm-5 col-md-12 col-lg-5 align-self-center">
@@ -275,7 +274,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
             </div>
             <div class="col-lg-5 col-md-12">
                 <div data-aos="zoom-out-left" data-aos-duration="1700" class="features-image">
-                    <img class="img-fluid" src="assets/image/about/features.png" alt="image" />
+                    <img class="img-fluid" src="assets/image/about/features1.png  " alt="image" />
                 </div>
             </div>
         </div>

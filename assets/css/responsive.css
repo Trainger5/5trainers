@@ -1,17 +1,15 @@
 /*  Smartphones (portrait and landscape) */
-@media only screen and (min-device-width: 300px) and (max-device-width: 370px) {
-  
-}
+
 @media only screen and (min-device-width: 300px) and (max-device-width: 480px) {
-    .logo {
-        width: 140px;
-    }
-    nav.fixed-header .logo {
-  width: 140px;
-}
-    .top-contact-bar{
-        display:none !important;
-    }
+  .logo {
+    width: 140px;
+  }
+  nav.fixed-header .logo {
+    width: 140px;
+  }
+  .top-contact-bar {
+    display: none !important;
+  }
   .top-nav {
     display: none;
   }
@@ -137,8 +135,8 @@
     margin: 5px 0;
   }
   #slide-show {
-    height: 85vh;
-    min-height: 85vh;
+    height: 75vh;
+    min-height: 75vh;
     top: 0px;
   }
   .bg1,
@@ -338,7 +336,7 @@
     padding: 20px;
   }
   .about-sec {
-    margin-top: 0;
+    margin-top: 0px !important;
   }
   .about-us-info-wrap .btn-wrapper {
     margin-top: 20px;
@@ -410,38 +408,40 @@
   .contact-box figure {
     text-align: left !important;
   }
-  .contform h3{
+  .contform h3 {
     font-size: 26px;
     line-height: 20px;
   }
-  .contform .mainp{
+  .contform .mainp {
     font-size: 15px;
-        margin: 0px 0 20px;
+    margin: 0px 0 20px;
   }
-  .consultExpert .contform{
+  .consultExpert .contform {
     padding: 25px;
   }
-  .consultExpert .contform .form-control, .consultExpert .contform .form-control option {
-   margin: 0px;}
-   .section-title{
+  .consultExpert .contform .form-control,
+  .consultExpert .contform .form-control option {
+    margin: 0px;
+  }
+  .section-title {
     font-size: 20px !important;
-   }
-   .breadcumb__title{
-    font-size: 27px ;
-   }
-   .breadcumb__list{
+  }
+  .breadcumb__title {
+    font-size: 27px;
+  }
+  .breadcumb__list {
     padding: 0px;
-   }
-   .learning-paths .tab-link{
-    font-size: 10px ;
-   }
-   .imageBoxImg{
+  }
+  .learning-paths .tab-link {
+    font-size: 10px;
+  }
+  .imageBoxImg {
     width: 70px;
     min-width: 70px;
-   }
-   .imgContContainer:not(:last-child)::before {
+  }
+  .imgContContainer:not(:last-child)::before {
     left: calc(70px / 2);
-}
+  }
   .contact-box {
     padding: 15px;
     margin-top: 15px;
@@ -639,42 +639,42 @@
   .courseModules .feature-card .unordered-list {
     white-space: normal;
   }
-   .digital-main{
+  .digital-main {
     margin-top: 110px !important;
   }
-  .seo-main{
+  .seo-main {
     margin-top: 50px !important;
   }
-  .google-ads-main{
+  .google-ads-main {
     margin-top: 50px !important;
   }
-  .meta-ads-main{
+  .meta-ads-main {
     margin-top: 50px !important;
   }
-  .smo-main{
+  .smo-main {
     margin-top: 50px !important;
   }
-  .full-stack-main{
+  .full-stack-main {
     margin-top: 50px !important;
   }
-  .data-science{
+  .data-science {
     margin-top: 50px !important;
   }
-  .data-analytics-main{
+  .data-analytics-main {
     margin-top: 50px !important;
   }
-  .getFreeConsultationButn{
-        margin: 40px 0px;
-        text-align: center;
+  .getFreeConsultationButn {
+    margin: 40px 0px;
+    text-align: center;
   }
 }
 @media only screen and (min-device-width: 480px) and (max-device-width: 576px) {
   .logo {
-        width: 140px;
-    }
-    nav.fixed-header .logo {
-  width: 140px;
-}
+    width: 140px;
+  }
+  nav.fixed-header .logo {
+    width: 140px;
+  }
   .top-contact-bar {
     display: none !important;
   }
@@ -684,41 +684,44 @@
   .slider-center {
     top: 18%;
   }
-      #slide-show {
-        height: 90vh !important;
-        min-height: 90vh !important;
-    }
-    .bg1, .bg2, .bg3, .bg4 {
-        height: 50vh !important;
-        top: 0px !important;
-    }
-    .work-item__arrow{
-      display: none;
-    }
-    .digital-main{
-      margin-top: 130px !important;
-    }
-    .seo-main{
-      margin-top: 50px !important;
-    }
-    .google-ads-main{
-      margin-top: 50px !important;
-    }
-    .meta-ads-main{
-      margin-top: 50px !important;
-    }
-    .smo-main{
-      margin-top: 50px !important;
-    }
-    .full-stack-main{
-      margin-top: 50px !important;
-    }
-    .data-analytics-main{
-      margin-top: 50px !important;
-    }
-    .data-science{
-      margin-top: 50px !important;
-    }
+  #slide-show {
+    height: 90vh !important;
+    min-height: 90vh !important;
+  }
+  .bg1,
+  .bg2,
+  .bg3,
+  .bg4 {
+    height: 50vh !important;
+    top: 0px !important;
+  }
+  .work-item__arrow {
+    display: none;
+  }
+  .digital-main {
+    margin-top: 130px !important;
+  }
+  .seo-main {
+    margin-top: 50px !important;
+  }
+  .google-ads-main {
+    margin-top: 50px !important;
+  }
+  .meta-ads-main {
+    margin-top: 50px !important;
+  }
+  .smo-main {
+    margin-top: 50px !important;
+  }
+  .full-stack-main {
+    margin-top: 50px !important;
+  }
+  .data-analytics-main {
+    margin-top: 50px !important;
+  }
+  .data-science {
+    margin-top: 50px !important;
+  }
 }
 /*  Smartphones (portrait and landscape) */
 @media only screen and (min-device-width: 481px) and (max-device-width: 767px) {
@@ -1817,7 +1820,7 @@
     height: auto;
     display: none !important;
   }
-  .intro-details{
+  .intro-details {
     margin-top: 80px;
   }
   .slide-text h2 {
@@ -3427,8 +3430,8 @@
   .kabslt {
     bottom: -115px;
   }
-  .slide-text h2{
-        line-height: 35px;
+  .slide-text h2 {
+    line-height: 35px;
   }
   .pt-130 {
     padding-top: 80px;
