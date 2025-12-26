@@ -19,6 +19,16 @@ body {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
   transition: transform 0.3s ease;
 }
+.floating-whatsapp{
+  position: absolute;
+    top: 15px;
+    left: 15px;
+}
+.floating-call{
+  position: absolute;
+    top: 15px;
+    left: 15px;
+}
 
 /* WhatsApp Icon */
 .whatsapp {

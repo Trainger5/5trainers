@@ -1,36 +1,67 @@
 <?php
+
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+
+require __DIR__ . '/PHPMailer/src/Exception.php';
+require __DIR__ . '/PHPMailer/src/PHPMailer.php';
+require __DIR__ . '/PHPMailer/src/SMTP.php';
+
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    $name = htmlspecialchars($_POST['name']);
+
+    // Sanitize inputs
+    $name  = htmlspecialchars($_POST['name']);
     $email = htmlspecialchars($_POST['email']);
     $phone = htmlspecialchars($_POST['phone_number']);
+    $course = isset($_POST['basic']) ? htmlspecialchars($_POST['basic']) : 'Not Selected';
 
-    $course = isset($_POST['basic']) ? $_POST['basic'] : 'Not Selected';
-
-    // Your email address
-    $to = "info@5trainers.com, 5trainers.official@gmail.com";
-
-    // Subject with course name
+    // Email subject
     $subject = "New Course Booking Enquiry - " . $course;
 
+    // Email body
     $message = "
-    <h2>New Course Booking Details</h2>
-    <p><strong>Name:</strong> $name</p>
-    <p><strong>Email:</strong> $email</p>
-    <p><strong>Phone Number:</strong> $phone</p>
-    <p><strong>Course:</strong> $course</p>
+        <h2>New Course Booking Details</h2>
+        <p><strong>Name:</strong> $name</p>
+        <p><strong>Email:</strong> $email</p>
+        <p><strong>Phone Number:</strong> $phone</p>
+        <p><strong>Course:</strong> $course</p>
     ";
 
-    // Email headers
-    $headers = "MIME-Version: 1.0" . "\r\n";
-    $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-    $headers .= "From: <noreply@yourdomain.com>" . "\r\n";
+    try {
+        $mail = new PHPMailer(true);
 
-    if (mail($to, $subject, $message, $headers)) {
-        // Redirect to thank you page
+        // SMTP Configuration (Hostinger)
+        $mail->isSMTP();
+        $mail->Host       = 'smtp.hostinger.com';
+        $mail->SMTPAuth   = true;
+        $mail->Username   = 'no-reply@5trainers.com';   // your email
+        $mail->Password   = 'Reset@101010!#';           // email password
+        $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
+        $mail->Port       = 465;
+
+        // Sender & Receiver
+        $mail->setFrom('no-reply@5trainers.com', '5Trainers');
+        $mail->addAddress('info@5trainers.com');
+        $mail->addAddress('5trainers.official@gmail.com');
+
+        // Reply-to user
+        if (!empty($email)) {
+            $mail->addReplyTo($email, $name);
+        }
+
+        // Email content
+        $mail->isHTML(true);
+        $mail->Subject = $subject;
+        $mail->Body    = $message;
+
+        $mail->send();
+
+        // Redirect after success
         header("Location: thanku-page.php");
         exit();
-    } else {
-        echo "Email sending failed.";
+
+    } catch (Exception $e) {
+        echo "Mail sending failed: " . $mail->ErrorInfo;
     }
 }
 ?>
