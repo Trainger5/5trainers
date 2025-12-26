@@ -20,6 +20,17 @@ body {
   transition: transform 0.3s ease;
 }
 
+.floating-whatsapp{
+  position: absolute;
+    top: 15px;
+    left: 15px;
+}
+.floating-call{
+  position: absolute;
+    top: 15px;
+    left: 15px;
+}
+
 /* WhatsApp Icon */
 .whatsapp {
   background-color: #25d366;

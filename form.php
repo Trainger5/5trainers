@@ -58,7 +58,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->Body    = $message;
 
         $mail->send();
-        echo 'Mail Sent Successfully!';
+       header("Location: thanku-page.php");
+        exit();
     } catch (Exception $e) {
         echo 'Mail Sending Failed! Error: ' . $mail->ErrorInfo;
     }
