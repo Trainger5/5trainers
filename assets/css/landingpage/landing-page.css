@@ -30,7 +30,7 @@ p {
   color: #fff;
   padding: 7px 20px;
   border-radius: 10px;
-  font-size: 18px;
+  font-size: 16px;
   font-family: "PoppinsMedium";
   letter-spacing: 0.03em;
   text-transform: capitalize;
@@ -302,7 +302,7 @@ p {
   cursor: pointer;
   font-family: "PoppinsMedium";
   letter-spacing: 0.03em;
-  font-size: 20px;
+  font-size: 16px;
 }
 
 .callbackButton .modal {
@@ -573,7 +573,7 @@ p.certip {
   background-color: #fff;
   transition: all 0.4s ease-in-out;
   text-align: center;
-  /* margin-top: 30px; */
+  margin-top: 30px;
   transition: all 0.4s ease-in-out;
 }
 .icon-box .icon {
@@ -670,13 +670,13 @@ p.certip {
   row-gap: 10px;
 }
 
-/* .faq .label:hover {
+.faq .label:hover {
   color: #0f79be;
-} */
+}
 .faq .label::before {
   content: "+";
   position: absolute;
-  right: 10px;
+  right: 0px;
   top: 50%;
   transform: translateY(-50%);
   font-size: 19px;
@@ -753,7 +753,6 @@ p.certip {
   padding: 20px;
   margin-bottom: 0px;
   width: 100%;
-  margin-top: 20px;
 }
 .haveQuestion .form-screen .form-group label {
   font-size: 16px;
@@ -795,7 +794,7 @@ p.certip {
 
 @media only screen and (min-device-width: 300px) and (max-device-width: 575px) {
       .slider-center {
-        top: 43% !important;
+        top: 40% !important;
     }
 }
 
@@ -847,10 +846,7 @@ p.certip {
   .slider-center {
     /* width: 100% !important; */
     left: 50% !important;
-    top: 50% !important;
-  }
-  .key-point{
-    bottom: 15px;
+    top: 30% !important;
   }
   .gotowebsite a {
     padding: 5px 5px;
@@ -1076,7 +1072,7 @@ p.certip {
   .slider-center {
     /* width: 100% !important; */
     left: 52% !important;
-    top: 65% !important;
+    top: 50% !important;
   }
   .gotowebsite a {
     padding: 10px 14px;
@@ -1227,14 +1223,14 @@ p.certip {
     height: 40px !important;
     line-height: 40px !important;
   }
-  /* .whatsapp {
+  .whatsapp {
     bottom: 120px !important;
     left: 10px !important;
   }
   .call {
     bottom: 60px !important;
     left: 10px !important;
-  } */
+  }
   .ftr-box p a {
     padding: 0;
     font-size: 14px;
@@ -1348,7 +1344,7 @@ p.certip {
   .slider-center {
     /* width: 100% !important; */
     left: 50% !important;
-    top: 25% !important;
+    top: 15% !important;
   }
   .gotowebsite a {
     padding: 10px 14px;
@@ -1402,13 +1398,10 @@ p.certip {
     margin-top: -25px;
     justify-content: flex-end;
   }
-  /* .sliderHeading {
+  .sliderHeading {
     margin-top: 25px;
-  } */
-  /*Slider*/
-  .slide-text h2{
-    line-height: 50px !important;
   }
+  /*Slider*/
   .setbg {
     padding: 50px 0;
   }
@@ -1419,13 +1412,7 @@ p.certip {
     font-size: 16px;
   }
   .slide-text h2 {
-    font-size: 30px !important;
-  }
-  .typo-pills{
-    font-size: 11px !important;
-  }
-  .hero-main{
-    width: 90% !important;
+    font-size: 34px !important;
   }
   .slide-text .coDetail {
     letter-spacing: 0.02em;

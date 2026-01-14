@@ -55,15 +55,14 @@ $canonical_url = "https://www.5trainers.com/professionals.php";
                 </div>
                 <!--/heading div-->
                 <div class="counselingButn">
-                    <div class="yellowBtn"><a href="contact.php" style="background-color:#ff8503">Get a Free Consultation</a>
+                    <div class="yellowBtn"><a href="#" style="background-color:#ff8503">Get a Free Consultation</a>
                     </div>
                 </div>
             </div>
             <!--/col-->
             <div class="col-lg-5">
                 <div class="counselingAbout">
-                    <!-- <img src="assets/image/slider/counseling-for-students.png" class="img-fluid" alt="Counseling"> -->
-                    <img src="assets/image/slider/counseling-for-student.png" class="img-fluid" alt="Counseling">
+                    <img src="assets/image/slider/counseling-for-students.png" class="img-fluid" alt="Counseling">
                 </div>
             </div>
             <!--/col-->
@@ -317,7 +316,7 @@ $canonical_url = "https://www.5trainers.com/professionals.php";
 
                         <div class="getFreeConsultationButn">
                             <div class="getFreeConsultation">
-                                <a href="contact.php">Get a Free Consultation</a>
+                                <a href="">Get a Free Consultation</a>
                             </div>
                         </div>
                     </div>
@@ -346,10 +345,10 @@ $canonical_url = "https://www.5trainers.com/professionals.php";
                     <!--/heading div-->
                     <div class="buttonBox">
                         <div class="assesssmentButn yellow">
-                            <a href="#" style="text-decoration: none;">View More</a>
+                            <a href="">View More</a>
                         </div>
                         <div class="assesssmentButn blue">
-                            <a href="#" style="text-decoration: none;">Take Our Assessment</a>
+                            <a href="">Take Our Assessment</a>
                         </div>
 
                     </div>
@@ -357,13 +356,13 @@ $canonical_url = "https://www.5trainers.com/professionals.php";
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="getFreeConsultation yellow">
-                                    <a href="#" style="text-decoration: none;">View More</a>
+                                    <a href="">View More</a>
                                 </div>
                             </div>
                             <!--/col-->
                             <div class="col-lg-6">
                                 <div class="getFreeConsultation blue">
-                                    <a href="#" style="text-decoration: none;">Take Our Assessment</a>
+                                    <a href="">Take Our Assessment</a>
                                 </div>
                             </div>
                             <!--/col-->
@@ -482,8 +481,7 @@ $canonical_url = "https://www.5trainers.com/professionals.php";
             </div>
             <!--/col-->
             <div class="col-lg-5">
-                <!-- <div class="faqImage"><img src="assets/image/other/faq.svg" class="img-fluid" alt=""></div> -->
-                  <div class="faqImage"><img src="assets/image/other/faq.png" class="img-fluid" alt="faq-img"></div>
+                <div class="faqImage"><img src="assets/image/other/faq.svg" class="img-fluid" alt=""></div>
             </div>
         </div>
     </div>

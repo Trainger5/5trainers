@@ -1,9 +1,9 @@
 #slide-show {
-  height: 90vh;
-  min-height: 90vh;
+  height: 85vh;
+  min-height: 85vh;
   overflow: hidden;
   width: 100%;
-  /* top: 90px; */
+  top: 90px;
   position: relative;
   /* background: #F9F7F7; */
   background: #0f79be;
@@ -38,7 +38,7 @@
   text-align: center;
   display: flex;
   flex-direction: column;
-  /* justify-content: center; */
+  justify-content: center;
   align-items: flex-start;
 }
 .slide-text b {
@@ -182,7 +182,7 @@ a.contb:hover {
   /* height: 15%; */
   width: 80%;
   left: 50%;
-  top: 60%;
+  top: 49%;
   background-color: transparent;
   transform: translate(-50%, -50%);
   -webkit-transform: translate(-50%, -50%);
