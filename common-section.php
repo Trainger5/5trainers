@@ -114,55 +114,63 @@
                 <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
                     <div class="iconbox"><img src="assets/image/landing-page/HTML-logo.webp" alt="" class="img-fluid">
                     </div>
-                    <h3>Search Engine & SEO</h3>
+                    <!-- <h3>Search Engine & SEO</h3> -->
+                    <h3>Html</h3>
                 </div><!--/skillbox-->
             </div><!--/col-->
             <div class="col-6 col-md-3 col-lg-3">
                 <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
                     <div class="iconbox"><img src="assets/image/landing-page/CSS-logo.webp" alt="" class="img-fluid">
                     </div>
-                    <h3>Analytics & Reporting</h3>
+                    <!-- <h3>Analytics & Reporting</h3> -->
+                    <h3>Css</h3>
                 </div><!--/skillbox-->
             </div><!--/col-->
             <div class="col-6 col-md-3 col-lg-3">
                 <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
                     <div class="iconbox"><img src="assets/image/landing-page/Javascript logo.webp" alt=""
                             class="img-fluid"></div>
-                    <h3>Social Media Marketing</h3>
+                    <!-- <h3>Social Media Marketing</h3> -->
+                    <h3>Javascript</h3>
                 </div><!--/skillbox-->
             </div><!--/col-->
             <div class="col-6 col-md-3 col-lg-3">
                 <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
                     <div class="iconbox"><img src="assets/image/landing-page/MERN logo.webp" alt="" class="img-fluid">
                     </div>
-                    <h3>Email Marketing</h3>
+                    <!-- <h3>Email Marketing</h3> -->
+                    <h3>Mern</h3>
                 </div><!--/skillbox-->
             </div><!--/col-->
             <div class="col-6 col-md-3 col-lg-3">
                 <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
                     <div class="iconbox"><img src="assets/image/landing-page/vs code-01.png" alt="" class="img-fluid">
                     </div>
-                    <h3>Design & Creative</h3>
+                    <!-- <h3>Design & Creative</h3> -->
+                    <h3>Vs Code</h3>
                 </div><!--/skillbox-->
             </div><!--/col-->
             <div class="col-6 col-md-3 col-lg-3">
                 <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
                     <div class="iconbox"><img src="assets/image/landing-page/Github-22.webp" alt="" class="img-fluid">
                     </div>
-                    <h3>Website & Landing Page</h3>
+                    <!-- <h3>Website & Landing Page</h3> -->
+                    <h3>Github</h3>
                 </div><!--/skillbox-->
             </div><!--/col-->
             <div class="col-6 col-md-3 col-lg-3">
                 <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
                     <div class="iconbox"><img src="assets/image/landing-page/Codepen-06.webp" alt="" class="img-fluid">
                     </div>
-                    <h3>Ad & Campaign Management</h3>
+                    <!-- <h3>Ad & Campaign Management</h3> -->
+                    <h3>Codepen</h3>
                 </div><!--/skillbox-->
             </div><!--/col-->
             <div class="col-6 col-md-3 col-lg-3">
                 <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
                     <div class="iconbox"><img src="assets/image/landing-page/figma.webp" alt="" class="img-fluid"></div>
-                    <h3>E-commerce & Automation</h3>
+                    <!-- <h3>E-commerce & Automation</h3> -->
+                    <h3>Figma</h3>
                 </div><!--/skillbox-->
             </div><!--/col-->
         </div><!--/row-->

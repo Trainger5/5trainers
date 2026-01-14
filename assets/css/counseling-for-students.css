@@ -145,7 +145,7 @@
   letter-spacing: 0em;
   text-align: left;
   margin: 0 0 20px;
-  padding: 0 0 0 25px;
+  /* padding: 0 0 0 25px; */
   text-transform: capitalize;
 }
 .learning-paths .content-wrapper li::before {
@@ -160,6 +160,7 @@
 .dataScience .serviceContent li a {
   background: #e7f4f8;
   padding: 0 0 0 15px;
+  text-decoration: none;
 }
 .dataScience .serviceContent li {
   padding: 12px 16px !important;
@@ -503,7 +504,7 @@ p {
 }
 
 .our-student-Into .logo {
-  max-height: 48px;
+  max-height: 100px;
   width: 100%;
   object-fit: contain;
   filter: grayscale(100%);
@@ -549,7 +550,7 @@ p {
   letter-spacing: 0.02em;
   text-align: left;
   margin: 0 0 10px;
-  padding: 0 0 0 22px;
+  /* padding: 0 0 0 22px; */
   color: #043146;
   text-transform: capitalize;
 }

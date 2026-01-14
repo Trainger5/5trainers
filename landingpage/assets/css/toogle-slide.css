@@ -90,7 +90,7 @@ p.ftrAuthorise {
 }
 
 .slide-text h2 {
-        font-size: 57px;
+        font-size: 45px;
     }
 
     .review-card {
@@ -113,6 +113,7 @@ p.ftrAuthorise {
     }
 
     .slider {
-        background-color: #1685a4;
+        /* background-color: #1685a4; */
+        background-color: #0f79bf;
         padding: 200px 0px;
     }
