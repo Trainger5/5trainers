@@ -11,9 +11,9 @@ $canonical_url = "https://www.5trainers.com/index.php";
             <div class="slider-center row">
                 <div class="col-sm-6 col-md-6 col-lg-7 slide-text">
                     <h2>Knowledge is power, and digital knowledge is game-changing power.</h2>
-                    <p class="mt-5">Guiding you towards success, every step of the way</p>
+                    <p>Guiding you towards success, every step of the way</p>
 
-                    <div class="two-btns text-center  mt-5">
+                    <div class="two-btns text-center ">
                         <a class="getst btn" href="javascript:void(0)">Get a Free Consultation</a>
                     </div>
                 </div>
@@ -167,7 +167,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                                         alt="Digital Marketing Course"></a>
                                 <h3><a href="digitalmarketingcourse.php" target="_blank">Digital Marketing
                                         Course</a></h3>
-                                <p class="text-center">Master complete digital marketing skill set</p>
+                                <p>Master complete digital marketing skill set</p>
                             </div>
                         </div>
                     </div><!--/col-->
@@ -177,7 +177,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                                 <a href="seo-one-month.php" target="_blank"><img src="assets/image/icon/seo.png"
                                         alt="SEO"></a>
                                 <h3><a href="seo-one-month.php" target="_blank">SEO Course</a></h3>
-                                <p class="text-center">Rank websites higher on search engines</p>
+                                <p>Rank websites higher on search engines</p>
                             </div>
 
                         </div>
@@ -188,7 +188,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                             <div class="member-content">
                                 <img src="assets/image/icon/SocialMediaManager.png" alt="Social Media Optimizatio">
                                 <h3><a href="smo-one-month.php" target="_blank">SMO Course</a></h3>
-                                <p class="text-center">Boost Your Brand Visibility with SMO</p>
+                                <p>Boost Your Brand Visibility with SMO</p>
                             </div>
                         </div>
                     </div><!--/col-->
@@ -198,7 +198,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                                 <a href="google-ads-30days.php" target="_blank">+<img
                                         src="assets/image/icon/ContentStrategist.png" alt="Google Ads"></a>
                                 <h3><a href="google-ads-30days.php" target="_blank">Google Ads Course</a></h3>
-                                <p class="text-center">Run profitable campaigns using Google Ads</p>
+                                <p>Run profitable campaigns using Google Ads</p>
                             </div>
                         </div>
                     </div><!--/col-->
@@ -208,7 +208,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                                 <a href="meta-ads-30days.php" target="_blank"><img
                                         src="assets/image/icon/AIMarketingExpert.png" alt="Meta Ads"></a>
                                 <h3><a href="meta-ads-30days.php" target="_blank">Meta Ads Course</a></h3>
-                                <p class="text-center">Beginner to Pro: Learn Meta Ads the Smart Way.</p>
+                                <p>Beginner to Pro: Learn Meta Ads the Smart Way.</p>
                             </div>
                         </div>
                     </div><!--/col-->
@@ -219,7 +219,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                                         src="assets/image/icon/seo.png" alt="Iocn"></a>
                                 <h3><a href="data-science-professional-training-6-months.php" target="_blank">Data
                                         Science Course</a></h3>
-                                <p class="text-center">Shape the Future with the Power of Data Science.</p>
+                                <p>Shape the Future with the Power of Data Science.</p>
                             </div>
                         </div>
                     </div><!--/col-->
@@ -299,45 +299,45 @@ $canonical_url = "https://www.5trainers.com/index.php";
     </div>
 </section>
 <section class="container-fluid whyChooseUsContent">
-    <div class="no-container width80">
+    <div class="container">
         <div class="row">
             <div class="col-lg-4 col-md-6">
                 <div data-aos="fade-up" data-aos-duration="800"
                     class="aos-init aos-animate chooseContentBox cyangreenbg">
                     <h5>Expertise</h5>
-                    <p class="text-center">Trainers with years of proven industry experience</p>
+                    <p>Trainers with years of proven industry experience</p>
                 </div>
             </div><!--/col-->
             <div class="col-lg-4 col-md-6">
                 <div data-aos="fade-up" data-aos-duration="1000" class="aos-init aos-animate chooseContentBox whitebg">
                     <h5>Practical Approach </h5>
-                    <p class="text-center">Hands-on learning with live projects</p>
+                    <p>Hands-on learning with live projects</p>
                 </div>
             </div><!--/col-->
             <div class="col-lg-4 col-md-6">
                 <div data-aos="fade-up" data-aos-duration="1200"
                     class="aos-init aos-animate chooseContentBox cyangreenbg">
                     <h5>Flexibility</h5>
-                    <p class="text-center">Weekday & weekend classes to fit your schedule</p>
+                    <p>Weekday & weekend classes to fit your schedule</p>
                 </div>
             </div><!--/col-->
             <div class="col-lg-4 col-md-6">
                 <div data-aos="fade-up" data-aos-duration="1400" class="aos-init aos-animate chooseContentBox whitebg">
                     <h5>Placement Assistance</h5>
-                    <p class="text-center">Helping students connect with top recruiters.</p>
+                    <p>Helping students connect with top recruiters.</p>
                 </div>
             </div><!--/col-->
             <div class="col-lg-4 col-md-6">
                 <div data-aos="fade-up" data-aos-duration="1600"
                     class="aos-init aos-animate chooseContentBox cyangreenbg">
                     <h5>Affordable Learning</h5>
-                    <p class="text-center">Quality training at competitive prices</p>
+                    <p>Quality training at competitive prices</p>
                 </div>
             </div><!--/col-->
             <div class="col-lg-4 col-md-6">
                 <div data-aos="fade-up" data-aos-duration="1800" class="aos-init aos-animate chooseContentBox whitebg">
                     <h5>Experienced counselors</h5>
-                    <p class="text-center">Learn tools like Google Analytics, SEMrush, Canva, Ahrefs, and more.</p>
+                    <p>Learn tools like Google Analytics, SEMrush, Canva, Ahrefs, and more.</p>
                 </div>
             </div><!--/col-->
         </div><!--/row-->
@@ -872,7 +872,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
 </section><!--/Create a Form Consult with Expert -->
 
 <section class="container-fluid pt pb blogsec">
-    <div class="no-container width80">
+    <div class="container">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area centerhding">
@@ -982,7 +982,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
         </div>
         <!--/row-->
         <div class="row viewblog">
-            <a href="blog/"><img src="assets/image/icon/view_more-blog.png" alt="Image" title="View More Blog"></a>
+            <a href="blog.php"><img src="assets/image/icon/view_more-blog.png" alt="Image" title="View More Blog"></a>
         </div>
         <!--/row-->
     </div>
@@ -1003,7 +1003,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                 </div>
                 <!--heading-->
                 <!-- <div class="faqimg"><img src="assets/image/services/faq-bg.png" alt="" class="img-fluid"></div> -->
-                <div class="faqimg mt-5"><img src="assets/image/services/Q-A.png" alt="" class="img-fluid"></div>
+                <div class="faqimg"><img src="assets/image/services/Q-A.png" alt="" class="img-fluid"></div>
             </div>
             <div class="col-sm-7 col-lg-6">
                 <div class="accordion rpt mt-80">

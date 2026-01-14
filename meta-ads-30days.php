@@ -14,7 +14,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
 <!--Slider-->
 <section id="slide-show" class="setbg landignsetbg">
     <div class="custom-container width80">
-        <div class="hero-main">
+        <div class="">
             <div class="row">
                 <div class="col-lg-7 meta-ads-main">
                     <div class="intro-details">
@@ -114,7 +114,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
             <div class="col-lg-12">
                 <div class="buildText">
                     <h2>You Are One Step Closer To Building A Thriving Career As <span>Meta Ads Expert</span></h2>
-                    <a href="contact.php">Register Now</a>
+                    <?php include('landingpage/registernow-popup.php'); ?>
                 </div>
             </div><!--col-->
         </div><!--/row-->
@@ -152,15 +152,14 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                         student career guidance</li>
                     </ul>
                 </div>
-                <!-- <div class="counselingButn">
+                <div class="counselingButn">
                     <div class="yellowBtn"><a href="#">Get a Free Consultation</a></div>
-                </div> -->
+                </div>
             </div>
             <!--/col-->
             <div class="col-lg-5">
                 <div class="counselingAbout">
-                    <!-- <img src="assets/image/slider/counseling-for-students.png" class="img-fluid" alt="Counseling"> -->
-                    <img src="assets/image/slider/counseling-for-student.png" class="img-fluid" alt="Counseling">
+                    <img src="assets/image/slider/counseling-for-students.png" class="img-fluid" alt="Counseling">
                 </div>
             </div>
             <!--/col-->

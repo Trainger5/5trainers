@@ -111,7 +111,7 @@
     right: 0;
   }
   .width80 {
-    width: 96%;
+    width: 100%;
     padding: 5px;
   }
   .whyChooseUs .section-title-area {
@@ -125,30 +125,18 @@
     display: none;
   }
   .slide-text h2 {
-    font-size: 20px !important;
+    font-size: 24px !important;
     line-height: 25px;
     margin: 0 0 5px 0;
-  }
-  .typo-pills{
-    font-size: 11px !important;
-  }
-  .hero-main{
-    top: 7% !important;
-    width: 86% !important;
-  }
-  .breadcumb{
-    padding: 133px 0px 120px 0px !important;
-    height: 290px !important;
-
   }
   .slide-text p {
     font-size: 14px;
     line-height: 18px;
-    margin-top: 10px !important;
+    margin: 5px 0;
   }
   #slide-show {
-    height: 80vh !important;
-    min-height: 80vh !important;
+    height: 75vh;
+    min-height: 75vh;
     top: 0px;
   }
   .bg1,
@@ -161,7 +149,7 @@
   .slider-center {
     /* width: 100%; */
     left: 55%;
-    top: 48% !important;
+    top: 22%;
   }
   .slideshow-nav a span img {
     width: 20px;
@@ -293,7 +281,7 @@
     opacity: 0;
   }
   .breadcumb {
-    margin-top: -30px !important;
+    margin-top: 50px !important;
   }
   .about-img-left {
     margin-right: 0px;
@@ -358,7 +346,7 @@
     overflow: hidden;
   }
   .comm-margin {
-    margin-top: 300px;
+    margin-top: 395px;
   }
   .aboutrowhding {
     padding-bottom: 30px;
@@ -652,7 +640,7 @@
     white-space: normal;
   }
   .digital-main {
-    /* margin-top: 110px !important; */
+    margin-top: 110px !important;
   }
   .seo-main {
     margin-top: 50px !important;
@@ -700,16 +688,14 @@
     top: 18%;
   }
   #slide-show {
-    height: 100vh !important;
-    min-height: 100vh !important;
+    height: 90vh !important;
+    min-height: 90vh !important;
   }
   .bg1,
   .bg2,
   .bg3,
   .bg4 {
-    /* height: 60vh !important; */
-            min-height: 100vh !important;
-        height: 100vh !important;
+    height: 50vh !important;
     top: 0px !important;
   }
   .work-item__arrow {
@@ -768,10 +754,10 @@
   .slider-center {
     top: 10%;
   }
-  /* #slide-show {
+  #slide-show {
     height: 80vh;
     min-height: 80vh;
-  } */
+  }
   .aboutsec .shape01 img,
   .aboutsec .shape02 img {
     width: 55%;
@@ -833,11 +819,8 @@
   .bg2,
   .bg3,
   .bg4 {
-    /* height: 50vh; */
-    /* top: 115px; */
-  }
-  nav{
-    top: 25px;
+    height: 50vh;
+    top: 115px;
   }
   /* #slide-show {height: 100vh;min-height:100vh;top: 0px;} */
   .kabslt {
@@ -1413,10 +1396,7 @@
   .bg4 {
     height: 80vh;
     min-height: 80vh;
-    /* top: 102px; */
-  }
-  nav{
-    top: 25px;
+    top: 102px;
   }
   .slider-center {
     left: 55%;
@@ -1444,15 +1424,12 @@
     top: 90px;
   }
   #slide-show {
-    height: 80vh;
-    min-height: 80vh;
+    height: 90vh;
+    min-height: 90vh;
     width: 100%;
   }
   .kabslt {
     bottom: -40px;
-  }
-  .key-point {
-    bottom: 15px;
   }
   .kabslt .carte h4 {
     font-size: 14px !important;
@@ -1804,7 +1781,7 @@
     margin: 0 auto;
   }
   .comm-margin {
-    margin-top: 420px;
+    margin-top: 330px;
   }
   .kabslt .carte h4 {
     font-size: 17px;
@@ -1847,10 +1824,7 @@
     display: none !important;
   }
   .intro-details {
-    margin-top: 0px;
-  }
-  .slide-text h2{
-    line-height: 50px !important;
+    margin-top: 80px;
   }
   .slide-text h2 {
     font-size: 21px;
@@ -2239,10 +2213,7 @@
   .bg2,
   .bg3,
   .bg4 {
-    /* top: 115px; */
-  }
-  nav {
-    top: 25px;
+    top: 115px;
   }
   .slide-text h2 {
     font-size: 32px;
@@ -2294,10 +2265,6 @@
   .services-item .content {
     padding: 15px;
     margin: 35px 0 0;
-  }
-  #slide-show{
-        height: 100vh;
-    min-height: 100vh;
   }
   .services-item .content .read-btn {
     padding: 10px 15px;
@@ -2354,7 +2321,7 @@
     padding-top: 0px;
   }
   .breadcumb {
-    /* margin-top: 80px; */
+    margin-top: 80px;
   }
   .abtinfo p.highlight-p {
     margin-bottom: 0 !important;
@@ -2717,9 +2684,6 @@
   .about-leftimg {
     width: auto;
     height: auto;
-  }
-  .key-point{
-    bottom: 5px;
   }
 }
 /*  @media only screen and (min-device-width : 1025px) and (max-device-width : 1099px) */
@@ -3385,9 +3349,6 @@
   .slide-text h2 {
     font-size: 35px;
   }
-  .key-point{
-    bottom: 5px;
-  }
   .mtb-40 {
     margin: 20px 0;
   }
@@ -3469,12 +3430,6 @@
   .pt {
     padding-top: 40px;
   }
-  .nav-links li a {
-    margin: 0px 0px 0px 15px;
-  }
-  .slide-text h2{
-    line-height: 40px !important;
-  }
   .kabslt {
     bottom: -115px;
   }
@@ -3532,14 +3487,7 @@
   .bg2,
   .bg3,
   .bg4 {
-    /* top: 130px; */
-  }
-  #slide-show{
-    height: 100vh;
-    min-height: 100vh;
-  }
-  .yellowBtn{
-    margin-bottom: 50px;
+    top: 130px;
   }
   .topbar-right ul li a {
     font-size: 15px;
@@ -3625,8 +3573,8 @@
     line-height: 28px;
   }
   .contform {
-    width: 95%;
-    /* margin: 0px auto 0; */
+    width: 80%;
+    margin: 50px auto 0;
   }
   .contform .submitbtn {
     font-size: 16px;
@@ -3693,8 +3641,7 @@
   }
   .slider-center {
     left: 55%;
-    /* top: 35%; */
-    top: 50%;
+    top: 35%;
   }
   .slideshow-nav a span img {
     width: 20px;
@@ -3718,7 +3665,7 @@
   .bg2,
   .bg3,
   .bg4 {
-    top: 0px !important;
+    top: 47px !important;
   }
   .slide-text h6 {
     font-size: 18px;
@@ -3832,7 +3779,7 @@
     padding-top: 0px;
   }
   .breadcumb {
-    margin-top: 0px;
+    margin-top: 90px;
   }
   .abtinfo p.highlight-p {
     margin-bottom: 0 !important;
@@ -4125,19 +4072,7 @@
     font-size: 25px;
   }
   .mtb-40 {
-    margin: 10px 0 !important;
-  }
-  .typo-pills{
-  font-size: 12px !important;
-  }
-  .slider-hding h2 {
-   font-size: 18px !important;
-  }
-  .course-metrics {
-   gap: 5px !important;
-  }
-  .intro-details{
-        justify-content: none !important;
+    margin: 20px 0;
   }
 
   /*Digital Marketing Course*/
@@ -4215,17 +4150,6 @@
   .logo {
     width: 180px;
   }
-  #slide-show{
-        height: 100vh;
-    min-height: 100vh;
-  }
-  .mtb-40{
-        margin: 10px 0 !important;
-  }
-  .slide-text h2 {
-    font-size: 35px !important;
-  }
-
   .nav-links li a {
     font-size: 16px;
     margin: 0 0 0 30px;

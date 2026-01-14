@@ -12,8 +12,8 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
 <!--Slider-->
 <section id="slide-show" class="setbg landignsetbg">
     <div class="custom-container width80">
-        <div>
-            <div class="hero-main row">
+        <div class="">
+            <div class="row">
                 <div class="col-lg-7 seo-main">
                     <div class="intro-details">
                         <div class="slide-text">
@@ -111,7 +111,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
             <div class="col-lg-12">
                 <div class="buildText">
                     <h2>You Are One Step Closer To Building A Thriving Career As <span>SEO Expert!</span></h2>
-                    <a href="contact.php">Register Now</a>
+                    <a href="">Register Now</a>
                 </div>
             </div><!--col-->
         </div><!--/row-->

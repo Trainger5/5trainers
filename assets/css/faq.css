@@ -29,11 +29,6 @@
   color: #fff;
   padding: 20px 15px;
 }
-.box.active:hover{
-    background: #0f79be;
-
-  color: #fff;
-}
 .faq .label {
   font-size: 18px;
   font-family: "LexendMedium";
@@ -91,6 +86,6 @@
   content: "-";
 }
 .faq .box {
-  /* margin: 0 0 15px; */
+  margin: 0 0 15px;
 }
 /*End FAQ*/

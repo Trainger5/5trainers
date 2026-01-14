@@ -11,6 +11,11 @@ $meta_description = "Learn SEO, Google Ads, Meta Ads & Social Media Marketing wi
 $canonical_url = "https://www.5trainers.com/digitalmarketingcourse.php";
 ?>
 <?php include('header.php'); ?>
+<!-- <link href="landingpage/assets/css/landing-page.css" rel="stylesheet">
+<link href="landingpage/assets/css/slider-landing.css" rel="stylesheet">
+<link href="landingpage/assets/css/toggle-slide.css" rel="stylesheet">
+<link href="landingpage/assets/css/shorttermcourse.css" rel="stylesheet"> -->
+<!-- <link href="./assets/css/floating-icons.css" type="text/css" rel="stylesheet" /> -->
 
 <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
 <link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
@@ -21,8 +26,8 @@ $canonical_url = "https://www.5trainers.com/digitalmarketingcourse.php";
 
 <section id="slide-show" class="setbg">
     <div class="custom-container width80">
-        <div>
-            <div class="hero-main row">
+        <div class="">
+            <div class="row">
                 <div class="col-lg-7 digital-main">
                     <div class="intro-details">
                         <div class="slide-text">
@@ -209,7 +214,7 @@ $canonical_url = "https://www.5trainers.com/digitalmarketingcourse.php";
                     <h2 data-aos="fade-up" data-aos-delay="100" class="aos-init aos-animate">Why Get <span>Digital
                             Marketing Course</span> Certification From 5Trainers?</h2>
                 </div>
-                <div class="registerstack"><a href="contact.php" class="theme-btn mt-30 aos-init aos-animate" data-aos="fade-up"
+                <div class="registerstack"><a href="#" class="theme-btn mt-30 aos-init aos-animate" data-aos="fade-up"
                         data-aos-delay="200">Register Now<span><img src="assets/image/icon/reply_arrow.png"
                                 alt=""></span></a></div>
             </div>
@@ -371,68 +376,6 @@ $canonical_url = "https://www.5trainers.com/digitalmarketingcourse.php";
 
 <?php include('common-section.php'); ?>
 <?php include('placement-certificate-havequestion.php'); ?>
-
-<section class="our-location py-5">
-  <div class="no-container width80">
-    <h2 class="text-center mb-4 fw-bold">Our Location</h2>
-
-    <div class="row g-4">
-      <!-- Box -->
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-ropar.php" class="location-box"> Digital Marketing Course In Ropar <span> ›</span></a>
-      </div>
-
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-airport-road-chandigarh.php" class="location-box">Digital Marketing Course In Airport Road Chandigarh ›</a>
-      </div>
-
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-ambala.php" class="location-box"> Digital Marketing Course In Ambala<span>›</span></a>
-      </div>
-
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-faridabad.php" class="location-box">Digital Marketing Course In Faridabad <span>›</span></a>
-      </div>
-
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-ghaziabad.php" class="location-box">Digital Marketing Course In Ghaziabad <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-gurgaon.php" class="location-box">Digital Marketing Course In Gurgaon <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-kharar.php" class="location-box">Digital Marketing Course In Kharar <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-noida.php" class="location-box">Digital Marketing Course In Noida <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-panchkula.php" class="location-box">Digital Marketing Course In Panchkula <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-zirakpur.php" class="location-box">Digital Marketing Course In Zirakpur <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="Digital-Marketing-Training-in-Chandigarh.php" class="location-box">Digital Marketing Training In Chandigarh <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-training-in-delhi.php" class="location-box">Digital Marketing Training In Delhi <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="Digital-Marketing-Training-in-HimachalPradesh.php" class="location-box">Digital Marketing Training In Himachal Pradesh <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="Digital-Marketing-Training-in-Mohali.php" class="location-box">Digital Marketing Training In Mohali <span>›</span></a>
-      </div>
-      
-
-
-      <!-- copy more boxes as needed -->
-    </div>
-  </div>
-</section>
-
-
 
 <section id="faqSec" class="container-fluid pt pb faq">
     <div class="custom-container width80">

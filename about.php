@@ -1,11 +1,9 @@
+
 <?php
 $meta_title = "About 5Trainers – Leading IT & Digital Marketing Institute in Mohali";
 $meta_description = "5Trainers is a Mohali-based institute offering Digital Marketing, SEO, Data Science, Cyber Security & Full Stack Development courses with expert trainers.";
-$canonical_url = "https://5trainers.com/about-us.php"; ?>
+$canonical_url = "https://5trainers.com/about-us.php";?>
 <?php include('header.php'); ?>
-<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
-
 
 
 
@@ -53,7 +51,7 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 						Where Ambition Meets Digital Excellence</p>
 				</div>
 				<div class="aboutInfo mt-20">
-					<p data-aos="fade-up" data-aos-duration="1100" class="aos-init aos-animate">Welcome to 5Trainers, a
+					<p data-aos="fade-up" data-aos-duration="1100" class="aos-init aos-animate">Welcome to 5 trainers, a
 						leading digital marketing institute in Mohali, dedicated to shaping the future of tomorrow’s
 						marketers. We offer industry-recognized courses in SEO, Google Ads, Meta Ads, Data Science, Full
 						Stack Development, and more—designed to equip you with the skills the digital world demands.</p>
@@ -62,7 +60,7 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 						looking to grow your business, our expert trainers guide you every step of the way. With
 						practical learning, live projects, and globally relevant certifications, we help you transform
 						your passion into a successful digital career.</p>
-					<p data-aos="fade-up" data-aos-duration="1500" class="aos-init aos-animate">At 5trainers, we don’t
+					<p data-aos="fade-up" data-aos-duration="1500" class="aos-init aos-animate">At 5 trainers, we don’t
 						just teach digital marketing—we prepare you to lead the digital future.</p>
 				</div>
 
@@ -74,8 +72,7 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 									<div class="successtop">
 										<span><img src="assets/image/icon/learn.png" alt="learn"></span>
 										<h6>Learn</h6>
-										<p class="text-center">Gain in-demand digital marketing skills from expert
-											trainers</p>
+										<p>Gain in-demand digital marketing skills from expert trainers</p>
 										<div class="borderright"></div>
 									</div>
 								</div>
@@ -84,7 +81,7 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 									<div class="successbottom"><span><img src="assets/image/icon/apply.png"
 												alt="apply"></span>
 										<h6>Apply</h6>
-										<p class="text-center">Work on live projects and real-world campaigns</p>
+										<p>Work on live projects and real-world campaigns</p>
 										<div class="borderright"></div>
 									</div>
 								</div>
@@ -93,7 +90,7 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 									<div class="successbottom"><span><img src="assets/image/icon/grow.png"
 												alt="Grow"></span>
 										<h6>Grow</h6>
-										<p class="text-center">Build confidence with hands-on experience</p>
+										<p>Build confidence with hands-on experience</p>
 										<div class="borderright"></div>
 									</div>
 								</div>
@@ -102,8 +99,7 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 									<div class="successbottom bordernone"><span><img src="assets/image/icon/succeed.png"
 												alt="succeed"></span>
 										<h6>Succeed</h6>
-										<p class="text-center">Launch your career with industry-recognized
-											certifications</p>
+										<p>Launch your career with industry-recognized certifications</p>
 									</div>
 								</div>
 							</div>
@@ -122,7 +118,7 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 						</div>
 						<h3>Who we are</h3>
 						<!--<p class="p">Welcome to 5 trainers, a leading digital marketing institute in Mohali, dedicated to shaping the future of tomorrow’s marketers.</p>-->
-						<p class="p">5Trainers is a trusted digital marketing institute in Mohali, offering practical
+						<p class="p">5 Trainers is a trusted digital marketing institute in Mohali, offering practical
 							training and real project experience to help learners build industry-ready skills.</p>
 					</div>
 				</div>
@@ -308,8 +304,7 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 					</div>
 					<h5 class="work-item__title">Learn From Certified Industry Experts</h5>
 					<div class="d-flex justify-content-center">
-						<p class="work-item__desc text">Our trainers aren’t just instructors, they’re active
-							practitioners.
+						<p class="work-item__desc">Our trainers aren’t just instructors, they’re active practitioners.
 						</p>
 					</div>
 					<details>
@@ -416,7 +411,7 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 	</div>
 </section><!--/how to work-->
 
-<!-- <section class="continer-fluid pt pb our-team">
+<section class="continer-fluid pt pb our-team">
 	<div class="no-container width80">
 		<div class="row">
 			<div class="col-lg-12">
@@ -425,9 +420,9 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 					<p data-aos="fade-up" data-aos-duration="1700" class="aos-init aos-animate">At 5Trainers, we offer
 						practical, job-ready digital marketing courses designed to empower beginners and professionals
 						alike.</p>
-				</div>
+				</div><!--/heading-->
 			</div>
-		</div>
+		</div><!--/heading row-->
 		<div class="row mt-80">
 			<div class="col-lg-3 col-sm-6">
 				<div class="team-item">
@@ -436,19 +431,19 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 							<img src="assets/image/team/team-1.jpg" alt="team" class="img-fluid">
 							<div class="overlay">
 								<div class="icon">
-									
-									<a href="#"><i class="fa-brands fa-linkedin" style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
-									<a href="#"><i class="fa-solid fa-envelope" style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
+									<a href="#" target="blank"><img src="assets/image/icon/team_f.png" alt=""></a>
+									<a href="#" target="blank"><img src="assets/image/icon/team_tw.png" alt=""></a>
+									<a href="#" target="blank"><img src="assets/image/icon/team-YT.png" alt=""></a>
 								</div>
 							</div>
 						</div>
 						<div class="team-text">
 							<h4>Poonam</h4>
-							<p class="text-center">Counselor</p>
+							<p>Counselor</p>
 						</div>
 					</div>
 				</div>
-			</div>
+			</div><!--col-->
 			<div class="col-lg-3 col-sm-6">
 				<div class="team-item">
 					<div class="team-inner">
@@ -456,19 +451,19 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 							<img src="assets/image/team/team-2.jpg" alt="team" class="img-fluid">
 							<div class="overlay">
 								<div class="icon">
-									
-									<a href="#"><i class="fa-brands fa-linkedin" style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
-									<a href="#"><i class="fa-solid fa-envelope" style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
+									<a href="#" target="blank"><img src="assets/image/icon/team_f.png" alt=""></a>
+									<a href="#" target="blank"><img src="assets/image/icon/team_tw.png" alt=""></a>
+									<a href="#" target="blank"><img src="assets/image/icon/team-YT.png" alt=""></a>
 								</div>
 							</div>
 						</div>
 						<div class="team-text">
 							<h4>Rajni</h4>
-							<p class="text-center">Receptionist</p>
+							<p>Receptionist</p>
 						</div>
 					</div>
 				</div>
-			</div>
+			</div><!--col-->
 			<div class="col-lg-3 col-sm-6">
 				<div class="team-item">
 					<div class="team-inner">
@@ -476,20 +471,19 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 							<img src="assets/image/team/team-1.png" alt="team" class="img-fluid">
 							<div class="overlay">
 								<div class="icon">
-									
-									<a href="#"><i class="fa-brands fa-linkedin" style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
-									<a href="#"><i class="fa-solid fa-envelope" style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
-									
+									<a href="#" target="blank"><img src="assets/image/icon/team_f.png" alt=""></a>
+									<a href="#" target="blank"><img src="assets/image/icon/team_tw.png" alt=""></a>
+									<a href="#" target="blank"><img src="assets/image/icon/team-YT.png" alt=""></a>
 								</div>
 							</div>
 						</div>
 						<div class="team-text">
 							<h4>team member</h4>
-							<p class="text-center">Trainer</p>
+							<p>Trainer</p>
 						</div>
 					</div>
 				</div>
-			</div>
+			</div><!--col-->
 			<div class="col-lg-3 col-sm-6">
 				<div class="team-item">
 					<div class="team-inner">
@@ -497,268 +491,22 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 							<img src="assets/image/team/team-2.png" alt="team" class="img-fluid">
 							<div class="overlay">
 								<div class="icon">
-									
-									<a href="#"><i class="fa-brands fa-linkedin" style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
-									<a href="#"><i class="fa-solid fa-envelope" style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
+									<a href="#" target="blank"><img src="assets/image/icon/team_f.png" alt=""></a>
+									<a href="#" target="blank"><img src="assets/image/icon/team_tw.png" alt=""></a>
+									<a href="#" target="blank"><img src="assets/image/icon/team-YT.png" alt=""></a>
 								</div>
 							</div>
 						</div>
 						<div class="team-text">
 							<h4>team member</h4>
-							<p class="text-center">WordPress Developer</p>
+							<p>WordPress Developer</p>
 						</div>
 					</div>
 				</div>
-			</div>
+			</div><!--col-->
 		</div>
 	</div>
-</section> -->
-
-
-<section class="container-fluid pt pb our-team">
-	<div class="no-container width80">
-		<div class="row">
-			<div class="col-lg-12">
-				<div class="section-title-area centerhding">
-					<h3 class="section-title">Meet Our Team Of Experts</h3>
-					<p>At 5Trainers, we offer practical, job-ready digital marketing courses.</p>
-				</div>
-			</div>
-		</div>
-
-		<!-- Swiper -->
-		<div class="swiper teamSwiper mt-80">
-			<div class="swiper-wrapper">
-
-				<!-- Slide 1 -->
-				<div class="swiper-slide">
-					<div class="team-item">
-						<div class="team-inner">
-							<div class="team-img">
-								<img src="assets/image/team/team-1.jpg" class="img-fluid">
-								<div class="overlay">
-									<div class="icon">
-										<a href="#"><i class="fa-brands fa-linkedin"
-												style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
-										<a href="#"><i class="fa-solid fa-envelope"
-												style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
-									</div>
-								</div>
-							</div>
-							<div class="team-text">
-								<h4>Poonam</h4>
-								<p class="text-center">Counselor</p>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<!-- Slide 2 -->
-				<div class="swiper-slide">
-					<div class="team-item">
-						<div class="team-inner">
-							<div class="team-img">
-								<img src="assets/image/team/team-2.jpg" class="img-fluid">
-								<div class="overlay">
-									<div class="icon">
-										<a href="#"><i class="fa-brands fa-linkedin"
-												style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
-										<a href="#"><i class="fa-solid fa-envelope"
-												style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
-									</div>
-								</div>
-							</div>
-							<div class="team-text">
-								<h4>Rajni</h4>
-								<p class="text-center">Receptionist</p>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="swiper-slide">
-					<div class="team-item">
-						<div class="team-inner">
-							<div class="team-img">
-								<img src="assets/image/team/team-2.png" class="img-fluid">
-								<div class="overlay">
-									<div class="icon">
-
-										<a href="#"><i class="fa-brands fa-linkedin"
-												style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
-										<a href="#"><i class="fa-solid fa-envelope"
-												style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
-									</div>
-								</div>
-							</div>
-							<div class="team-text">
-								<h4>Rajni</h4>
-								<p class="text-center">Receptionist</p>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="swiper-slide">
-					<div class="team-item">
-						<div class="team-inner">
-							<div class="team-img">
-								<img src="assets/image/team/team-1.png" class="img-fluid">
-								<div class="overlay">
-									<div class="icon">
-
-										<a href="#"><i class="fa-brands fa-linkedin"
-												style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
-										<a href="#"><i class="fa-solid fa-envelope"
-												style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
-									</div>
-								</div>
-							</div>
-							<div class="team-text">
-								<h4>Rajni</h4>
-								<p class="text-center">Receptionist</p>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="swiper-slide">
-					<div class="team-item">
-						<div class="team-inner">
-							<div class="team-img">
-								<img src="assets/image/team/team-2.png" class="img-fluid">
-								<div class="overlay">
-									<div class="icon">
-
-										<a href="#"><i class="fa-brands fa-linkedin"
-												style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
-										<a href="#"><i class="fa-solid fa-envelope"
-												style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
-									</div>
-								</div>
-							</div>
-							<div class="team-text">
-								<h4>Rajni</h4>
-								<p class="text-center">Receptionist</p>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="swiper-slide">
-					<div class="team-item">
-						<div class="team-inner">
-							<div class="team-img">
-								<img src="assets/image/team/team-1.png" class="img-fluid">
-								<div class="overlay">
-									<div class="icon">
-
-										<a href="#"><i class="fa-brands fa-linkedin"
-												style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
-										<a href="#"><i class="fa-solid fa-envelope"
-												style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
-									</div>
-								</div>
-							</div>
-							<div class="team-text">
-								<h4>Rajni</h4>
-								<p class="text-center">Receptionist</p>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="swiper-slide">
-					<div class="team-item">
-						<div class="team-inner">
-							<div class="team-img">
-								<img src="assets/image/team/team-2.png" class="img-fluid">
-								<div class="overlay">
-									<div class="icon">
-
-										<a href="#"><i class="fa-brands fa-linkedin"
-												style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
-										<a href="#"><i class="fa-solid fa-envelope"
-												style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
-									</div>
-								</div>
-							</div>
-							<div class="team-text">
-								<h4>Rajni</h4>
-								<p class="text-center">Receptionist</p>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="swiper-slide">
-					<div class="team-item">
-						<div class="team-inner">
-							<div class="team-img">
-								<img src="assets/image/team/team-1.png" class="img-fluid">
-								<div class="overlay">
-									<div class="icon">
-
-										<a href="#"><i class="fa-brands fa-linkedin"
-												style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
-										<a href="#"><i class="fa-solid fa-envelope"
-												style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
-									</div>
-								</div>
-							</div>
-							<div class="team-text">
-								<h4>Rajni</h4>
-								<p class="text-center">Receptionist</p>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="swiper-slide">
-					<div class="team-item">
-						<div class="team-inner">
-							<div class="team-img">
-								<img src="assets/image/team/team-2.png" class="img-fluid">
-								<div class="overlay">
-									<div class="icon">
-
-										<a href="#"><i class="fa-brands fa-linkedin"
-												style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
-										<a href="#"><i class="fa-solid fa-envelope"
-												style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
-									</div>
-								</div>
-							</div>
-							<div class="team-text">
-								<h4>Rajni</h4>
-								<p class="text-center">Receptionist</p>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="swiper-slide">
-					<div class="team-item">
-						<div class="team-inner">
-							<div class="team-img">
-								<img src="assets/image/team/team-1.png" class="img-fluid">
-								<div class="overlay">
-									<div class="icon">
-
-										<a href="#"><i class="fa-brands fa-linkedin"
-												style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
-										<a href="#"><i class="fa-solid fa-envelope"
-												style="background-color:#0f79be; color:white; font-size: 25px;"></i></a>
-									</div>
-								</div>
-							</div>
-							<div class="team-text">
-								<h4>Rajni</h4>
-								<p class="text-center">Receptionist</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-
-
-		</div>
-	</div>
-</section>
-
-
+</section><!--/our team-->
 
 <section class="continer-fluid pt pb project-sec" style="display:none;">
 	<div class="no-container width90">
@@ -899,35 +647,3 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 </section><!--/client-->
 <?php include('trial.php'); ?>
 <?php include('footer.php'); ?>
-
-
-<script>
-	var swiper = new Swiper(".teamSwiper", {
-		slidesPerView: 4,        // front me 4
-		spaceBetween: 30,
-		slidesPerGroup: 1,      // ek-ek slide move
-		loop: true,
-		autoplay: {
-			delay: 2500,
-			disableOnInteraction: false,
-		},
-		navigation: {
-			nextEl: ".swiper-button-next",
-			prevEl: ".swiper-button-prev",
-		},
-		breakpoints: {
-			0: {
-				slidesPerView: 1
-			},
-			576: {
-				slidesPerView: 2
-			},
-			768: {
-				slidesPerView: 3
-			},
-			992: {
-				slidesPerView: 4
-			}
-		}
-	});
-</script>

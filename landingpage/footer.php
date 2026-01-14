@@ -18,9 +18,9 @@
                     <div class="ftr-box animated fadeInRight" data-effect="fadeInRight">
                         <h5>Support</h5>
                         <ul class="support-list">
-                            <li><a href="" style="color:black; text-decoration: none;">customer support</a></li>
-                            <li><a href="#faqSec" style="color:black; text-decoration: none;">Frequently asked questions (FAQ)</a></li>
-                            <li><a href="https://5trainers.com/contact.php" style="color:black; text-decoration: none;">contact us</a></li>
+                            <li><a href="">customer support</a></li>
+                            <li><a href="#faqSec">Frequently asked questions (FAQ)</a></li>
+                            <li><a href="https://5trainers.com/contact.php">contact us</a></li>
                         </ul>
                     </div>
                 </div><!--/col-->
@@ -29,11 +29,11 @@
                     <div class="ftr-box ftrlocation animated fadeInRight" data-effect="fadeInLeft">
                         <h5>Info</h5>
                         <p><i class="fa fa-map-marker" aria-hidden="true"></i><a
-                                href="https://maps.app.goo.gl/nnsG5BW6VfDxTa7A6" style="color:black; text-decoration: none;">Victory Tower Phase 8B, Industrial
+                                href="https://maps.app.goo.gl/nnsG5BW6VfDxTa7A6">Victory Tower Phase 8B, Industrial
                                 Area, Sector 74, Mohali, Punjab 140308</a></p>
-                        <p><i class="fa fa-phone" aria-hidden="true"></i><a href="tel=+91-8283840606" style="color:black; text-decoration: none;">+91-8283840606</a>
+                        <p><i class="fa fa-phone" aria-hidden="true"></i><a href="tel=+91-8283840606">+91-8283840606</a>
                         </p>
-                        <p><i class="fa fa-envelope" aria-hidden="true"></i><a href="#" style="color:black; text-decoration: none;">info@5trainers.com</a></p>
+                        <p><i class="fa fa-envelope" aria-hidden="true"></i><a href="#">info@5trainers.com</a></p>
                     </div>
                 </div><!--/col-->
             </div>
@@ -49,34 +49,11 @@
                 </div><!--/col-->
                 <div class="col-md-5 col-lg-6">
                     <div class="social-icons">
-                        <!-- <ul>
+                        <ul>
                             <li><a href=""><img src="assets/image/landing-page/ftr-f.png" alt=""></a></li>
                             <li><a href=""><img src="assets/image/landing-page/ftr-tw.png" alt=""></a></li>
                             <li><a href=""><img src="assets/image/landing-page/ftr-YT.png" alt=""></a></li>
-                        </ul> -->
-
-                        <ul class="footer-ul">
-            <li><a href="https://www.facebook.com/profile.php?id=61576550454616" target="_blank"><span>
-            
-                  <i class="fa-brands fa-square-facebook footer-icon text-white"></i>
-                  </span></a></li>
-            <li><a href="https://x.com/_5trainers" target="_blank"><span>
-       
-           <i class="fa-brands fa-x-twitter footer-icon text-white"></i>
-            </span></a></li>
-            <li><a href="https://www.linkedin.com/company/5trainer" target="_blank"><span>
-        
-               <i class="fa-brands fa-linkedin  footer-icon text-white" ></i>
-            </span></a></li>
-            <li><a href="https://www.instagram.com/5_trainers/" target="_blank"><span>
-              
-               <i class="fa-brands fa-square-instagram footer-icon text-white"></i>
-            </span></a></li>
-            <li><a href="https://www.youtube.com/@5Trainers" target="_blank"><span>
-           
-                  <i class="fa-brands fa-square-youtube footer-icon text-white"></i>
-                  </span></a></li>
-          </ul>
+                        </ul>
                     </div>
                 </div><!--/col-->
             </div><!--/row-->

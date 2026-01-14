@@ -35,8 +35,8 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
 <!--Slider-->
 <section id="slide-show" class="setbg landignsetbg">
     <div class="custom-container width80">
-        <div>
-            <div class="hero-main row">
+        <div class="">
+            <div class="row">
                 <div class="col-lg-7 google-ads-main">
                     <div class="intro-details">
                         <div class="slide-text">
@@ -208,7 +208,7 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
             <div class="col-lg-12">
                 <div class="buildText">
                     <h2>You Are One Step Closer To Building A Thriving Career As <span>Google Ads Expert</span></h2>
-                    <a href="contact.php">Register Now</a>
+                    <a href="">Register Now</a>
                 </div>
             </div><!--col-->
         </div><!--/row-->
@@ -249,17 +249,16 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
                 </div>
 
                 <!-- Trigger Button -->
-                <!-- <div class="counselingButn">
+                <div class="counselingButn">
                     <div class="yellowBtn"><a href="#">Get a Free Consultation</a></div>
-                </div> -->
+                </div>
 
 
             </div>
             <!--/col-->
             <div class="col-lg-5">
                 <div class="counselingAbout">
-                    <!-- <img src="assets/image/slider/counseling-for-students.png" class="img-fluid" alt="Counseling"> -->
-                    <img src="assets/image/slider/counseling-for-student.png" class="img-fluid" alt="Counseling">
+                    <img src="assets/image/slider/counseling-for-students.png" class="img-fluid" alt="Counseling">
                 </div>
             </div>
             <!--/col-->
@@ -275,8 +274,8 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
                 <div class="section-title-area">
                     <h6 data-aos="fade-up" data-aos-duration="500" class="section-subtitle section-subtitle-2">Program
                         Journey</h6>
-                    <h2 data-aos="fade-up" data-aos-duration="1000" class="section-title">Future-proof your career with
-                        GenAI skills</h2>
+                    <h1 data-aos="fade-up" data-aos-duration="1000" class="section-title">Future-proof your career with
+                        GenAI skills</h1>
                 </div><!--/heading-->
             </div><!--/col-->
         </div><!--/row-->
@@ -290,27 +289,27 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
                         <div class="widget-container">
                             <ul class="icon-list-items">
                                 <li class="icon-list-item tab active one">
-                                    <a href="">
+                                    <a href="#">
                                         <span class="icon-list-icon"><img
                                                 src="landingpage/assets/image/icon/arrow22.png" alt="Arrow"></span>
                                         <div class="weekdivision">
                                             <span class="icon-list-text">Week 1</span>
-                                            <h6>Introduction to Meta Ads & Account Setup</h6>
+                                            <h6>Introduction to Google Ads & Account Setup</h6>
                                         </div>
                                     </a>
                                 </li>
                                 <li class="icon-list-item tab two">
-                                    <a href="">
+                                    <a href="#">
                                         <span class="icon-list-icon"><img
                                                 src="landingpage/assets/image/icon/arrow22.png" alt="Arrow"></span>
                                         <div class="weekdivision">
                                             <span class="icon-list-text">Week 2</span>
-                                            <h6>Campaign Creation & Ad Design</h6>
+                                            <h6>Campaign Creation & Ad Copywriting</h6>
                                         </div>
                                     </a>
                                 </li>
                                 <li class="icon-list-item tab three">
-                                    <a href="">
+                                    <a href="#">
                                         <span class="icon-list-icon"><img
                                                 src="landingpage/assets/image/icon/arrow22.png" alt="Arrow"></span>
                                         <div class="weekdivision">
@@ -320,7 +319,7 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
                                     </a>
                                 </li>
                                 <li class="icon-list-item tab four">
-                                    <a href="">
+                                    <a href="#">
                                         <span class="icon-list-icon"><img
                                                 src="landingpage/assets/image/icon/arrow22.png" alt="Arrow"></span>
                                         <div class="weekdivision">
@@ -337,37 +336,36 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
             <div class="col-lg-8">
                 <div class="courseMright">
                     <div class="course-tab-content coursetab1">
-                        <h5>Introduction to Meta Ads & Account Setup</h5>
+                        <h5>SEO Fundamentals & Website Optimization</h5>
                         <div class="row fourdivision">
                             <div class="col-lg-6 prb-0">
                                 <div class="daybox borderrightbottom">
-                                    <h6><span>Day 1–2</span> Meta Ads Overview</h6>
+                                    <h6><span>Day 1–2</span> Google Ads Overview</h6>
                                     <ul>
-                                        <li>What are Meta Ads and how they work.</li>
-                                        <li>Understanding campaign objectives: Awareness, Consideration, Conversion.
-                                        </li>
-                                        <li>Ad placements across Facebook, Instagram, Messenger, and Audience Network.
-                                        </li>
+                                        <li>What is Google Ads and how it works.</li>
+                                        <li>Understanding PPC, CPM, CPA, and ROAS.</li>
+                                        <li>Types of Google Ads Campaigns (Search, Display, Video, Shopping, Performance
+                                            Max).</li>
                                     </ul>
                                 </div><!--/daybox-->
                             </div><!--/col-->
                             <div class="col-lg-6 plb-0">
                                 <div class="daybox prb-30 borderbottom">
-                                    <h6><span>Day 3–4</span> Business Manager Setup</h6>
+                                    <h6><span>Day 3–4</span> Account Setup & Structure</h6>
                                     <ul>
-                                        <li>Creating and verifying a Business Manager account.</li>
-                                        <li>Setting up ad accounts, pages, and pixels.</li>
-                                        <li>Understanding campaign structure: Campaign, Ad Set, Ad.</li>
+                                        <li>Setting up a Google Ads account.</li>
+                                        <li>Campaign, Ad Group, and Ad hierarchy.</li>
+                                        <li>Billing setup and dashboard overview.</li>
                                     </ul>
                                 </div><!--/daybox-->
                             </div><!--/col-->
                             <div class="col-lg-6 pr-0">
                                 <div class="daybox ptr-30 borderright">
-                                    <h6><span>Day 5–7</span> Audience Targeting Basics</h6>
+                                    <h6><span>Day 5–7</span> Keyword Research for Google Ads</h6>
                                     <ul>
-                                        <li>Core, Custom, and Lookalike audiences.</li>
-                                        <li>Geo-targeting, demographics, and interest-based targeting.</li>
-                                        <li>Understanding audience size and relevance.</li>
+                                        <li>Finding profitable keywords using Google Keyword Planner.</li>
+                                        <li>Match types: Broad, Phrase, Exact.</li>
+                                        <li>Understanding search intent and CPC analysis.</li>
                                     </ul>
                                 </div><!--/daybox-->
                             </div><!--/col-->
@@ -375,34 +373,36 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
                     </div><!--/course-tab-content tab-1-->
 
                     <div class="course-tab-content coursetab2 two" id="">
-                        <h5>Campaign Creation & Ad Design</h5>
+                        <h5>Campaign Creation & Ad Copywriting</h5>
                         <div class="row fourdivision">
                             <div class="col-lg-6">
                                 <div class="daybox borderrightbottom">
-                                    <h6><span>Day 8-10</span> Creating Your First Campaign</h6>
+                                    <h6><span>Day 8-10</span> Creating Search Campaigns</h6>
                                     <ul>
-                                        <li>Step-by-step campaign setup.</li>
+                                        <li>Step-by-step campaign creation.</li>
                                         <li>Setting budgets and bidding strategies.</li>
-                                        <li>Choosing the right campaign objective for your goal.</li>
+                                        <li>Geo-targeting, language targeting, and scheduling.</li>
+                                        <li>Google Search Console & Google Analytics setup</li>
                                     </ul>
                                 </div><!--/daybox-->
                             </div><!--/col-->
                             <div class="col-lg-6 plb-0">
                                 <div class="daybox borderright">
-                                    <h6><span>Day 11-12</span> Ad Creatives & Copywriting</h6>
+                                    <h6><span>Day 11-12</span> Writing High-Converting Ads</h6>
                                     <ul>
-                                        <li>Designing scroll-stopping creatives (image, video, carousel).</li>
-                                        <li>Writing compelling ad copy that drives clicks.</li>
-                                        <li>Using CTAs effectively.</li>
+                                        <li>Crafting attention-grabbing headlines.</li>
+                                        <li>Writing persuasive ad descriptions.</li>
+                                        <li>Using ad extensions for better CTR.</li>
                                     </ul>
                                 </div><!--/daybox-->
                             </div><!--/col-->
                             <div class="col-lg-6">
                                 <div class="daybox borderright ptr-30">
-                                    <h6><span>Day 13-14</span> Creative Tools & Formats</h6>
+                                    <h6><span>Day 13-14</span> Display & Video Ads</h6>
                                     <ul>
-                                        <li>Using Canva, Photoshop, and Meta’s Creative Hub.</li>
-                                        <li>A/B testing creatives and ad formats.</li>
+                                        <li>Creating visually appealing display campaigns.</li>
+                                        <li>Running YouTube Ads for brand awareness and leads.</li>
+                                        <li>Audience targeting for display & video.</li>
                                     </ul>
                                 </div><!--/daybox-->
                             </div><!--/col-->
@@ -414,10 +414,11 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
                         <div class="row fourdivision">
                             <div class="col-lg-6 prb-0">
                                 <div class="daybox borderrightbottom">
-                                    <h6><span>Day 15–16</span> Pixel & Event Setup</h6>
+                                    <h6><span>Day 15–16</span> Conversion Tracking & Analytics</h6>
                                     <ul>
-                                        <li>Installing Meta Pixel and tracking events.</li>
-                                        <li>Standard vs custom conversions.</li>
+                                        <li>Setting up Google Tag Manager.</li>
+                                        <li>Tracking conversions, calls, and form submissions.</li>
+                                        <li>Linking Google Ads with Google Analytics.</li>
                                     </ul>
                                 </div><!--/daybox-->
                             </div><!--/col-->
@@ -425,28 +426,29 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
                                 <div class="daybox prb-30">
                                     <h6><span>Day 17–18</span> Campaign Optimization</h6>
                                     <ul>
-                                        <li>Reading analytics in Ads Manager.</li>
-                                        <li>Improving CTR, lowering CPC, and increasing ROAS.</li>
-                                        <li>Audience refinement and budget reallocation.</li>
+                                        <li>Quality Score improvement techniques.</li>
+                                        <li>Reducing CPC while increasing CTR.</li>
+                                        <li>A/B testing ads and landing pages.</li>
                                     </ul>
                                 </div><!--/daybox-->
                             </div><!--/col-->
                             <div class="col-lg-6 pr-0">
                                 <div class="daybox ptr-30">
-                                    <h6><span>Day 19-20</span> Retargeting Strategies</h6>
+                                    <h6><span>Day 19-20</span> Remarketing Strategies</h6>
                                     <ul>
-                                        <li>Setting up website visitor retargeting.</li>
-                                        <li>Retargeting engaged users on Facebook & Instagram.</li>
-                                        <li>Retargeting with video views and lead forms.</li>
+                                        <li>Setting up remarketing audiences.</li>
+                                        <li>Dynamic remarketing for e-commerce.</li>
+                                        <li>Sequential remarketing for funnels.</li>
                                     </ul>
                                 </div><!--/daybox-->
                             </div><!--/col-->
                             <div class="col-lg-6 pl-0">
                                 <div class="daybox bordertopleft plt-30">
-                                    <h6><span>Day 21</span> Funnel Building with Meta Ads</h6>
+                                    <h6><span>Day 21</span> Shopping Campaigns (E-commerce)</h6>
                                     <ul>
-                                        <li>Awareness, Consideration, and Conversion funnel.</li>
-                                        <li>Building multi-step campaigns for maximum ROI.</li>
+                                        <li>Setting up Merchant Center.</li>
+                                        <li>Creating Shopping Ads.</li>
+                                        <li>Optimizing product feeds.</li>
                                     </ul>
                                 </div><!--/daybox-->
                             </div><!--/col-->
@@ -458,19 +460,19 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
                         <div class="row fourdivision">
                             <div class="col-lg-6 prb-0">
                                 <div class="daybox borderrightbottom">
-                                    <h6><span>Day 22-23</span> Advanced Audience Strategies</h6>
+                                    <h6><span>Day 22-23</span> Performance Max Campaigns</h6>
                                     <ul>
-                                        <li>Using Lookalike audiences effectively.</li>
-                                        <li>Interest layering for niche targeting.</li>
+                                        <li>Understanding automation in Performance Max.</li>
+                                        <li>Smart bidding strategies.</li>
                                     </ul>
                                 </div><!--/daybox-->
                             </div><!--/col-->
                             <div class="col-lg-6 plb-0">
                                 <div class="daybox prb-30">
-                                    <h6><span>Day 24–25</span> E-commerce & Lead Generation Ads</h6>
+                                    <h6><span>Day 24–25</span> Local Campaigns & Lead Generation</h6>
                                     <ul>
-                                        <li>Setting up product catalog sales campaigns.</li>
-                                        <li>Using instant forms for lead generation.</li>
+                                        <li>Creating ads for local businesses.</li>
+                                        <li>Using lead form extensions.</li>
                                     </ul>
                                 </div><!--/daybox-->
                             </div><!--/col-->
@@ -478,8 +480,8 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
                                 <div class="daybox ptr-30">
                                     <h6><span>Day 26-27</span> Scaling Ad Campaigns</h6>
                                     <ul>
-                                        <li>Vertical and horizontal scaling methods.</li>
-                                        <li>CBO (Campaign Budget Optimization) for scaling.</li>
+                                        <li>Budget scaling without losing ROI.</li>
+                                        <li>Targeting expansion and automation tools.</li>
                                     </ul>
                                 </div><!--/daybox-->
                             </div><!--/col-->
@@ -487,8 +489,8 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
                                 <div class="daybox bordertopleft plt-30">
                                     <h6><span>Day 28</span> Troubleshooting & Common Issues</h6>
                                     <ul>
-                                        <li>Resolving ad rejections and account restrictions.</li>
-                                        <li>Staying compliant with Meta Ads policies.</li>
+                                        <li>Fixing low CTR and high CPC.</li>
+                                        <li>Policy violations and disapprovals.</li>
                                     </ul>
                                 </div><!--/daybox-->
                             </div><!--/col-->
@@ -496,9 +498,7 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
                                 <div class="daybox bordertopright ptr-30">
                                     <h6><span>Day 29-30</span> Final Project: Launch a Profitable Campaign</h6>
                                     <ul>
-                                        <li>Hands-on project: Create a complete Meta Ads campaign for a chosen business.
-                                        </li>
-                                        <li>Review, analyze, and optimize results using learned strategies.</li>
+                                        <li>Create a complete SEO strategy for a chosen website</li>
                                     </ul>
                                 </div><!--/daybox-->
                             </div><!--/col-->
