@@ -245,7 +245,7 @@ a:hover {
   color: white;
   font-weight: 600;
   font-size: 17px;
-  margin-left: 20px;
+  margin: auto 20px;
 }
 
 .popup-form {
@@ -549,6 +549,7 @@ a:hover {
   z-index: 1;
   display: block;
   clear: both;
+  bottom: 5rem;
 }
 .kabslt {
   position: absolute;

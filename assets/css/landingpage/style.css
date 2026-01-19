@@ -316,6 +316,7 @@ a {
   z-index: 1;
   display: block;
   clear: both;
+  bottom: 5rem;
 }
 .kabslt {
   position: absolute;

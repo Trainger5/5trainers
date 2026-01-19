@@ -1159,16 +1159,18 @@ $canonical_url = "https://www.5trainers.com/index.php";
 
 
 <script>
-    document.getElementById("enablePush").addEventListener("click", async () => {
-        try {
-            const result = await PN.subscribe();
-            if (result.success) {
-                document.getElementById("enablePush").innerHTML = "✅ Notifications Enabled";
-                document.getElementById("enablePush").disabled = true;
+    document.addEventListener("DOMContentLoaded", () => {
+        document.getElementById("enablePush").addEventListener("click", async () => {
+            try {
+                const result = await PN.subscribe();
+                if (result.success) {
+                    document.getElementById("enablePush").innerHTML = "✅ Notifications Enabled";
+                    document.getElementById("enablePush").disabled = true;
+                }
+            } catch (error) {
+                alert("Failed: " + error.message);
             }
-        } catch (error) {
-            alert("Failed: " + error.message);
-        }
+        });
     });
 </script>
 
