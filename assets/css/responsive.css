@@ -1,5 +1,11 @@
-/*  Smartphones (portrait and landscape) */
+/* Hide top contact bar on tablets and below */
+@media screen and (max-width: 768px) {
+  .top-contact-bar {
+    display: none !important;
+  }
+}
 
+/*  Smartphones (portrait and landscape) */
 @media only screen and (min-device-width: 300px) and (max-device-width: 480px) {
   .logo {
     width: 140px;
