@@ -1,43 +1,42 @@
 <?php
-$meta_title = " Digital Marketing Training in Mohali | Best Institute 100% Placement";
-$meta_description = "Join Digital Marketing Training in Mohali. Best Institute with 100% Placement support. Learn SEO, Google Ads, Social Media & AI tools. Enroll now!";
-$canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali.php";
+$meta_title = "Digital Marketing Course in Zirakpur | Learn SEO, Ads & AI Tools";
+$meta_description = "Join the best Digital Marketing Course in Zirakpur. Learn SEO, Google Ads, SMM & AI tools with live projects and 100% placement support. Enroll now!";
+$canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur.php";
 ?>
 <?php include('header.php'); ?>
-<link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/about.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/shorttermcourse.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/image/favicon32.png" rel="shortcut icon">
-<link href="landingpage/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-<link href="landingpage/assets/css/animate.css" rel="stylesheet">
-<link href="landingpage/assets/css/aos.css" rel="stylesheet">
-<link href="assets/css/faq.css" type="text/css" rel="stylesheet" />
+ <link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
+    <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
+    <link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
+    <link href="landingpage/assets/css/about.css" type="text/css" rel="stylesheet" />
+    <link href="landingpage/assets/css/shorttermcourse.css" type="text/css" rel="stylesheet" />
+    <link href="landingpage/assets/image/favicon32.png" rel="shortcut icon">
+    <link href="landingpage/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="landingpage/assets/css/animate.css" rel="stylesheet">
+    <link href="landingpage/assets/css/aos.css" rel="stylesheet">
+    <link href="assets/css/faq.css" type="text/css" rel="stylesheet" />
+    <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
 
 
-<!-- Google Tag Manager -->
-<script>(function (w, d, s, l, i) {
-        w[l] = w[l] || []; w[l].push({
-            'gtm.start':
-                new Date().getTime(), event: 'gtm.js'
-        }); var f = d.getElementsByTagName(s)[0],
-            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-K3N4DF4B');</script>
-<!-- End Google Tag Manager -->
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-K3N4DF4B');</script>
+    <!-- End Google Tag Manager -->
 
-
-
-<body class="aos-all" id="transcroller-body">
+   
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K3N4DF4B" height="0" width="0"
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-
+    
     <!--Slider-->
-    <section class="setbg mtt" id="transcroller-body">
+    <section  class="setbg mtt" id="transcroller-body">
         <div class="custom-container width90">
             <div class="">
                 <div class="row">
@@ -48,54 +47,37 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                                 <div class="sliderHeading mb-20">
                                     <!-- <h2>Digital Marketing Courses</h2>
                             <h2> with AI</h2> -->
-                                    <h2 style="font-size: 45px ;">Digital Marketing Training in Mohali</h2>
-                                    <h4 class="mt-3 text-white">Digital Marketing Training in Mohali – Best Institute
-                                        100% Placement</h4>
+                                    <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
+                                            style="text-decoration: none; color:white;">Digital Marketing </a> Course in
+                                        Zirakpur </h2>
+                                    <h4 class="mt-4 text-white"><a href="https://5trainers.com/"
+                                            style="text-decoration: none; color:white;">Digital Marketing </a> Course in
+                                        Zirakpur | Learn SEO, Ads & AI Tools</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
-                                <p class="coDetail">Join the best digital marketing institute in Mohali and learn SEO,
-                                    Google Ads, Social Media & AI-powered tools with practical training and real
-                                    projects.</p>
+                                <p class="coDetail">Build a future-ready career with the most trusted Digital Marketing
+                                    Course in Zirakpur. At 5Trainers, we help you become a certified digital marketing
+                                    professional by teaching SEO, Google Ads, Social Media Marketing, AI-powered tools,
+                                    and advanced analytics through a 100% practical, project-based learning approach.
+                                </p>
                                 <!--for Both Freshers &-->
+                                <h4 class="text-white">Learn Industry-Ready Digital Skills for High-Growth Careers
+                                </h4>
                             </div><!--/slider text-->
 
 
-                            <div class="course-features mtb-40">
-                                <div class="features">
-                                    <img src="landingpage/assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Affordable Fees </div>
-                                </div><!--/features-->
+                           
+                            <div>
+                                <p class="coDetail text-white">At 5Trainers, our Digital Marketing Course in Zirakpur is
+                                    built for students, job seekers, working professionals, and business owners who want
+                                    measurable results. From day one, you work on live campaigns, real websites, and
+                                    actual client projects.
+                                    We focus on skills that companies and agencies in Zirakpur, Chandigarh, Mohali, and
+                                    the Tricity region are actively hiring for—ensuring you are job-ready, not just
+                                    certified.
+                                </p>
+                            </div>
 
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Certified Trainers </div>
-                                </div><!--/features-->
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Internship Opportunity </div>
-                                </div><!--/features-->
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Placement assistance</div>
-                                </div><!--/features-->
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Professional Resume Building </div>
-                                </div><!--/features-->
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Mock Interviews & HR Rounds</div>
-                                </div><!--/features-->
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Lifetime Access to Study Material</div>
-                                </div><!--/features-->
-
-                            </div><!--/course-features-->
                             <div class="course-metrics mt-15 mb-40">
                                 <div class="course-metric">
                                     <div class="metric-heading"> 95%</div>
@@ -235,12 +217,13 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                 </div>
                 <div class="col-12 col-xl-5 offset-xl-1 mt-5 mt-xl-0">
                     <div class="section-title">
-                        <h2 data-aos="fade-up" data-aos-delay="100" class="aos-init aos-animate">Why Get <span>Digital
-                                Marketing Course</span> Certification From 5Trainers?</h2>
+                        <h2 data-aos="fade-up" data-aos-delay="100" class="aos-init aos-animate">Why Get <a
+                                href="https://5trainers.com/" style="text-decoration: none;">Digital
+                                Marketing Course</a> Certification From 5Trainers?</h2>
                     </div>
                     <div class="registerstack"><a href="contact.php" class="theme-btn mt-30 aos-init aos-animate"
-                            data-aos="fade-up" data-aos-delay="200" style="text-decoration: none;">Register
-                            Now<span><img src="assets/image/icon/reply_arrow.png" alt=""></span></a></div>
+                            data-aos="fade-up" data-aos-delay="200">Register Now<span><img
+                                    src="assets/image/icon/reply_arrow.png" alt=""></span></a></div>
                 </div>
             </div>
         </div>
@@ -254,7 +237,9 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                         <div class="section-title-area">
                             <h6 data-aos="fade-up" data-aos-duration="1000" class="section-subtitle section-subtitle-2">
                                 Overview</h6>
-                            <h2 data-aos="fade-up" data-aos-duration="1500" class="section-title">Digital Marketing
+                            <h2 data-aos="fade-up" data-aos-duration="1500" class="section-title"><a
+                                    href="https://5trainers.com/" style="text-decoration: none; color:black;">Digital
+                                    Marketing</a>
                                 Course Overview</h2>
                             <p data-aos="fade-up" data-aos-duration="1700"></p>
                         </div>
@@ -291,10 +276,10 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
 
                             <div class="col-lg-6">
                                 <div class="servicecol">
-                                    <div class="service-imag">
+                                    <!-- <div class="service-imag">
                                         <img src="assets/image/course/digital-marketing.png" class="img-fluid"
                                             alt="Digital Marketing">
-                                    </div>
+                                    </div> -->
                                     <div class="service-info">
                                         <h5>Paid Advertising (PPC)</h5>
                                         <ul>
@@ -331,117 +316,111 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
     </section><!--/about -->
 
     <section class="contaianer-fluid pt pb skill-cover">
-        <div class="cutom-container width90">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="section-title-area text-center centerhding">
-                        <h6 data-aos="fade-up" data-aos-duration="500" class="section-subtitle section-subtitle-2">
-                            Skills
-                        </h6>
-                        <h2 data-aos="fade-up" data-aos-duration="800" class="section-title">Skills Covered</h2>
-                        <p data-aos="fade-up" data-aos-duration="1100" class="aos-init aos-animate text-center">With
-                            over
-                            10+ years of experience in the Digital and IT Training industry, we have successfully
-                            trained
-                            hundreds of students and professionals under our former name 5Trainers.</p>
-                    </div>
+    <div class="cutom-container width90">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="section-title-area text-center centerhding">
+                    <h6 data-aos="fade-up" data-aos-duration="500" class="section-subtitle section-subtitle-2">Skills
+                    </h6>
+                    <h2 data-aos="fade-up" data-aos-duration="800" class="section-title">Skills Covered</h2>
+                    <p data-aos="fade-up" data-aos-duration="1100" class="aos-init aos-animate text-center">With over
+                        10+ years of experience in the Digital and IT Training industry, we have successfully trained
+                        hundreds of students and professionals under our former name 5Trainers.</p>
                 </div>
-            </div><!--/row-->
-            <div class="row mt-80 mt-5">
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="iconbox"><img src="assets/image/landing-page/seo.png" alt="SEO"></div>
-                        <h3>Search Engine Optimization (SEO)</h3>
-                    </div><!--/skillbox-->
-                </div><!--/col-->
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="iconbox"><img src="assets/image/landing-page/Google-Ads.png" alt="Google Ads"></div>
-                        <h3>Google Ads</h3>
-                    </div><!--/skillbox-->
-                </div><!--/col-->
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="iconbox"><img src="assets/image/landing-page/smm.png" alt="Social Media Marketing">
-                        </div>
-                        <h3>Social Media Marketing (SMM)</h3>
-                    </div><!--/skillbox-->
-                </div><!--/col-->
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="iconbox"><img src="assets/image/landing-page/Content-Marketing.png"
-                                alt="Content-Marketing"></div>
-                        <h3>Content Marketing</h3>
-                    </div><!--/skillbox-->
-                </div><!--/col-->
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="iconbox"><img src="assets/image/landing-page/Email-Marketing.png"
-                                alt="Email-Marketing">
-                        </div>
-                        <h3>Email Marketing</h3>
-                    </div><!--/skillbox-->
-                </div><!--/col-->
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="iconbox"><img src="assets/image/landing-page/Affiliate-Marketing.png"
-                                alt="Affiliate-Marketing"></div>
-                        <h3>Affiliate Marketing</h3>
-                    </div><!--/skillbox-->
-                </div><!--/col-->
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="iconbox"><img src="assets/image/landing-page/analytics.png" alt="Analytics"></div>
-                        <h3>Google Analytics</h3>
-                    </div><!--/skillbox-->
-                </div><!--/col-->
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="iconbox"><img src="assets/image/landing-page/Facebook-Ads.png" alt="Facebook-Ads">
-                        </div>
-                        <h3>Facebook Ads Manager</h3>
-                    </div><!--/skillbox-->
-                </div><!--/col-->
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="iconbox"><img src="assets/image/landing-page/video-marketing.png"
-                                alt="Video Marketing">
-                        </div>
-                        <h3>YouTube Marketing & Video SEO</h3>
-                    </div><!--/skillbox-->
-                </div><!--/col-->
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="iconbox"><img src="assets/image/landing-page/Website-Setup.png" alt="Website-Setup">
-                        </div>
-                        <h3>WordPress Website Setup & Management</h3>
-                    </div><!--/skillbox-->
-                </div><!--/col-->
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="iconbox"><img src="assets/image/landing-page/ecommerce.png" alt="ecommerce"
-                                class="img-fluid"></div>
-                        <h3>E-commerce Marketing</h3>
-                    </div><!--/skillbox-->
-                </div><!--/col-->
-                <div class="col-6 col-md-3 col-lg-2">
-                    <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="iconbox"><img src="assets/image/landing-page/Influencer-Marketing.png"
-                                alt="Influencer-Marketing"></div>
-                        <h3>Influencer Marketing</h3>
-                    </div><!--/skillbox-->
-                </div><!--/col-->
-            </div><!--/row-->
-        </div>
-    </section><!--/skill cover-->
+            </div>
+        </div><!--/row-->
+        <div class="row mt-80 mt-5">
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
+                    <div class="iconbox"><img src="assets/image/landing-page/seo.png" alt="SEO"></div>
+                    <h3>Search Engine Optimization (SEO)</h3>
+                </div><!--/skillbox-->
+            </div><!--/col-->
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
+                    <div class="iconbox"><img src="assets/image/landing-page/Google-Ads.png" alt="Google Ads"></div>
+                    <h3>Google Ads</h3>
+                </div><!--/skillbox-->
+            </div><!--/col-->
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
+                    <div class="iconbox"><img src="assets/image/landing-page/smm.png" alt="Social Media Marketing">
+                    </div>
+                    <h3>Social Media Marketing (SMM)</h3>
+                </div><!--/skillbox-->
+            </div><!--/col-->
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
+                    <div class="iconbox"><img src="assets/image/landing-page/Content-Marketing.png"
+                            alt="Content-Marketing"></div>
+                    <h3>Content Marketing</h3>
+                </div><!--/skillbox-->
+            </div><!--/col-->
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
+                    <div class="iconbox"><img src="assets/image/landing-page/Email-Marketing.png" alt="Email-Marketing">
+                    </div>
+                    <h3>Email Marketing</h3>
+                </div><!--/skillbox-->
+            </div><!--/col-->
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
+                    <div class="iconbox"><img src="assets/image/landing-page/Affiliate-Marketing.png"
+                            alt="Affiliate-Marketing"></div>
+                    <h3>Affiliate Marketing</h3>
+                </div><!--/skillbox-->
+            </div><!--/col-->
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
+                    <div class="iconbox"><img src="assets/image/landing-page/analytics.png" alt="Analytics"></div>
+                    <h3>Google Analytics</h3>
+                </div><!--/skillbox-->
+            </div><!--/col-->
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
+                    <div class="iconbox"><img src="assets/image/landing-page/Facebook-Ads.png" alt="Facebook-Ads"></div>
+                    <h3>Facebook Ads Manager</h3>
+                </div><!--/skillbox-->
+            </div><!--/col-->
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
+                    <div class="iconbox"><img src="assets/image/landing-page/video-marketing.png" alt="Video Marketing">
+                    </div>
+                    <h3>YouTube Marketing & Video SEO</h3>
+                </div><!--/skillbox-->
+            </div><!--/col-->
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
+                    <div class="iconbox"><img src="assets/image/landing-page/Website-Setup.png" alt="Website-Setup">
+                    </div>
+                    <h3>WordPress Website Setup & Management</h3>
+                </div><!--/skillbox-->
+            </div><!--/col-->
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
+                    <div class="iconbox"><img src="assets/image/landing-page/ecommerce.png" alt="ecommerce"
+                            class="img-fluid"></div>
+                    <h3>E-commerce Marketing</h3>
+                </div><!--/skillbox-->
+            </div><!--/col-->
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="skillbox" data-aos="fade-up" data-aos-duration="1000">
+                    <div class="iconbox"><img src="assets/image/landing-page/Influencer-Marketing.png"
+                            alt="Influencer-Marketing"></div>
+                    <h3>Influencer Marketing</h3>
+                </div><!--/skillbox-->
+            </div><!--/col-->
+        </div><!--/row-->
+    </div>
+</section><!--/skill cover-->
 
     <!--  -->
     <section class="py-5 bg-light">
         <div class="cutom-container width90">
             <div class="text-center mb-5">
-                <h2 class="fw-bold">Digital Marketing Course in Mohali – What You Will Learn</h2>
+                <h2 class="fw-bold">Digital Marketing Course in Zirakpur – Complete Curriculum</h2>
                 <p class="text-muted text-center">
-                    Our course covers all major digital marketing skills required in today’s market.
+                    Our comprehensive curriculum covers every essential digital marketing skill:
                 </p>
             </div>
 
@@ -450,11 +429,18 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                 <div class="col-md-6 col-lg-4">
                     <div class="card h-100 shadow-sm">
                         <div class="card-body">
-                            <h5 class="card-title">SEO Training in Mohali</h5>
+                            <h5 class="card-title">SEO Training in Zirakpur:</h5>
                             <p class="card-text">
-                                Learn how to rank websites on Google and drive organic traffic. Covers keyword research,
-                                on-page SEO, off-page SEO, technical SEO, and local SEO with live projects.
+                                Learn on-page, off-page, technical, and local SEO. Perform keyword research, competitor
+                                analysis, and live website optimization.
                             </p>
+                            <!-- <ul>
+                                <li>Keyword research</li>
+                                <li>On-page SEO</li>
+                                <li>Off-page SEO</li>
+                                <li>Technical SEO</li>
+                                <li>Local SEO</li>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -463,11 +449,18 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                 <div class="col-md-6 col-lg-4">
                     <div class="card h-100 shadow-sm">
                         <div class="card-body">
-                            <h5 class="card-title">SMM Training in Mohali</h5>
+                            <h5 class="card-title">Social Media Marketing (SMM):</h5>
                             <p class="card-text">
-                                Grow brands on Facebook, Instagram, LinkedIn, and YouTube. Learn content creation, paid
-                                campaigns, follower growth, and performance analysis.
+                                Create and manage brand strategies on Facebook, Instagram, LinkedIn, and YouTube. Learn
+                                paid ads, content planning, and analytics.
                             </p>
+                            <!-- <ul>
+                                <li>Facebook</li>
+                                <li>Instagram</li>
+                                <li>LinkedIn</li>
+                                <li>YouTube</li>
+                               
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -476,11 +469,17 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                 <div class="col-md-6 col-lg-4">
                     <div class="card h-100 shadow-sm">
                         <div class="card-body">
-                            <h5 class="card-title">PPC Training in Mohali</h5>
+                            <h5 class="card-title">Google Ads & PPC Training:</h5>
                             <p class="card-text">
-                                Create and manage paid ad campaigns on Google and social platforms. Learn targeting, ad
-                                creation, budgeting, conversion tracking, and optimization.
+                                Run profitable campaigns on Google Search, Display, and YouTube. Learn budgeting,
+                                targeting, A/B testing, and conversion tracking.
                             </p>
+                            <!-- <ul>
+                                <li>Google Search Ads</li>
+                                <li>Display Ads</li>
+                                <li>YouTube Ads</li>
+                                <li>Social media paid campaigns</li>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -489,11 +488,17 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                 <div class="col-md-6 col-lg-4 mt-4">
                     <div class="card h-100 shadow-sm">
                         <div class="card-body">
-                            <h5 class="card-title">Content Marketing Training</h5>
+                            <h5 class="card-title">Content Marketing:</h5>
                             <p class="card-text">
-                                Create content that attracts and converts—blogs, website content, social posts, and
-                                basic copywriting aligned with SEO goals.
+                                Create blogs, landing pages, videos, and social media content aligned with SEO and
+                                business goals.
                             </p>
+                            <!-- <ul>
+                                <li>Blogs</li>
+                                <li>Website content</li>
+                                <li>Social media posts</li>
+                                <li>Basic copywriting for ads and landing pages</li>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -502,11 +507,17 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                 <div class="col-md-6 col-lg-4 mt-4">
                     <div class="card h-100 shadow-sm">
                         <div class="card-body">
-                            <h5 class="card-title">Email Marketing Training</h5>
+                            <h5 class="card-title"> Email Marketing:</h5>
                             <p class="card-text">
-                                Build email lists, design campaigns, write effective emails, and track performance to
-                                nurture leads and customers.
+                                Build email lists, design high-converting campaigns, write effective copies, and analyze
+                                results.
                             </p>
+                            <!-- <ul>
+                                <li>Build email lists</li>
+                                <li>Design email campaigns</li>
+                                <li>Write effective emails</li>
+                                <li>Track open rates and conversions</li>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
@@ -515,23 +526,33 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                 <div class="col-md-6 col-lg-4 mt-4">
                     <div class="card h-100 shadow-sm">
                         <div class="card-body">
-                            <h5 class="card-title">Analytics & AI Tools Training</h5>
+                            <h5 class="card-title">Analytics & AI Tools: </h5>
                             <p class="card-text">
-                                Understand Google Analytics, Search Console, and modern AI-powered marketing tools to
-                                track users and improve results.
+                                Master Google Analytics 4, Search Console, and modern AI tools for content creation,
+                                ads, and performance analysis.
                             </p>
+                            <!-- <ul>
+                                <li>Google Analytics</li>
+                                <li>Google Search Console</li>
+                                <li>AI-powered marketing tools</li>
+                                <li>Reporting & performance analysis</li>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
             </div>
 
             <!-- <div class="text-center mt-5">
-                <a href="#" class="btn slider px-4 py-2 text-white">
+                <a href="#" class="btn slider px-4 py-2 text-white" >
                     Enroll Now
                 </a>
             </div> -->
         </div>
     </section>
+
+
+
+
 
     <section class="contaianer-fluid pt pb howitwork">
         <div class="cutom-container width90">
@@ -606,7 +627,125 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
         </div><!--/container-->
     </section><!--/Tool Covered-->
 
+    <!--  -->
+    <section class="py-5 bg-light">
+        <div class="cutom-container width90">
+            <div class="text-center mb-5">
+                <h2 class="fw-bold">Why 5Trainers is the Best Choice for a Digital Marketing Course in Zirakpur</h2>
+                <p class="text-muted mt-2 text-center">
+                    We don’t believe in theory-heavy training. Our learning model is practical, transparent, and
+                    career-focused.
+                </p>
+            </div>
 
+            <div class="row g-4">
+                <!-- Card 1 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">Learn from Certified Industry Experts: </h5>
+                        <p class="text-muted">
+                            Our trainers are active digital marketers managing real campaigns for real businesses.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Card 2 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">100% Practical & Project-Based Training:</h5>
+                        <p class="text-muted"> Perform live SEO audits, run Google Ads, manage social media pages, and
+                            track campaign performance.</p>
+                        <!-- <ul class="text-muted ps-3">
+            <li>Live websites</li>
+            <li>SEO audits</li>
+            <li>Google Ads campaigns</li>
+            <li>Social media marketing</li>
+            <li>Content creation & analytics</li>
+          </ul> -->
+                    </div>
+                </div>
+
+                <!-- Card 3 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">Beginner-Friendly (Zero to Advanced): </h5>
+                        <p class="text-muted">
+                            No prior experience needed. We start from the basics and gradually move to advanced
+                            strategies.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Card 4 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">100% Placement & Freelance Support</h5>
+                        <p class="text-muted"> Resume building, interview preparation, freelancing guidance, and job
+                            referrals in Zirakpur & Tricity.
+                        </p>
+                        <!-- <ul class="text-muted ps-3">
+            <li>Job interview preparation</li>
+            <li>Resume & portfolio building</li>
+            <li>Freelancing platform guidance</li>
+            <li>Client handling basics</li>
+          </ul> -->
+                    </div>
+                </div>
+
+                <!-- Card 5 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">Live Campaign Learning: </h5>
+                        <p class="text-muted">
+                            Training based on current algorithms, tools, and real-time data—not outdated theory.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Card 6 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">Hands-On Tool Training:</h5>
+                        <p class="text-muted">
+                            Google Ads, GA4, Search Console, Meta Business Suite, Canva, SEMrush, and AI marketing
+                            tools.
+                        </p>
+                    </div>
+                </div>
+                <!-- Card 7 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">Small Batches & Personal Mentorship:</h5>
+                        <p class="text-muted">
+                            Individual attention, clear doubt resolution, and one-on-one guidance.
+                        </p>
+                    </div>
+                </div>
+                <!-- Card 8 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">Honest Career Guidance:</h5>
+                        <p class="text-muted">
+                            Clear insights on job roles, salaries, and career growth in digital marketing.
+                        </p>
+                    </div>
+                </div>
+                <!-- Card 0-->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 shadow-sm border-0 p-3">
+                        <h5 class="fw-semibold">Lifetime Learning Support: </h5>
+                        <p class="text-muted">
+                            Continued access to updated content, job alerts, and expert support after course
+                            completion..
+                        </p>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </section>
+    <!--  -->
 
     <section class="contaianer-fluid pt pb studentParticipation" style="display:none;">
         <div class="cutom-container width90">
@@ -894,14 +1033,15 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                             <h3>Career Opportunities After Digital Marketing Course</h3>
                             <!-- <h5 class="text-white">After completing the course, you can work as:</h5> -->
                             <ul class="p" style="padding: 0px;">
-                                <li class="text-white">Digital Marketing Executive</li>
-                                <li class="text-white">SEO Specialist</li>
+                                <li class="text-white">Digital Marketing Executive / Specialist</li>
+                                <li class="text-white">SEO Analyst / Manager</li>
                                 <li class="text-white">Social Media Manager</li>
                                 <li class="text-white">PPC / Google Ads Expert</li>
-                                <li class="text-white">Content Marketer</li>
-                                <li class="text-white">Freelancer or Consultant</li>
+                                <li class="text-white">Content Marketing Specialist</li>
+                                <li class="text-white">Digital Marketing Consultant / Freelancer</li>
                             </ul>
-                            <p class="text-white">Digital marketing skills are in demand across industries,</p>
+                            <p class="text-white">With growing demand across Zirakpur, Chandigarh, Mohali, Panchkula,
+                                and remote roles, opportunities are vast and scalable.</p>
                         </div>
                     </div>
                 </div><!--/col-->
@@ -912,19 +1052,20 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                                 data-aos-duration="1500">
                                 <!-- <img src="assets/image/icon/mission-about.png" class="img-fluid" alt="Icon"> -->
                             </div>
-                            <h3>Who Should Join This Digital Marketing Training?</h3>
+                            <h3>Who Should Join This Digital Marketing Course in Zirakpur?</h3>
                             <ul class="p mt-4" style="padding: 0px;">
                                 <li class="text-white">Students & fresh graduates</li>
-                                <li class="text-white">Job seekers & career switchers</li>
+                                <li class="text-white">Job seekers & career switchers
+                                </li>
                                 <li class="text-white">Business owners & entrepreneurs</li>
-                                <li class="text-white">Freelancers & content creators </li>
-                                <li class="text-white">Working professionals looking to upgrade skills</li>
+                                <li class="text-white">Freelancers, bloggers & influencers</li>
+                                <li class="text-white">Sales, IT, or marketing professionals</li>
                             </ul>
-                            <p class="text-white">No technical degree required—just the willingness to learn.</p>
+                            <p class="text-white">No technical background required</p>
                         </div>
                     </div>
                 </div><!--/col-->
-
+              
             </div><!--/mission vission-->
         </div><!--/Container-->
     </section>
@@ -935,20 +1076,17 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
     <section class="py-5 slider text-white text-center">
         <div class="container">
 
-            <h2 class="fw-bold mb-3 text-white">Start Your Digital Marketing Journey Today</h2>
+            <h2 class="fw-bold mb-3 text-white">Start Your Digital Marketing Career in Zirakpur Today</h2>
 
             <p class="lead mb-4 text-white text-center">
-                Join 5Trainers – the best digital marketing institute in Mohali and gain skills that help you grow
-                professionally and financially.
+                Join 5Trainers, the trusted institute for a Digital Marketing Course in Zirakpur, and gain the skills
+                needed to succeed in today’s digital economy.
             </p>
             <p class="lead mb-4 text-white text-center">
-                Contact us today to enroll in our Digital Marketing Training in Mohali and take the first step toward a
-                successful digital career.
+                Contact us today to book your seat or attend a free demo class.
             </p>
 
-            <a href="#" class="btn btn-warning btn-lg fw-semibold px-4">
-                Enroll Now
-            </a>
+            <a href="#" class="btn btn-warning btn-lg fw-semibold px-4"> Enroll Now </a>
 
         </div>
     </section>
@@ -1048,16 +1186,19 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
             <div class="row align-items-center">
                 <div class="col-lg-12 text-center">
                     <h1 class="fw-bold mb-3">
-                        Learn Skills That Grow Careers & Businesses
+                        Launch Your Digital Career in Zirakpur Today
                     </h1>
                     <p class="lead mb-3 text-white text-center">
-                        5Trainers offers professional <strong>Digital Marketing Training in Mohali</strong>
-                        designed to help you learn real-world skills that companies actually need today.
+                        Join 5Trainers—Zirakpur's most trusted digital marketing institute—and gain the practical
+                        skills and confidence to excel in the digital domain.
+
+
                     </p>
                     <p class="mb-4 text-white text-center">
-                        Our digital marketing course in Mohali focuses on practical learning, live projects,
-                        and step-by-step guidance so you can confidently work on real campaigns — not just theory.
+                        Contact us now to book a free demo class or enroll in our upcoming batch of Digital Marketing
+                        Training in Zirakpur.
                     </p>
+
                     <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a>
                 </div>
             </div>
@@ -1065,78 +1206,64 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
     </section>
     <!--  -->
     <section class="our-location py-5">
-        <div class="no-container width90">
-            <h2 class="text-center mb-4 fw-bold">Our Location</h2>
+  <div class="no-container width90">
+    <h2 class="text-center mb-4 fw-bold">Our Location</h2>
 
-            <div class="row g-4">
-                <!-- Box -->
-                <div class="col-lg-3 col-md-4 col-sm-6">
-                    <a href="digital-marketing-course-in-ropar.php" class="location-box"> Digital Marketing Course In
-                        Ropar <span> ›</span></a>
-                </div>
+    <div class="row g-4">
+      <!-- Box -->
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-ropar.php" class="location-box"> Digital Marketing Course In Ropar <span> ›</span></a>
+      </div>
 
-                <div class="col-lg-3 col-md-4 col-sm-6">
-                    <a href="digital-marketing-course-in-airport-road-chandigarh.php" class="location-box">Digital
-                        Marketing Course In Airport Road Chandigarh ›</a>
-                </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-airport-road-chandigarh.php" class="location-box">Digital Marketing Course In Airport Road Chandigarh ›</a>
+      </div>
 
-                <div class="col-lg-3 col-md-4 col-sm-6">
-                    <a href="digital-marketing-course-in-ambala.php" class="location-box"> Digital Marketing Course In
-                        Ambala<span>›</span></a>
-                </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-ambala.php" class="location-box"> Digital Marketing Course In Ambala<span>›</span></a>
+      </div>
 
-                <div class="col-lg-3 col-md-4 col-sm-6">
-                    <a href="digital-marketing-course-in-faridabad.php" class="location-box">Digital Marketing Course In
-                        Faridabad <span>›</span></a>
-                </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-faridabad.php" class="location-box">Digital Marketing Course In Faridabad <span>›</span></a>
+      </div>
 
-                <div class="col-lg-3 col-md-4 col-sm-6">
-                    <a href="digital-marketing-course-in-ghaziabad.php" class="location-box">Digital Marketing Course In
-                        Ghaziabad <span>›</span></a>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6">
-                    <a href="digital-marketing-course-in-gurgaon.php" class="location-box">Digital Marketing Course In
-                        Gurgaon <span>›</span></a>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6">
-                    <a href="digital-marketing-course-in-kharar.php" class="location-box">Digital Marketing Course In
-                        Kharar <span>›</span></a>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6">
-                    <a href="digital-marketing-course-in-noida.php" class="location-box">Digital Marketing Course In
-                        Noida <span>›</span></a>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6">
-                    <a href="digital-marketing-course-in-panchkula.php" class="location-box">Digital Marketing Course In
-                        Panchkula <span>›</span></a>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6">
-                    <a href="digital-marketing-course-in-zirakpur.php" class="location-box">Digital Marketing Course In
-                        Zirakpur <span>›</span></a>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6">
-                    <a href="Digital-Marketing-Training-in-Chandigarh.php" class="location-box">Digital Marketing
-                        Training In Chandigarh <span>›</span></a>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6">
-                    <a href="digital-marketing-training-in-delhi.php" class="location-box">Digital Marketing Training In
-                        Delhi <span>›</span></a>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6">
-                    <a href="Digital-Marketing-Training-in-HimachalPradesh.php" class="location-box">Digital Marketing
-                        Training In Himachal Pradesh <span>›</span></a>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6">
-                    <a href="Digital-Marketing-Training-in-Mohali.php" class="location-box">Digital Marketing Training
-                        In Mohali <span>›</span></a>
-                </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-ghaziabad.php" class="location-box">Digital Marketing Course In Ghaziabad <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-gurgaon.php" class="location-box">Digital Marketing Course In Gurgaon <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-kharar.php" class="location-box">Digital Marketing Course In Kharar <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-noida.php" class="location-box">Digital Marketing Course In Noida <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-panchkula.php" class="location-box">Digital Marketing Course In Panchkula <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-course-in-zirakpur.php" class="location-box">Digital Marketing Course In Zirakpur <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="Digital-Marketing-Training-in-Chandigarh.php" class="location-box">Digital Marketing Training In Chandigarh <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="digital-marketing-training-in-delhi.php" class="location-box">Digital Marketing Training In Delhi <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="Digital-Marketing-Training-in-HimachalPradesh.php" class="location-box">Digital Marketing Training In Himachal Pradesh <span>›</span></a>
+      </div>
+      <div class="col-lg-3 col-md-4 col-sm-6">
+        <a href="Digital-Marketing-Training-in-Mohali.php" class="location-box">Digital Marketing Training In Mohali <span>›</span></a>
+      </div>
+      
 
 
-
-                <!-- copy more boxes as needed -->
-            </div>
-        </div>
-    </section>
+      <!-- copy more boxes as needed -->
+    </div>
+  </div>
+</section>
     <!-- faq -->
     <section class="container-fluid pt pb faq">
         <div class="custom-container width90">
@@ -1147,72 +1274,53 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                 <div class="col-sm-12 col-lg-12">
                     <div class="accordion rpt mt-80">
                         <div class="box active">
-                            <div class="label">1. What is digital marketing?</div>
+                            <div class="label">1.What is digital marketing?</div>
                             <div class="content">
-                                Digital marketing is the promotion of products or services using online platforms like
-                                Google, social media, websites, email, and paid ads.
+                                Digital marketing involves promoting brands, products, or services using online
+                                platforms like Google, social media, email, and websites to reach and engage customers.
                             </div>
                         </div>
                         <div class="box">
-                            <div class="label">2. Who can join the digital marketing course in Mohali?</div>
+                            <div class="label">2. Who can join this course in Zirakpur?
+                            </div>
                             <div class="content">
-                                Anyone can join—students, freshers, professionals, business owners, freelancers, or
-                                career switchers. No prior experience is required.
+                                Anyone—students, professionals, business owners, or beginners—can join.
                             </div>
                         </div>
                         <div class="box">
                             <div class="label">3. Is this course suitable for beginners?</div>
-                            <div class="content">Yes. The training starts from basics and is easy to understand for
-                                beginners.</div>
-                        </div>
-                        <div class="box">
-                            <div class="label">4. What topics are covered?</div>
-                            <div class="content">
-                                SEO, social media marketing, Google Ads, content marketing, email marketing, analytics,
-                                and AI-based tools.
+                            <div class="content"> Yes, it is designed from basic to advanced level.
                             </div>
                         </div>
                         <div class="box">
-                            <div class="label">5. Is the training practical or theoretical?</div>
+                            <div class="label">4. How practical is the training?</div>
                             <div class="content">
-                                Highly practical with live projects, real websites, ad campaigns, and tools.
+                                100% practical with live projects and real campaigns.
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="label">5. Do you provide certification?</div>
+                            <div class="content">
+                                Yes, you receive a recognized certificate from 5Trainers.
                             </div>
                         </div>
 
                         <div class="box">
-                            <div class="label">6. Will I get a certificate?</div>
-                            <div class="content">Yes, you will receive a course completion certificate from 5Trainers.
+                            <div class="label">6. Do you offer placement support?</div>
+                            <div class="content"> Yes, we provide 100% placement assistance.
                             </div>
                         </div>
 
                         <div class="box">
-                            <div class="label">7. Does this course help with jobs or freelancing?</div>
-                            <div class="content">Yes. We provide interview guidance, resume tips, and freelancing
-                                support.
+                            <div class="label">7.Course duration?</div>
+                            <div class="content"> 3–4 months with flexible weekday and weekend batches.
                             </div>
                         </div>
-                        <div class="box">
-                            <div class="label">8. Why choose 5Trainers in Mohali?</div>
-                            <div class="content">Experienced trainers, hands-on learning, small batches, affordable
-                                fees, and real industry exposure.
-                            </div>
-                        </div>
-                        <div class="box">
-                            <div class="label">9. How long is the course?</div>
-                            <div class="content">Duration depends on the plan you choose. Our team will guide you based
-                                on your goals.
-                            </div>
-                        </div>
-                        <div class="box">
-                            <div class="label">10. How can I enroll?</div>
-                            <div class="content">Contact us through our website or call our team to book your seat.
-                            </div>
-                        </div>
+
                     </div>
                     <!--/accordion-->
                 </div>
             </div>
     </section>
-
 
     <?php include('footer.php'); ?>

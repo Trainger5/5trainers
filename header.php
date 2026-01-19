@@ -94,7 +94,7 @@
 <body class="aos-all" id="transcroller-body">
     <nav>
       
-     <div class="top-contact-bar pt-3 pb-3" style="border-bottom: 2px solid #ff8503">
+     <div class="no-container width90 top-contact-bar pt-3 pb-3" style="border-bottom: 2px solid #ff8503; background-color: white;">
         <div class="width90 d-flex" style="justify-content: end;">
             <div>
             <i class="fa-solid fa-phone icon"></i>

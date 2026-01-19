@@ -38,7 +38,7 @@ $canonical_url = "https://www.5trainers.com/professionals.php";
 <!--/Breadcrumbs-->
 
 <section class="continer-fluid pt pb comm-margin counseling">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-lg-7">
                 <div class="section-title-area">
@@ -55,14 +55,15 @@ $canonical_url = "https://www.5trainers.com/professionals.php";
                 </div>
                 <!--/heading div-->
                 <div class="counselingButn">
-                    <div class="yellowBtn"><a href="#" style="background-color:#ff8503">Get a Free Consultation</a>
+                    <div class="yellowBtn"><a href="contact.php" style="background-color:#ff8503">Get a Free Consultation</a>
                     </div>
                 </div>
             </div>
             <!--/col-->
             <div class="col-lg-5">
                 <div class="counselingAbout">
-                    <img src="assets/image/slider/counseling-for-students.png" class="img-fluid" alt="Counseling">
+                    <!-- <img src="assets/image/slider/counseling-for-students.png" class="img-fluid" alt="Counseling"> -->
+                    <img src="assets/image/slider/counseling-for-student.png" class="img-fluid" alt="Counseling">
                 </div>
             </div>
             <!--/col-->
@@ -74,7 +75,7 @@ $canonical_url = "https://www.5trainers.com/professionals.php";
 <!--/Counselling-->
 
 <section class="container-fluid learning-paths">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center">
@@ -185,7 +186,7 @@ $canonical_url = "https://www.5trainers.com/professionals.php";
 <!--/Personalized Learning Paths To Success-->
 
 <section class="container-fluid pt pb learning-paths">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row serviceProcess">
             <div class="col-lg-4">
                 <div class="content-wrapper servicePBox">
@@ -316,7 +317,7 @@ $canonical_url = "https://www.5trainers.com/professionals.php";
 
                         <div class="getFreeConsultationButn">
                             <div class="getFreeConsultation">
-                                <a href="">Get a Free Consultation</a>
+                                <a href="contact.php">Get a Free Consultation</a>
                             </div>
                         </div>
                     </div>
@@ -330,7 +331,7 @@ $canonical_url = "https://www.5trainers.com/professionals.php";
 </section>
 
 <section class="container-fluid pt pb ourAssessment">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="ourAssemtContainer">
@@ -345,10 +346,10 @@ $canonical_url = "https://www.5trainers.com/professionals.php";
                     <!--/heading div-->
                     <div class="buttonBox">
                         <div class="assesssmentButn yellow">
-                            <a href="">View More</a>
+                            <a href="#" style="text-decoration: none;">View More</a>
                         </div>
                         <div class="assesssmentButn blue">
-                            <a href="">Take Our Assessment</a>
+                            <a href="#" style="text-decoration: none;">Take Our Assessment</a>
                         </div>
 
                     </div>
@@ -356,13 +357,13 @@ $canonical_url = "https://www.5trainers.com/professionals.php";
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="getFreeConsultation yellow">
-                                    <a href="">View More</a>
+                                    <a href="#" style="text-decoration: none;">View More</a>
                                 </div>
                             </div>
                             <!--/col-->
                             <div class="col-lg-6">
                                 <div class="getFreeConsultation blue">
-                                    <a href="">Take Our Assessment</a>
+                                    <a href="#" style="text-decoration: none;">Take Our Assessment</a>
                                 </div>
                             </div>
                             <!--/col-->
@@ -436,7 +437,7 @@ $canonical_url = "https://www.5trainers.com/professionals.php";
 <!--/Our Student Got Into-->
 
 <section class="container-fluid pt pb faqSection">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area white-heading">
@@ -481,7 +482,8 @@ $canonical_url = "https://www.5trainers.com/professionals.php";
             </div>
             <!--/col-->
             <div class="col-lg-5">
-                <div class="faqImage"><img src="assets/image/other/faq.svg" class="img-fluid" alt=""></div>
+                <!-- <div class="faqImage"><img src="assets/image/other/faq.svg" class="img-fluid" alt=""></div> -->
+                  <div class="faqImage"><img src="assets/image/other/faq.png" loading="lazy" class="img-fluid" alt="faq-img"></div>
             </div>
         </div>
     </div>

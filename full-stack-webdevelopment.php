@@ -10,8 +10,8 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
 <link href="landingpage/assets/css/shorttermcourse.css" type="text/css" rel="stylesheet" />
 <link href="landingpage/assets/css/coursedetails.css" type="text/css" rel="stylesheet" />
 <section id="slide-show" class="setbg landignsetbg">
-    <div class="custom-container width80">
-        <div class="">
+    <div class="custom-container width90">
+        <div class="hero-main">
             <div class="row">
                 <div class="col-lg-7 full-stack-main">
                     <div class="intro-details">
@@ -97,19 +97,19 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
 </section><!--/banner-->
 <span id="top"></span>
 <section class="container-fluid slider-hding">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="buildText">
                     <h2>You Are One Step Closer To Building A Thriving Career As <span>Web Developer!</span></h2>
-                    <a href="">Register Now</a>
+                    <!-- <a href="contact.php">Register Now</a> -->
                 </div>
             </div><!--col-->
         </div><!--/row-->
     </div><!--container-->
 </section><!--/slider Heading-->
 <section class="features-2 pt pb">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row align-items-center">
             <div class="col-12 col-xl-6">
                 <div class="row mtm-30">
@@ -186,7 +186,7 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
                     <h2 data-aos="fade-up" data-aos-delay="100" class="aos-init aos-animate">Why Get <span>Full Stack
                             Development</span> Certification From 5Trainers?</h2>
                 </div>
-                <div class="registerstack"><a href="#" class="theme-btn mt-30 aos-init aos-animate" data-aos="fade-up"
+                <div class="registerstack"><a href="contact.php" class="theme-btn mt-30 aos-init aos-animate" data-aos="fade-up"
                         data-aos-delay="200">Register Now<span><img src="assets/image/icon/reply_arrow.png"
                                 alt=""></span></a></div>
             </div>
@@ -195,11 +195,11 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
 </section>
 
 <section class="container-fluid about-sec pt pb aos-all" id="transcroller-body">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-sm-5 col-md-12 col-lg-5 align-self-center">
                 <div data-aos="fade-up" data-aos-duration="800" class="about-us-img-wrap about-img-left">
-                    <img src="assets/image/about/about-2.png" alt="About Us Image" class="img-fluid">
+                    <img src="assets/image/about/about-2.png" loading="lazy"     alt="About Us Image" class="img-fluid">
                 </div>
             </div>
             <div class="col-sm-7 col-md-12 col-lg-7 align-self-center">
@@ -263,7 +263,7 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
 <!--/about -->
 
 <section class="contaianer-fluid pt pb skill-cover">
-    <div class="cutom-container width80">
+    <div class="cutom-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center centerhding">
@@ -354,7 +354,7 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
 </section><!--/skill cover-->
 
 <section class="contaianer-fluid pt pb howitwork">
-    <div class="cutom-container width80">
+    <div class="cutom-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area whitetext centerhding">
@@ -453,7 +453,7 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
 </section><!--/Tool Covered-->
 
 <section class="contaianer-fluid pt pb studentParticipation" style="display:none;">
-    <div class="cutom-container width80">
+    <div class="cutom-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center">
@@ -529,7 +529,7 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
 </section><!--/Project Agile Activity with Student Participation-->
 
 <section class="container-fluid pt pb fresherJob">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center centerhding">
@@ -602,7 +602,7 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
 </section>
 <?php include('placement-certificate-havequestion.php'); ?>
 <section class="container-fluid pt pb faq">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row">
             <div class="col-sm-5 col-lg-6">
                 <div class="section-title-area">

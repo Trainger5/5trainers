@@ -7,8 +7,8 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
 <link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
 <!--Slider-->
 <section id="slide-show" class="setbg landignsetbg">
-    <div class="custom-container width80">
-        <div class="">
+    <div class="custom-container width90">
+        <div class="hero-main">
             <div class="row">
                 <div class="col-lg-7 data-science">
                     <div class="intro-details">
@@ -116,12 +116,12 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
 </section>
 <!--/Slider-->
 <section class="container-fluid slider-hding">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="buildText">
                     <h2>You Are One Step Closer To Building A Thriving Career As <span>Data Science Expert!</span></h2>
-                    <a href="">Register Now</a>
+                    <a href="contact.php" style="text-decoration: none;">Register Now</a>
                 </div>
             </div>
             <!--col-->
@@ -132,7 +132,7 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
 </section>
 
 <section class="continer-fluid pt pb counseling">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-lg-7">
                 <div class="section-title-area">
@@ -159,14 +159,15 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
                         student career guidance</li>
                     </ul>
                 </div>
-                <div class="counselingButn">
+                <!-- <div class="counselingButn">
                     <div class="yellowBtn"><a href="#">Get a Free Consultation</a></div>
-                </div>
+                </div> -->
             </div>
             <!--/col-->
             <div class="col-lg-5">
                 <div class="counselingAbout">
-                    <img src="assets/image/slider/counseling-for-students.png" class="img-fluid" alt="Counseling">
+                    <!-- <img src="assets/image/slider/counseling-for-students.png" class="img-fluid" alt="Counseling"> -->
+                       <img src="assets/image/slider/counseling-for-student.png" loading="lazy" class="img-fluid" alt="Counseling">
                 </div>
             </div>
             <!--/col-->
@@ -176,7 +177,7 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
 </section>
 <section class="container-fluid pb learning-paths dataScience">
     <div class="content-wrapper">
-        <div class="nocontainer width80">
+        <div class="nocontainer width90">
             <div class="row serviceProcess">
                 <div class="col-lg-4">
                     <div class="servicePBox">
@@ -185,7 +186,7 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
                         </div>
                         <div class="serviceContent">
                             <ul id="courseMenu" class="p-0">
-                                <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"><a href="#course1"> Python for Data Science</a></li>
+                                <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"><a href="#course1" > Python for Data Science</a></li>
                                 <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"><a href="#course2"> SQL for Data Analysis</a></li>
                                 <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"><a href="#course3"> Advanced Excel</a></li>
                                 <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"><a href="#course4"> Power BI for Data Visualization</a></li>
@@ -331,9 +332,9 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
                             </div><!--/Image Content Container-->
 
                             <div class="getFreeConsultationButn">
-                                <div class="getFreeConsultation">
-                                    <a href="">Get a Free Consultation</a>
-                                </div>
+                                <!-- <div class="getFreeConsultation">
+                                    <a href="" style="text-decoration: none;">Get a Free Consultation</a>
+                                </div> -->
                             </div>
                         </div><!--/Process Content-->
                     </div>
@@ -345,7 +346,7 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
 
 <section class="container-fluid pb pt keyHighlights">
     <div class="content-wrapper">
-        <div class="nocontainer width80">
+        <div class="nocontainer width90">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area text-center width70">
@@ -400,7 +401,7 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
 </section><!--/Key Highlights -->
 
 <section class="container-fluid pt pb whyShould">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center">
@@ -508,7 +509,7 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
 
 
 <section class="container-fluid pt pb learning-paths batchDetails">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center">
@@ -536,7 +537,7 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
                                         expert advice to make the right career decision Then,
                                         career counseling is for you.</p>
                                     <div class="row mt-80">
-                                        <div class="offset-lg-1 col-lg-5">
+                                        <div class="offset-lg-1 col-lg-5 m-0">
                                             <div data-aos="fade-up" data-aos-duration="800"
                                                 class="aos-init certified-card aos-animate">
                                                 <div class="card-item">
@@ -594,7 +595,7 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
                                     <p>Guidance on trending courses and in-demand skills</p>
                                     <p>Help with course selection after 10th / 12th / graduation</p>
                                     <p>Support in making short-term and long-term career plans</p>
-                                    <ul class="mt-20">
+                                    <ul class="mt-20 p-0">
                                         <li>Career Assessment for Students</li>
                                         <li>Student Guidance Program</li>
                                         <li>Career Decision Making</li>
@@ -613,10 +614,10 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
                                     <p>In-depth understanding of the latest career trends</p>
                                     <p>100% unbiased and professional guidance</p>
                                     <p>Support via in-person and online sessions</p>
-                                    <ul class="mt-20">
-                                        <li>student career counselor near me</li>
-                                        <li>online career counseling</li>
-                                        <li>professional career advice</li>
+                                    <ul class="mt-20 p-0">
+                                        <li class="p-0">student career counselor near me</li>
+                                        <li class="p-0">online career counseling</li>
+                                        <li class="p-0">professional career advice</li>
                                     </ul>
                                 </div>
                             </div>
@@ -694,7 +695,7 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
 <!--/Our Student Got Into-->
 
 <section class="container-fluid pt pb faqSection">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area white-heading">
@@ -741,15 +742,15 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
                                 beef brisket ball tip short ribs.
                             </p>
                         </div>
-                        <a class="moreless-button" href="#">Read more</a>
+                       
                     </div>
                 </div>
                 <!--/FAQ-->
             </div>
             <!--/col-->
             <div class="col-lg-5">
-                <div class="faqImage"><img src="assets/image/other/faq.svg" class="img-fluid" alt=""></div>
-                <!-- <div class="faqImage"><img src="assets/image/other/faqs.png" class="img-fluid" alt=""></div> -->
+                <!-- <div class="faqImage"><img src="assets/image/other/faq.svg" class="img-fluid" alt=""></div> -->
+                 <div class="faqImage"><img src="assets/image/other/faq.png" loading="lazy" class="img-fluid" alt="faq-img"></div>
             </div>
         </div>
     </div>

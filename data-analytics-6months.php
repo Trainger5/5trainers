@@ -12,8 +12,8 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
 <link href="landingpage/assets/css/coursedetails.css" type="text/css" rel="stylesheet" />
 <!--Slider-->
 <section id="slide-show" class="setbg landignsetbg">
-    <div class="custom-container width80">
-        <div class="">
+    <div class="custom-container width90">
+        <div class="hero-main">
             <div class="row">
                 <div class="col-lg-7 data-analytics-main">
                     <div class="intro-details">
@@ -109,13 +109,13 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
 </section><!--/Slider-->
 <span id="top"></span>
 <section class="container-fluid slider-hding">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="buildText">
                     <h2>You Are One Step Closer To Building A Thriving Career As <span>Data Analytics Expert!</span>
                     </h2>
-                    <a href="">Register Now</a>
+                    <!-- <a href="contact.php">Register Now</a> -->
                 </div>
             </div><!--col-->
         </div><!--/row-->
@@ -123,7 +123,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
 </section><!--/slider Heading-->
 
 <section class="container-fluid about-sec pt pb aos-all" id="transcroller-body">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-12 align-self-center">
                 <div class="about-us-info-wrap">
@@ -165,7 +165,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
 </section><!--/SEO Course Overview-->
 
 <section class="contaianer-fluid pt pb courseModules">
-    <div class="cutom-container width80">
+    <div class="cutom-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area">
@@ -353,7 +353,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
 </section><!--/courseModules-->
 
 <section class="contaianer-fluid pt pb courseModules">
-    <div class="cutom-container width80">
+    <div class="cutom-container width90">
         <div class="row">
             <div class="col-lg-4">
                 <div class="section-title-area">
@@ -500,7 +500,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
 </section><!--/Features-->
 
 <section class="container-fluid pt pb whyShould dataanalytics">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center">
@@ -570,7 +570,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
 
 <section class="container-fluid pb pt keyHighlights">
     <div class="content-wrapper">
-        <div class="nocontainer width80">
+        <div class="nocontainer width90">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area text-center width70">
@@ -625,7 +625,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
 </section><!--/Why 5Trainers is the Right Choice for You-->
 
 <section class="features-2 pt pb">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row align-items-center">
             <div class="col-12 col-xl-6">
                 <div class="row mtm-30">
@@ -691,7 +691,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
                     <h2 data-aos="fade-up" data-aos-delay="100" class="aos-init aos-animate"><span>Career
                             Opportunities</span> After This Course</h2>
                 </div>
-                <div class="registerstack"><a href="#" class="theme-btn mt-30 aos-init" data-aos="fade-up"
+                <div class="registerstack"><a href="contact.php" class="theme-btn mt-30 aos-init" data-aos="fade-up"
                         data-aos-delay="200">Register Now<span><img src="assets/image/icon/reply_arrow.png"
                                 alt=""></span></a></div>
             </div>

@@ -13,8 +13,8 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
 
 <!--Slider-->
 <section id="slide-show" class="setbg landignsetbg">
-    <div class="custom-container width80">
-        <div class="">
+    <div class="custom-container width90">
+        <div class="hero-main">
             <div class="row">
                 <div class="col-lg-7 meta-ads-main">
                     <div class="intro-details">
@@ -109,12 +109,12 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
 </section><!--/Slider-->
 <span id="top"></span>
 <section class="container-fluid slider-hding">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="buildText">
                     <h2>You Are One Step Closer To Building A Thriving Career As <span>Meta Ads Expert</span></h2>
-                    <?php include('landingpage/registernow-popup.php'); ?>
+                    <a href="contact.php">Register Now</a>
                 </div>
             </div><!--col-->
         </div><!--/row-->
@@ -122,7 +122,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
 </section><!--/slider Heading-->
 
 <section class="continer-fluid pt pb counseling">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-lg-7">
                 <div class="section-title-area">
@@ -152,14 +152,15 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                         student career guidance</li>
                     </ul>
                 </div>
-                <div class="counselingButn">
+                <!-- <div class="counselingButn">
                     <div class="yellowBtn"><a href="#">Get a Free Consultation</a></div>
-                </div>
+                </div> -->
             </div>
             <!--/col-->
             <div class="col-lg-5">
                 <div class="counselingAbout">
-                    <img src="assets/image/slider/counseling-for-students.png" class="img-fluid" alt="Counseling">
+                    <!-- <img src="assets/image/slider/counseling-for-students.png" class="img-fluid" alt="Counseling"> -->
+                    <img src="assets/image/slider/counseling-for-student.png" loading="lazy" class="img-fluid" alt="Counseling">
                 </div>
             </div>
             <!--/col-->
@@ -169,7 +170,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
 </section><!--/Course Overview-->
 
 <section class="contaianer-fluid pt pb courseModules">
-    <div class="cutom-container width80">
+    <div class="cutom-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area">
@@ -410,7 +411,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
 </section><!--/courseModules-->
 
 <section class="contaianer-fluid pt pb courseModules">
-    <div class="cutom-container width80">
+    <div class="cutom-container width90">
         <div class="row">
             <div class="col-lg-4">
                 <div class="section-title-area">
@@ -556,7 +557,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
 </section><!--/Course Modules-->
 
 <section class="container-fluid pt pb whyShould">
-    <div class="no-container width80">
+    <div class="no-container width90">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center">
@@ -628,7 +629,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
 <?php include('placement-certificate-havequestion.php'); ?>
 
 <section class="container-fluid pt pb faq">
-    <div class="custom-container width80">
+    <div class="custom-container width90">
         <div class="row">
             <div class="col-sm-5 col-lg-6">
                 <div class="section-title-area">
@@ -640,7 +641,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                 </div>
                 <!--heading-->
                 <!-- <div class="faqimg"><img src="assets/image/services/faq-bg.png" alt="" class="img-fluid"></div> -->
-                <div class="faqimg"><img src="assets/image/services/Q-A.png" alt="" class="img-fluid"></div>
+                <div class="faqimg"><img src="assets/image/services/Q-A.png" loading="lazy" alt="" class="img-fluid"></div>
             </div>
             <div class="col-sm-7 col-lg-6">
                 <div class="accordion rpt mt-80">

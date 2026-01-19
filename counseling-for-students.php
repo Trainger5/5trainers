@@ -34,7 +34,7 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 </section><!--/Breadcrumbs-->
 
 <section class="container-fluid pt pb comm-margin counseling">
-	<div class="no-container width80">
+	<div class="no-container width90">
 		<div class="row">
 			<div class="col-lg-7">
 				<div class="section-title-area">
@@ -61,7 +61,8 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 			</div><!--/col-->
 			<div class="col-lg-5">
 				<div class="counselingAbout">
-					<img src="assets/image/slider/counseling-for-students.png" class="img-fluid" alt="Counseling">
+					<!-- <img src="assets/image/slider/counseling-for-students.png" class="img-fluid" alt="Counseling"> -->
+					<img src="assets/image/slider/counseling-for-student.png" loading="lazy" class="img-fluid" alt="Counseling">
 				</div>
 			</div><!--/col-->
 		</div><!--/row-->
@@ -69,7 +70,7 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 </section><!--/Counselling-->
 
 <section class="container-fluid pt pb learning-paths">
-	<div class="no-container width80">
+	<div class="no-container width90">
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="section-title-area text-center">
@@ -243,10 +244,10 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 									<p>Guidance on trending courses and in-demand skills</p>
 									<p>Help with course selection after 10th / 12th / graduation</p>
 									<p>Support in making short-term and long-term career plans</p>
-									<ul class="mt-20">
-										<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Career Assessment for Students</li>
-										<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Student Guidance Program</li>
-										<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Career Decision Making</li>
+									<ul class="mt-20 p-0">
+										<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Career Assessment for Students</li>
+										<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Student Guidance Program</li>
+										<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Career Decision Making</li>
 									</ul>
 								</div>
 								<div class="row serviceProcess">
@@ -256,13 +257,13 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 												<h2>Our Courses </h2>
 											</div>
 											<div class="serviceContent">
-												<ul>
-													<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Digital Marketing</li>
-													<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Website Development</li>
-													<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Python Programming</li>
-													<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Ethical Hacking</li>
-													<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Data Science & Machine Learning</li>
-													<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Data Analytics & Visualization</li>
+												<ul class="p-0">
+													<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Digital Marketing</li>
+													<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Website Development</li>
+													<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Python Programming</li>
+													<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Ethical Hacking</li>
+													<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Data Science & Machine Learning</li>
+													<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Data Analytics & Visualization</li>
 												</ul>
 											</div>
 										</div>
@@ -401,10 +402,10 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 									<p>In-depth understanding of the latest career trends</p>
 									<p>100% unbiased and professional guidance</p>
 									<p>Support via in-person and online sessions</p>
-									<ul class="mt-20">
-										<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> student career counselor near me</li>
-										<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> online career counseling</li>
-										<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> professional career advice</li>
+									<ul class="mt-20 p-0">
+										<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> student career counselor near me</li>
+										<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> online career counseling</li>
+										<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> professional career advice</li>
 									</ul>
 								</div>
 
@@ -415,13 +416,13 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 												<h2>Our Courses </h2>
 											</div>
 											<div class="serviceContent">
-												<ul>
-													<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Digital Marketing</li>
-													<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Website Development</li>
-													<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Python Programming</li>
-													<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Ethical Hacking</li>
-													<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Data Science & Machine Learning</li>
-													<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Data Analytics & Visualization</li>
+												<ul  class="p-0">
+													<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Digital Marketing</li>
+													<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Website Development</li>
+													<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Python Programming</li>
+													<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Ethical Hacking</li>
+													<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Data Science & Machine Learning</li>
+													<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Data Analytics & Visualization</li>
 												</ul>
 											</div>
 										</div>
@@ -568,10 +569,10 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 									<p>In-depth understanding of the latest career trends</p>
 									<p>100% unbiased and professional guidance</p>
 									<p>Support via in-person and online sessions</p>
-									<ul class="mt-20">
-										<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> student career counselor near me</li>
-										<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> online career counseling</li>
-										<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> professional career advice</li>
+									<ul class="mt-20 p-0">
+										<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> student career counselor near me</li>
+										<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> online career counseling</li>
+										<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> professional career advice</li>
 									</ul>
 								</div>
 
@@ -582,13 +583,13 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 												<h2>Our Courses </h2>
 											</div>
 											<div class="serviceContent">
-												<ul>
-													<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Digital Marketing</li>
-													<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Website Development</li>
-													<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Python Programming</li>
-													<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Ethical Hacking</li>
-													<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Data Science & Machine Learning</li>
-													<li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Data Analytics & Visualization</li>
+												<ul class="p-0">
+													<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Digital Marketing</li>
+													<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Website Development</li>
+													<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Python Programming</li>
+													<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Ethical Hacking</li>
+													<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Data Science & Machine Learning</li>
+													<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Data Analytics & Visualization</li>
 												</ul>
 											</div>
 										</div>
@@ -716,7 +717,7 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 												</div><!--/Image Content Container-->
 												<div class="getFreeConsultationButn">
 													<div class="getFreeConsultation">
-														<a href="contact.php" target="_blank">Get Consultation</a>
+														<a href="contact.php" target="_blank" style="text-decoration:none;">Get Consultation</a>
 													</div>
 												</div>
 											</div><!--/Process Content-->
@@ -734,7 +735,7 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 </section><!--/Personalized Learning Paths To Success-->
 
 <section class="container-fluid pt pb ourAssessment">
-	<div class="no-container width80">
+	<div class="no-container width90">
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="ourAssemtContainer">
@@ -747,10 +748,10 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 					</div><!--/heading div-->
 					<div class="buttonBox">
 						<div class="assesssmentButn yellow">
-							<a href="">View More</a>
+							<a href="#" style="text-decoration:none;">View More</a>
 						</div>
 						<div class="assesssmentButn blue">
-							<a href="">Take Our Assessment</a>
+							<a href="#" style="text-decoration:none;">Take Our Assessment</a>
 						</div>
 
 					</div>
@@ -758,12 +759,12 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="getFreeConsultation yellow">
-									<a href="">View More</a>
+									<a href="#" style="text-decoration: none;">View More</a>
 								</div>
 							</div><!--/col-->
 							<div class="col-lg-6">
 								<div class="getFreeConsultation blue">
-									<a href="">Take Our Assessment</a>
+									<a href="#" style="text-decoration:none;">Take Our Assessment</a>
 								</div>
 							</div><!--/col-->
 						</div><!--/row-->
@@ -837,7 +838,7 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 </section><!--/Our Student Got Into-->
 
 <section class="container-fluid pt pb faqSection">
-	<div class="no-container width80">
+	<div class="no-container width90">
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="section-title-area white-heading">
@@ -879,7 +880,8 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 				</div><!--/FAQ-->
 			</div><!--/col-->
 			<div class="col-lg-5">
-				<div class="faqImage"><img src="assets/image/other/faq.svg" class="img-fluid" alt=""></div>
+				<!-- <div class="faqImage"><img src="assets/image/other/faq.svg" class="img-fluid" alt=""></div> -->
+				  <div class="faqImage"><img src="assets/image/other/faq.png" loading="lazy" class="img-fluid" alt="faq-img"></div>
 			</div>
 		</div>
 	</div>
