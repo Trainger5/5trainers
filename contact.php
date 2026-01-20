@@ -147,7 +147,7 @@ $canonical_url = "https://www.5trainers.com/contact.php";
 			src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3430.244822454586!2d76.69090947619297!3d30.711517086656645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390fef007a1d6dcf%3A0xeeb435bcbbba5ae4!2sVictory%20tower!5e0!3m2!1sen!2sin!4v1751882483357!5m2!1sen!2sin"
 			width="100%" height="542" style="border:0;" allowfullscreen="" loading="lazy"
 			referrerpolicy="no-referrer-when-downgrade"></iframe>
-		<?php include('addresscards.php'); ?>
+		<?php //include('addresscards.php'); ?>
 	</div>
 </section>
 
