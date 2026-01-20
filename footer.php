@@ -4,6 +4,7 @@
   $footerLinkPrefix  = !empty($is_blog) ? '../' : '';
 ?>
 <?php include($footerAssetPrefix . 'assets/include/floating-icon.php'); ?>
+<?php include($footerAssetPrefix . 'assets/include/chatbot.php'); ?>
 
 <span id="top"></span>
 
