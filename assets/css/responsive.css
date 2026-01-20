@@ -150,7 +150,7 @@
   .slide-text p {
     font-size: 14px;
     line-height: 18px;
-    /* margin-top: 10px !important; */
+    margin-top: 0px !important;
   }
   #slide-show {
     height: 90vh !important;
@@ -4224,6 +4224,13 @@
   #slide-show{
         height: 110vh;
     min-height: 110vh;
+  }
+  .bg1, .bg2, .bg3, .bg4{
+     height: 110vh;
+    min-height: 110vh;
+  }
+  .slider-center{
+        top: 62%;
   }
   .mtb-40{
         margin: 10px 0 !important;
