@@ -106,9 +106,9 @@
           <input type="radio" name="slider" id="close-btn">
  
           <div>
-            <div class="no-container  top-contact-bar " style=" background-color: white; justify-content: end ;display:flex; border-radius:0px 0px 5px 5px;">
-      <div class="" style="background-color: #ff8503; width:45%; justify-content: end; margin-right: 16px;border-radius:0px 0px 5px 5px;">
-        <div class="width90 d-flex" style="justify-content: end;height:40px; align-items: center;">
+            <div class="no-container  top-contact-bar ">
+      <div class="main-top-contect" >
+        <div class="width90 d-flex main-contact-bar">
             <div class="text-white">
             <i class="text-white fa-solid fa-phone icon"></i>
             <a href="tel:+91 8283840606" class="text-white mr-4" style="text-decoration: none;" >+91 8283840606</a>
