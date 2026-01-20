@@ -191,7 +191,7 @@
    position: absolute;
    width: 90%;
   /* top: 7%; */
-  top: 20%;
+  top: 22%;
 }
 
 .nav-link {
@@ -387,8 +387,8 @@
 
 
   .setbgs{
-      height: 175vh !important;
-  min-height: 175vh !important;
+      height: 190vh !important;
+  min-height: 190vh !important;
   }
   /*Slider*/
   .mb-20 {
@@ -437,12 +437,6 @@
   .mtt{
     margin-top: 70px;
   }
-  /* #slide-show {
-    height: 150vh !important;
-    min-height: 150vh !important;
-    top: 0px;
-    padding: 20px 0;
-  } */
   .formAlign {
     justify-content: center;
     align-items: center;
@@ -611,4 +605,13 @@
     margin: 15px 0;
     color: #feb600;
   }
+}
+@media only screen and (min-device-width: 1200px) and (max-device-width: 1399px) {
+
+.setbgs {
+   height: 115vh !important;
+  min-height: 115vh !important;
+
+}
+
 }
