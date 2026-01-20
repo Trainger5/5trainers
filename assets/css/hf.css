@@ -177,8 +177,10 @@ ul {
 }
 
 /*Top Nav End*/
+
+
 .logo {
-  width: 180px;
+  width: 190px;
 }
 
 nav {
@@ -200,6 +202,7 @@ nav .wrapper {
   align-items: center;
   justify-content: space-between;
   background-color: white;
+  padding-left: 10px;
 }
 
 nav .wrapper.visible-title {
@@ -395,12 +398,15 @@ nav.fixed-header .logo {
 }
 
 @media screen and (max-width: 1180px) {
+  .no-container {
+    display: none !important;
+  }
   .logo {
     width: 180px;
   }
 
   nav .wrapper {
-    padding: 42px 10px !important;
+    padding: 15px 10px !important;
   }
 
   nav {

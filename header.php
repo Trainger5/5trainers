@@ -120,16 +120,16 @@
           <input type="radio" name="slider" id="close-btn">
 
           <div>
-            <div class="no-container  top-contact-bar " style=" background-color: white; justify-content: end ;display:flex;">
-      <div class="" style="background-color: #ff8503; width:75%; justify-content: end; margin-right: 16px; clip-path: polygon(5% 0, 100% 0, 100% 100%, 0% 100%, 0 100%);">
+            <div class="no-container  top-contact-bar " style=" background-color: white; justify-content: end ;display:flex; border-radius:0px 0px 5px 5px;">
+      <div class="" style="background-color: #ff8503; width:40%; justify-content: end; margin-right: 16px;border-radius:0px 0px 5px 5px;">
         <div class="width90 d-flex" style="justify-content: end;height:40px; align-items: center;">
-            <div>
-            <i class="fa-solid fa-phone icon"></i>
-            <a href="tel:+91 8283840606" class="text-black mr-4" style="text-decoration: none;" >+91 8283840606</a>
+            <div class="text-white">
+            <i class="text-white fa-solid fa-phone icon"></i>
+            <a href="tel:+91 8283840606" class="text-white mr-4" style="text-decoration: none;" >+91 8283840606</a>
           </div>
           <div>
-            <i class="fa-solid fa-envelope"></i>
-            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@5trainers.com" class="text-black" style="text-decoration: none;" target="_blank">info@5trainers.com</a>
+            <i class="text-white fa-solid fa-envelope"></i>
+            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@5trainers.com" class="text-white" style="text-decoration: none;" target="_blank">info@5trainers.com</a>
           </div>
            <!-- <ul class="footer-ul">
             <li><a href="https://www.facebook.com/profile.php?id=61576550454616" target="_blank"><span>
