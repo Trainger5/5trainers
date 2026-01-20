@@ -1199,16 +1199,6 @@ $canonical_url = "https://www.5trainers.com/index.php";
         box-shadow: 0 20px 45px rgba(4, 49, 70, 0.35);
     }
 
-    .consultation-modal .modal-content::before {
-        content: "";
-        position: absolute;
-        left: 0;
-        top: 0;
-        width: 100%;
-        height: 6px;
-        border-radius: 16px 16px 0 0;
-        background: linear-gradient(90deg, #0f79be 0%, #0f3564 100%);
-    }
 
     .consultation-modal .modal-close {
         position: absolute;
@@ -1242,7 +1232,18 @@ $canonical_url = "https://www.5trainers.com/index.php";
         margin-bottom: 12px;
         border: 1px solid rgba(15, 121, 190, 0.35);
         border-radius: 8px;
-        padding: 10px 12px;
+        padding: 7px 12px;
+    }
+
+    .consultation-modal .form-row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 16px;
+    }
+
+    .consultation-modal .form-row .form-group {
+        flex: 1 1 calc(50% - 8px);
+        min-width: 240px;
     }
 
     .consultation-modal .form-control:focus,
@@ -1269,6 +1270,11 @@ $canonical_url = "https://www.5trainers.com/index.php";
         .consultation-modal .modal-content {
             padding: 22px 18px 18px;
         }
+
+        .consultation-modal .form-row .form-group {
+            flex-basis: 100%;
+            min-width: 0;
+        }
     }
 </style>
 
@@ -1278,42 +1284,37 @@ $canonical_url = "https://www.5trainers.com/index.php";
         <h3 id="consultationTitle">Get a Free Consultation</h3>
         <form action="sendmail.php" method="POST">
             <input type="hidden" name="form_type" value="Free Consultation">
-            <div class="form-group">
-                <label>Full Name</label>
-                <input type="text" name="name" class="form-control" placeholder="Full Name" required>
+            <div class="form-row">
+                <div class="form-group">
+                    <label>Full Name</label>
+                    <input type="text" name="name" class="form-control border" placeholder="Mark Andrew" required>
+                </div>
+                <div class="form-group">
+                    <label>Email ID</label>
+                    <input type="email" name="email" class="form-control border" placeholder="Exampal@gmail.com" required>
+                </div>
             </div>
-            <div class="form-group">
-                <label>Email ID</label>
-                <input type="email" name="email" class="form-control" placeholder="Email ID" required>
-            </div>
-            <div class="form-group">
-                <label>Mobile Number</label>
-                <input type="tel" name="phone_number" class="form-control" placeholder="Mobile Number" required>
-            </div>
-            <div class="form-group">
-                <label>Select Course</label>
-                <select name="course" class="form-control" required>
-                    <option value="">Select Course</option>
-                    <option value="Digital Marketing">Digital Marketing</option>
-                    <option value="Google Ads">Google Ads</option>
-                    <option value="Meta Ads">Meta Ads</option>
-                    <option value="SEO">SEO</option>
-                    <option value="SMM">SMM</option>
-                    <option value="Artificial Intelligence">Artificial Intelligence</option>
-                    <option value="Data Science">Data Science</option>
-                    <option value="Data Analytics">Data Analytics</option>
-                    <option value="Full Stack Web Development">Full Stack Web Development</option>
-                    <option value="Web Development">Web Development</option>
-                </select>
-            </div>
-            <div class="form-group">
-                <label>Profession</label>
-                <input type="text" name="profession" class="form-control" placeholder="Profession" required>
-            </div>
-            <div class="form-group">
-                <label>Other Query (optional)</label>
-                <textarea name="query" class="form-control" maxlength="250" rows="3"
-                    placeholder="Your query (max 250 characters)"></textarea>
+            <div class="form-row">
+                <div class="form-group">
+                    <label>Mobile Number</label>
+                    <input type="tel" name="phone_number" class="form-control border" placeholder="9876543210" required>
+                </div>
+                <div class="form-group">
+                    <label>Select Course</label>
+                    <select name="course" class="form-control border" required>
+                        <option value="">Select Course</option>
+                        <option value="Digital Marketing">Digital Marketing</option>
+                        <option value="Google Ads">Google Ads</option>
+                        <option value="Meta Ads">Meta Ads</option>
+                        <option value="SEO">SEO</option>
+                        <option value="SMM">SMM</option>
+                        <option value="Artificial Intelligence">Artificial Intelligence</option>
+                        <option value="Data Science">Data Science</option>
+                        <option value="Data Analytics">Data Analytics</option>
+                        <option value="Full Stack Web Development">Full Stack Web Development</option>
+                        <option value="Web Development">Web Development</option>
+                    </select>
+                </div>
             </div>
             <input type="submit" class="submitbtn btn btn-primary" value="Submit">
         </form>
