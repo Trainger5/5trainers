@@ -609,8 +609,8 @@
 @media only screen and (min-device-width: 1200px) and (max-device-width: 1399px) {
 
 .setbgs {
-   height: 115vh !important;
-  min-height: 115vh !important;
+   height: 125vh !important;
+  min-height: 125vh !important;
 
 }
 
