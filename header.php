@@ -118,6 +118,46 @@
           <input type="radio" name="slider" id="menu-btn">
           <input type="radio" name="slider" id="close-btn">
 
+          <div>
+            <div class="no-container  top-contact-bar " style=" background-color: white; justify-content: end ;display:flex; border-radius:0px 0px 5px 5px;">
+      <div class="" style="background-color: #ff8503; width:40%; justify-content: end; margin-right: 16px;border-radius:0px 0px 5px 5px;">
+        <div class="width90 d-flex" style="justify-content: end;height:40px; align-items: center;">
+            <div class="text-white">
+            <i class="text-white fa-solid fa-phone icon"></i>
+            <a href="tel:+91 8283840606" class="text-white mr-4" style="text-decoration: none;" >+91 8283840606</a>
+          </div>
+          <div>
+            <i class="text-white fa-solid fa-envelope"></i>
+            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@5trainers.com" class="text-white" style="text-decoration: none;" target="_blank">info@5trainers.com</a>
+          </div>
+           <!-- <ul class="footer-ul">
+            <li><a href="https://www.facebook.com/profile.php?id=61576550454616" target="_blank"><span>
+             
+                  <i class="fa-brands fa-square-facebook footer-icon"></i>
+                  </span>Facebook</a></li>
+            <li><a href="https://x.com/_5trainers" target="_blank"><span>
+           
+           <i class="fa-brands fa-x-twitter footer-icon"></i>
+            </span></a></li>
+            <li><a href="https://www.linkedin.com/company/5trainer" target="_blank"><span>
+          
+               <i class="fa-brands fa-linkedin  footer-icon" ></i>
+            </span></a></li>
+            <li><a href="https://www.instagram.com/5_trainers/" target="_blank"><span>
+          
+               <i class="fa-brands fa-square-instagram footer-icon"></i>
+            </span></a></li>
+            <li><a href="https://www.youtube.com/@5Trainers" target="_blank"><span>
+             
+                  <i class="fa-brands fa-square-youtube footer-icon"></i>
+                  </span></a></li>
+          </ul> -->
+        </div>
+      </div>
+       
+      </div>
+          
+
           <ul class="nav-links menu_box  py-2 ">
             <label for="close-btn" class="btn close-btn close_icon"><img src="<?php echo $assetPrefix; ?>assets/image/icon/close.png"></label>
 

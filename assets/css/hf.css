@@ -177,8 +177,10 @@ ul {
 }
 
 /*Top Nav End*/
+
+
 .logo {
-  width: 180px;
+  width: 190px;
 }
 
 nav {
@@ -213,7 +215,8 @@ nav .wrapper {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: transparent;
+  background-color: white;
+  padding-left: 10px;
 }
 
 nav .wrapper.visible-title {
@@ -438,13 +441,16 @@ nav.fixed-header .logo {
   top: 10px;
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1180px) {
+  .no-container {
+    display: none !important;
+  }
   .logo {
     width: 180px;
   }
 
   nav .wrapper {
-    padding: 22px 10px !important;
+    padding: 15px 10px !important;
   }
 
   nav {
