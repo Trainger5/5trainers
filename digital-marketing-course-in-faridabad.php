@@ -49,13 +49,13 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
                                     <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Training in
                                         Faridabad</h2>
-                                    <h4 class="mt-4 text-white"><a href="https://5trainers.com/"
-                                            style="text-decoration: none; color:white;">Digital Marketing </a> Training in Faridabad – Top Institute with 100% Placement Support</h4>
+                                    <h4 class="mt-4 " style="color: #ff8503;"><a href="https://5trainers.com/"
+                                            style="text-decoration: none; color: #ff8503;">Digital Marketing </a> Training in Faridabad – Top Institute with 100% Placement Support</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
                                 <p class="coDetail">Become a certified digital marketing expert with Faridabad's most trusted training institute. Master SEO, Google Ads, Social Media Marketing, AI-powered tools, and advanced analytics through a completely practical, project-driven curriculum designed to launch your career.</p>
                                 <!--for Both Freshers &-->
-                                <h4 class="text-white">Develop Industry-Ready Digital Skills for High-Growth Careers</h4>
+                                <h4 style="color: #ff8503;">Develop Industry-Ready Digital Skills for High-Growth Careers</h4>
                             </div><!--/slider text-->
 
 
@@ -116,7 +116,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
                 <div class="col-lg-12">
                     <div class="buildText">
                         <h2>You Are One Step Closer To Building A Thriving Career As <span>Digital Marketing
-                                Expert!</span></h2>
+                                Expert in Faridabad !</span></h2>
                         <!-- <a href="#" style="text-decoration: none;">Register Now </a> -->
                     </div>
                 </div><!--col-->
@@ -414,7 +414,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
             <div class="row ">
                 <!-- SEO -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm">
+                    <div class="card h-100 shadow-sm Digital-card">
                         <div class="card-body">
                             <h5 class="card-title">SEO Training in Faridabad:</h5>
                             <p class="card-text">
@@ -433,7 +433,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
 
                 <!-- SMM -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm">
+                    <div class="card h-100 shadow-sm digital-card-new">
                         <div class="card-body">
                             <h5 class="card-title">Social Media Marketing (SMM) Training in Faridabad:</h5>
                             <p class="card-text">
@@ -452,7 +452,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
 
                 <!-- PPC -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm">
+                    <div class="card h-100 shadow-sm Digital-card">
                         <div class="card-body">
                             <h5 class="card-title">PPC & Google Ads Training in Faridabad:</h5>
                             <p class="card-text">
@@ -470,7 +470,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
 
                 <!-- Content Marketing -->
                 <div class="col-md-6 col-lg-4 mt-4">
-                    <div class="card h-100 shadow-sm">
+                    <div class="card h-100 shadow-sm digital-card-new">
                         <div class="card-body">
                             <h5 class="card-title">Content Marketing Training in Faridabad:</h5>
                             <p class="card-text">
@@ -488,7 +488,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
 
                 <!-- Email Marketing -->
                 <div class="col-md-6 col-lg-4 mt-4">
-                    <div class="card h-100 shadow-sm">
+                    <div class="card h-100 shadow-sm Digital-card">
                         <div class="card-body">
                             <h5 class="card-title">Email Marketing Training in Faridabad:</h5>
                             <p class="card-text">
@@ -506,7 +506,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
 
                 <!-- Analytics & AI -->
                 <div class="col-md-6 col-lg-4 mt-4">
-                    <div class="card h-100 shadow-sm">
+                    <div class="card h-100 shadow-sm digital-card-new">
                         <div class="card-body">
                             <h5 class="card-title">Analytics & AI Tools Training in Faridabad: </h5>
                             <p class="card-text">
@@ -620,108 +620,74 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
                 </p>
             </div>
 
-            <div class="row g-4">
-                <!-- Card 1 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Training Grounded in Live Campaigns: </h5>
-                        <p class="text-muted">
-                             Lessons are based on current industry practices, algorithm updates, and real-time campaign data—no outdated theory.
-                        </p>
-                    </div>
+                     <section class="container-fluid ">
+    <div class="no-container width90">
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="800"
+                    class="aos-init aos-animate chooseContentBox cyangreenbg">
+                    <h5>Industry-Experienced Trainers:</h5>
+                    <p class="text-center"> Learn from professionals actively managing SEO, ads, and social media campaigns.</p>
                 </div>
-
-                <!-- Card 2 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Master Industry-Standard Tools:</h5>
-                        <p class="text-muted"> Gain hands-on experience with Google Ads, Google Analytics, Meta Business Suite, Canva, SEMrush, and modern AI marketing platforms.</p>
-                        <!-- <ul class="text-muted ps-3">
-            <li>Live websites</li>
-            <li>SEO audits</li>
-            <li>Google Ads campaigns</li>
-            <li>Social media marketing</li>
-            <li>Content creation & analytics</li>
-          </ul> -->
-                    </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1000" class="aos-init aos-animate chooseContentBox whitebg">
+                    <h5>100% Practical Learning Model:</h5>
+                    <p class="text-center">  Work on live websites, paid ad campaigns, and real-time analytics.</p>
                 </div>
-
-                <!-- Card 3 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Clear, Practical Instruction: </h5>
-                        <p class="text-muted">
-                           We simplify complex topics into actionable steps with zero jargon—perfect for beginners and career-changers.
-                        </p>
-                    </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1200"
+                    class="aos-init aos-animate chooseContentBox cyangreenbg">
+                    <h5>Beginner-Friendly Training:</h5>
+                    <p class="text-center"> No technical or marketing background required. We start from the basics..</p>
                 </div>
-
-                <!-- Card 4 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Personalized Attention in Small Batches</h5>
-                        <p class="text-muted">  Limited class sizes ensure you get individual mentorship and timely doubt resolution.
-                        </p>
-                        <!-- <ul class="text-muted ps-3">
-            <li>Job interview preparation</li>
-            <li>Resume & portfolio building</li>
-            <li>Freelancing platform guidance</li>
-            <li>Client handling basics</li>
-          </ul> -->
-                    </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1400" class="aos-init aos-animate chooseContentBox whitebg">
+                    <h5>Placement & Freelance Guidance :</h5>
+                    <p class="text-center">Resume preparation, interview training, freelancing setup, and job referrals.</p>
                 </div>
-
-                <!-- Card 5 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Honest Career Pathways: </h5>
-                        <p class="text-muted">
-                            Receive transparent guidance about job roles, salary expectations, and growth opportunities in Faridabad’s digital landscape.
-                        </p>
-                    </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1600"
+                    class="aos-init aos-animate chooseContentBox cyangreenbg">
+                    <h5>Latest Tools & AI Training:</h5>
+                    <p class="text-center"> Google Ads, GA4, Search Console, Meta Ads, Canva, SEMrush, and AI marketing tools.</p>
                 </div>
-
-                <!-- Card 6 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Lifelong Learning & Support:</h5>
-                        <p class="text-muted">
-                            Access to updated resources, job alerts, and expert guidance even after course completion.
-                        </p>
-                    </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1800" class="aos-init aos-animate chooseContentBox whitebg">
+                    <h5>Small Batches, Personal Mentorship</h5>
+                    <p class="text-center">  Individual attention and proper doubt-clearing sessions.</p>
                 </div>
-                <!-- Card 7 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Trusted by Faridabad’s Learners:</h5>
-                        <p class="text-muted">
-                            Highly recommended for practical training that translates directly into career success.
-                        </p>
-                    </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1600" class="aos-init aos-animate chooseContentBox cyangreenbg">
+                    <h5>Lifetime Support:</h5>
+                    <p class="text-center">Continued guidance, updates, and job alerts even after course completion.</p>
                 </div>
-                <!-- Card 8 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Personalized Attention in Small Batches:</h5>
-                        <p class="text-muted">
-                            Limited class sizes ensure individual mentorship, regular doubt-clearing sessions, and
-                            direct trainer interaction.
-                        </p>
-                    </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1800" class="aos-init aos-animate chooseContentBox whitebg">
+                    <h5>Personalized Attention in Small Batches:</h5>
+                    <p class="text-center">    Limited class sizes ensure individual mentorship, regular doubt-clearing sessions, and
+                            direct trainer interaction.</p>
                 </div>
-                <!-- Card 0-->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Transparent Career Roadmap: </h5>
-                        <p class="text-muted">
-                            Get honest guidance about Faridabad's digital job market, salary expectations, and realistic
-                            career progression pathways.
-                        </p>
-                    </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1600" class="aos-init aos-animate chooseContentBox cyangreenbg">
+                    <h5>Transparent Career Roadmap:</h5>
+                    <p class="text-center">  Get honest guidance about Faridabad's digital job market, salary expectations, and realistic
+                            career progression pathways.</p>
                 </div>
+            </div><!--/col-->
+        </div><!--/row-->
+    </div>
+</section><!--/Why Choose Us-->
 
 
-            </div>
+            
         </div>
     </section>
     <!--  -->
@@ -1032,29 +998,21 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
                                 <!-- <img src="assets/image/icon/mission-about.png" class="img-fluid" alt="Icon"> -->
                             </div>
                             <h3>Who Should Join This Digital Marketing Training in Faridabad?</h3>
-                            <ul class="p mt-4" style="padding: 0px;">
+                            <ul class="p " style="padding: 0px;">
                                 <li class="text-white">Students and recent graduates looking to build a strong digital career</li>
                                 <li class="text-white">Job seekers and professionals aiming to switch to high-growth digital roles
                                 </li>
                                 <li class="text-white">Business owners, shop owners, and entrepreneurs wanting to grow online</li>
                                 <li class="text-white">Freelancers, bloggers, and influencers seeking to monetize their skills</li>
                                 <li class="text-white">Working professionals in sales, IT, or marketing looking to upskill</li>
+                                <li class="text-white">Entrepreneurs and small business owners</li>
+                                <li class="text-white">Marketing, sales, and IT professionals</li>
                             </ul>
                             <p class="text-white">No technical background or prior experience required.</p>
                         </div>
                     </div>
                 </div><!--/col-->
-                <!-- <div class="colof col-sm-12 col-lg-4">
-                        <div class="features-list">
-                            <div class="li">
-                               <div class="icon aos-init aos-animate" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="1500">
-                                    <img src="assets/image/icon/vision-about.png" class="img-fluid" alt="Icon">
-                                </div>
-                                <h3>Our vision</h3>
-                                 <p class="p">Welcome to 5 trainers, a leading digital marketing institute in Mohali, dedicated to shaping the future of tomorrow’s marketers.</p>
-                            </div>														   	
-                        </div>
-                    </div> -->
+            
             </div><!--/mission vission-->
         </div><!--/Container-->
     </section>
@@ -1074,7 +1032,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
                Contact us now to secure your seat or attend a free demo session for our Digital Marketing Training in Faridabad.
             </p>
 
-            <a href="#" class="btn btn-warning btn-lg fw-semibold px-4">
+            <a href="contact.php" class="btn  btn-lg fw-semibold px-4" style="background-color: #ff8503;">
                  Enroll Now 
             </a>
 
@@ -1176,20 +1134,20 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
             <div class="row align-items-center">
                 <div class="col-lg-12 text-center">
                     <h1 class="fw-bold mb-3">
-                        Launch Your Digital Career in Ghaziabad Today
+                        Launch Your Digital Career in Faridabad Today
                     </h1>
                     <p class="lead mb-3 text-white text-center">
-                        Join 5Trainers—Ghaziabad's most trusted digital marketing institute—and gain the practical
+                        Join 5Trainers—Faridabad's most trusted digital marketing institute—and gain the practical
                         skills and confidence to excel in the digital domain.
 
 
                     </p>
                     <p class="mb-4 text-white text-center">
                         Contact us now to book a free demo class or enroll in our upcoming batch of Digital Marketing
-                        Training in Ghaziabad.
+                        Training in Faridabad.
                     </p>
 
-                    <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a>
+                    <!-- <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a> -->
                 </div>
             </div>
         </div>

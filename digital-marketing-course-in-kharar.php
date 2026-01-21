@@ -36,8 +36,8 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
                                 <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
                                         style="text-decoration: none; color:white;">Digital Marketing </a> Training in
                                     Kharar</h2>
-                                <h4 class="mt-4 text-white"><a href="https://5trainers.com/"
-                                        style="text-decoration: none; color:white;">Digital Marketing </a> Training in
+                                <h4 class="mt-4 " style="color:#ff8503"><a href="https://5trainers.com/"
+                                        style="text-decoration: none; color:#ff8503;">Digital Marketing </a> Training in
                                     Kharar – Best Institute with 100% Practical Training</h4>
                             </div>
                             <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
@@ -46,7 +46,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
                                 our completely practical, project-based curriculum designed to launch careers and grow
                                 local businesses.</p>
                             <!--for Both Freshers &-->
-                            <h4 class="text-white">Build In-Demand Digital Skills for Today’s Job Market</h4>
+                            <h4 style="color:#ff8503">Build In-Demand Digital Skills for Today’s Job Market</h4>
                         </div><!--/slider text-->
 
                         <div>
@@ -107,7 +107,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
             <div class="col-lg-12">
                 <div class="buildText">
                     <h2>You Are One Step Closer To Building A Thriving Career As <span>Digital Marketing
-                            Expert!</span></h2>
+                            Expert in Kharar !</span></h2>
                     <!-- <a href="#" style="text-decoration: none;">Register Now </a> -->
                 </div>
             </div><!--col-->
@@ -405,7 +405,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
         <div class="row ">
             <!-- SEO -->
             <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm">
+                <div class="card h-100 shadow-sm Digital-card">
                     <div class="card-body">
                         <h5 class="card-title">SEO Training in Kharar:</h5>
                         <p class="card-text">
@@ -425,7 +425,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 
             <!-- SMM -->
             <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm">
+                <div class="card h-100 shadow-sm digital-card-new">
                     <div class="card-body">
                         <h5 class="card-title">Social Media Marketing (SMM) Training in Kharar: </h5>
                         <p class="card-text">
@@ -445,7 +445,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 
             <!-- PPC -->
             <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm">
+                <div class="card h-100 shadow-sm Digital-card">
                     <div class="card-body">
                         <h5 class="card-title">Google Ads & PPC Training in Kharar:</h5>
                         <p class="card-text">
@@ -464,7 +464,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 
             <!-- Content Marketing -->
             <div class="col-md-6 col-lg-4 mt-4">
-                <div class="card h-100 shadow-sm">
+                <div class="card h-100 shadow-sm digital-card-new">
                     <div class="card-body">
                         <h5 class="card-title">Content Marketing Training in Kharar:</h5>
                         <p class="card-text">
@@ -483,7 +483,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 
             <!-- Email Marketing -->
             <div class="col-md-6 col-lg-4 mt-4">
-                <div class="card h-100 shadow-sm">
+                <div class="card h-100 shadow-sm Digital-card">
                     <div class="card-body">
                         <h5 class="card-title">Email Marketing Training in Kharar:</h5>
                         <p class="card-text">
@@ -502,7 +502,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 
             <!-- Analytics & AI -->
             <div class="col-md-6 col-lg-4 mt-4">
-                <div class="card h-100 shadow-sm">
+                <div class="card h-100 shadow-sm digital-card-new">
                     <div class="card-body">
                         <h5 class="card-title">Analytics & Digital Tools Training in Kharar:</h5>
                         <p class="card-text">
@@ -614,113 +614,74 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
                 We deliver practical, result-oriented training perfect for Kharar’s aspiring professionals.
             </p>
         </div>
+         
+        
 
-        <div class="row g-4">
-            <!-- Card 1 -->
-            <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3">
-                    <h5 class="fw-semibold">Learn from Industry Practitioners:</h5>
-                    <p class="text-muted">
-                        Train with certified digital marketers who manage real campaigns and share current industry
-                        insights.
-                    </p>
+                                                     <section class="container-fluid ">
+    <div class="no-container width90">
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="800"
+                    class="aos-init aos-animate chooseContentBox cyangreenbg">
+                    <h5>Industry-Experienced Trainers:</h5>
+                    <p class="text-center"> Learn from professionals actively managing SEO, ads, and social media campaigns.</p>
                 </div>
-            </div>
-
-            <!-- Card 2 -->
-            <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3">
-                    <h5 class="fw-semibold">100% Live Project-Based Learning:</h5>
-                    <p class="text-muted"> Execute real SEO audits, run Google Ads campaigns, manage social media
-                        accounts, and work on live websites during training.</p>
-                    <!-- <ul class="text-muted ps-3">
-            <li>Live websites</li>
-            <li>SEO audits</li>
-            <li>Google Ads campaigns</li>
-            <li>Social media marketing</li>
-            <li>Content creation & analytics</li>
-          </ul> -->
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1000" class="aos-init aos-animate chooseContentBox whitebg">
+                    <h5>100% Practical Learning Model:</h5>
+                    <p class="text-center">  Work on live websites, paid ad campaigns, and real-time analytics.</p>
                 </div>
-            </div>
-
-            <!-- Card 3 -->
-            <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3">
-                    <h5 class="fw-semibold">Beginner-Friendly Approach:</h5>
-                    <p class="text-muted">
-                        No prior experience needed. We start from basics and progress step-by-step to advanced digital
-                        strategies.
-                    </p>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1200"
+                    class="aos-init aos-animate chooseContentBox cyangreenbg">
+                    <h5>Beginner-Friendly Training:</h5>
+                    <p class="text-center"> No technical or marketing background required. We start from the basics..</p>
                 </div>
-            </div>
-
-            <!-- Card 4 -->
-            <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3">
-                    <h5 class="fw-semibold">Complete Career & Freelance Support</h5>
-                    <p class="text-muted"> Get dedicated help with resume building, interview preparation, freelancing
-                        setup, and job placement assistance.</p>
-                    <!-- <ul class="text-muted ps-3">
-            <li>Job interview preparation</li>
-            <li>Resume & portfolio building</li>
-            <li>Freelancing platform guidance</li>
-            <li>Client handling basics</li>
-          </ul> -->
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1400" class="aos-init aos-animate chooseContentBox whitebg">
+                    <h5>Placement & Freelance Guidance :</h5>
+                    <p class="text-center">Resume preparation, interview training, freelancing setup, and job referrals.</p>
                 </div>
-            </div>
-
-            <!-- Card 5 -->
-            <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3">
-                    <h5 class="fw-semibold">Real-World Training Methodology:</h5>
-                    <p class="text-muted">
-                        Learn strategies that work for local businesses, e-commerce, and service industries relevant to
-                        Kharar’s market.
-                    </p>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1600"
+                    class="aos-init aos-animate chooseContentBox cyangreenbg">
+                    <h5>Latest Tools & AI Training:</h5>
+                    <p class="text-center"> Google Ads, GA4, Search Console, Meta Ads, Canva, SEMrush, and AI marketing tools.</p>
                 </div>
-            </div>
-
-            <!-- Card 6 -->
-            <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3">
-                    <h5 class="fw-semibold">Hands-On Tool Mastery: </h5>
-                    <p class="text-muted">
-                        Gain proficiency in Google Analytics, Google Ads, Meta Business Suite, Canva, SEO tools, and AI
-                        marketing platforms.
-                    </p>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1800" class="aos-init aos-animate chooseContentBox whitebg">
+                    <h5>Small Batches, Personal Mentorship</h5>
+                    <p class="text-center">  Individual attention and proper doubt-clearing sessions.</p>
                 </div>
-            </div>
-            <!-- Card 7 -->
-            <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3">
-                    <h5 class="fw-semibold">Simple, Clear Instruction </h5>
-                    <p class="text-muted">
-                        We break down complex topics into easy-to-understand concepts without confusing jargon.
-                    </p>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1600" class="aos-init aos-animate chooseContentBox cyangreenbg">
+                    <h5>Lifetime Support:</h5>
+                    <p class="text-center">Continued guidance, updates, and job alerts even after course completion.</p>
                 </div>
-            </div>
-            <!-- Card 8 -->
-            <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3">
-                    <h5 class="fw-semibold">Personalized Attention in Small Batches </h5>
-                    <p class="text-muted">
-                        Limited class sizes ensure individual mentorship and regular doubt-clearing sessions.
-                    </p>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1800" class="aos-init aos-animate chooseContentBox whitebg">
+                    <h5>Personalized Attention in Small Batches:</h5>
+                    <p class="text-center">    Limited class sizes ensure individual mentorship, regular doubt-clearing sessions, and
+                            direct trainer interaction.</p>
                 </div>
-            </div>
-            <!-- Card 0-->
-            <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3">
-                    <h5 class="fw-semibold">Honest Career Guidance</h5>
-                    <p class="text-muted">
-                        Get realistic advice about local job opportunities, remote work possibilities, and freelancing
-                        potential in the Tricity area.
-                    </p>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1600" class="aos-init aos-animate chooseContentBox cyangreenbg">
+                    <h5>Transparent Career Roadmap:</h5>
+                    <p class="text-center">  Get honest guidance about Kharar's digital job market, salary expectations, and realistic
+                            career progression pathways.</p>
                 </div>
-            </div>
-
-
-        </div>
+            </div><!--/col-->
+        </div><!--/row-->
+    </div>
+</section><!--/Why Choose Us-->
     </div>
 </section>
 <!--  -->
@@ -1032,12 +993,14 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
                             <!-- <img src="assets/image/icon/mission-about.png" class="img-fluid" alt="Icon"> -->
                         </div>
                         <h3>Who Should Join This Digital Marketing Training in Kharar?</h3>
-                        <ul class="p mt-4 p-0">
+                        <ul class="p p-0">
                             <li Class="text-white">Students and graduates looking to start a digital career</li>
                             <li Class="text-white">Job seekers aiming for local or remote opportunities</li>
                             <li Class="text-white">Business owners and entrepreneurs wanting to grow online</li>
                             <li Class="text-white">Freelancers and content creators looking to expand services </li>
                             <li Class="text-white">Working professionals seeking to upgrade skills</li>
+                            <li Class="text-white">Entrepreneurs and small business owners</li>
+                            <li Class="text-white">Marketing, sales, and IT professionals</li>
                         </ul>
                         <p class="text-white">No degree or experience required—just the willingness to learn.</p>
                     </div>
@@ -1062,7 +1025,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
             Contact us today to enroll in Digital Marketing Training in Kharar.
         </p>
 
-        <a href="#" class="btn btn-warning btn-lg fw-semibold px-4">
+        <a href="contact.php" class="btn btn-lg fw-semibold px-4" style="background-color: #ff8503;">
             Enroll Now
         </a>
 
@@ -1175,7 +1138,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
                         campaigns</strong>, so you gain confidence to handle real clients and job roles.
                 </p>
 
-                <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a>
+                <!-- <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a> -->
             </div>
         </div>
     </div>

@@ -45,13 +45,13 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
                             <h2> with AI</h2> -->
                                     <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Training in Gurgaon </h2>
-                                    <h4 class="mt-4 text-white"><a href="https://5trainers.com/"
-                                            style="text-decoration: none; color:white;">Digital Marketing </a> Training in Gurgaon –Premier Institute with 100% Placement Assistance</h4>
+                                    <h4 class="mt-4 " style="color : #ff8503"><a href="https://5trainers.com/"
+                                            style="text-decoration: none; color: #ff8503;">Digital Marketing </a> Training in Gurgaon –Premier Institute with 100% Placement Assistance</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
                                 <p class="coDetail">Join the leading digital marketing institute in Gurgaon and master the latest tools and strategies—including SEO, Google Ads, Social Media Marketing, and AI-driven automation—through hands-on, project-based training.</p>
                                 <!--for Both Freshers &-->
-                                <h4 class="text-white">Build High-Demand Skills for the Digital Economy</h4>
+                                <h4 style="color: #ff8503;">Build High-Demand Skills for the Digital Economy</h4>
                             </div><!--/slider text-->
 
 
@@ -113,7 +113,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
                 <div class="col-lg-12">
                     <div class="buildText">
                         <h2>You Are One Step Closer To Building A Thriving Career As <span>Digital Marketing
-                                Expert!</span></h2>
+                                Expert in Gurgaon!</span></h2>
                         <!-- <a href="#" style="text-decoration: none;">Register Now </a> -->
                     </div>
                 </div><!--col-->
@@ -412,7 +412,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
             <div class="row ">
                 <!-- SEO -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm">
+                    <div class="card h-100 shadow-sm Digital-card">
                         <div class="card-body">
                             <h5 class="card-title">SEO Training in Gurgaon:</h5>
                             <p class="card-text">
@@ -431,7 +431,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
 
                 <!-- SMM -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm">
+                    <div class="card h-100 shadow-sm digital-card-new">
                         <div class="card-body">
                             <h5 class="card-title">SMM Training in Gurgaon: </h5>
                             <p class="card-text">
@@ -450,7 +450,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
 
                 <!-- PPC -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm">
+                    <div class="card h-100 shadow-sm Digital-card">
                         <div class="card-body">
                             <h5 class="card-title">PPC & Google Ads Training in Gurgaon:</h5>
                             <p class="card-text">
@@ -468,7 +468,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
 
                 <!-- Content Marketing -->
                 <div class="col-md-6 col-lg-4 mt-4">
-                    <div class="card h-100 shadow-sm">
+                    <div class="card h-100 shadow-sm digital-card-new">
                         <div class="card-body">
                             <h5 class="card-title">Content Marketing Training in Gurgaon:</h5>
                             <p class="card-text">
@@ -486,7 +486,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
 
                 <!-- Email Marketing -->
                 <div class="col-md-6 col-lg-4 mt-4">
-                    <div class="card h-100 shadow-sm">
+                    <div class="card h-100 shadow-sm Digital-card">
                         <div class="card-body">
                             <h5 class="card-title">Email Marketing Training in Gurgaon:</h5>
                             <p class="card-text">
@@ -504,7 +504,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
 
                 <!-- Analytics & AI -->
                 <div class="col-md-6 col-lg-4 mt-4">
-                    <div class="card h-100 shadow-sm">
+                    <div class="card h-100 shadow-sm digital-card-new">
                         <div class="card-body">
                             <h5 class="card-title">Analytics & AI Tools Training in Gurgaon: </h5>
                             <p class="card-text">
@@ -616,106 +616,73 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
                 </p>
             </div>
 
-            <div class="row g-4">
-                <!-- Card 1 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Learn from Corporate Digital Experts:</h5>
-                        <p class="text-muted">
-                            Our trainers are seasoned professionals actively managing campaigns for national and international brands.
-                        </p>
-                    </div>
+                                             <section class="container-fluid ">
+    <div class="no-container width90">
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="800"
+                    class="aos-init aos-animate chooseContentBox cyangreenbg">
+                    <h5>Industry-Experienced Trainers:</h5>
+                    <p class="text-center"> Learn from professionals actively managing SEO, ads, and social media campaigns.</p>
                 </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1000" class="aos-init aos-animate chooseContentBox whitebg">
+                    <h5>100% Practical Learning Model:</h5>
+                    <p class="text-center">  Work on live websites, paid ad campaigns, and real-time analytics.</p>
+                </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1200"
+                    class="aos-init aos-animate chooseContentBox cyangreenbg">
+                    <h5>Beginner-Friendly Training:</h5>
+                    <p class="text-center"> No technical or marketing background required. We start from the basics..</p>
+                </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1400" class="aos-init aos-animate chooseContentBox whitebg">
+                    <h5>Placement & Freelance Guidance :</h5>
+                    <p class="text-center">Resume preparation, interview training, freelancing setup, and job referrals.</p>
+                </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1600"
+                    class="aos-init aos-animate chooseContentBox cyangreenbg">
+                    <h5>Latest Tools & AI Training:</h5>
+                    <p class="text-center"> Google Ads, GA4, Search Console, Meta Ads, Canva, SEMrush, and AI marketing tools.</p>
+                </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1800" class="aos-init aos-animate chooseContentBox whitebg">
+                    <h5>Small Batches, Personal Mentorship</h5>
+                    <p class="text-center">  Individual attention and proper doubt-clearing sessions.</p>
+                </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1600" class="aos-init aos-animate chooseContentBox cyangreenbg">
+                    <h5>Lifetime Support:</h5>
+                    <p class="text-center">Continued guidance, updates, and job alerts even after course completion.</p>
+                </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1800" class="aos-init aos-animate chooseContentBox whitebg">
+                    <h5>Personalized Attention in Small Batches:</h5>
+                    <p class="text-center">    Limited class sizes ensure individual mentorship, regular doubt-clearing sessions, and
+                            direct trainer interaction.</p>
+                </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1600" class="aos-init aos-animate chooseContentBox cyangreenbg">
+                    <h5>Transparent Career Roadmap:</h5>
+                    <p class="text-center">  Get honest guidance about Gurgaon's digital job market, salary expectations, and realistic
+                            career progression pathways.</p>
+                </div>
+            </div><!--/col-->
+        </div><!--/row-->
+    </div>
+</section><!--/Why Choose Us-->
 
-                <!-- Card 2 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">100% Live Project-Based Learning:</h5>
-                        <p class="text-muted"> Execute real SEO audits, run Google Ads campaigns, and manage social media strategies for actual businesses during training.</p>
-                        <!-- <ul class="text-muted ps-3">
-            <li>Live websites</li>
-            <li>SEO audits</li>
-            <li>Google Ads campaigns</li>
-            <li>Social media marketing</li>
-            <li>Content creation & analytics</li>
-          </ul> -->
-                    </div>
-                </div>
-
-                <!-- Card 3 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Zero to Advanced Learning Path:</h5>
-                        <p class="text-muted">
-                             Perfect for beginners. We start from foundational concepts and progressively build up to advanced digital strategies.
-                        </p>
-                    </div>
-                </div>
-
-                <!-- Card 4 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Corporate Career & Freelance Launchpad:</h5>
-                        <p class="text-muted"> Get dedicated support in resume building, interview preparation, and establishing your freelance consultancy.
-                        </p>
-                        <!-- <ul class="text-muted ps-3">
-            <li>Job interview preparation</li>
-            <li>Resume & portfolio building</li>
-            <li>Freelancing platform guidance</li>
-            <li>Client handling basics</li>
-          </ul> -->
-                    </div>
-                </div>
-
-                <!-- Card 5 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Training Grounded in Real Campaigns:</h5>
-                        <p class="text-muted">
-                           Learn from marketers who handle active campaigns daily—ensuring you receive the latest industry knowledge.
-                        </p>
-                    </div>
-                </div>
-
-                <!-- Card 6 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Tool-Centric Practical Exposure:</h5>
-                        <p class="text-muted">
-                           Gain proficiency with essential platforms: Google Ads, Analytics, Search Console, Meta Business Suite, and AI marketing tools.
-                        </p>
-                    </div>
-                </div>
-                <!-- Card 7 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Clarity Over Jargon: </h5>
-                        <p class="text-muted">
-                             We break down complex topics into simple, actionable steps that anyone can understand and apply immediately.
-                        </p>
-                    </div>
-                </div>
-                <!-- Card 8 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Small Batches, Mentor-Led Sessions: </h5>
-                        <p class="text-muted">
-                            Enjoy personalized attention, regular doubt-clearing, and direct access to your trainer.
-                        </p>
-                    </div>
-                </div>
-                <!-- Card 0-->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Transparent Career Roadmap: </h5>
-                        <p class="text-muted">
-                            Receive honest insights into Gurgaon's job market, salary benchmarks, and growth opportunities in digital roles.
-                        </p>
-                    </div>
-                </div>
-
-
-            </div>
+            
         </div>
     </section>
     <!--  -->
@@ -1026,14 +993,15 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
                                 <!-- <img src="assets/image/icon/mission-about.png" class="img-fluid" alt="Icon"> -->
                             </div>
                             <h3>Who is This Digital Marketing Training in Gurgaon For?</h3>
-                            <ul class="p mt-4" style="padding: 0px;">
+                            <ul class="p " style="padding: 0px;">
                                 <li class="text-white">Students and recent graduates looking to start a corporate career</li>
                                 <li class="text-white">Professionals aiming to upskill or switch to high-growth digital roles
                                 </li>
                                 <li class="text-white">Entrepreneurs and business owners seeking to grow their brand online</li>
                                 <li class="text-white">Freelancers and consultants wanting to expand their service offerings</li>
                                 <li class="text-white">Marketing professionals aiming to update their digital skill set</li>
-                            </ul>
+                                <li class="text-white">Entrepreneurs and small business owners</li>
+                                <li class="text-white">Marketing, sales, and IT professionals</li>
                             <p class="text-white"> No prior experience or technical degree required.</p>
                         </div>
                     </div>
@@ -1070,7 +1038,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
                 in Gurgaon.
             </p>
 
-            <a href="#" class="btn btn-warning btn-lg fw-semibold px-4">
+            <a href="contact.php" class="btn btn-lg fw-semibold px-4" style="background-color: #ff8503;">
              Enroll Now 
             </a>
 
@@ -1183,7 +1151,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-gurgaon.
                          Contact us now to secure your spot in the next batch of Digital Marketing Training in Gurgaon.
                     </p>
 
-                    <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a>
+                    <!-- <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a> -->
                 </div>
             </div>
         </div>

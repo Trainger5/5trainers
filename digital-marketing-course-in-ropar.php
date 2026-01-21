@@ -49,8 +49,8 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ropar.ph
                                     <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Training in
                                         Ropar</h2>
-                                    <h4 class="mt-4 text-white"><a href="https://5trainers.com/"
-                                            style="text-decoration: none; color:white;">Digital Marketing </a> Training in
+                                    <h4 class="mt-4 " style="color:#ff8503"><a href="https://5trainers.com/"
+                                            style="text-decoration: none; color:#ff8503;">Digital Marketing </a> Training in
                                         Ropar – Best Institute with Practical Career-Focused Training</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
@@ -59,7 +59,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ropar.ph
                                     Marketing, and modern digital tools through our hands-on, project-based curriculum
                                     designed to launch successful careers or boost local businesses.</p>
                                 <!--for Both Freshers &-->
-                                <h4 class="text-white">Build Industry-Ready Digital Skills for Modern Opportunities</h4>
+                                <h4 style="color:#ff8503">Build Industry-Ready Digital Skills for Modern Opportunities</h4>
                             </div><!--/slider text-->
 
 
@@ -123,7 +123,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ropar.ph
                 <div class="col-lg-12">
                     <div class="buildText">
                         <h2>You Are One Step Closer To Building A Thriving Career As <span>Digital Marketing
-                                Expert!</span></h2>
+                                Expert in Ropar !</span></h2>
                         <a href="contact.php" style="text-decoration: none;">Register Now </a>
                     </div>
                 </div><!--col-->
@@ -967,12 +967,14 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ropar.ph
                                 <!-- <img src="assets/image/icon/mission-about.png" class="img-fluid" alt="Icon"> -->
                             </div>
                             <h3>Who Should Join This Digital Marketing Training in Ropar?</h3>
-                            <ul class="p mt-4" style="padding: 0px;">
+                            <ul class="p " style="padding: 0px;">
                                 <li class="text-white">Students and recent graduates looking to build a strong digital career</li>
                                 <li class="text-white">Job seekers and professionals aiming to transition into high-growth digital roles </li>
                                 <li class="text-white">Local business owners, entrepreneurs, and industrial unit operators wanting to grow online presence</li>
                                 <li class="text-white">Freelancers, bloggers, and content creators seeking to expand their service offerings </li>
                                 <li class="text-white">Working professionals looking to upgrade their digital expertise for better opportunities</li>
+                                 <li class="text-white">Marketing, sales, and IT professionals</li>
+                                <li class="text-white">Entrepreneurs and small business owners</li>
                             </ul>
                             <p class="text-white">No degree or experience required—just the willingness to learn.</p>
                         </div>
@@ -1008,7 +1010,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ropar.ph
                  Contact us now to book a free demo session or enroll in our upcoming batch of Digital Marketing Training in Ropar.
             </p>
 
-            <a href="#" class="btn btn-warning btn-lg fw-semibold px-4">
+            <a href="contact.php" class="btn  btn-lg fw-semibold px-4" style="background-color: #ff8503;">
                  Enroll Now 
             </a>
 
@@ -1124,7 +1126,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ropar.ph
                             active ad campaigns</strong>, so you gain confidence to handle real clients and job roles.
                     </p>
 
-                    <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a>
+                    <!-- <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a> -->
                 </div>
             </div>
         </div>

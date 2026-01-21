@@ -49,8 +49,8 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
                             <h2> with AI</h2> -->
                                     <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Course in Panchkula</h2>
-                                    <h4 class="mt-4 text-white"><a href="https://5trainers.com/"
-                                            style="text-decoration: none; color:white;">Digital Marketing </a> Course in Panchkula – Learn Practically with 100% Placement Support</h4>
+                                    <h4 class="mt-4" style="color: #ff8503"><a href="https://5trainers.com/"
+                                            style="text-decoration: none; color: #ff8503;">Digital Marketing </a> Course in Panchkula – Learn Practically with 100% Placement Support</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
                                 <p class="coDetail">Become a certified digital marketing expert with Panchkula's leading
@@ -59,7 +59,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
                                     launch your career or grow your local business.
                                 </p>
                                 <!--for Both Freshers &-->
-                                <h4 class="text-white">Build In-Demand Digital Skills for Today’s Opportunities</h4>
+                                <h4 style="color: #ff8503">Build In-Demand Digital Skills for Today’s Opportunities</h4>
                             </div><!--/slider text-->
 
 
@@ -124,7 +124,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
                 <div class="col-lg-12">
                     <div class="buildText">
                         <h2>You Are One Step Closer To Building A Thriving Career As <span>Digital Marketing
-                                Expert!</span></h2>
+                                Expert in Panchkula!</span></h2>
                         <!-- <a href="#" style="text-decoration: none;">Register Now </a> -->
                     </div>
                 </div><!--col-->
@@ -423,7 +423,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
             <div class="row ">
                 <!-- SEO -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm">
+                    <div class="card h-100 shadow-sm Digital-card" >
                         <div class="card-body">
                             <h5 class="card-title">SEO Training in Panchkula</h5>
                             <p class="card-text">
@@ -442,7 +442,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
 
                 <!-- SMM -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm">
+                    <div class="card h-100 shadow-sm digital-card-new">
                         <div class="card-body">
                             <h5 class="card-title">Social Media Marketing (SMM)</h5>
                             <p class="card-text">
@@ -461,7 +461,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
 
                 <!-- PPC -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm">
+                    <div class="card h-100 shadow-sm Digital-card">
                         <div class="card-body">
                             <h5 class="card-title">Google Ads & PPC Training </h5>
                             <p class="card-text">
@@ -479,8 +479,8 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
 
                 <!-- Content Marketing -->
                 <div class="col-md-6 col-lg-4 mt-4">
-                    <div class="card h-100 shadow-sm">
-                        <div class="card-body">
+                    <div class="card h-100 shadow-sm digital-card-new">
+                        <div class="card-body"> 
                             <h5 class="card-title">Content Marketing</h5>
                             <p class="card-text">
                                 Learn blog writing, landing page content, video marketing, and SEO-friendly content creation.
@@ -497,7 +497,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
 
                 <!-- Email Marketing -->
                 <div class="col-md-6 col-lg-4 mt-4">
-                    <div class="card h-100 shadow-sm">
+                    <div class="card h-100 shadow-sm Digital-card">
                         <div class="card-body">
                             <h5 class="card-title">Email Marketing</h5>
                             <p class="card-text">
@@ -515,7 +515,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
 
                 <!-- Analytics & AI -->
                 <div class="col-md-6 col-lg-4 mt-4">
-                    <div class="card h-100 shadow-sm">
+                    <div class="card h-100 shadow-sm digital-card-new">
                         <div class="card-body">
                             <h5 class="card-title">Web Analytics & AI Tools</h5>
                             <p class="card-text">
@@ -626,107 +626,71 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
                   We believe in learning by doing. That’s why our training is fully practical and career-focused.
                 </p>
             </div>
-
-            <div class="row g-4">
-                <!-- Card 1 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Certified & Experienced Trainers:</h5>
-                        <p class="text-muted">
-                             Learn from industry experts who actively manage digital marketing campaigns.
-                        </p>
-                    </div>
+                                                                   <section class="container-fluid ">
+    <div class="no-container width90">
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="800"
+                    class="aos-init aos-animate chooseContentBox cyangreenbg">
+                    <h5>Industry-Experienced Trainers:</h5>
+                    <p class="text-center"> Learn from professionals actively managing SEO, ads, and social media campaigns.</p>
                 </div>
-
-                <!-- Card 2 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">100% Practical & Project-Based Learning:</h5>
-                        <p class="text-muted">  Run SEO audits, Google Ads, and social media campaigns on real projects.</p>
-                        <!-- <ul class="text-muted ps-3">
-            <li>Live websites</li>
-            <li>SEO audits</li>
-            <li>Google Ads campaigns</li>
-            <li>Social media marketing</li>
-            <li>Content creation & analytics</li>
-          </ul> -->
-                    </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1000" class="aos-init aos-animate chooseContentBox whitebg">
+                    <h5>100% Practical Learning Model:</h5>
+                    <p class="text-center">  Work on live websites, paid ad campaigns, and real-time analytics.</p>
                 </div>
-
-                <!-- Card 3 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Beginner-Friendly Course Structure:</h5>
-                        <p class="text-muted">
-                             No technical background required. Start from basics and progress to advanced levels.
-                        </p>
-                    </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1200"
+                    class="aos-init aos-animate chooseContentBox cyangreenbg">
+                    <h5>Beginner-Friendly Training:</h5>
+                    <p class="text-center"> No technical or marketing background required. We start from the basics..</p>
                 </div>
-
-                <!-- Card 4 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">100% Placement & Freelance Support:</h5>
-                        <p class="text-muted">  Resume building, interview preparation, freelancing guidance, and job referrals.</p>
-                        <!-- <ul class="text-muted ps-3">
-            <li>Job interview preparation</li>
-            <li>Resume & portfolio building</li>
-            <li>Freelancing platform guidance</li>
-            <li>Client handling basics</li>
-          </ul> -->
-                    </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1400" class="aos-init aos-animate chooseContentBox whitebg">
+                    <h5>Placement & Freelance Guidance :</h5>
+                    <p class="text-center">Resume preparation, interview training, freelancing setup, and job referrals.</p>
                 </div>
-
-                <!-- Card 5 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Live Campaign & Latest Tools Training:</h5>
-                        <p class="text-muted">
-                          Learn Google Ads, GA4, Search Console, Meta Ads, Canva, SEMrush, and AI tools.
-                        </p>
-                    </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1600"
+                    class="aos-init aos-animate chooseContentBox cyangreenbg">
+                    <h5>Latest Tools & AI Training:</h5>
+                    <p class="text-center"> Google Ads, GA4, Search Console, Meta Ads, Canva, SEMrush, and AI marketing tools.</p>
                 </div>
-
-                <!-- Card 6 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Small Batches & Personal Mentorship:</h5>
-                        <p class="text-muted">
-                           Individual attention and proper doubt-clearing support.
-                        </p>
-                    </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1800" class="aos-init aos-animate chooseContentBox whitebg">
+                    <h5>Small Batches, Personal Mentorship</h5>
+                    <p class="text-center">  Individual attention and proper doubt-clearing sessions.</p>
                 </div>
-                <!-- Card 7 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Lifetime Learning Assistance </h5>
-                        <p class="text-muted">
-                            Continued guidance, updates, and job alerts even after course completion.
-                        </p>
-                    </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1600" class="aos-init aos-animate chooseContentBox cyangreenbg">
+                    <h5>Lifetime Support:</h5>
+                    <p class="text-center">Continued guidance, updates, and job alerts even after course completion.</p>
                 </div>
-                <!-- Card 8 -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Personalized Attention in Small Batches:</h5>
-                        <p class="text-muted">
-                            Our limited class sizes ensure individual mentorship, regular doubt-clearing sessions, and
-                            direct interaction with trainers.
-                        </p>
-                    </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1800" class="aos-init aos-animate chooseContentBox whitebg">
+                    <h5>Personalized Attention in Small Batches:</h5>
+                    <p class="text-center">    Limited class sizes ensure individual mentorship, regular doubt-clearing sessions, and
+                            direct trainer interaction.</p>
                 </div>
-                <!-- Card 0-->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card h-100 shadow-sm border-0 p-3">
-                        <h5 class="fw-semibold">Honest Local & Remote Career Guidance: </h5>
-                        <p class="text-muted">
-                            Get transparent advice about Panchkula's job market, remote work opportunities, freelancing potential, and realistic salary expectations.
-                        </p>
-                    </div>
+            </div><!--/col-->
+            <div class="col-lg-4 col-md-6">
+                <div data-aos="fade-up" data-aos-duration="1600" class="aos-init aos-animate chooseContentBox cyangreenbg">
+                    <h5>Transparent Career Roadmap:</h5>
+                    <p class="text-center">  Get honest guidance about Panchkula's digital job market, salary expectations, and realistic
+                            career progression pathways.</p>
                 </div>
-
-
-            </div>
+            </div><!--/col-->
+        </div><!--/row-->
+    </div>
+</section><!--/Why Choose Us-->
         </div>
     </section>
     <!--  -->
@@ -1037,12 +1001,14 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
                                 <!-- <img src="assets/image/icon/mission-about.png" class="img-fluid" alt="Icon"> -->
                             </div>
                             <h3>Who Should Join This Digital Marketing Course in Panchkula?</h3>
-                            <ul class="p mt-4" style="padding: 0px;">
+                            <ul class="p " style="padding: 0px;">
                                 <li class="text-white">Students & fresh graduates</li>
                                 <li class="text-white">Job seekers & career switchers</li>
                                 <li class="text-white">Business owners & entrepreneurs</li>
                                 <li class="text-white">Freelancers & content creators </li>
                                 <li class="text-white">Sales, IT, and marketing professionals</li>
+                                <li class="text-white">Entrepreneurs and small business owners</li>
+                                <li class="text-white">Marketing, sales, and IT professionals</li>
                             </ul>
                             <p class="text-white">No degree or experience required—just the willingness to learn.</p>
                         </div>
@@ -1068,7 +1034,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
               Contact us today to book your seat or attend a free demo class.
             </p>
 
-            <a href="#" class="btn btn-warning btn-lg fw-semibold px-4">
+            <a href="contact.php" class="btn  btn-lg fw-semibold px-4" style="background-color: #ff8503;">
                  Enroll Now 
             </a>
 
@@ -1184,7 +1150,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
                             active ad campaigns</strong>, so you gain confidence to handle real clients and job roles.
                     </p>
 
-                    <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a>
+                    <!-- <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a> -->
                 </div>
             </div>
         </div>
