@@ -1075,7 +1075,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
                Contact us now to secure your seat or attend a free demo session for our Digital Marketing Training in Faridabad.
             </p>
 
-            <a href="contact.php" class="btn  btn-lg fw-semibold px-4" style="backgroundcolor: #ff8503;">
+            <a href="contact.php" class="btn  btn-lg fw-semibold px-4" style="background-color: #ff8503;">
                  Enroll Now 
             </a>
 
