@@ -408,9 +408,19 @@
     min-height: 190vh !important;
   }
   .setbgs-landing {
-    height: 250vh !important;
-    min-height: 250vh !important;
+    height: 270vh !important;
+    min-height: 270vh !important;
     padding: 135px 0px 70px 0;
+  }
+  .container-fluid{
+    margin: 0px !important;
+  }
+  .howitwork {
+    padding: 0px !important;
+  }
+  .fw-bold{
+        font-size: 20px;
+    line-height: 30px;
   }
   /*Slider*/
   .mb-20 {
@@ -509,7 +519,7 @@
     font-size: 35px;
     line-height: 30px;
     margin: 5px 0;
-    color: #feb600;
+    /* color: #feb600; */
   }
   .sliderHeading h1 {
     font-size: 20px;
@@ -630,7 +640,7 @@
     font-size: 35px;
     line-height: 30px;
     margin: 15px 0;
-    color: #feb600;
+    /* color: #feb600; */
   }
 }
 @media only screen and (min-device-width: 1200px) and (max-device-width: 1399px) {
