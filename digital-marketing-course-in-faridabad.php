@@ -43,19 +43,17 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-faridaba
                         <div class="intro-details">
                             <div class="slide-text">
                                 <!--<p class="topP mb-15">Restricted by opportunities?</p>-->
-                                <div class="sliderHeading mb-20">
+                                <div class="sliderHeading ">
                                     <!-- <h2>Digital Marketing Courses</h2>
                             <h2> with AI</h2> -->
-                                    <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
-                                            style="text-decoration: none; color:white;">Digital Marketing </a> Training in
+                                    <h2 style="font-size: 45px ;">Digital Marketing Training in
                                         Faridabad</h2>
-                                    <h4 class="mt-4 " style="color: #ff8503;"><a href="https://5trainers.com/"
-                                            style="text-decoration: none; color:#ff8503;">Digital Marketing </a> Training in Faridabad – Top Institute with 100% Placement Support</h4>
+                                    <h4 class="mt-4 "  style="color: #0a6da5; background-color:white; padding:20px; border-radius:8px">Digital Marketing </a> Training in Faridabad – Top Institute with 100% Placement Support</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
                                 <p class="coDetail">Become a certified digital marketing expert with Faridabad's most trusted training institute. Master SEO, Google Ads, Social Media Marketing, AI-powered tools, and advanced analytics through a completely practical, project-driven curriculum designed to launch your career.</p>
                                 <!--for Both Freshers &-->
-                                <h4 style="color: #ff8503;">Develop Industry-Ready Digital Skills for High-Growth Careers</h4>
+                                <h4  style="color: #0a6da5; background-color:white; padding:20px; border-radius:8px">Develop Industry-Ready Digital Skills for High-Growth Careers</h4>
                             </div><!--/slider text-->
 
 

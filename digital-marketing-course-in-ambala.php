@@ -46,8 +46,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
                                     <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Training in
                                         Ambala</h2>
-                                    <h4 class="mt-4 " style="color: #ff8503;"><a href="https://5trainers.com/"
-                                            style="text-decoration: none; color:#ff8503;">Digital Marketing </a> Training in
+                                    <h4 class="mt-4 " style="color: #0a6da5; background-color:white; padding:20px; border-radius:8px">Digital Marketing  Training in
                                         Ambala – Best Institute with Practical Career-Focused Training</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
@@ -57,7 +56,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
                                     launch your career or grow your local business.
                                 </p>
                                 <!--for Both Freshers &-->
-                                <h4 style="color: #ff8503;">Build In-Demand Digital Skills for Today’s Opportunities</h4>
+                                <h4 style="color: #0a6da5; background-color:white; padding:20px; border-radius:8px">Build In-Demand Digital Skills for Today’s Opportunities</h4>
                             </div><!--/slider text-->
 
 

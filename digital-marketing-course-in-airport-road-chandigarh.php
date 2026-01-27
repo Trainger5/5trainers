@@ -43,11 +43,10 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
                         <div class="intro-details">
                             <div class="slide-text">
                                 <!--<p class="topP mb-15">Restricted by opportunities?</p>-->
-                                <div class="sliderHeading mb-20">
+                                <div class="sliderHeading ">
                                     <!-- <h2>Digital Marketing Courses</h2>
                             <h2> with AI</h2> -->
-                                    <h2 style="font-size: 30px ;"><a href="https://5trainers.com/"
-                                            style="text-decoration: none; color:white;">Digital Marketing </a> Course in
+                                    <h2 style="font-size: 25px ;">Digital Marketing </a> Course in
                                         Airport Road Chandigarh</h2>
                                     <h4 class="mt-4 " style="color: #ff8503;"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:#ff8503;">Digital Marketing </a> Course in

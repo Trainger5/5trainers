@@ -49,7 +49,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
                                     <!-- <h2>Digital Marketing Courses</h2>
                             <h2> with AI</h2> -->
                                     <h2 style="font-size: 45px ;">Digital Marketing Training in Chandigarh</h2>
-                                    <h4 class="mt-3 " style="color: #ff8503;">Digital Marketing Training in Chandigarh – Best Institute 100% Placement</h4>
+                                    <h4 class="mt-3 "  style="color: #0a6da5; background-color:white; padding:20px; border-radius:8px">Digital Marketing Training in Chandigarh – Best Institute 100% Placement</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
                                 <p class="coDetail">Join the best digital marketing institute in Chandigarh and learn SEO, Google Ads, Social Media & AI-powered tools with practical training and real projects.</p>

@@ -791,7 +791,7 @@ p {
 .fresherJob .right-scroll {
   height: 100vh;
   overflow-y: scroll;
-  scrollbar-width: none; /* Firefox */
+  scrollbar-width: thin; /* Firefox */
 }
 .fresherJob .right-scroll::-webkit-scrollbar {
   display: none; /* Chrome, Safari */

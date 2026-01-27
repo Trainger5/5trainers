@@ -121,8 +121,8 @@
             <li style="padding:0px 10px"><a href="https://www.facebook.com/profile.php?id=61576550454616" target="_blank"><span>
                   <i class="text-white fa-brands fa-facebook-f"></i>
                   </span></a></li>
-             <li style="padding:0px 5px"><a href="https://x.com/_5trainers" target="_blank"><span>
-           <i class="text-white fa-brands fa-twitter"></i>
+             <li style="padding:0px 5px"><a href="https://www.instagram.com/5_trainers/" target="_blank"><span>
+           <i class="text-white fa-brands fa-instagram"></i>
             </span></a></li>
              <li style="padding:0px 10px"><a href="https://www.linkedin.com/company/5trainer" target="_blank"><span>
                <i class="text-white fa-brands fa-linkedin-in"></i>

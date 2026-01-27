@@ -44,14 +44,13 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
                         <div class="intro-details">
                             <div class="slide-text">
                                 <!--<p class="topP mb-15">Restricted by opportunities?</p>-->
-                                <div class="sliderHeading mb-20">
+                                <div class="sliderHeading ">
                                     <!-- <h2>Digital Marketing Courses</h2>
                             <h2> with AI</h2> -->
                                     <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Training in
                                         Ghaziabad</h2>
-                                    <h4 class="mt-4 " style="color: #ff8503;"><a href="https://5trainers.com/"
-                                            style="text-decoration: none; color:#ff8503;">Digital Marketing </a> Training in
+                                    <h4 class="mt-4 "  style="color: #0a6da5; background-color:white; padding:20px; border-radius:8px">Digital Marketing Training in
                                         Ghaziabad – Premier Institute with 100% Placement Support</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
@@ -60,7 +59,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
                                     AI-powered automation, and data analytics through a hands-on, project-driven
                                     curriculum designed for immediate career impact.</p>
                                 <!--for Both Freshers &-->
-                                <h4 style="color: #ff8503;">Build Market-Ready Skills for Ghaziabad's Digital Economy</h4>
+                                <h4  style="color: #0a6da5; background-color:white; padding:20px; border-radius:8px">Build Market-Ready Skills for Ghaziabad's Digital Economy</h4>
                             </div><!--/slider text-->
 
 
