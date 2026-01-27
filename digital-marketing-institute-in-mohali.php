@@ -538,7 +538,7 @@ $canonical_url = "https://www.5trainers.com/digital_marketing_institute_in_mohal
             <div class="col-md-8">
                 <div class="servicecol">
                     <div class="service-info text-center">
-                        <p><strong>Next Batch Starting:</strong> [Date]</p>
+                        <!-- <p><strong>Next Batch Starting:</strong> [Date]</p> -->
                         <p class="mb-1"><strong>Morning Batch:</strong> 9 AM - 11 AM</p>
                         <p class="mb-1"><strong>Afternoon Batch:</strong> 2 PM - 4 PM</p>
                         <p class="mb-1"><strong>Weekend Batch:</strong> 10 AM - 2 PM (Sat-Sun)</p>
