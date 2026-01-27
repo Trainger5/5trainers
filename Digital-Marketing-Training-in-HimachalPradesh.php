@@ -46,8 +46,8 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Himach
                                 <div class="sliderHeading mb-20">
                                     <!-- <h2>Digital Marketing Courses</h2>
                             <h2> with AI</h2> -->
-                                    <h2 style="font-size: 45px;"><a href="https://5trainers.com/" style="text-decoration: none; color:white;">Digital Marketing </a> Training in Himachal Pradesh</h2>
-                                    <h4 style="color: #ff8503;"><a href="https://5trainers.com/" style="text-decoration: none; color:#ff8503;">Digital Marketing </a> Training in Himachal Pradesh – 100% Job-Oriented Course</h4>
+                                    <h2 style="font-size: 45px;">Digital Marketing  Training in Himachal Pradesh</h2>
+                                    <h4 style="color: #0a6da5; background-color:white; padding:20px; border-radius:8px"><a href="https://5trainers.com/" style="text-decoration: none; color:#0a6da5;">Digital Marketing </a> Training in Himachal Pradesh – 100% Job-Oriented Course</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
                                 <p class="coDetail">Best Digital Marketing Institute in Himachal Pradesh with Placement Support</p>

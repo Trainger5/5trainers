@@ -37,7 +37,7 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 	</div>
 </section><!--/breadcrumbs-->
 
-<section class="continer-fluid pb about5trainer comm-margin">
+<section class="continer-fluid  about5trainer comm-margin">
 	<div class="nocontainer width80">
 		<div class="row aboutrowhding">
 			<div class="col-lg-5 col-md-12 col-sm-12 Digital-about">

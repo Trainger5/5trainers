@@ -45,11 +45,11 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                         <div class="intro-details">
                             <div class="slide-text">
                                 <!--<p class="topP mb-15">Restricted by opportunities?</p>-->
-                                <div class="sliderHeading mb-20">
+                                <div class="sliderHeading ">
                                     <!-- <h2>Digital Marketing Courses</h2>
                             <h2> with AI</h2> -->
                                     <h2 style="font-size: 45px ;">Digital Marketing Training in Mohali</h2>
-                                    <h4 class="mt-3 text-white">Digital Marketing Training in Mohali – Best Institute
+                                    <h4 class="mt-3 "  style="color: #0a6da5; background-color:white; padding:20px; border-radius:8px">Digital Marketing Training in Mohali – Best Institute
                                         100% Placement</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
@@ -914,12 +914,13 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                                 <!-- <img src="assets/image/icon/mission-about.png" class="img-fluid" alt="Icon"> -->
                             </div>
                             <h3>Who Should Join This Digital Marketing Training?</h3>
-                            <ul class="p mt-4" style="padding: 0px;">
+                            <ul class="p " style="padding: 0px;">
                                 <li class="text-white">Students & fresh graduates</li>
                                 <li class="text-white">Job seekers & career switchers</li>
                                 <li class="text-white">Business owners & entrepreneurs</li>
                                 <li class="text-white">Freelancers & content creators </li>
                                 <li class="text-white">Working professionals looking to upgrade skills</li>
+                                 <li class="text-white">Students & fresh graduates</li>
                             </ul>
                             <p class="text-white">No technical degree required—just the willingness to learn.</p>
                         </div>
@@ -947,7 +948,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                 successful digital career.
             </p>
 
-            <a href="#" class="btn btn-warning btn-lg fw-semibold px-4">
+            <a href="contact.php" class="btn  btn-lg fw-semibold px-4" style="background-color: #ff8503;">
                 Enroll Now
             </a>
 
@@ -1059,7 +1060,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                         Our digital marketing course in Mohali focuses on practical learning, live projects,
                         and step-by-step guidance so you can confidently work on real campaigns — not just theory.
                     </p>
-                    <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a>
+                    <!-- <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a> -->
                 </div>
             </div>
         </div>

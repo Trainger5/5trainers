@@ -47,11 +47,9 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
                                 <div class="sliderHeading mb-20">
                                     <!-- <h2>Digital Marketing Courses</h2>
                             <h2> with AI</h2> -->
-                                    <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
-                                            style="text-decoration: none; color:white;">Digital Marketing </a> Course in
+                                    <h2 style="font-size: 45px ;">Digital Marketing  Course in
                                         Zirakpur </h2>
-                                    <h4 class="mt-4 " style="color: #ff8503;"><a href="https://5trainers.com/"
-                                            style="text-decoration: none; color:#ff8503;">Digital Marketing </a> Course in
+                                    <h4 class="mt-4 "  style="color: #0a6da5; background-color:white; padding:20px; border-radius:8px">Digital Marketing Course in
                                         Zirakpur | Learn SEO, Ads & AI Tools</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
@@ -61,7 +59,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-zirakpur
                                     and advanced analytics through a 100% practical, project-based learning approach.
                                 </p>
                                 <!--for Both Freshers &-->
-                                <h4 style="color: #ff8503;">Learn Industry-Ready Digital Skills for High-Growth Careers
+                                <h4 style="color: #0a6da5; background-color:white; padding:20px; border-radius:8px">Learn Industry-Ready Digital Skills for High-Growth Careers
                                 </h4>
                             </div><!--/slider text-->
 

@@ -44,14 +44,13 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-training-in-delhi.
                         <div class="intro-details">
                             <div class="slide-text">
                                 <!--<p class="topP mb-15">Restricted by opportunities?</p>-->
-                                <div class="sliderHeading mb-20">
+                                <div class="sliderHeading ">
                                     <!-- <h2>Digital Marketing Courses</h2>
                             <h2> with AI</h2> -->
-                                    <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
-                                            style="text-decoration: none; color:white;">Digital Marketing </a> Training in
+                                    <h2 style="font-size: 45px ;">Digital Marketing  Training in
                                         Delhi</h2>
-                                    <h4 class="mt-4 " style="color: #ff8503;"><a href="https://5trainers.com/"
-                                            style="text-decoration: none; color:#ff8503;">Digital Marketing </a> Training in
+                                    <h4 class="mt-4 " style="color: #0a6da5; background-color:white; padding:20px; border-radius:8px"><a href="https://5trainers.com/"
+                                            style="text-decoration: none; color:#0a6da5;">Digital Marketing </a> Training in
                                         Delhi – Best Institute 100% Placement</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
@@ -59,7 +58,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-training-in-delhi.
                                     Google Ads, Social Media & AI-powered tools with hands-on training and real-world
                                     projects.</p>
                                 <!--for Both Freshers &-->
-                                <h4 style="color: #ff8503;">Learn  Skills That Grow Careers & Businesses</h4>
+                                <h4 style="color: #0a6da5; background-color:white; padding:20px; border-radius:8px">Learn  Skills That Grow Careers & Businesses</h4>
                             </div><!--/slider text-->
 
 
@@ -1022,12 +1021,14 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-training-in-delhi.
                                 <!-- <img src="assets/image/icon/mission-about.png" class="img-fluid" alt="Icon"> -->
                             </div>
                             <h3>Who Should Join This Digital Marketing Training in Delhi?</h3>
-                            <ul class="p mt-4" style="padding: 0px;">
+                            <ul class="p " style="padding: 0px;">
+                                <li class="text-white">Working professionals aiming to upskill</li>
                                 <li class="text-white">Students & fresh graduates</li>
+                                <li class="text-white">Freelancers & content creators </li>
                                 <li class="text-white">Job seekers & career switchers  </li>
                                 <li class="text-white">Business owners & entrepreneurs</li>
                                 <li class="text-white">Freelancers & content creators </li>
-                                <li class="text-white">Working professionals aiming to upskill</li>
+                                <li class="text-white">Working professionals looking to upgrade skills</li>
                             </ul>
                             <p class="text-white">No degree or experience required—just the willingness to learn.</p>
                         </div>

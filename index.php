@@ -41,9 +41,9 @@ $canonical_url = "https://www.5trainers.com/index.php";
  
 @media screen and (max-width: 991px) {
 .banner-img-box {
-    width: 350px;
+    width: 475px;
     position: absolute;
-    right: 100px;
+    right: 60px;
     bottom: 0px !important;
 }
  
@@ -111,6 +111,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
 .slider-center{
  left: 55%;
         top: 50% !important;
+        width: 90%;
     
 }
  
@@ -249,7 +250,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
 
 
 <!--About-->
-<section class="container-fluid about-sec pt aos-all" id="transcroller-body">
+<section class="container-fluid about-sec  aos-all" id="transcroller-body">
     <div class="no-container width80">
         <div class="row">
             <div class="col-sm-5 col-md-12 col-lg-5 align-self-center">
@@ -378,7 +379,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
         </div><!--/row-->
 </section><!--/Meet Our Experts-->
 <!--Career Counselling-->
-<section class="features-area pt pb">
+<section class="features-area pt-60 pb">
     <div class="shape-6"><img src="assets/image/shape/shape-6.png" alt="Icon" /></div>
     <div class="shape-7"><img src="assets/image/shape/shape-7.png" alt="Icon" /></div>
     <div class="custom-container width80">
@@ -600,7 +601,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                 </div><!--/heading-->
             </div>
         </div><!--/row-->
-        <div class="row mt-80">
+        <div class="row mt-20">
             <div class="col-lg-2 col-md-4 col-sm-6">
                 <div class="work-item text-center">
                     <div class="work-item__arrow">
@@ -1015,7 +1016,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
     </div><!--/container-->
 </section><!--/Create a Form Consult with Expert -->
 
-<section class="container-fluid pt pb blogsec">
+<section class="container-fluid  pb blogsec">
     <div class="no-container width80">
         <div class="row">
             <div class="col-lg-12">
@@ -1134,7 +1135,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
 </section>
 <!--/blog-->
 
-<section class="container-fluid pt pb faq">
+<section class="container-fluid pt-40 pb faq">
     <div class="custom-container width80">
         <div class="row">
             <div class="col-sm-5 col-lg-6">
