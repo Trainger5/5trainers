@@ -91,6 +91,9 @@
   .pb {
     padding-bottom: 30px;
   }
+  .features-2{
+    padding: 30px 0px !important;
+  }
   .pt {
     padding-top: 30px;
   }
@@ -103,7 +106,7 @@
   }
   .centerhding p {
     width: 100%;
-    text-align: justify !important;
+    /* text-align: justify !important; */
   }
   .shape01 img {
     width: 50%;
@@ -136,7 +139,7 @@
     margin: 0 0 5px 0;
   }
   .typo-pills{
-    font-size: 11px !important;
+    font-size: 15px !important;
   }
   .hero-main{
     top: 11% !important;

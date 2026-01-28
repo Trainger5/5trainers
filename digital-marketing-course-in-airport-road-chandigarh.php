@@ -48,14 +48,13 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-airport-
                             <h2> with AI</h2> -->
                                     <h2 style="font-size: 25px ;">Digital Marketing </a> Course in
                                         Airport Road Chandigarh</h2>
-                                    <h4 class="mt-4 " style="color: #ff8503;"><a href="https://5trainers.com/"
-                                            style="text-decoration: none; color:#ff8503;">Digital Marketing </a> Course in
+                                    <h4 class="mt-4 "  style="color: #0a6da5; background-color:white; padding:20px; border-radius:8px">Digital Marketing </a> Course in
                                         Airport Road Chandigarh – Practical Training with Placement Support</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
                                 <p class="coDetail">If you are searching for a Digital Marketing Course in Airport Road Chandigarh, you’re in the right place. At 5Trainers, we offer a career-focused, practical digital marketing program designed to help you gain real skills that companies actually hire for.</p>
                                 <!--for Both Freshers &-->
-                                <h4 style="color: #ff8503;">Job-Oriented Digital Marketing Training Near Airport Road Chandigarh
+                                <h4  style="color: #0a6da5; background-color:white; padding:20px; border-radius:8px">Job-Oriented Digital Marketing Training Near Airport Road Chandigarh
                                 </h4>
                             </div><!--/slider text-->
 

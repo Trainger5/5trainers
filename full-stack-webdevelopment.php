@@ -108,7 +108,7 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
         </div><!--/row-->
     </div><!--container-->
 </section><!--/slider Heading-->
-<section class="features-2 pt pb">
+<section class="features-2  pb">
     <div class="custom-container width80">
         <div class="row align-items-center">
             <div class="col-12 col-xl-6">
@@ -205,7 +205,7 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
             <div class="col-sm-7 col-md-12 col-lg-7 align-self-center">
                 <div class="about-us-info-wrap">
                     <div class="section-title-area">
-                        <h6 data-aos="fade-up" data-aos-duration="1000" class="section-subtitle section-subtitle-2">
+                        <h6 data-aos="fade-up" data-aos-duration="1000" class="section-subtitle section-subtitle-2 mt-5">
                             Overview</h6>
                         <h2 data-aos="fade-up" data-aos-duration="1500" class="section-title">Full Stack Development
                             Course Overview</h2>
@@ -262,7 +262,7 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
 </section>
 <!--/about -->
 
-<section class="contaianer-fluid pt pb skill-cover">
+<section class="contaianer-fluid  skill-cover">
     <div class="cutom-container width80">
         <div class="row">
             <div class="col-lg-12">
@@ -353,7 +353,7 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
     </div>
 </section><!--/skill cover-->
 
-<section class="contaianer-fluid pt pb howitwork">
+<section class="contaianer-fluid  howitwork">
     <div class="cutom-container width80">
         <div class="row">
             <div class="col-lg-12">

@@ -530,6 +530,7 @@ p {
   position: relative;
   background: #e7f4f8;
   z-index: 1;
+  padding: 80px 0px;
 }
 .skillbox h3 {
   font-size: 16px;
@@ -553,6 +554,7 @@ p {
   background: #0f79be;
   position: relative;
   z-index: 1;
+  padding: 80px 0px;
 }
 .whitetext h2,
 .whitetext p {
@@ -815,7 +817,7 @@ p {
   margin-left: 20px;
 }
 .fresherCont p {
-  text-align: justify;
+  /* text-align: justify; */
   font-size: 18px;
   color: #043146;
   letter-spacing: 0.03em;
@@ -982,6 +984,7 @@ p.certip {
   z-index: 1;
   position: relative;
   overflow: hidden;
+  padding: 80px 0px;
 }
 .icon-box {
   padding: 20px 15px;
@@ -1709,6 +1712,25 @@ p.certip {
   .gotowebsite {
     gap: 6px;
   }
+  .requestCall{
+    display: none;
+  }
+  .section-title{
+  line-height: 32px;
+  margin: 0px;
+  }
+  .howitwork{
+    padding: 30px 0px !important;
+  }
+  .skill-cover{
+    padding: 20px 0px !important;
+  }
+  .about-us-info-wrap{
+    margin: 0px;
+  }
+  .centerhding{
+    width: 100% !important;
+  }
   .slider-landing {
     padding-left: 0;
     padding-right: 0;
@@ -1826,7 +1848,7 @@ p.certip {
     font-size: 13px;
     margin-top: 4px;
     line-height: 20px;
-    min-height: 60px;
+    min-height: 30px;
   }
   .icon-box {
     padding: 10px;

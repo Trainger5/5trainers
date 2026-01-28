@@ -49,7 +49,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ropar.ph
                                     <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
                                             style="text-decoration: none; color:white;">Digital Marketing </a> Training in
                                         Ropar</h2>
-                                    <h4 class="mt-4"  style="color: #0a6da5; background-color:white; padding:20px; border-radius:8px">Digital Marketing  Training in
+                                    <h4 class="mt-4 main-heading" >Digital Marketing  Training in
                                         Ropar – Best Institute with Practical Career-Focused Training</h4>
                                 </div>
                                 <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
@@ -58,12 +58,12 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ropar.ph
                                     Marketing, and modern digital tools through our hands-on, project-based curriculum
                                     designed to launch successful careers or boost local businesses.</p>
                                 <!--for Both Freshers &-->
-                                <h4  style="color: #0a6da5; background-color:white; padding:20px; border-radius:8px">Build Industry-Ready Digital Skills for Modern Opportunities</h4>
+                                <h4 class="main-heading" >Build Industry-Ready Digital Skills for Modern Opportunities</h4>
                             </div><!--/slider text-->
 
 
                           
-                            <div>
+                            <div class="slide-text">
                                 <p class="coDetail text-white">5Trainers offers professionally structured Digital
                                     Marketing Training in Ropar, designed to make you job-ready with practical skills
                                     that local businesses, nearby industrial units, and remote employers actively seek.
