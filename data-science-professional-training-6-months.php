@@ -11,7 +11,7 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
 
             <div class="col-12 col-xl-7">
                 <div class="intro-details">
-                    <div class="slide-text">
+                    <div >
                         <p class="topP mb-15">Restricted by opportunities?</p>
                         <div class="sliderHeading mb-20">
                             <h2>Data Science Professional</h2>

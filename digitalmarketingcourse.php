@@ -18,9 +18,9 @@ $canonical_url = "https://www.5trainers.com/digitalmarketingcourse.php";
 
             <div class="col-12 col-xl-7">
                 <div class="intro-details">
-                    <div class="slide-text">
-                        <p class="topP mb-15">Restricted by opportunities?</p>
-                        <div class="sliderHeading mb-20">
+                    <div>
+                        <p class="topP mb-15 text-white">Restricted by opportunities?</p>
+                        <div class="sliderHeading text-white mb-20">
                             <h2 class="m-0">Digital Marketing Course</h2>
                             <h2 class="m-0">Job Bootcamp with GenAI</h2>
                         </div>

@@ -13,7 +13,7 @@ $canonical_url = "https://www.5trainers.com/digital_marketing_institute.php";
 
             <div class="col-12 col-xl-7">
                 <div class="intro-details">
-                    <div class="slide-text">
+                    <div>
 
                         <div class="sliderHeading mb-20">
 

@@ -48,7 +48,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ghaziaba
 
 
 
-                    <div class="slide-text">
+                    <div>
                         <p class="coDetail text-white">5Trainers offers industry-aligned Digital Marketing
                             Training in Ghaziabad, structured to make you job-ready from the first module. We
                             focus on in-demand, practical skills that Ghaziabad's businesses, startups, and

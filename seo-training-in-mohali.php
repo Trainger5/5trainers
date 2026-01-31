@@ -12,7 +12,7 @@ $canonical_url = "https://www.5trainers.com/seo-training-in-mohali.php";
 
             <div class="col-12 col-xl-7">
                 <div class="intro-details">
-                    <div class="slide-text">
+                    <div>
                         <div class="sliderHeading ">
                             <h2 style="font-size: 30px ;">SEO Training in Mohali – Learn From Certified Experts |
                                 5Trainers</h2>

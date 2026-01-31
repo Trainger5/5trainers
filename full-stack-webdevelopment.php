@@ -5,6 +5,17 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
 ?>
 <?php include('header.php'); ?>
 
+<style>
+    .banner-box img{
+        width: 500px;
+    }
+    @media only screen and (max-width: 500px) {
+ .banner-box img{
+        width: 300px;
+    }
+}
+
+</style>
 
 <section class="hero-demo">
     <div class="hero-demo-main width80">
@@ -12,9 +23,9 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
 
             <div class="col-12 col-xl-7">
                 <div class="intro-details">
-                    <div class="slide-text">
-                        <p class="topP mb-15">Restricted by opportunities?</p>
-                        <div class="sliderHeading mb-20">
+                    <div>
+                        <p class="topP mb-15 text-white">Restricted by opportunities?</p>
+                        <div class="sliderHeading mb-20 text-white">
                             <h2>Full Stack Web Development</h2>
                             <h2>Job Bootcamp with GenAI</h2>
                         </div>
@@ -88,8 +99,11 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
                     </div>
                 </div>
             </div>
+            <div class="col-12 col-lg-6 banner-box hero_right_box d-block d-md-none">
+                  <img src="assets/image/slider/benners.png" loading="lazy" class="bannerimg" alt="image">
+            </div>
             <div class="col-12 col-xl-5 mb-5 mb-lg-0">
-                <div class="formAlign">
+                <div class="formAlign m-0 mt-md-4">
                     <?php include('course-slider-form.php'); ?>
                 </div>
             </div>
@@ -269,7 +283,7 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
     <div class="cutom-container width80">
         <div class="row">
             <div class="col-lg-12">
-                <div class="section-title-area text-center centerhding">
+                <div class="section-title-area centerhding">
                     <h6 data-aos="fade-up" data-aos-duration="1000" class="section-subtitle section-subtitle-2">Skills
                     </h6>
                     <h2 data-aos="fade-up" data-aos-duration="1500" class="section-title">Skills Covered</h2>
@@ -362,7 +376,7 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
             <div class="col-lg-12">
                 <div class="section-title-area whitetext centerhding">
                     <h2 data-aos="fade-up" data-aos-duration="1500" class="section-title">Tools Covered</h2>
-                    <h5 data-aos="fade-up" data-aos-duration="1700" class="aos-init aos-animate text-center text-white">
+                    <h5 data-aos="fade-up" data-aos-duration="1700" class="aos-init aos-animate  text-white">
                         With over
                         10+ years of experience in the Digital and IT Training industry, we have successfully trained
                         hundreds of students and professionals under our former name 5Trainers.</h5>
@@ -532,7 +546,7 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
     </div>
 </section><!--/Project Agile Activity with Student Participation-->
 
-<section class="container-fluid pt pb fresherJob">
+<section class="container-fluid pY-5  pb fresherJob">
     <div class="custom-container width80">
         <div class="row">
             <div class="col-lg-12">
@@ -541,8 +555,8 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
                     </h6>
                     <h2 data-aos="fade-up" data-aos-duration="1500" class="section-title">Fresher Job Assured Program
                         with Stipend</h2>
-                    <p data-aos="fade-up" data-aos-duration="1700" class="aos-init aos-animate text-center">9 Month
-                        Program, Placement Assistance after successful Completing course</p>
+                    <h5 data-aos="fade-up" data-aos-duration="1700" class="aos-init aos-animate  mb-3">9 Month
+                        Program, Placement Assistance after successful Completing course</h5>
                 </div>
             </div>
         </div>

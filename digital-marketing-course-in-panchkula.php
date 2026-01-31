@@ -47,7 +47,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-panchkul
 
 
 
-                    <div class="slide-text">
+                    <div>
                         <p class="coDetail text-white">5Trainers offers industry-aligned Digital Marketing
                             Training in Panchkula, structured to make you job-ready from day one. We focus on
                             practical, real-world skills that businesses in Panchkula and remote employers across
