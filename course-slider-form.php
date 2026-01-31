@@ -1,4 +1,4 @@
-<div class="form-screen">
+<div class="form-screens form-screen-hero">
     <div class="title">Book a <span class="talert">Free consultancy</span> <span class="more">to know more</span></div>
     <form action="sendmail.php" method="POST">
         <input type="hidden" name="form_type" value="Callback Request">
@@ -35,8 +35,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-12 col-md-12">
-                <input type="submit" class="submitbtn btn btn-primary" value="Enroll For Course Booking">
+            <div class="col-lg-12 col-md-12 text-center " style="background-color:#1171a8; border-radius: 5px;">
+                <input type="submit" class="submitbtn btn text-white " value="Enroll For Course Booking">
             </div>
         </div>
     </form>

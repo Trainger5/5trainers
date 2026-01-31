@@ -96,7 +96,7 @@
 
 <section class="container-fluid download">
     <div class="custom-container width80">
-        <div class="row">
+        <div class="row align-items-center">
             <div class="col-md-8 col-lg-6">
                 <h2 data-aos="fade-up" data-aos-duration="800" class="section-title">Take your career to the next level!
                 </h2>
@@ -122,7 +122,7 @@
 
                 <div class="certificateWidth">
                     <p class="certip" data-aos="fade-up" data-aos-duration="1700"
-                        class="aos-init aos-animate text-justify">5Trainers Certificates is globally recognized
+                        class="aos-init aos-animate text-justify"  >5Trainers Certificates is globally recognized
                         certificate program. It is evolved to help students to get a complete knowledge of data science
                         from basics to advanced techniques. Online lectures, videos and assignments are an important
                         part of the course that helps students understand the core concepts quickly. The certified

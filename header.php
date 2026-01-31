@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
- 
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo $meta_title ?? ''; ?></title>
+  <title><?php echo $meta_title ?? ''; ?></title>
   <meta name="description" content="<?php echo $meta_description ?? ''; ?>">
   <link rel="canonical" href="<?php echo $canonical_url ?? ''; ?>">
   <meta name="keywords"
     content="Digital marketing institute in Mohali, Best IT training institute Mohali, Cyber security training Mohali, Data science course in Mohali, Full stack developer course Mohali, Job-oriented courses in Mohali, 5Trainers Mohali">
   <?php
-    // When included from /blog/, adjust asset paths and internal links one level up.
-    $assetPrefix = !empty($is_blog) ? '../' : '';
-    $linkPrefix  = !empty($is_blog) ? '../' : '';
+  $assetPrefix = !empty($is_blog) ? '../' : '';
+  $linkPrefix = !empty($is_blog) ? '../' : '';
   ?>
   <script type="application/ld+json">
     {
@@ -62,21 +61,16 @@
   <link href="<?php echo $assetPrefix; ?>assets/css/responsive.css" type="text/css" rel="stylesheet" />
   <link href="<?php echo $assetPrefix; ?>assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
   <!-- course-page -->
- 
- 
-  <!-- floating -->
+
   <link href="<?php echo $assetPrefix; ?>assets/css/floating-icons.css" type="text/css" rel="stylesheet" />
- 
   <link href="<?php echo $assetPrefix; ?>assets/css/animate.css" rel="stylesheet">
   <link href="<?php echo $assetPrefix; ?>assets/css/aos.css" rel="stylesheet">
   <link rel="shortcut icon" href="<?php echo $assetPrefix; ?>assets/image/favicon32.png">
   <meta name="msvalidate.01" content="7EDD16BE0E2EBADEEBC8AE5E6248694D" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
- 
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
- 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
- 
+
   <!-- Google Tag Manager -->
   <script>(function (w, d, s, l, i) {
       w[l] = w[l] || []; w[l].push({
@@ -86,61 +80,59 @@
         j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
           'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
     })(window, document, 'script', 'dataLayer', 'GTM-K3N4DF4B');</script>
-  <!-- End Google Tag Manager -->
- 
- 
+
 </head>
- 
+
 <body class="aos-all" id="transcroller-body">
-    <nav>
-     
-
- 
-      <div class="nocontainer width80 nav__bar">
-        <div class="wrapper">
-          <div class="logo">
-            <a href="<?php echo $linkPrefix; ?>index.php"><img src="<?php echo $assetPrefix; ?>assets/image/Final-logo.png" alt="" class="img-fluid"></a>
-          </div>
- 
-          <input type="radio" name="slider" id="menu-btn">
-          <input type="radio" name="slider" id="close-btn">
- 
-          <div>
-            <div class="no-container  top-contact-bar ">
-      <div class="main-top-contect" >
-        <div class="width90 d-flex main-contact-bar">
-            <div class="text-white">
-            <i class=" fa-solid fa-phone icon" style="color: #fff;"></i>
-            <a href="tel:+91 8283840606" class=" mr-4" style="text-decoration: none; color: #fff;" >+91 8283840606</a>
-          </div>
-          <div>
-            <i class=" fa-solid fa-envelope" style="color: #fff;"></i>
-            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@5trainers.com" class="" style="text-decoration: none; color: #fff;" target="_blank">info@5trainers.com</a>
-          </div>
-          <ul class="d-flex m-0">
-            <li style="padding:0px 10px"><a href="https://www.facebook.com/profile.php?id=61576550454616" target="_blank"><span>
-                  <i class="text-white fa-brands fa-facebook-f"></i>
-                  </span></a></li>
-             <li style="padding:0px 5px"><a href="https://www.instagram.com/5_trainers/" target="_blank"><span>
-           <i class="text-white fa-brands fa-instagram"></i>
-            </span></a></li>
-             <li style="padding:0px 10px"><a href="https://www.linkedin.com/company/5trainer" target="_blank"><span>
-               <i class="text-white fa-brands fa-linkedin-in"></i>
-            </span></a></li>
-          </ul>
-
+  <nav>
+    <div class="nocontainer width80 nav__bar">
+      <div class="wrapper">
+        <div class="logo">
+          <a href="<?php echo $linkPrefix; ?>index.php"><img
+              src="<?php echo $assetPrefix; ?>assets/image/Final-logo.png" alt="" class="img-fluid"></a>
         </div>
-      </div>
-       
-      </div>
-         
- 
+
+        <input type="radio" name="slider" id="menu-btn">
+        <input type="radio" name="slider" id="close-btn">
+
+        <div>
+          <div class="no-container  top-contact-bar ">
+            <div class="main-top-contect">
+              <div class="width90 d-flex main-contact-bar">
+                <div class="text-white">
+                  <i class=" fa-solid fa-phone icon" style="color: #fff;"></i>
+                  <a href="tel:+91 8283840606" class=" mr-4" style="text-decoration: none; color: #fff;">+91
+                    8283840606</a>
+                </div>
+                <div>
+                  <i class=" fa-solid fa-envelope" style="color: #fff;"></i>
+                  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=info@5trainers.com" class=""
+                    style="text-decoration: none; color: #fff;" target="_blank">info@5trainers.com</a>
+                </div>
+                <ul class="d-flex m-0">
+                  <li style="padding:0px 10px"><a href="https://www.facebook.com/profile.php?id=61576550454616"
+                      target="_blank"><span>
+                        <i class="text-white fa-brands fa-facebook-f"></i>
+                      </span></a></li>
+                  <li style="padding:0px 5px"><a href="https://www.instagram.com/5_trainers/" target="_blank"><span>
+                        <i class="text-white fa-brands fa-instagram"></i>
+                      </span></a></li>
+                  <li style="padding:0px 10px"><a href="https://www.linkedin.com/company/5trainer"
+                      target="_blank"><span>
+                        <i class="text-white fa-brands fa-linkedin-in"></i>
+                      </span></a></li>
+                </ul>
+
+              </div>
+            </div>
+
+          </div>
           <ul class="nav-links menu_box  py-2 ">
-            <label for="close-btn" class="btn close-btn close_icon"><img src="<?php echo $assetPrefix; ?>assets/image/icon/close.png"></label>
- 
+            <label for="close-btn" class="btn close-btn close_icon"><img
+                src="<?php echo $assetPrefix; ?>assets/image/icon/close.png"></label>
+
             <li><a href="<?php echo $linkPrefix; ?>index.php" class="home">Home</a></li>
- 
-            <!-- About dropdown -->
+
             <li>
               <a href="<?php echo $linkPrefix; ?>about.php" class="desktop-item">About <span><img
                     src="<?php echo $assetPrefix; ?>assets/image/icon/expand_arrow.png"></span></a>
@@ -152,8 +144,7 @@
                 <li><a href="<?php echo $linkPrefix; ?>founder.php">Our Founder</a></li>
               </ul>
             </li>
- 
-            <!--  Courses dropdown -->
+
             <li>
               <a href="<?php echo $linkPrefix; ?>course.php" class="desktop-item">Courses <span><img
                     src="<?php echo $assetPrefix; ?>assets/image/icon/expand_arrow.png"></span></a>
@@ -168,14 +159,14 @@
                 <li><a href="<?php echo $linkPrefix; ?>smo-one-month.php">SMO Course</a></li>
                 <li><a href="<?php echo $linkPrefix; ?>smm.php">SMM Course</a></li>
                 <li><a href="<?php echo $linkPrefix; ?>full-stack-webdevelopment.php">Full Stack Development</a></li>
-                <li><a href="<?php echo $linkPrefix; ?>data-science-professional-training-6-months.php">Data Science Professional Training</a>
+                <li><a href="<?php echo $linkPrefix; ?>data-science-professional-training-6-months.php">Data Science
+                    Professional Training</a>
                 </li>
                 <li><a href="<?php echo $linkPrefix; ?>artificial-intelligence.php">Artificial Intelligence</a></li>
                 <li><a href="<?php echo $linkPrefix; ?>data-analytics-6months.php">Data Analytics</a></li>
               </ul>
             </li>
- 
-            <!--  Counseling dropdown -->
+
             <li>
               <a href="#" class="desktop-item">Counseling <span><img
                     src="<?php echo $assetPrefix; ?>assets/image/icon/expand_arrow.png"></span></a>
@@ -186,108 +177,108 @@
                 <li><a href="<?php echo $linkPrefix; ?>counseling-for-students.php">For Students</a></li>
                 <li><a href="<?php echo $linkPrefix; ?>professionals.php">For Professionals</a></li>
                 <li><a href="<?php echo $linkPrefix; ?>institutions.php">For Institutions</a></li>
-               <li><a href="<?php echo $linkPrefix; ?>blog/">Blog</a></li>
+                <li><a href="<?php echo $linkPrefix; ?>blog/">Blog</a></li>
               </ul>
             </li>
-            
+
             <li><a href="<?php echo $linkPrefix; ?>contact.php">Contact Us</a></li>
             <button type="button" class="brochure-btn d-block" data-bs-toggle="modal"
               data-bs-target="#staticBackdrop">Brochure</button>
           </ul>
-          </div>
-          <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
-            aria-labelledby="staticBackdropLabel" aria-hidden="true">
-            <div class="modal-dialog">
-              <div class="modal-content">
- 
-                <!-- Modal Header -->
-                <div class="modal-header">
-                  <h1 class="modal-title fs-5" id="staticBackdropLabel">Download Brochure</h1>
-                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+          aria-labelledby="staticBackdropLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+
+
+              <div class="modal-header">
+                <h1 class="modal-title fs-5" id="staticBackdropLabel">Download Brochure</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+
+              <div class="modal-body">
+                <div class="bnrform">
+                  <form action="pdfform.php" method="POST" id="emailForm">
+
+                    <div class="mb-3 d-flex popup-form">
+                      <i class="fa fa-user"></i>
+                      <input type="text" name="name" id="name" class="form-control" placeholder="Name" required
+                        minlength="4">
+                    </div>
+
+                    <div class="mb-3 d-flex popup-form">
+                      <i class="fa fa-envelope"></i>
+                      <input type="email" name="email" id="email" class="form-control" placeholder="Email Id" required>
+                    </div>
+
+                    <div class="mb-3 d-flex popup-form">
+                      <i class="fa fa-phone"></i>
+                      <input type="tel" name="number" id="number" class="form-control" placeholder="Phone Number"
+                        required>
+                    </div>
+                    <div class=" d-flex justify-content-center">
+                      <button type="submit" class="form-btn d-block">Download Brochure</button>
+                    </div>
+                  </form>
                 </div>
- 
-                <!-- Modal Body -->
-                <div class="modal-body">
-                  <div class="bnrform">
-                    <form action="pdfform.php" method="POST" id="emailForm">
- 
-                      <div class="mb-3 d-flex popup-form">
-                        <i class="fa fa-user"></i>
-                        <input type="text" name="name" id="name" class="form-control" placeholder="Name" required minlength="4">
-                      </div>
- 
-                      <div class="mb-3 d-flex popup-form">
-                        <i class="fa fa-envelope"></i>
-                        <input type="email" name="email" id="email" class="form-control" placeholder="Email Id"
-                          required>
-                      </div>
- 
-                      <div class="mb-3 d-flex popup-form">
-                        <i class="fa fa-phone"></i>
-                        <input type="tel" name="number" id="number" class="form-control" placeholder="Phone Number"
-                          required>
-                      </div>
-                      <div class=" d-flex justify-content-center">
-                        <button type="submit" class="form-btn d-block">Download Brochure</button>
-                      </div>
-                    </form>
-                  </div>
-                </div>
-                <div class="modal-footer">
-                  <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                </div>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
               </div>
             </div>
           </div>
-          <label for="menu-btn" class="btn menu-btn"><img src="<?php echo $assetPrefix; ?>assets/image/icon/toggle.png" alt=""></label>
         </div>
+        <label for="menu-btn" class="btn menu-btn"><img src="<?php echo $assetPrefix; ?>assets/image/icon/toggle.png"
+            alt=""></label>
       </div>
-    </nav>
+    </div>
+  </nav>
 
-    <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        var brochureForm = document.getElementById("emailForm");
-        if (!brochureForm) return;
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      var brochureForm = document.getElementById("emailForm");
+      if (!brochureForm) return;
 
-        brochureForm.addEventListener("submit", function (e) {
-          e.preventDefault();
+      brochureForm.addEventListener("submit", function (e) {
+        e.preventDefault();
 
-          var formData = new FormData(brochureForm);
+        var formData = new FormData(brochureForm);
 
-          fetch(brochureForm.action, {
-            method: "POST",
-            body: formData
+        fetch(brochureForm.action, {
+          method: "POST",
+          body: formData
+        })
+          .then(function (res) {
+            if (!res.ok) {
+              throw new Error("Network response was not ok");
+            }
+
+
+            var link = document.createElement("a");
+            link.href = "<?php echo $assetPrefix; ?>assets/uploads/5trainers_course.pdf";
+            link.download = "5trainers_course.pdf";
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+
+
+            if (typeof bootstrap !== "undefined") {
+              var modalEl = document.getElementById("staticBackdrop");
+              if (modalEl) {
+                var modal = bootstrap.Modal.getInstance(modalEl) || new bootstrap.Modal(modalEl);
+                modal.hide();
+              }
+            }
+
+            brochureForm.reset();
           })
-            .then(function (res) {
-              if (!res.ok) {
-                throw new Error("Network response was not ok");
-              }
-
-              // Trigger brochure PDF download without leaving the current page
-              var link = document.createElement("a");
-              link.href = "<?php echo $assetPrefix; ?>assets/uploads/5trainers_course.pdf";
-              link.download = "5trainers_course.pdf";
-              document.body.appendChild(link);
-              link.click();
-              document.body.removeChild(link);
-
-              // Close the modal if Bootstrap is available
-              if (typeof bootstrap !== "undefined") {
-                var modalEl = document.getElementById("staticBackdrop");
-                if (modalEl) {
-                  var modal = bootstrap.Modal.getInstance(modalEl) || new bootstrap.Modal(modalEl);
-                  modal.hide();
-                }
-              }
-
-              brochureForm.reset();
-            })
-            .catch(function () {
-              alert("There was a problem submitting the form. Please try again.");
-            });
-        });
+          .catch(function () {
+            alert("There was a problem submitting the form. Please try again.");
+          });
       });
-    </script>
+    });
+  </script>
 
 </body>
 

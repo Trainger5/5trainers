@@ -12,30 +12,30 @@ $canonical_url = "https://www.5trainers.com/digitalmarketingcourse.php";
 ?>
 <?php include('header.php'); ?>
 
-<link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/shorttermcourse.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/coursedetails.css" type="text/css" rel="stylesheet" />
+<section class="hero-demo">
+    <div class="hero-demo-main width80">
+        <div class="row align-items-center">
 
+            <div class="col-12 col-xl-7">
+                <div class="intro-details">
+                    <div class="slide-text">
+                        <p class="topP mb-15">Restricted by opportunities?</p>
+                        <div class="sliderHeading mb-20">
+                            <h2 class="m-0">Digital Marketing Course</h2>
+                            <h2 class="m-0">Job Bootcamp with GenAI</h2>
+                        </div>
+                        <p class="coDetail m-0">Digital Marketing Course with Guaranteed Placement Support <br> Perfect
+                            for Both Freshers & Working Professionals.</p>
+                    </div>
 
-<section id="slide-shows " class="setbgs ">
-    <div class="custom-container width80">
-        <div>
-            <div class="hero-main row">
-                <div class="col-lg-7 digital-main">
-                    <div class="intro-details">
-                        <div class="slide-text">
-                            <p class="topP mb-15">Restricted by opportunities?</p>
-                            <div class="sliderHeading mb-20">
-                                <h2 class="m-0">Digital Marketing Course</h2>
-                                <h2 class="m-0">Job Bootcamp with GenAI</h2>
-                            </div>
-                            <p class="coDetail m-0">Digital Marketing Course with Guaranteed Placement Support <br> Perfect
-                                for Both Freshers & Working Professionals.</p>
-                        </div><!--/slider text-->
-
-                        <div class="course-features mtb-40">
+                    <div>
+                        <p class="coDetail text-white">5Trainers offers professionally structured Digital
+                            Marketing Training in Ropar, designed to make you job-ready with practical skills
+                            that local businesses, nearby industrial units, and remote employers actively seek.
+                            Learn through live campaigns, real projects, and expert mentorship—gaining the
+                            confidence and portfolio needed to thrive in today’s digital economy.</p>
+                    </div>
+                      <div class="course-features mtb-40">
                             <div class="features">
                                 <img src="assets/image/landing-page/live-one.png" alt="Icon">
                                 <div class="typo-pills"> Affordable Fees </div>
@@ -71,60 +71,55 @@ $canonical_url = "https://www.5trainers.com/digitalmarketingcourse.php";
                             </div><!--/features-->
 
                         </div><!--/course-features-->
-                        <div class="course-metrics mt-15 mb-40">
-                            <div class="course-metric">
-                                <div class="metric-heading"> 95%</div>
-                                <div class="metric-sub-heading"> placement rate </div>
-                            </div><!--/course-metric-->
-                            <div class="divider"></div><!--/divider-->
+                    <div class="course-metrics mt-15 mb-40">
+                        <div class="course-metric">
+                            <div class="metric-heading"> 95%</div>
+                            <div class="metric-sub-heading"> placement rate </div>
+                        </div><!--/course-metric-->
+                        <div class="divider"></div><!--/divider-->
 
-                            <div class="course-metric">
-                                <div class="metric-heading"> 1200+</div>
-                                <div class="metric-sub-heading"> Companies Hiring</div>
-                            </div><!--/course-metric-->
-                            <div class="divider"></div><!--/divider-->
+                        <div class="course-metric">
+                            <div class="metric-heading"> 1200+</div>
+                            <div class="metric-sub-heading"> Companies Hiring</div>
+                        </div><!--/course-metric-->
+                        <div class="divider"></div><!--/divider-->
 
-                            <div class="course-metric">
-                                <div class="metric-heading"> 128%</div>
-                                <div class="metric-sub-heading"> Average hike</div>
-                            </div><!--/course-metric-->
-                            <div class="divider"></div><!--/divider-->
+                        <div class="course-metric">
+                            <div class="metric-heading"> 128%</div>
+                            <div class="metric-sub-heading"> Average hike</div>
+                        </div><!--/course-metric-->
+                        <div class="divider"></div><!--/divider-->
 
-                            <div class="course-metric">
-                                <div class="metric-heading"> 1.5 L+</div>
-                                <div class="metric-sub-heading"> Learners</div>
-                            </div><!--/course-metric-->
-                        </div><!--/course-metrics-->
+                        <div class="course-metric">
+                            <div class="metric-heading"> 1.5 L+</div>
+                            <div class="metric-sub-heading"> Learners</div>
+                        </div><!--/course-metric-->
+                    </div><!--/course-metrics-->
 
-                        <div class="webinar-text">
-                            <p>Know in-depth details in our free Consultancy</p>
-                        </div><!--/class="webinar-text-->
-                    </div><!--/intro-details-->
-                </div>
-                <div class="col-lg-5">
-                    <div class="formAlign">
-                        <?php include('course-slider-form.php'); ?>
+                    <div class="webinar-text">
+                        <p>Know in-depth details in our free Consultancy</p>
+                        <img src="assets/image/icon/hand.webp" alt="Icon">
                     </div>
                 </div>
             </div>
-            <div class="bg1" style="display:none;">
-                <div class="staticSliderCont">
-                </div><!--/row-->
+            <div class="col-12 col-xl-5 mb-5 mb-lg-0">
+                <div class="formAlign">
+                    <?php include('course-slider-form.php'); ?>
+                </div>
             </div>
+
         </div>
-</section><!--/Slider-->
+    </div>
+</section>
+
 <span id="top"></span>
-
-<!--?php include ('landingpage/shorttermcourse.php'); ?-->
-
-<section class="container-fluid slider-hding">
+<section class="slider-hding">
     <div class="custom-container width80">
         <div class="row">
             <div class="col-lg-12">
                 <div class="buildText">
                     <h2>You Are One Step Closer To Building A Thriving Career As <span>Digital Marketing Expert!</span>
                     </h2>
-                    <?php include('registration-popup.php'); ?>
                 </div>
             </div><!--col-->
         </div><!--/row-->
@@ -209,9 +204,9 @@ $canonical_url = "https://www.5trainers.com/digitalmarketingcourse.php";
                     <h2 data-aos="fade-up" data-aos-delay="100" class="aos-init aos-animate">Why Get <span>Digital
                             Marketing Course</span> Certification From 5Trainers?</h2>
                 </div>
-                <div class="registerstack"><a href="contact.php" class="theme-btn mt-30 aos-init aos-animate" data-aos="fade-up"
-                        data-aos-delay="200">Register Now<span><img src="assets/image/icon/reply_arrow.png"
-                                alt=""></span></a></div>
+                <div class="registerstack"><a href="contact.php" class="theme-btn mt-30 aos-init aos-animate"
+                        data-aos="fade-up" data-aos-delay="200">Register Now<span><img
+                                src="assets/image/icon/reply_arrow.png" alt=""></span></a></div>
             </div>
         </div>
     </div>
@@ -231,29 +226,34 @@ $canonical_url = "https://www.5trainers.com/digitalmarketingcourse.php";
                         <div class="col-lg-6 col-md-6">
                             <div class="servicecol">
                                 <div class="service-imag">
-                                    <!--<img src="assets/image/course/digital-marketing.png" class="img-fluid" alt="Digital Marketing">-->
                                 </div>
                                 <div class="service-info">
                                     <h5>Digital Marketing Fundamentals</h5>
                                     <ul>
                                         <li>
-                                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">     
-                                        Introduction to Digital Marketing & Career Scope</li>
+                                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                                            Introduction to Digital Marketing & Career Scope
+                                        </li>
                                         <li>
-                                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">     
-                                        Website Planning & Structure</li>
+                                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                                            Website Planning & Structure
+                                        </li>
                                         <li>
-                                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">     
-                                        WordPress Website Designing (Hands-on)</li>
+                                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                                            WordPress Website Designing (Hands-on)
+                                        </li>
                                         <li>
-                                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">     
-                                        SEO Fundamentals – On-Page & Off-Page SEO</li>
+                                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                                            SEO Fundamentals – On-Page & Off-Page SEO
+                                        </li>
                                         <li>
-                                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">     
-                                        Keyword Research & Competitor Analysis</li>
+                                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                                            Keyword Research & Competitor Analysis
+                                        </li>
                                         <li>
-                                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">     
-                                        Google Search Console & Analytics Setup</li>
+                                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                                            Google Search Console & Analytics Setup
+                                        </li>
                                     </ul>
                                     <div class="sview"><a href="#" title="View More"><img
                                                 src="assets/image/icon/sview.png" alt=""></a></div>
@@ -271,20 +271,25 @@ $canonical_url = "https://www.5trainers.com/digitalmarketingcourse.php";
                                     <h5>Search Engine Optimization (SEO)</h5>
                                     <ul>
                                         <li>
-                                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">     
-                                        Advanced On-Page SEO</li>
+                                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                                            Advanced On-Page SEO
+                                        </li>
                                         <li>
-                                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">     
-                                        Advanced Off-Page SEO & Link Building</li>
+                                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                                            Advanced Off-Page SEO & Link Building
+                                        </li>
                                         <li>
-                                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">
-                                        Technical SEO & Website Speed Optimization</li>    
+                                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                                            Technical SEO & Website Speed Optimization
+                                        </li>
                                         <li>
-                                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">    
-                                        Local SEO & Google My Business Optimization</li>
+                                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                                            Local SEO & Google My Business Optimization
+                                        </li>
                                         <li>
-                                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">    
-                                        Content Marketing & Blogging Strategies</li>
+                                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                                            Content Marketing & Blogging Strategies
+                                        </li>
                                     </ul>
                                     <div class="sview"><a href="seo-one-month.php" title="View More"><img
                                                 src="assets/image/icon/sview.png" alt=""></a></div>
@@ -302,20 +307,24 @@ $canonical_url = "https://www.5trainers.com/digitalmarketingcourse.php";
                                     <h5>Paid Advertising (PPC)</h5>
                                     <ul>
                                         <li>
-                                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">    
-                                        Google Ads Search Campaigns
+                                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                                            Google Ads Search Campaigns
                                         <li>
-                                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">    
-                                        Google Display Ads & YouTube Ads</li>
+                                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                                            Google Display Ads & YouTube Ads
+                                        </li>
                                         <li>
-                                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">    
-                                        Meta (Facebook & Instagram) Ads</li>
+                                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                                            Meta (Facebook & Instagram) Ads
+                                        </li>
                                         <li>
-                                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">    
-                                        Remarketing Campaigns</li>
+                                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                                            Remarketing Campaigns
+                                        </li>
                                         <li>
-                                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">    
-                                        Conversion Tracking & ROI Optimization</li>
+                                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                                            Conversion Tracking & ROI Optimization
+                                        </li>
 
                                     </ul>
                                     <div class="sview"><a href="#" title="View More"><img
@@ -333,23 +342,29 @@ $canonical_url = "https://www.5trainers.com/digitalmarketingcourse.php";
                                     <h5>Social Media & Email Marketing</h5>
                                     <ul>
                                         <li>
-                                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">    
-                                        Social Media Marketing Strategies</li>
+                                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                                            Social Media Marketing Strategies
+                                        </li>
                                         <li>
-                                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">    
-                                        Social Media Optimization (SMO)</li>
+                                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                                            Social Media Optimization (SMO)
+                                        </li>
                                         <li>
-                                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">    
-                                        Influencer Marketing & Brand Collaborations</li>
+                                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                                            Influencer Marketing & Brand Collaborations
+                                        </li>
                                         <li>
-                                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">    
-                                        Email Marketing & Automation Tools</li>
+                                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                                            Email Marketing & Automation Tools
+                                        </li>
                                         <li>
-                                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">    
-                                        Digital Marketing Strategy Building</li>
+                                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                                            Digital Marketing Strategy Building
+                                        </li>
                                         <li>
-                                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">    
-                                        Freelancing & Client Handling Skills</li>
+                                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                                            Freelancing & Client Handling Skills
+                                        </li>
                                     </ul>
                                     <div class="sview"><a href="#" title="View More"><img
                                                 src="assets/image/icon/sview.png" alt=""></a></div>
@@ -373,66 +388,74 @@ $canonical_url = "https://www.5trainers.com/digitalmarketingcourse.php";
 <?php include('placement-certificate-havequestion.php'); ?>
 
 <section class="our-location py-5">
-  <div class="no-container width80">
-    <h2 class="text-center mb-4 fw-bold">Our Location</h2>
+    <div class="no-container width80">
+        <h2 class="text-center mb-4 fw-bold">Our Location</h2>
 
-    <div class="row g-4">
-      <!-- Box -->
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-ropar.php" class="location-box"> Digital Marketing Course In Ropar <span> ›</span></a>
-      </div>
+        <div class="row g-4">
+            <!-- Box -->
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="digital-marketing-course-in-ropar.php" class="location-box"> Digital Marketing Course In Ropar
+                    ›</a>
+            </div>
 
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-airport-road-chandigarh.php" class="location-box">Digital Marketing Course In Airport Road Chandigarh ›</a>
-      </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="digital-marketing-course-in-airport-road-chandigarh.php" class="location-box">Digital Marketing
+                    Course In Airport Road Chandigarh ›</a>
+            </div>
 
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-ambala.php" class="location-box"> Digital Marketing Course In Ambala<span>›</span></a>
-      </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="digital-marketing-course-in-ambala.php" class="location-box"> Digital Marketing Course In
+                    Ambala ›</a>
+            </div>
 
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-faridabad.php" class="location-box">Digital Marketing Course In Faridabad <span>›</span></a>
-      </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="digital-marketing-course-in-faridabad.php" class="location-box">Digital Marketing Course In
+                    Faridabad ›</a>
+            </div>
 
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-ghaziabad.php" class="location-box">Digital Marketing Course In Ghaziabad <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-gurgaon.php" class="location-box">Digital Marketing Course In Gurgaon <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-kharar.php" class="location-box">Digital Marketing Course In Kharar <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-noida.php" class="location-box">Digital Marketing Course In Noida <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-panchkula.php" class="location-box">Digital Marketing Course In Panchkula <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-zirakpur.php" class="location-box">Digital Marketing Course In Zirakpur <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="Digital-Marketing-Training-in-Chandigarh.php" class="location-box">Digital Marketing Training In Chandigarh <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-training-in-delhi.php" class="location-box">Digital Marketing Training In Delhi <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="Digital-Marketing-Training-in-HimachalPradesh.php" class="location-box">Digital Marketing Training In Himachal Pradesh <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="Digital-Marketing-Training-in-Mohali.php" class="location-box">Digital Marketing Training In Mohali <span>›</span></a>
-      </div>
-      
-
-
-      <!-- copy more boxes as needed -->
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="digital-marketing-course-in-ghaziabad.php" class="location-box">Digital Marketing Course In
+                    Ghaziabad ›</a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="digital-marketing-course-in-gurgaon.php" class="location-box">Digital Marketing Course In
+                    Gurgaon ›</a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="digital-marketing-course-in-kharar.php" class="location-box">Digital Marketing Course In Kharar
+                    ›</a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="digital-marketing-course-in-noida.php" class="location-box">Digital Marketing Course In Noida ›
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="digital-marketing-course-in-panchkula.php" class="location-box">Digital Marketing Course In
+                    Panchkula ›</a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="digital-marketing-course-in-zirakpur.php" class="location-box">Digital Marketing Course In
+                    Zirakpur ›</a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="Digital-Marketing-Training-in-Chandigarh.php" class="location-box">Digital Marketing Training
+                    In Chandigarh ›</a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="digital-marketing-training-in-delhi.php" class="location-box">Digital Marketing Training In
+                    Delhi ›</a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="Digital-Marketing-Training-in-HimachalPradesh.php" class="location-box">Digital Marketing
+                    Training In Himachal Pradesh ›</a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="Digital-Marketing-Training-in-Mohali.php" class="location-box">Digital Marketing Training In
+                    Mohali ›</a>
+            </div>
+        </div>
     </div>
-  </div>
 </section>
-
-
 
 <section id="faqSec" class="container-fluid pt pb faq">
     <div class="custom-container width80">

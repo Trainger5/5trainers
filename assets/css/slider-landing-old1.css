@@ -21,6 +21,9 @@
   width: 170px;
   padding: 20px 0px !important;
 }
+ .container-fluid{
+    padding: 50px 0px
+  }
 .footer-icon {
   width: 15px !important;
 }
@@ -296,9 +299,10 @@
   flex-direction: row;
   gap: 4px;
   align-items: center;
-  padding: 4px 8px;
-  border-radius: 40px;
+  padding: 6px 8px;
+  border-radius: 5px;
   width: -webkit-max-content;
+  width: 100%;
   width: max-content;
 }
 .webinar-text {
@@ -398,14 +402,20 @@
   margin: 10px 0 0;
   font-family: "PoppinsRegular";
 }
+.main-heading{
+  color: #0a6da5;
+   background-color:white;
+    padding:20px; 
+    border-radius:8px
+}
 /*End Form Screen*/
 /* Responsive Styles */
 /*  Smartphones (portrait and landscape) */
 
 @media only screen and (min-device-width: 300px) and (max-device-width: 400px) {
   .setbgs {
-    height: 190vh !important;
-    min-height: 190vh !important;
+    height: 165vh !important;
+    min-height: 165vh !important;
   }
   .setbgs-landing {
     height: 270vh !important;
@@ -414,6 +424,13 @@
   }
   .container-fluid{
     margin: 0px !important;
+    padding: 8px 0px !important;
+  }
+  .course-features .features {
+    width: 100% !important;
+  }
+  .features img{
+    width: 22px;
   }
   .howitwork {
     padding: 0px !important;
@@ -427,7 +444,7 @@
     margin-bottom: 7px;
   }
   .slide-text .topP {
-    font-size: 16px;
+    font-size: 21px;
   }
   .slide-text h2 {
     font-size: 20px;
@@ -435,12 +452,15 @@
   }
   .slide-text .coDetail {
     letter-spacing: 0.02em;
-    font-size: 14px;
-    text-align: justify;
+    font-size: 16px;
+    /* text-align: justify; */
     line-height: 23px;
   }
+  .main-heading{
+    font-size: 20px !important ;
+  }
   .course-features {
-    gap: 15px 5px;
+    gap: 10px 5px;
   }
   .mtb-40,
   .mb-40 {
@@ -488,7 +508,7 @@
     margin: 0 0 10px;
   }
   .form-screen .basic-container label {
-    font-size: 11px !important;
+    font-size: 14px !important;
   }
   .form-screen .submitbtn {
     font-size: 12px;
@@ -517,9 +537,9 @@
   }
   .slide-text h2 {
     font-size: 35px;
-    line-height: 30px;
+    line-height: 25px;
+    font-size: 21px !important;
     margin: 5px 0;
-    /* color: #feb600; */
   }
   .sliderHeading h1 {
     font-size: 20px;
@@ -531,9 +551,18 @@
   .mb-20 {
     margin-bottom: 7px;
   }
+  .container-fluid{
+    padding: 20px 0px !important;
+  }
+  .main-heading{
+    font-size: 20px !important
+  }
   .slide-text .topP {
     font-size: 16px;
   }
+      .course-features .features {
+        width: 100% !important;
+    }
   .slide-text h2 {
     font-size: 20px;
     margin: 15px 0;
@@ -573,13 +602,18 @@
   }
   .setbgs {
     padding: 0;
-    height: 150vh !important;
-    min-height: 150vh !important;
+    height: 160vh !important;
+    min-height: 160vh !important;
   }
+  .hero-main {
+    position: absolute;
+    width: 80%;
+    top: 14%;
+}
   .setbgs-landing {
     padding: 0;
-    height: 170vh !important;
-    min-height: 170vh !important;
+    height: 180vh !important;
+    min-height: 180vh !important;
   }
   .mtt {
     margin-top: 100px;

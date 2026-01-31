@@ -19,16 +19,6 @@ body {
   transition: transform 0.3s ease;
   overflow: visible;
 }
-/* .floating-whatsapp{
-  position: absolute;
-  top: 15px;
-  left: 15px;
-}
-.floating-call{
-  position: absolute;
-  top: 15px;
-  left: 15px;
-}
 
 /* WhatsApp Icon */
 .whatsapp {
@@ -262,7 +252,7 @@ body {
 }
 
 /* Hide main-site chatbot completely on very small screens */
-@media (max-width: 425px) {
+@media (max-width: 576px) {
   .vt-chatbot {
     display: none !important;
   }
