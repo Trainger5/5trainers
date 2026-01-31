@@ -4,18 +4,6 @@ $meta_description = "Join Digital Marketing Training in Mohali. Best Institute w
 $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali.php";
 ?>
 <?php include('header.php'); ?>
-<link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/about.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/shorttermcourse.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/image/favicon32.png" rel="shortcut icon">
-<link href="landingpage/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-<link href="landingpage/assets/css/animate.css" rel="stylesheet">
-<link href="landingpage/assets/css/aos.css" rel="stylesheet">
-<link href="assets/css/faq.css" type="text/css" rel="stylesheet" />
-
-
 <!-- Google Tag Manager -->
 <script>(function (w, d, s, l, i) {
         w[l] = w[l] || []; w[l].push({
@@ -35,119 +23,112 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
+    <section class="hero-demo">
+        <div class="hero-demo-main width80">
+            <div class="row align-items-center">
 
-    <!--Slider-->
-    <section class="setbgs-landing mtt" id="transcroller-body">
-        <div class="custom-container width80">
-            <div class="">
-                <div class="row">
-                    <div class="col-lg-7">
-                        <div class="intro-details">
-                            <div class="slide-text">
-                                <!--<p class="topP mb-15">Restricted by opportunities?</p>-->
-                                <div class="sliderHeading ">
-                                    <!-- <h2>Digital Marketing Courses</h2>
-                            <h2> with AI</h2> -->
-                                    <h2 style="font-size: 45px ;">Digital Marketing Training in Mohali</h2>
-                                    <h4 class="mt-3 "  style="color: #0a6da5; background-color:white; padding:20px; border-radius:8px">Digital Marketing Training in Mohali – Best Institute
-                                        100% Placement</h4>
-                                </div>
-                                <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
-                                <p class="coDetail">Join the best digital marketing institute in Mohali and learn SEO,
-                                    Google Ads, Social Media & AI-powered tools with practical training and real
-                                    projects.</p>
-                                <!--for Both Freshers &-->
-                            </div><!--/slider text-->
+                <div class="col-12 col-xl-7">
+                    <div class="intro-details">
+                        <div>
 
+                            <div class="sliderHeading ">
 
-                            <div class="course-features mtb-40">
-                                <div class="features">
-                                    <img src="landingpage/assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Affordable Fees </div>
-                                </div><!--/features-->
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Certified Trainers </div>
-                                </div><!--/features-->
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Internship Opportunity </div>
-                                </div><!--/features-->
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Placement assistance</div>
-                                </div><!--/features-->
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Professional Resume Building </div>
-                                </div><!--/features-->
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Mock Interviews & HR Rounds</div>
-                                </div><!--/features-->
-
-                                <div class="features">
-                                    <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                    <div class="typo-pills"> Lifetime Access to Study Material</div>
-                                </div><!--/features-->
-
-                            </div><!--/course-features-->
-                            <div class="course-metrics mt-15 mb-40">
-                                <div class="course-metric">
-                                    <div class="metric-heading"> 95%</div>
-                                    <div class="metric-sub-heading"> placement rate </div>
-                                </div><!--/course-metric-->
-                                <div class="divider"></div><!--/divider-->
-
-                                <div class="course-metric">
-                                    <div class="metric-heading"> 1200+</div>
-                                    <div class="metric-sub-heading"> Companies Hiring</div>
-                                </div><!--/course-metric-->
-                                <div class="divider"></div><!--/divider-->
-
-                                <div class="course-metric">
-                                    <div class="metric-heading"> 128%</div>
-                                    <div class="metric-sub-heading"> Average hike</div>
-                                </div><!--/course-metric-->
-                                <div class="divider"></div><!--/divider-->
-
-                                <div class="course-metric">
-                                    <div class="metric-heading"> 1.5 L+</div>
-                                    <div class="metric-sub-heading"> Learners</div>
-                                </div><!--/course-metric-->
-                            </div><!--/course-metrics-->
-
-                            <div class="webinar-text">
-                                <p>Know in-depth details in our free Consultancy</p>
-                                <img src="assets/image/icon/hand.webp" alt="Icon">
+                                <h2 class="heading-main">Digital Marketing Training in Mohali</h2>
+                                <h4 class="mt-3 main-heading">Digital Marketing Training in Mohali – Best Institute
+                                    100% Placement</h4>
                             </div>
+
+                            <p class="coDetail">Join the best digital marketing institute in Mohali and learn SEO,
+                                Google Ads, Social Media & AI-powered tools with practical training and real
+                                projects.</p>
+                            <!--for Both Freshers &-->
+                        </div><!--/slider text-->
+                        <div class="course-features mtb-40">
+                            <div class="features">
+                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                                <div class="typo-pills"> Affordable Fees </div>
+                            </div><!--/features-->
+
+                            <div class="features">
+                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                                <div class="typo-pills"> Certified Trainers </div>
+                            </div><!--/features-->
+
+                            <div class="features">
+                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                                <div class="typo-pills"> Internship Opportunity </div>
+                            </div><!--/features-->
+
+                            <div class="features">
+                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                                <div class="typo-pills"> Placement assistance</div>
+                            </div><!--/features-->
+
+                            <div class="features">
+                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                                <div class="typo-pills"> Professional Resume Building </div>
+                            </div><!--/features-->
+                            <div class="features">
+                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                                <div class="typo-pills"> Mock Interviews & HR Rounds</div>
+                            </div><!--/features-->
+
+                            <div class="features">
+                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                                <div class="typo-pills"> Lifetime Access to Study Material</div>
+                            </div><!--/features-->
+
+                        </div><!--/course-features-->
+                        <div class="course-metrics mt-15 mb-40">
+                            <div class="course-metric">
+                                <div class="metric-heading"> 95%</div>
+                                <div class="metric-sub-heading"> placement rate </div>
+                            </div><!--/course-metric-->
+                            <div class="divider"></div><!--/divider-->
+
+                            <div class="course-metric">
+                                <div class="metric-heading"> 1200+</div>
+                                <div class="metric-sub-heading"> Companies Hiring</div>
+                            </div><!--/course-metric-->
+                            <div class="divider"></div><!--/divider-->
+
+                            <div class="course-metric">
+                                <div class="metric-heading"> 128%</div>
+                                <div class="metric-sub-heading"> Average hike</div>
+                            </div><!--/course-metric-->
+                            <div class="divider"></div><!--/divider-->
+
+                            <div class="course-metric">
+                                <div class="metric-heading"> 1.5 L+</div>
+                                <div class="metric-sub-heading"> Learners</div>
+                            </div><!--/course-metric-->
+                        </div><!--/course-metrics-->
+
+                        <div class="webinar-text">
+                            <p>Know in-depth details in our free Consultancy</p>
+                            <img src="assets/image/icon/hand.webp" alt="Icon">
                         </div>
                     </div>
-
-                    <div class="col-lg-5">
-                        <div class="formAlign">
-                            <?php include('course-slider-form.php'); ?>
-                        </div>
+                </div>
+                <div class="col-12 col-xl-5 mb-5 mb-lg-0">
+                    <div class="formAlign">
+                        <?php include('course-slider-form.php'); ?>
                     </div>
-
                 </div>
 
             </div>
-    </section><!--/Slider-->
+        </div>
+    </section>
+
 
     <span id="top mt-5"></span>
-    <section class="container-fluid slider-hding">
+    <section class="slider-hding">
         <div class="custom-container width80">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="buildText">
                         <h2>You Are One Step Closer To Building A Thriving Career As <span>Digital Marketing
                                 Expert!</span></h2>
-                        <!-- <a href="#" style="text-decoration: none;">Register Now </a> -->
                     </div>
                 </div><!--col-->
             </div><!--/row-->
@@ -235,8 +216,8 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                 </div>
                 <div class="col-12 col-xl-5 offset-xl-1 mt-5 mt-xl-0">
                     <div class="section-title">
-                        <h2 data-aos="fade-up" data-aos-delay="100" class="aos-init aos-animate">Why Get <span>Digital
-                                Marketing Course</span> Certification From 5Trainers?</h2>
+                        <h2 data-aos="fade-up" data-aos-delay="100" class="aos-init aos-animate">Why Get Digital
+                            Marketing Course Certification From 5Trainers?</h2>
                     </div>
                     <div class="registerstack"><a href="contact.php" class="theme-btn mt-30 aos-init aos-animate"
                             data-aos="fade-up" data-aos-delay="200" style="text-decoration: none;">Register
@@ -246,7 +227,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
         </div>
     </section>
 
-    <section class="container-fluid about-sec pt pb aos-all" id="transcroller-body">
+    <section class="about-sec pt pb aos-all" id="transcroller-body">
         <div class="no-container width80">
             <div class="row">
                 <div class="col-sm-9 col-md-9 col-lg-9 align-self-center">
@@ -322,7 +303,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
 
                 <div class="col-sm-3 col-md-3 col-lg-3 align-self-center">
                     <div data-aos="fade-up" data-aos-duration="800" class="about-us-img-wrap about-img-left">
-                        <!--<img src="assets/image/about/about-2.png" alt="About Us Image" class="img-fluid">-->
+
                         <img src="assets/image/course/digital-image.jpeg" alt="About Us Image" class="img-fluid">
                     </div>
                 </div><!--/col-->
@@ -525,11 +506,6 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                 </div>
             </div>
 
-            <!-- <div class="text-center mt-5">
-                <a href="#" class="btn slider px-4 py-2 text-white">
-                    Enroll Now
-                </a>
-            </div> -->
         </div>
     </section>
 
@@ -539,9 +515,10 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                 <div class="col-lg-12">
                     <div class="section-title-area whitetext centerhding">
                         <h2 data-aos="fade-up" data-aos-duration="1500" class="section-title">Tools Covered</h2>
-                        <p data-aos="fade-up" data-aos-duration="1700" class="aos-init aos-animate text-center">With
+                        <h5 data-aos="fade-up" data-aos-duration="1700"
+                            class="aos-init aos-animate text-center text-white">With
                             over 10+ years of experience in the Digital and IT Training industry, we have successfully
-                            trained hundreds of students and professionals under our former name 5Trainers.</p>
+                            trained hundreds of students and professionals under our former name 5Trainers.</h5>
                     </div>
                 </div>
             </div><!--/row-->
@@ -790,7 +767,8 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                 </div>
                 <div class="col-md-4 col-lg-6">
                     <div class="callbackButton">
-                        <a class="open-modal-btn requestCall" data-aos-duration="800" href="contact.php">Request Callback</a>
+                        <a class="open-modal-btn requestCall" data-aos-duration="800" href="contact.php">Request
+                            Callback</a>
 
                         <div class="modal" id="callbackModal" onclick="outsideClick(event)">
                             <div class="modal-content">
@@ -893,7 +871,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                                 data-aos-duration="1500">
                             </div>
                             <h3>Career Opportunities After Digital Marketing Course</h3>
-                            <!-- <h5 class="text-white">After completing the course, you can work as:</h5> -->
+
                             <ul class="p" style="padding: 0px;">
                                 <li class="text-white">Digital Marketing Executive</li>
                                 <li class="text-white">SEO Specialist</li>
@@ -911,7 +889,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                         <div class="li">
                             <div class="icon aos-init aos-animate" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                                 data-aos-duration="1500">
-                                <!-- <img src="assets/image/icon/mission-about.png" class="img-fluid" alt="Icon"> -->
+
                             </div>
                             <h3>Who Should Join This Digital Marketing Training?</h3>
                             <ul class="p " style="padding: 0px;">
@@ -920,7 +898,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                                 <li class="text-white">Business owners & entrepreneurs</li>
                                 <li class="text-white">Freelancers & content creators </li>
                                 <li class="text-white">Working professionals looking to upgrade skills</li>
-                                 <li class="text-white">Students & fresh graduates</li>
+                                <li class="text-white">Students & fresh graduates</li>
                             </ul>
                             <p class="text-white">No technical degree required—just the willingness to learn.</p>
                         </div>
@@ -934,7 +912,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
 
 
     <!--  -->
-    <section class="py-5 slider text-white text-center">
+    <section class="py-5 slider text-white text-center" style="background: #0f79be;">
         <div class="container">
 
             <h2 class="fw-bold mb-3 text-white">Start Your Digital Marketing Journey Today</h2>
@@ -1045,7 +1023,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
             </div>
     </section>
     <!--  -->
-    <section class="py-5 slider text-white">
+    <section class="py-5 slider text-white" style="background: #0f79be;">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-12 text-center">
@@ -1060,7 +1038,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                         Our digital marketing course in Mohali focuses on practical learning, live projects,
                         and step-by-step guidance so you can confidently work on real campaigns — not just theory.
                     </p>
-                    <!-- <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a> -->
+
                 </div>
             </div>
         </div>
@@ -1074,68 +1052,70 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Mohali
                 <!-- Box -->
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <a href="digital-marketing-course-in-ropar.php" class="location-box"> Digital Marketing Course In
-                        Ropar <span> ›</span></a>
+                        Ropar
+                        ›</a>
                 </div>
 
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <a href="digital-marketing-course-in-airport-road-chandigarh.php" class="location-box">Digital
-                        Marketing Course In Airport Road Chandigarh ›</a>
+                        Marketing
+                        Course In Airport Road Chandigarh ›</a>
                 </div>
 
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <a href="digital-marketing-course-in-ambala.php" class="location-box"> Digital Marketing Course In
-                        Ambala<span>›</span></a>
+                        Ambala ›</a>
                 </div>
 
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <a href="digital-marketing-course-in-faridabad.php" class="location-box">Digital Marketing Course In
-                        Faridabad <span>›</span></a>
+                        Faridabad ›</a>
                 </div>
 
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <a href="digital-marketing-course-in-ghaziabad.php" class="location-box">Digital Marketing Course In
-                        Ghaziabad <span>›</span></a>
+                        Ghaziabad ›</a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <a href="digital-marketing-course-in-gurgaon.php" class="location-box">Digital Marketing Course In
-                        Gurgaon <span>›</span></a>
+                        Gurgaon ›</a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <a href="digital-marketing-course-in-kharar.php" class="location-box">Digital Marketing Course In
-                        Kharar <span>›</span></a>
+                        Kharar
+                        ›</a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <a href="digital-marketing-course-in-noida.php" class="location-box">Digital Marketing Course In
-                        Noida <span>›</span></a>
+                        Noida
+                        ›</a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <a href="digital-marketing-course-in-panchkula.php" class="location-box">Digital Marketing Course In
-                        Panchkula <span>›</span></a>
+                        Panchkula ›</a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <a href="digital-marketing-course-in-zirakpur.php" class="location-box">Digital Marketing Course In
-                        Zirakpur <span>›</span></a>
+                        Zirakpur ›</a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <a href="Digital-Marketing-Training-in-Chandigarh.php" class="location-box">Digital Marketing
-                        Training In Chandigarh <span>›</span></a>
+                        Training
+                        In Chandigarh ›</a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <a href="digital-marketing-training-in-delhi.php" class="location-box">Digital Marketing Training In
-                        Delhi <span>›</span></a>
+                        Delhi ›</a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <a href="Digital-Marketing-Training-in-HimachalPradesh.php" class="location-box">Digital Marketing
-                        Training In Himachal Pradesh <span>›</span></a>
+                        Training In Himachal Pradesh ›</a>
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6">
                     <a href="Digital-Marketing-Training-in-Mohali.php" class="location-box">Digital Marketing Training
-                        In Mohali <span>›</span></a>
+                        In
+                        Mohali ›</a>
                 </div>
-
-
-
-                <!-- copy more boxes as needed -->
             </div>
         </div>
     </section>

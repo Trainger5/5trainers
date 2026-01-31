@@ -5,108 +5,100 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
 ?>
 <?php include('header.php'); ?>
 
-<link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/shorttermcourse.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/coursedetails.css" type="text/css" rel="stylesheet" />
-<!--Slider-->
-<section id="slide-shows" class="setbgs landignsetbg">
-    <div class="custom-container width80">
-        <div class="hero-main">
-            <div class="row">
-                <div class="col-lg-7 ">
-                    <div class="intro-details">
-                        <div class="slide-text">
-                            <p class="topP mb-15">Restricted by opportunities?</p>
-                            <div class="sliderHeading mb-20">
-                                <h2>Data Analytics Training</h2>
-                                <h2>Job Bootcamp with GenAI</h2>
-                            </div>
-                            <p class="coDetail">Data Analytics Training – 6 Months with Guaranteed Placement Support
-                                <br> Perfect for Both Freshers & Working Professionals.
-                            </p>
-                        </div><!--/slider text-->
+<section class="hero-demo">
+    <div class="hero-demo-main width80">
+        <div class="row align-items-center">
 
-                        <div class="course-features mtb-40">
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Affordable Fees </div>
-                            </div><!--/features-->
+            <div class="col-12 col-xl-7">
+                <div class="intro-details">
+                    <div class="slide-text">
+                        <p class="topP mb-15">Restricted by opportunities?</p>
+                        <div class="sliderHeading mb-20">
+                            <h2>Data Analytics Training</h2>
+                            <h2>Job Bootcamp with GenAI</h2>
+                        </div>
+                        <p class="coDetail">Data Analytics Training – 6 Months with Guaranteed Placement Support
+                            <br> Perfect for Both Freshers & Working Professionals.
+                        </p>
+                    </div><!--/slider text-->
+                    <div class="course-features mtb-40">
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Affordable Fees </div>
+                        </div><!--/features-->
 
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Certified Trainers </div>
-                            </div><!--/features-->
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Certified Trainers </div>
+                        </div><!--/features-->
 
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Internship Opportunity </div>
-                            </div><!--/features-->
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Internship Opportunity </div>
+                        </div><!--/features-->
 
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Placement assistance</div>
-                            </div><!--/features-->
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Placement assistance</div>
+                        </div><!--/features-->
 
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Professional Resume Building </div>
-                            </div><!--/features-->
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Mock Interviews & HR Rounds</div>
-                            </div><!--/features-->
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Professional Resume Building </div>
+                        </div><!--/features-->
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Mock Interviews & HR Rounds</div>
+                        </div><!--/features-->
 
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Lifetime Access to Study Material</div>
-                            </div><!--/features-->
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Lifetime Access to Study Material</div>
+                        </div><!--/features-->
 
-                        </div><!--/course-features-->
-                        <div class="course-metrics mt-15 mb-40">
-                            <div class="course-metric">
-                                <div class="metric-heading"> 95%</div>
-                                <div class="metric-sub-heading"> placement rate </div>
-                            </div><!--/course-metric-->
-                            <div class="divider"></div><!--/divider-->
+                    </div><!--/course-features-->
+                    <div class="course-metrics mt-15 mb-40">
+                        <div class="course-metric">
+                            <div class="metric-heading"> 95%</div>
+                            <div class="metric-sub-heading"> placement rate </div>
+                        </div><!--/course-metric-->
+                        <div class="divider"></div><!--/divider-->
 
-                            <div class="course-metric">
-                                <div class="metric-heading"> 1200+</div>
-                                <div class="metric-sub-heading"> Companies Hiring</div>
-                            </div><!--/course-metric-->
-                            <div class="divider"></div><!--/divider-->
+                        <div class="course-metric">
+                            <div class="metric-heading"> 1200+</div>
+                            <div class="metric-sub-heading"> Companies Hiring</div>
+                        </div><!--/course-metric-->
+                        <div class="divider"></div><!--/divider-->
 
-                            <div class="course-metric">
-                                <div class="metric-heading"> 128%</div>
-                                <div class="metric-sub-heading"> Average hike</div>
-                            </div><!--/course-metric-->
-                            <div class="divider"></div><!--/divider-->
+                        <div class="course-metric">
+                            <div class="metric-heading"> 128%</div>
+                            <div class="metric-sub-heading"> Average hike</div>
+                        </div><!--/course-metric-->
+                        <div class="divider"></div><!--/divider-->
 
-                            <div class="course-metric">
-                                <div class="metric-heading"> 1.5 L+</div>
-                                <div class="metric-sub-heading"> Learners</div>
-                            </div><!--/course-metric-->
-                        </div><!--/course-metrics-->
+                        <div class="course-metric">
+                            <div class="metric-heading"> 1.5 L+</div>
+                            <div class="metric-sub-heading"> Learners</div>
+                        </div><!--/course-metric-->
+                    </div><!--/course-metrics-->
 
-                        <div class="webinar-text">
-                            <p>Know in-depth details in our free Consultancy</p>
-                        </div><!--/class="webinar-text-->
-                    </div><!--/intro-details-->
-                </div>
-                <div class="col-lg-5">
-                    <div class="formAlign">
-                        <?php include('course-slider-form.php'); ?>
+                    <div class="webinar-text">
+                        <p>Know in-depth details in our free Consultancy</p>
+                        <img src="assets/image/icon/hand.webp" alt="Icon">
                     </div>
                 </div>
             </div>
-            <div class="bg1" style="display:none;">
-                <div class="staticSliderCont">
-                </div><!--/row-->
-                <!--div-- class="slider-center"><div class="slide-text"><div class="slideimage"><img src="assets/image/landing-page/2.png" alt="5 Trainers Logo" class="img-fluid"></div></div></!--div-->
+            <div class="col-12 col-xl-5 mb-5 mb-lg-0">
+                <div class="formAlign">
+                    <?php include('course-slider-form.php'); ?>
+                </div>
             </div>
+
         </div>
-</section><!--/Slider-->
+    </div>
+</section>
+
+
 <span id="top"></span>
 <section class="container-fluid slider-hding">
     <div class="custom-container width80">
@@ -153,18 +145,23 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
             </div>
             <div class="col-sm-5 col-md-5 col-lg-5 align-self-center">
                 <ul class="dpflex">
-                    <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"><span> Certification Prep:</span> Google & HubSpot SEO certification ready</li>
-                    <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"><span> Live Q&A:</span> Weekly doubt-clearing sessions
-                    <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"><span> Hands-on Assignments:</span> Work on real websites</li>
-                    <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"><span> Tools Access:</span> SEMrush, Ahrefs, Moz, Google Analytics</li>
-                    <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"><span> Lifetime Access:</span> Course updates & resources</li>
+                    <li><img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon"><span> Certification
+                            Prep:</span> Google & HubSpot SEO certification ready</li>
+                    <li><img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon"><span> Live
+                            Q&A:</span> Weekly doubt-clearing sessions
+                    <li><img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon"><span> Hands-on
+                            Assignments:</span> Work on real websites</li>
+                    <li><img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon"><span> Tools
+                            Access:</span> SEMrush, Ahrefs, Moz, Google Analytics</li>
+                    <li><img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon"><span> Lifetime
+                            Access:</span> Course updates & resources</li>
                 </ul>
             </div><!--/col-->
         </div><!--/row-->
     </div>
 </section><!--/SEO Course Overview-->
 
-<section class="contaianer-fluid pt pb courseModules">
+<section class="contaianer-fluid pt  courseModules">
     <div class="cutom-container width80">
         <div class="row">
             <div class="col-lg-12">
@@ -176,7 +173,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
                 </div><!--/heading-->
             </div><!--/col-->
         </div><!--/row-->
-        <div class="row mt-80">
+        <div class="row mt-40">
             <div class="col-lg-4">
                 <div class="courseMleft">
                     <div class="widget-container">

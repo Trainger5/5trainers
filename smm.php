@@ -1,4 +1,3 @@
-
 <?php
 $meta_title = "Social Media Marketing Course in Mohali – SMM & SMO Training";
 $meta_description = "Learn Social Media Marketing (SMM & SMO) at 5Trainers Mohali. Get hands-on training in Instagram Ads, Facebook Ads & brand promotion strategies.";
@@ -104,8 +103,6 @@ $canonical_url = "https://www.5trainers.com/smm.php";
 	</div>
 </section><!--/SMM Details-->
 <section class="container-fluid pt pb team-section methods-work">
-	<!-- <div class="shape-10"><img src="assets/image/shape/quote-shape-1.png"></div>
-			<div class="shape-2"><img src="assets/image/shape/shape-2.png"></div> -->
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
@@ -317,8 +314,9 @@ $canonical_url = "https://www.5trainers.com/smm.php";
 			</div><!--/col-->
 			<div class="col-md-4 col-lg-6">
 				<div class="CI5-imag aos-item aos-init aos-animate" data-aos="zoom-out-down" data-aos-duration="1600">
-					<!-- <img src="assets/image/services/help-desk1.png" alt="" class="img-fluid"></div> -->
-					<img src="assets/image/services/help-service.png" loading="lazy" alt="help-service" class="img-fluid"></div>
+					<img src="assets/image/services/help-service.png" loading="lazy" alt="help-service"
+						class="img-fluid">
+				</div>
 			</div><!--/col-->
 		</div>
 	</div>
@@ -332,7 +330,8 @@ $canonical_url = "https://www.5trainers.com/smm.php";
 					<span class="section-subtitle section-subtitle-2">Let’s Do it Hurry</span>
 					<h3 data-aos="fade-up" data-aos-duration="1000" class="section-title aos-init">Haven't booked your
 						seat yet? <br> Get Seat now</h3>
-					<p data-aos="fade-up" data-aos-duration="1700" class="aos-init text-center"><a href="contact.php" style="text-decoration: none;">book seat</a></p>
+					<p data-aos="fade-up" data-aos-duration="1700" class="aos-init text-center"><a href="contact.php"
+							style="text-decoration: none;">book seat</a></p>
 				</div>
 			</div>
 		</div>
@@ -351,8 +350,8 @@ $canonical_url = "https://www.5trainers.com/smm.php";
 					<p data-aos="fade-up" data-aos-duration="1700" class="aos-init aos-animate">The Most Eminent Visas
 						and Immigration Consultant service provider. Branches in Delhi and overseas state.</p>
 				</div>
-				<!-- <div class="faqimg"><img src="assets/image/services/faq-digital.png" alt="" class="img-fluid"></div> -->
-				<div class="faqimg"><img src="assets/image/services/MAIN-FAQ.png" loading="lazy" alt="" class="img-fluid"></div>
+				<div class="faqimg"><img src="assets/image/services/MAIN-FAQ.png" loading="lazy" alt=""
+						class="img-fluid"></div>
 			</div>
 			<div class="col-sm-7 col-lg-6">
 				<div class="accordion rpt">
@@ -402,15 +401,4 @@ $canonical_url = "https://www.5trainers.com/smm.php";
 		</div>
 	</div>
 </section><!--/faq-->
-
-<section class="container-fluid request-form">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-12">
-
-			</div>
-		</div>
-	</div>
-</section>
-
 <?php include('footer.php'); ?>

@@ -109,13 +109,13 @@
           <ul class="footer-ul">
             <li>
             <img src="<?php echo $footerAssetPrefix; ?>assets/image/icon/bulb-white.png" alt="icon" class="footer-icon">  
-            <a href="<?php echo $footerLinkPrefix; ?>https://5trainers.com/digital-marketing-institute.php">Digital Marketing Institute</a></li>
+            <a href="<?php echo $footerLinkPrefix; ?>digital-marketing-institute.php">Digital Marketing Institute</a></li>
             <li>
              <img src="<?php echo $footerAssetPrefix; ?>assets/image/icon/bulb-white.png" alt="icon" class="footer-icon">   
             <a href="<?php echo $footerLinkPrefix; ?>google-ads-30days.php">Google Ads</a></li>
             <li>
              <img src="<?php echo $footerAssetPrefix; ?>assets/image/icon/bulb-white.png" alt="icon" class="footer-icon">   
-            <a href="<?php echo $footerLinkPrefix; ?>seo-one-month.php">Search Engine Optimization</a></li>
+            <a href="<?php echo $footerLinkPrefix; ?>seo-training-in-mohali.php">Search Engine Optimization</a></li>
             <li>
              <img src="<?php echo $footerAssetPrefix; ?>assets/image/icon/bulb-white.png" alt="icon" class="footer-icon">   
             <a href="<?php echo $footerLinkPrefix; ?>smm.php">Social Media Marketing</a></li>

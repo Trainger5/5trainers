@@ -14,7 +14,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
     width: 720px;
     position: absolute;
     right: 165px;
-    bottom: 20px;
+    bottom: 0px;
 }
  
 @media screen and (max-width: 1400px) {
@@ -63,9 +63,6 @@ $canonical_url = "https://www.5trainers.com/index.php";
     min-height: auto !important;
     overflow: hidden;
     width: 100%;
-    /* top: 90px; */
-    /* position: relative; */
-    /* background: #F9F7F7; */
     background: #0f79be;
     z-index: 0;
     overflow: hidden;
@@ -154,7 +151,6 @@ $canonical_url = "https://www.5trainers.com/index.php";
                     <h2>And digital knowledge is</h2>
                     <h2>Game-changing power.</h2>
                     <!-- <h2>Knowledge is power, and digital knowledge is game-changing power.</h2> -->
-                    <!-- <p class="mt-5">Guiding you towards success, every step of the way</p> -->
                      <p class="my-3">Unlock it with 5Trainers Expert Mentors, Real-World Projects, and 100% Placement Support. Your Success Story Starts Here.</p>
                      <p>Guiding you towards success, every step of the way</p>
                     <div class="two-btns text-center">
@@ -182,8 +178,8 @@ $canonical_url = "https://www.5trainers.com/index.php";
                 <div class="kabslt">
                     <div class="content">
                         <div class="carte cone">
-                            <div class="key-imag"><img class="" src="assets/image/key-points/Job-Oriented-Courses.png"
-                                    alt="Job Oriented Courses"></div>
+                            <!-- <div class="key-imag"><img class="" src="assets/image/key-points/Job-Oriented-Courses.png"
+                                    alt="Job Oriented Courses"></div> -->
                             <div class="c-dets">
                                 <h4>Job-Oriented Courses</h4>
                                 <p><span>Skill Up for Real IT Careers</span></p>
@@ -199,8 +195,8 @@ $canonical_url = "https://www.5trainers.com/index.php";
                 <div class="kabslt">
                     <div class="content">
                         <div class="carte ctwo">
-                            <div class="key-imag"><img class="" src="assets/image/key-points/Expert-Trainers.png"
-                                    alt="Expert Trainers"></div>
+                            <!-- <div class="key-imag"><img class="" src="assets/image/key-points/Expert-Trainers.png"
+                                    alt="Expert Trainers"></div> -->
                             <div class="c-dets">
                                 <h4>Expert Trainers</h4>
                                 <p><span>Learn from IT Professionals</span></p>
@@ -215,8 +211,8 @@ $canonical_url = "https://www.5trainers.com/index.php";
                 <div class="kabslt">
                     <div class="content">
                         <div class="carte cthree">
-                            <div class="key-imag"><img class="" src="assets/image/key-points/live-projects.png"
-                                    alt="Live Projects"></div>
+                            <!-- <div class="key-imag"><img class="" src="assets/image/key-points/live-projects.png"
+                                    alt="Live Projects"></div> -->
                             <div class="c-dets">
                                 <h4>Live Projects</h4>
                                 <p><span>Learn by Doing</span></p>
@@ -231,8 +227,8 @@ $canonical_url = "https://www.5trainers.com/index.php";
                 <div class="kabslt">
                     <div class="content">
                         <div class="carte cfour">
-                            <div class="key-imag"><img class="" src="assets/image/key-points/placement-assistance.png"
-                                    alt="Placement Assistance"></div>
+                            <!-- <div class="key-imag"><img class="" src="assets/image/key-points/placement-assistance.png"
+                                    alt="Placement Assistance"></div> -->
                             <div class="c-dets">
                                 <h4>100% Placement Assistance</h4>
                                 <p><span>From Classroom to Career</span></p>
@@ -261,7 +257,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
             <div class="col-sm-7 col-md-12 col-lg-7 align-self-center">
                 <div class="about-us-info-wrap">
                     <div class="section-title-area">
-                        <h6 data-aos="fade-up" data-aos-duration="800" class="section-subtitle section-subtitle-2">
+                        <h6 data-aos="fade-up" data-aos-duration="800" class="section-subtitle section-subtitle-2 mt-5">
                             About Us</h6>
                         <h2 data-aos="fade-up" data-aos-duration="1000" class="section-title">Master Digital
                             Marketing Skills & Build Your Career With Us</span></h2>
@@ -1259,62 +1255,6 @@ $canonical_url = "https://www.5trainers.com/index.php";
         $(multipleCardCarousel).addClass("slide");
     }
 </script>
-
-<!-- <script>
-    const API_KEY = '02d486fe-1adf-45e9-9198-e407799a9cbf';
-    const SERVER_URL = 'https://pushads123.com';
-
-    function loadNotificationSDK() {
-        const script = document.createElement('script');
-        script.src = SERVER_URL + '/sdk.js';
-        script.onload = async () => {
-            try {
-                // Initialize SDK
-                await PN.init({
-                    apiKey: API_KEY,
-                    baseUrl: SERVER_URL
-                });
-
-                console.log(" Push SDK ready");
-
-                // Check if already subscribed
-                const subscribed = localStorage.getItem("pushSubscribed");
-                if (!subscribed) {
-                    const result = await PN.subscribe();
-                    if (result.success) {
-                        console.log("🎉 Push enabled!");
-                        localStorage.setItem("pushSubscribed", "true");
-                    }
-                }
-            } catch (err) {
-                console.error(" Push failed:", err);
-            }
-        };
-        document.head.appendChild(script);
-    }
-
-    if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', loadNotificationSDK);
-    } else {
-        loadNotificationSDK();
-    }
-</script> -->
-
-
-
-<!-- <script>
-    document.getElementById("enablePush").addEventListener("click", async () => {
-        try {
-            const result = await PN.subscribe();
-            if (result.success) {
-                document.getElementById("enablePush").innerHTML = "✅ Notifications Enabled";
-                document.getElementById("enablePush").disabled = true;
-            }
-        } catch (error) {
-            alert("Failed: " + error.message);
-        }
-    });
-</script> -->
 
 <style>
     .consultation-modal {

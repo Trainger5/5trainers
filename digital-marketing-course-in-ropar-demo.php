@@ -1,10 +1,10 @@
 <?php
-$meta_title = "Digital Marketing Course in Noida | Best Institute with 100% Placement";
-$meta_description = "Enroll in the best Digital Marketing Training in Noida. Learn SEO, Google Ads, SMM, Content Marketing & AI tools with live projects. Get 100% placement support. Join now!";
-$canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.php";
+$meta_title = "Digital Marketing Training in Ropar | Best Institute with Practical Training & Placement Support";
+$meta_description = "Join the best Digital Marketing Course in Ropar. Learn SEO, Google Ads, SMM, AI Tools with live projects. Get placement support for local & remote jobs. Enroll now!";
+$canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ropar.php";
 ?>
 <?php include('header.php'); ?>
-
+<!-- Google Tag Manager -->
 <script>(function (w, d, s, l, i) {
         w[l] = w[l] || []; w[l].push({
             'gtm.start':
@@ -15,6 +15,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.ph
     })(window, document, 'script', 'dataLayer', 'GTM-K3N4DF4B');</script>
 <!-- End Google Tag Manager -->
 
+
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K3N4DF4B" height="0" width="0"
         style="display:none;visibility:hidden"></iframe></noscript>
@@ -24,65 +25,60 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.ph
 <section class="hero-demo">
     <div class="hero-demo-main width80">
         <div class="row align-items-center">
-
+            
             <div class="col-12 col-xl-7">
                 <div class="intro-details">
-                    <div>
-                        <div class="sliderHeading ">
+                        <div>
+                            <div class="sliderHeading mb-20">
+                                <h2 class="heading-main">Digital Marketing Training in
+                                    Ropar</h2>
+                                <h4 class="mt-4 main-heading">Digital Marketing Training in
+                                    Ropar – Best Institute with Practical Career-Focused Training</h4>
+                            </div>
+                            <p class="coDetail">Become a certified digital marketing professional with Ropar’s
+                                leading practical training institute. Master SEO, Google Ads, Social Media
+                                Marketing, and modern digital tools through our hands-on, project-based curriculum
+                                designed to launch successful careers or boost local businesses.</p>
 
-                            <h2 class="heading-main">Digital Marketing Training in Noida</h2>
-                            <h4 class="mt-4 main-heading">Digital Marketing Training in
-                                Noida – Best Institute with 100% Placement Support</h4>
+                            <h4 class="main-heading">Build Industry-Ready Digital Skills for Modern Opportunities</h4>
+                        </div><!--/slider text-->
+                        <div>
+                            <p class="coDetail text-white">5Trainers offers professionally structured Digital
+                                Marketing Training in Ropar, designed to make you job-ready with practical skills
+                                that local businesses, nearby industrial units, and remote employers actively seek.
+                                Learn through live campaigns, real projects, and expert mentorship—gaining the
+                                confidence and portfolio needed to thrive in today’s digital economy.</p>
                         </div>
+                        <div class="course-metrics mt-15 mb-40">
+                            <div class="course-metric">
+                                <div class="metric-heading"> 95%</div>
+                                <div class="metric-sub-heading"> placement rate </div>
+                            </div><!--/course-metric-->
+                            <div class="divider"></div><!--/divider-->
 
-                        <p class="coDetail">Master the complete spectrum of digital marketing with the leading
-                            training institute in Noida. Get certified in SEO, Google Ads, Social Media
-                            Marketing, AI-powered tools, and more through our practical, project-based training
-                            designed for the modern job market.</p>
-                        <!--for Both Freshers &-->
-                        <h4 class="main-heading">Build In-Demand Skills for Today's Digital Careers</h4>
-                    </div><!--/slider text-->
+                            <div class="course-metric">
+                                <div class="metric-heading"> 1200+</div>
+                                <div class="metric-sub-heading"> Companies Hiring</div>
+                            </div><!--/course-metric-->
+                            <div class="divider"></div><!--/divider-->
 
+                            <div class="course-metric">
+                                <div class="metric-heading"> 128%</div>
+                                <div class="metric-sub-heading"> Average hike</div>
+                            </div><!--/course-metric-->
+                            <div class="divider"></div><!--/divider-->
 
+                            <div class="course-metric">
+                                <div class="metric-heading"> 1.5 L+</div>
+                                <div class="metric-sub-heading"> Learners</div>
+                            </div><!--/course-metric-->
+                        </div><!--/course-metrics-->
 
-                    <div>
-                        <p class="coDetail text-white">At 5Trainers, our Digital Marketing Training in Noida is
-                            structured to transform you into a job-ready professional. We focus on real-world
-                            skills that Noida's top IT firms, startups, and digital agencies actively seek.
-                            Our curriculum is built on live projects, hands-on campaign management, and
-                            personalized mentorship—ensuring you learn by doing, not just by listening.
-                        </p>
+                        <div class="webinar-text">
+                            <p>Know in-depth details in our free Consultancy</p>
+                            <img src="assets/image/icon/hand.webp" alt="Icon">
+                        </div>
                     </div>
-                    <div class="course-metrics mt-15 mb-40">
-                        <div class="course-metric">
-                            <div class="metric-heading"> 95%</div>
-                            <div class="metric-sub-heading"> placement rate </div>
-                        </div><!--/course-metric-->
-                        <div class="divider"></div><!--/divider-->
-
-                        <div class="course-metric">
-                            <div class="metric-heading"> 1200+</div>
-                            <div class="metric-sub-heading"> Companies Hiring</div>
-                        </div><!--/course-metric-->
-                        <div class="divider"></div><!--/divider-->
-
-                        <div class="course-metric">
-                            <div class="metric-heading"> 128%</div>
-                            <div class="metric-sub-heading"> Average hike</div>
-                        </div><!--/course-metric-->
-                        <div class="divider"></div><!--/divider-->
-
-                        <div class="course-metric">
-                            <div class="metric-heading"> 1.5 L+</div>
-                            <div class="metric-sub-heading"> Learners</div>
-                        </div><!--/course-metric-->
-                    </div><!--/course-metrics-->
-
-                    <div class="webinar-text">
-                        <p>Know in-depth details in our free Consultancy</p>
-                        <img src="assets/image/icon/hand.webp" alt="Icon">
-                    </div>
-                </div>
             </div>
             <div class="col-12 col-xl-5 mb-5 mb-lg-0">
                 <div class="formAlign">
@@ -103,8 +99,8 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.ph
             <div class="col-lg-12">
                 <div class="buildText">
                     <h2>You Are One Step Closer To Building A Thriving Career As <span>Digital Marketing
-                            Expert in Noida !</span></h2>
-
+                            Expert in Ropar !</span></h2>
+                    <a href="contact.php" style="text-decoration: none;">Register Now </a>
                 </div>
             </div><!--col-->
         </div><!--/row-->
@@ -193,10 +189,10 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.ph
             <div class="col-12 col-xl-5 offset-xl-1 mt-5 mt-xl-0">
                 <div class="section-title">
                     <h2 data-aos="fade-up" data-aos-delay="100" class="aos-init aos-animate">Why Get Digital
-                        Marketing Course Certification From 5Trainers?</h2>
+                        Marketing Course</a> Certification From 5Trainers?</h2>
                 </div>
-                <div class="registerstack"><a href="contact.php" class="theme-btn mt-30 aos-init aos-animate"
-                        data-aos="fade-up" data-aos-delay="200" style="text-decoration: none;">Register Now<span><img
+                <div class="registerstack"><a href="#" class="theme-btn mt-30 aos-init aos-animate" data-aos="fade-up"
+                        data-aos-delay="200" style="text-decoration: none;">Register Now<span><img
                                 src="assets/image/icon/reply_arrow.png" alt=""></span></a></div>
             </div>
         </div>
@@ -250,7 +246,10 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.ph
 
                         <div class="col-lg-6">
                             <div class="servicecol">
-
+                                <!-- <div class="service-imag">
+                                        <img src="assets/image/course/digital-marketing.png" class="img-fluid"
+                                            alt="Digital Marketing">
+                                    </div> -->
                                 <div class="service-info">
                                     <h5>Paid Advertising (PPC)</h5>
                                     <ul>
@@ -271,14 +270,12 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.ph
                                 </div>
                             </div><!--/courseModules-->
                         </div><!--/col-->
-
                     </div><!--/row-->
                 </div>
             </div><!--/col-->
 
             <div class="col-sm-3 col-md-3 col-lg-3 align-self-center">
                 <div data-aos="fade-up" data-aos-duration="800" class="about-us-img-wrap about-img-left">
-
                     <img src="assets/image/course/digital-image.jpeg" alt="About Us Image" class="img-fluid">
                 </div>
             </div><!--/col-->
@@ -384,25 +381,26 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.ph
         </div><!--/row-->
     </div>
 </section><!--/skill cover-->
+
 <!--  -->
 <section class="py-5 bg-light">
     <div class="cutom-container width80">
         <div class="text-center mb-5">
-            <h2 class="fw-bold">Digital Marketing Course in Noida – What You Will Learn</h2>
+            <h2 class="fw-bold">Digital Marketing Course in Ropar – Comprehensive Curriculum</h2>
             <p class="text-muted text-center">
-                Our comprehensive modules cover every pillar of successful digital marketing:
+                Our complete program covers all essential areas of modern digital marketing:
             </p>
         </div>
 
         <div class="row ">
             <!-- SEO -->
             <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm">
+                <div class="card h-100 shadow-sm Digital-card">
                     <div class="card-body">
-                        <h5 class="card-title">SEO Training in Noida:</h5>
+                        <h5 class="card-title">SEO Training in Ropar:</h5>
                         <p class="card-text">
-                            Master on-page, off-page, and technical SEO. Learn keyword research, link building,
-                            local SEO, and rank-tracking with live website projects.
+                            Master on-page, off-page, technical, and local SEO. Learn keyword research, website
+                            optimization, and strategies to rank businesses locally and nationally.
                         </p>
 
                     </div>
@@ -411,12 +409,13 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.ph
 
             <!-- SMM -->
             <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm">
+                <div class="card h-100 shadow-sm digital-card-new">
                     <div class="card-body">
-                        <h5 class="card-title">Social Media Marketing (SMM) Training in Noida: </h5>
+                        <h5 class="card-title">Social Media Marketing (SMM) Training in Ropar: </h5>
                         <p class="card-text">
-                            Strategize and execute campaigns on Facebook, Instagram, LinkedIn, and YouTube. Learn
-                            content creation, community management, influencer marketing, and ad analytics.
+                            Plan and execute complete brand strategies across Facebook, Instagram, LinkedIn, and
+                            YouTube. Learn content creation, paid advertising, community management, and performance
+                            analytics.
                         </p>
 
                     </div>
@@ -425,12 +424,12 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.ph
 
             <!-- PPC -->
             <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm">
+                <div class="card h-100 shadow-sm Digital-card">
                     <div class="card-body">
-                        <h5 class="card-title">PPC & Google Ads Training in Noida:</h5>
+                        <h5 class="card-title">PPC & Google Ads Training in Ropar:</h5>
                         <p class="card-text">
-                            Create, manage, and optimize high-ROI paid campaigns on Google Search, Display, and
-                            Video networks. Master budgeting, bidding, ad copywriting, and conversion tracking.
+                            Create, manage, and optimize high-ROI paid campaigns on Google Search and Display networks.
+                            Master budgeting, targeting strategies, ad creation, and conversion tracking.
                         </p>
 
                     </div>
@@ -439,12 +438,12 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.ph
 
             <!-- Content Marketing -->
             <div class="col-md-6 col-lg-4 mt-4">
-                <div class="card h-100 shadow-sm">
+                <div class="card h-100 shadow-sm digital-card-new">
                     <div class="card-body">
-                        <h5 class="card-title">Content Marketing Training in Noida:</h5>
+                        <h5 class="card-title">Content Marketing Training in Ropar:</h5>
                         <p class="card-text">
-                            Develop a content strategy that drives traffic and engagement. Learn blog writing, video
-                            scripting, SEO content creation, and content calendar management.
+                            Develop compelling content strategies that drive traffic and engagement. Learn blog writing,
+                            video content creation, SEO-optimized copy, and content calendar management.
                         </p>
 
                     </div>
@@ -453,12 +452,12 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.ph
 
             <!-- Email Marketing -->
             <div class="col-md-6 col-lg-4 mt-4">
-                <div class="card h-100 shadow-sm">
+                <div class="card h-100 shadow-sm Digital-card">
                     <div class="card-body">
-                        <h5 class="card-title">Email Marketing Training in Noida:</h5>
+                        <h5 class="card-title">Email Marketing Training in Ropar:</h5>
                         <p class="card-text">
-                            Build effective email funnels, design engaging newsletters, write high-converting copy,
-                            and analyze campaign performance using tools like Mailchimp.
+                            Build effective email marketing campaigns, design engaging newsletters, write
+                            high-converting copy, and analyze performance using industry tools.
                         </p>
 
                     </div>
@@ -467,26 +466,20 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.ph
 
             <!-- Analytics & AI -->
             <div class="col-md-6 col-lg-4 mt-4">
-                <div class="card h-100 shadow-sm">
+                <div class="card h-100 shadow-sm digital-card-new">
                     <div class="card-body">
-                        <h5 class="card-title">Web Analytics & AI Tools Training in Noida:</h5>
+                        <h5 class="card-title">Analytics & AI Tools Training in Ropar:</h5>
                         <p class="card-text">
-                            Decode user behavior with Google Analytics 4, track performance with Search Console, and
-                            leverage AI tools for content, ads, and data analysis.
+                            Use Google Analytics 4 and Search Console to track performance and leverage AI tools for
+                            content creation, ad optimization, and data-driven decisions.
                         </p>
 
                     </div>
                 </div>
             </div>
         </div>
-
-
     </div>
 </section>
-
-
-
-
 
 <section class="contaianer-fluid pt pb howitwork">
     <div class="cutom-container width80">
@@ -564,113 +557,94 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.ph
 
 <!--  -->
 <section class="py-5 bg-light">
-    <div class="custom-container width80">
+    <div class="cutom-container width80">
         <div class="text-center mb-5">
-            <h2 class="fw-bold">Why Choose 5Trainers for Digital Marketing Training in Noida?</h2>
+            <h2 class="fw-bold">Why Choose 5Trainers for Digital Marketing Training in Ropar?</h2>
             <p class="text-muted mt-2 text-center">
-                We provide a learning ecosystem that bridges the gap between theoretical knowledge and industry
-                application.
+                We provide a supportive, practical, and locally relevant learning experience.
             </p>
         </div>
 
-        <div class="row g-4">
-            <!-- Card 1 -->
-            <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
-                    <h5 class="fw-semibold">Learn from Practicing Experts:</h5>
-                    <p class="text-muted">
-                        Our trainers are certified professionals managing real campaigns for diverse clients,
-                        bringing current industry trends into the classroom.
-                    </p>
-                </div>
+        <section class="container-fluid ">
+            <div class="no-container ">
+                <div class="row">
+                    <div class="col-lg-4 col-md-6">
+                        <div data-aos="fade-up" data-aos-duration="800"
+                            class="aos-init aos-animate chooseContentBox cyangreenbg">
+                            <h5>Learn from Certified Industry Experts</h5>
+                            <p class="text-center"> Our trainers are active digital marketers who bring real campaign
+                                experience and current industry insights to the classroom.</p>
+                        </div>
+                    </div><!--/col-->
+                    <div class="col-lg-4 col-md-6">
+                        <div data-aos="fade-up" data-aos-duration="1000"
+                            class="aos-init aos-animate chooseContentBox whitebg">
+                            <h5>100% Live Project-Based Training:</h5>
+                            <p class="text-center">Execute real SEO audits, manage Google Ads campaigns, run social
+                                media strategies, and create content portfolios during your training.</p>
+                        </div>
+                    </div><!--/col-->
+                    <div class="col-lg-4 col-md-6">
+                        <div data-aos="fade-up" data-aos-duration="1200"
+                            class="aos-init aos-animate chooseContentBox cyangreenbg">
+                            <h5>Beginner to Professional Learning Path:</h5>
+                            <p class="text-center"> No prior technical knowledge required. We start with fundamentals
+                                and build your skills step-by-step in a supportive environment.</p>
+                        </div>
+                    </div><!--/col-->
+                    <div class="col-lg-4 col-md-6">
+                        <div data-aos="fade-up" data-aos-duration="1400"
+                            class="aos-init aos-animate chooseContentBox whitebg">
+                            <h5>Complete Career & Freelance Support:</h5>
+                            <p class="text-center">Receive dedicated guidance for resume building, interview
+                                preparation, freelancing setup, and job placement assistance for local and remote
+                                opportunities.</p>
+                        </div>
+                    </div><!--/col-->
+                    <div class="col-lg-4 col-md-6">
+                        <div data-aos="fade-up" data-aos-duration="1600"
+                            class="aos-init aos-animate chooseContentBox cyangreenbg">
+                            <h5>Training Based on Real Market Needs:</h5>
+                            <p class="text-center">Curriculum is tailored to support local businesses, service
+                                industries, e-commerce, and remote job requirements relevant to Ropar and surrounding
+                                regions.</p>
+                        </div>
+                    </div><!--/col-->
+                    <div class="col-lg-4 col-md-6">
+                        <div data-aos="fade-up" data-aos-duration="1800"
+                            class="aos-init aos-animate chooseContentBox whitebg">
+                            <h5>Hands-On Experience with Essential Tools:</h5>
+                            <p class="text-center">Gain proficiency in Google Analytics, Google Ads, Meta Business
+                                Suite, Canva, SEO tools, and AI-powered marketing platforms.</p>
+                        </div>
+                    </div><!--/col-->
+                    <div class="col-lg-4 col-md-6">
+                        <div data-aos="fade-up" data-aos-duration="1800"
+                            class="aos-init aos-animate chooseContentBox cyangreenbg">
+                            <h5>Simple, Jargon-Free Learning Approach:</h5>
+                            <p class="text-center">We break down complex digital concepts into easy-to-understand,
+                                actionable steps perfect for beginners.</p>
+                        </div>
+                    </div><!--/col-->
+                    <div class="col-lg-4 col-md-6">
+                        <div data-aos="fade-up" data-aos-duration="1800"
+                            class="aos-init aos-animate chooseContentBox whitebg">
+                            <h5>Personalized Attention in Small Batches:</h5>
+                            <p class="text-center"> Our limited class sizes ensure individual mentorship, regular
+                                doubt-clearing sessions, and direct interaction with trainers.</p>
+                        </div>
+                    </div><!--/col-->
+                    <div class="col-lg-4 col-md-6">
+                        <div data-aos="fade-up" data-aos-duration="1800"
+                            class="aos-init aos-animate chooseContentBox cyangreenbg">
+                            <h5>Honest Local & Remote Career Guidance:</h5>
+                            <p class="text-center">Get transparent advice about Ropar’s job market, remote work
+                                opportunities, freelancing potential, and realistic growth pathways.</p>
+                        </div>
+                    </div><!--/col-->
+                </div><!--/row-->
             </div>
-
-            <!-- Card 2 -->
-            <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
-                    <h5 class="fw-semibold">100% Live Project-Based Training:</h5>
-                    <p class="text-muted">Work on actual websites, run Google Ads with real budgets, execute SEO
-                        audits, and manage social media campaigns from day one.</p>
-
-                </div>
-            </div>
-
-            <!-- Card 3 -->
-            <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
-                    <h5 class="fw-semibold">Beginner to Pro Journey:</h5>
-                    <p class="text-muted">
-                        No prior experience needed. We start from the absolute basics and guide you systematically
-                        to advanced digital strategies.
-                    </p>
-                </div>
-            </div>
-
-            <!-- Card 4 -->
-            <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
-                    <h5 class="fw-semibold">Dedicated Career & Freelance Support:</h5>
-                    <p class="text-muted"> Benefit from our comprehensive placement cell that offers resume
-                        building, mock interviews, LinkedIn profile optimization, and freelancing launch guidance.
-                    </p>
-
-                </div>
-            </div>
-
-            <!-- Card 5 -->
-            <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
-                    <h5 class="fw-semibold">Hands-On Tool Mastery:</h5>
-                    <p class="text-muted">
-                        Gain proficiency in essential platforms like Google Analytics, Search Console, Keyword
-                        Planner, Meta Ads Manager, Canva, and emerging AI tools.
-                    </p>
-                </div>
-            </div>
-
-            <!-- Card 6 -->
-            <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
-                    <h5 class="fw-semibold">Simple, Jargon-Free Learning:</h5>
-                    <p class="text-muted">
-                        We demystify digital marketing with clear explanations and step-by-step implementations that
-                        anyone can follow.
-                    </p>
-                </div>
-            </div>
-            <!-- Card 7 -->
-            <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
-                    <h5 class="fw-semibold">Small Batch Size for Focused Learning: </h5>
-                    <p class="text-muted">
-                        Limited seats per batch ensure personalized attention and ample opportunity for
-                        doubt-solving.
-                    </p>
-                </div>
-            </div>
-            <!-- Card 8 -->
-            <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3 digital-card-new">
-                    <h5 class="fw-semibold">Honest Career Counseling: </h5>
-                    <p class="text-muted">
-                        Get transparent advice about Noida's digital marketing job landscape, salary structures, and
-                        growth pathways.
-                    </p>
-                </div>
-            </div>
-            <!-- Card 0-->
-            <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm border-0 p-3 Digital-card">
-                    <h5 class="fw-semibold">Lifetime Access & Support: </h5>
-                    <p class="text-muted">
-                        Enjoy post-course support through updated materials, job referrals, and guidance on future
-                        projects.
-                    </p>
-                </div>
-            </div>
-
-
-        </div>
+        </section><!--/Why Choose Us-->
     </div>
 </section>
 <!--  -->
@@ -963,15 +937,16 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.ph
                         <h3>Career Opportunities After Certification</h3>
                         <!-- <h5 class="text-white">After completing the course, you can work as:</h5> -->
                         <ul class="p" style="padding: 0px;">
-                            <li class="text-white">Digital Marketing Executive / Manager</li>
+                            <li class="text-white">Digital Marketing Executive / Specialist</li>
                             <li class="text-white">SEO Specialist / Analyst</li>
                             <li class="text-white">Social Media Marketing Manager</li>
                             <li class="text-white">PPC / Google Ads Specialist</li>
                             <li class="text-white">Content Marketing Manager</li>
                             <li class="text-white">Digital Marketing Consultant / Freelancer</li>
                         </ul>
-                        <p class="text-white">Noida, as a major IT and startup hub, offers immense opportunities in
-                            e-commerce companies, digital agencies, MNCs, and as independent consultants.</p>
+                        <p class="text-white">Ropar’s growing educational and industrial ecosystem, combined with access
+                            to remote positions nationwide, offers diverse opportunities for skilled digital marketers.
+                        </p>
                     </div>
                 </div>
             </div><!--/col-->
@@ -980,27 +955,25 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.ph
                     <div class="li">
                         <div class="icon aos-init aos-animate" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                             data-aos-duration="1500">
-
+                            <!-- <img src="assets/image/icon/mission-about.png" class="img-fluid" alt="Icon"> -->
                         </div>
-                        <h3>Who Should Join This Digital Marketing Course in Noida?</h3>
-                        <ul class="p mt-4" style="padding: 0px;">
-                            <li class="text-white">Students and freshers aiming to start a career in Noida's corporate
-                                sector</li>
-                            <li class="text-white">Working professionals from IT, sales, or other fields looking to
-                                switch to digital
-                                marketing
-                            </li>
-                            <li class="text-white">Business owners and entrepreneurs who want to grow their brand online
-                            </li>
-                            <li class="text-white">Freelancers, bloggers, and content creators seeking to monetize their
-                                skills</li>
-                            <li class="text-white">Marketing executives wanting to upgrade to digital-centric roles</li>
+                        <h3>Who Should Join This Digital Marketing Training in Ropar?</h3>
+                        <ul class="p " style="padding: 0px;">
+                            <li class="text-white">Students and recent graduates looking to build a strong digital
+                                career</li>
+                            <li class="text-white">Job seekers and professionals aiming to transition into high-growth
+                                digital roles </li>
+                            <li class="text-white">Local business owners, entrepreneurs, and industrial unit operators
+                                wanting to grow online presence</li>
+                            <li class="text-white">Freelancers, bloggers, and content creators seeking to expand their
+                                service offerings </li>
+                            <li class="text-white">Working professionals looking to upgrade their digital expertise for
+                                better opportunities</li>
                         </ul>
-                        <p class="text-white"> Absolutely no technical background or prior degree is required.</p>
+                        <p class="text-white">No degree or experience required—just the willingness to learn.</p>
                     </div>
                 </div>
             </div><!--/col-->
-
         </div><!--/mission vission-->
     </div><!--/Container-->
 </section>
@@ -1014,15 +987,15 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.ph
         <h2 class="fw-bold mb-3 text-white">Start Your Digital Career in Ropar Today</h2>
 
         <p class="lead mb-4 text-white text-center">
-            Join 5Trainers—Ropar's trusted digital marketing institute—and gain the practical skills and confidence
-            to excel in the digital world.
+            Join 5Trainers—Ropar's trusted digital marketing institute—and gain the practical skills and confidence to
+            excel in the digital world.
         </p>
         <p class="lead mb-4 text-white text-center">
-            Contact us now to book a free demo session or enroll in our upcoming batch of Digital Marketing Training
-            in Ropar.
+            Contact us now to book a free demo session or enroll in our upcoming batch of Digital Marketing Training in
+            Ropar.
         </p>
 
-        <a href="contact.php" class="btn btn-lg fw-semibold px-4" style="background-color: #ff8503;">
+        <a href="#" class="btn btn-lg fw-semibold px-4" style="background-color: #ff8503; border-radius: 3px;">
             Enroll Now
         </a>
 
@@ -1117,23 +1090,25 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.ph
 </section>
 <!--  -->
 <section class="py-5 slider text-white" style="background: #0f79be;">
-    <div class="container">
+    <div class="container width80">
         <div class="row align-items-center">
             <div class="col-lg-12 text-center">
                 <h1 class="fw-bold mb-3">
-                    Kickstart Your Digital Career in Noida Today
+                    Learn Digital
+                    Marketing Skills That Build Careers & Businesses
                 </h1>
                 <p class="lead mb-3 text-white text-center">
-                    Join 5Trainers, the most trusted digital marketing institute in Noida, and gain the confidence
-                    and skills to succeed.
+                    At 5Trainers, our <strong>Digital Marketing Course in Ropar</strong> focuses on hands-on
+                    learning and industry-relevant skills that companies actually look for.
 
 
                 </p>
                 <p class="mb-4 text-white text-center">
-                    Call now to book a demo class or enroll directly in our next batch of Digital Marketing Training
-                    in Noida.
+                    We don’t just teach concepts—we help you <strong>work on live projects, real websites, and
+                        active ad campaigns</strong>, so you gain confidence to handle real clients and job roles.
                 </p>
 
+                <!-- <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a> -->
             </div>
         </div>
     </div>
@@ -1208,11 +1183,11 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.ph
         </div>
     </div>
 </section>
+
 <!-- faq -->
 <section class="container-fluid pt pb faq">
     <div class="custom-container width80">
-        <span class="section-subtitle section-subtitle-2 text-center">Frequently Asked Questions (FAQs) –
-            Noida</span>
+        <span class="section-subtitle section-subtitle-2 text-center">Frequently Asked Questions (FAQs) – Ropar</span>
         <div class="row">
 
 
@@ -1221,70 +1196,68 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-noida.ph
                     <div class="box active">
                         <div class="label">1. What is digital marketing?</div>
                         <div class="content">
-                            Digital marketing is the promotion of products, services, or brands via digital channels
-                            like search engines, social media, email, and websites to connect with customers online.
+                            Digital marketing involves promoting products, services, or brands using online platforms
+                            like Google, social media, email, and websites to connect with customers and grow business.
                         </div>
                     </div>
                     <div class="box">
-                        <div class="label">2. Is this course suitable for someone from a non-technical background?
-                        </div>
+                        <div class="label">2. Who can join this course in Ropar?</div>
                         <div class="content">
-                            Absolutely. The course is designed for all backgrounds. We start with fundamentals and
-                            use simple, practical methods to teach every concept.
+                            The course is ideal for students, working professionals, business owners, freelancers, and
+                            anyone interested in building a successful career or business online.
                         </div>
                     </div>
                     <div class="box">
-                        <div class="label">3. What makes your Noida institute the best for digital marketing?</div>
-                        <div class="content">Our combination of industry-expert trainers, 100% practical curriculum,
-                            strong placement record in Noida, and small-batch personalized training sets us apart.
-                        </div>
+                        <div class="label">3. I have no prior knowledge of computers or marketing. Is this course
+                            suitable?</div>
+                        <div class="content">Yes, absolutely. The course is specifically designed for complete
+                            beginners. We start from the very basics and guide you step-by-step..</div>
                     </div>
                     <div class="box">
-                        <div class="label">4. Do you provide placement assistance?</div>
+                        <div class="label">4. What topics are covered in the training?</div>
                         <div class="content">
-                            Yes, we offer 100% placement support, including interview preparation, resume workshops,
-                            and direct referrals to our network of partner companies in Noida.
+                            The complete training covers SEO, Social Media Marketing, Google Ads (PPC), Content
+                            Marketing, Email Marketing, Web Analytics, and AI in digital marketing.
                         </div>
                     </div>
                     <div class="box">
-                        <div class="label">5. Will I work on real projects?</div>
+                        <div class="label">5. How practical is the training?</div>
                         <div class="content">
-                            Definitely. The core of our training is hands-on work on live websites, active social
-                            media pages, and real Google Ads campaigns.
+                            The training is 100% practical and hands-on. You will work on live projects, real websites,
+                            and active marketing campaigns throughout the program.
                         </div>
                     </div>
 
                     <div class="box">
-                        <div class="label">6. What is the course duration and schedule?</div>
-                        <div class="content">We offer flexible weekday and weekend batches. The total duration
-                            typically ranges from 3 to 4 months, depending on the chosen program. Contact us for the
-                            current timetable.
+                        <div class="label">6. Do you provide a certificate?</div>
+                        <div class="content">Yes, you will receive a recognized course completion certificate from
+                            5Trainers that is valued by employers locally and nationally.
                         </div>
                     </div>
 
                     <div class="box">
-                        <div class="label">7.Is a certificate provided upon completion?</div>
-                        <div class="content">Yes, you will receive a course completion certificate from 5Trainers
-                            that is widely recognized by employers in Noida and beyond.
+                        <div class="label">7.Do you offer placement assistance in Ropar?</div>
+                        <div class="content">Yes, we provide complete placement support, including interview
+                            preparation, resume workshops, and connecting you with job opportunities in Ropar, nearby
+                            cities, and remote positions.
                         </div>
                     </div>
                     <div class="box">
-                        <div class="label">8. Can I learn freelancing along with the course?</div>
-                        <div class="content">Yes, a special module covers how to find clients, price your services,
-                            manage projects, and build a successful freelancing career from Noida.
+                        <div class="label">8. Why should I choose 5Trainers in Ropar?</div>
+                        <div class="content">For our industry-expert trainers, completely practical approach, strong
+                            placement support, affordable fees, and proven track record of student success in Ropar.
                         </div>
                     </div>
                     <div class="box">
-                        <div class="label">9. What tools will I learn?</div>
-                        <div class="content">You will gain hands-on experience with Google Analytics, Google Ads,
-                            Google Search Console, Meta Business Suite, Canva, SEMrush/Ahrefs (basics), and various
-                            AI content tools.
+                        <div class="label">9. What is the duration and schedule of the course?</div>
+                        <div class="content">We offer flexible weekday and weekend batches to suit different schedules.
+                            The duration typically ranges from 3 to 4 months. Contact us for current batch details.
                         </div>
                     </div>
                     <div class="box">
-                        <div class="label">10. How can I enroll or get more information?</div>
-                        <div class="content">You can visit our Noida training center, call the number provided, or
-                            fill out the inquiry form on our website for a detailed counseling session.
+                        <div class="label">10. How do I enroll or get more information?</div>
+                        <div class="content">You can call our Ropar center directly, visit our website, or come to our
+                            institute for a detailed counseling session and course overview.
                         </div>
                     </div>
                 </div>
