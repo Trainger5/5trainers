@@ -10,7 +10,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
         <div class="row align-items-center">
             <div class="col-12 col-xl-7">
                 <div class="intro-details">
-                    <div class="slide-text">
+                    <div>
                         <p class="topP mb-15">Restricted by opportunities?</p>
                         <div class="sliderHeading mb-20">
                             <h2>Meta Ads Mastery</h2>

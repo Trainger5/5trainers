@@ -6,151 +6,87 @@ $canonical_url = "https://www.5trainers.com/index.php";
 <?php include('header.php'); ?>
 
 <style>
- 
-.banner-img-box img {
-    width: 100%;
+ .hero-section-home{
+    padding-top: 120px;
+    align-items: center;
+ }
+ .banner-box img{
+      width: 100%;
+      /* position: absolute;
+      bottom: 30px;
+      right: 20px; */
+ }
+.hero-h2 {
+    font-family: "PoppinsBold";
+    font-size: 50px !important;
+    text-align: left;
+    line-height: 66px;
+    letter-spacing: 0.03em;
+    color: #fff;
+    text-transform: capitalize;
 }
-.banner-img-box {
-    width: 720px;
-    position: absolute;
-    right: 165px;
-    bottom: 0px;
-}
- 
-@media screen and (max-width: 1400px) {
-.banner-img-box {
-    width: 500px;
-    position: absolute;
-    right: 140px;
-    bottom: 0px !important;
-}
-}
- 
-@media screen and (max-width: 1200px) {
-.banner-img-box {
-    width: 500px;
-    position: absolute;
-    right: 140px;
-    bottom: 0px !important;
-}
-#slide-show {
-    height: auto;
-    min-height: auto;
-}
-}
- 
-@media screen and (max-width: 991px) {
-.banner-img-box {
-    width: 475px;
-    position: absolute;
-    right: 60px;
-    bottom: 0px !important;
-}
- 
-}
-@media screen and (max-width: 850px) {
-.banner-img-box {
-    width: 300px;
-    position: absolute;
-    right: 80px;
-    bottom: 0px !important;
-}
- 
-}
-@media screen and (max-width: 768px) {
-#slide-show {
-    height: auto !important;
-    min-height: auto !important;
-    overflow: hidden;
-    width: 100%;
-    background: #0f79be;
-    z-index: 0;
-    overflow: hidden;
-}
-.slide-text h2 {
-    /* font-size: 30px !important; */
+ .hero-p{
+    color: #fff;
+    font-family: "PoppinsMedium";
+    text-align: left;
+    font-size: 18px;
+    text-transform: inherit;
+    margin: 10px 0;
     line-height: 30px;
-    margin: 0 0 5px 0;
+    letter-spacing: 0.03em;
+ }
+@media only screen and (max-width: 991px) {
+  .align_box {
+    padding-top: 120px;
+    display: flex;
+    align-items: flex-end !important;
+  }
 }
- 
-.slide-text {
-    padding-bottom: 60px;
+@media only screen and (max-width: 1450px) {
+  .hero-h2 {
+    font-size: 46px !important;
+    line-height: 62px !important;
+  }
+}
+
+@media only screen and (max-width: 1320px) {
+  .hero-h2 {
+    font-size: 36px !important;
+    line-height: 50px !important;
+  }
+  .hero-section-home {
+    padding-top: 180px !important;
+    align-items: center;
+}
+.two-btns{
+    margin-bottom: 40px !important;
 }
 }
- 
- 
-@media screen and (max-width: 576px) {
-.banner-img-box {
-    width: 320px;
-    right: 50%;
-    bottom: 0px !important;
-    left: 20%;
+
+
+@media only screen and (max-width: 1100px) {
+ .hero-h2 {
+    font-size: 29px !important;
+    line-height: 36px !important;
 }
- 
-.slide-text {
-    padding-bottom: 80px;
 }
- 
-}
- 
-@media screen and (max-width: 480px) {
-.banner-img-box {
-    width: 320px;
-    right: 50%;
-    bottom: 0px !important;
-    left: 10%;
-}
-.slide-text {
-    padding-bottom: 200px;
-          font-size: 23px !important;
- 
-}
-.slider-center{
- left: 55%;
-        top: 50% !important;
-        width: 90%;
-    
-}
- 
-       
- 
-}
- 
-@media screen and (max-width: 360px) {
-.banner-img-box {
-    width: 320px;
-    right: 50%;
-    bottom: 0px !important;
-    left: 0%;
-     
-}
-.slide-text {
-    padding-bottom: 230px;
-      font-size: 23px !important;
-    line-height: 3px;
-}
-.slider-center{
- left: 55%;
-        top: 54% !important;
-    
-}
- 
-}
- 
- 
+
+
+
+
 </style>
 
 
 
-<section id="slide-show">
+<!-- <section id="slide-show">
     <div class="slidex activx">
-        <div class="bg1">
+        <div class="bg1 width80">
             <div class="slider-center row">
                 <div class="col-12  col-md-6 col-lg-6 slide-text">
                     <h2>Knowledge is power,</h2>
                     <h2>And digital knowledge is</h2>
                     <h2>Game-changing power.</h2>
-                    <!-- <h2>Knowledge is power, and digital knowledge is game-changing power.</h2> -->
+                
                      <p class="my-3">Unlock it with 5Trainers Expert Mentors, Real-World Projects, and 100% Placement Support. Your Success Story Starts Here.</p>
                      <p>Guiding you towards success, every step of the way</p>
                     <div class="two-btns text-center">
@@ -160,17 +96,38 @@ $canonical_url = "https://www.5trainers.com/index.php";
                
             </div>
             <div class="banner-img-box col-lg-6 col-md-6 col-12">
-                    <!-- <img src="assets/image/slider/benner.png" loading="lazy" class="bannerimg img-fluid" alt="image"> -->
+                    
                     <img src="assets/image/slider/benners.png" loading="lazy" class="bannerimg" alt="image">
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
+
+<section class="hero-demo">
+    <div class="width80">
+        <div class="row hero-section-home align_box">
+            <div class="col-12  col-lg-6 hero-left-section">
+                <h2 class="hero-h2">Knowledge is power,</h2>
+                    <h2 class="hero-h2">And digital knowledge is</h2>
+                    <h2 class="hero-h2">Game-changing power.</h2>
+                    <p class="my-3 hero-p">Unlock it with 5Trainers Expert Mentors, Real-World Projects, and 100% Placement Support. Your Success Story Starts Here.</p>
+                     <p class="hero-p">Guiding you towards success, every step of the way</p>
+                      <div class="two-btns text-center">
+                        <a class="getst btn" id="openConsultationModal" href="#">Get a Free Consultation</a>
+                    </div>
+            </div>
+            <div class="col-12 col-lg-6 banner-box hero_right_box">
+                  <img src="assets/image/slider/benners.png" loading="lazy" class="bannerimg" alt="image">
+            </div>
+        </div>
+
+    </div>
+</section>
 
 <span id="top"></span>
 <!--Key Point-->
-<section class="container-fluid key-point">
+<section class="container-fluid key-point d-none d-lg-block">
     <div class="custom-container width99">
         <div class="row">
 
@@ -178,8 +135,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                 <div class="kabslt">
                     <div class="content">
                         <div class="carte cone">
-                            <!-- <div class="key-imag"><img class="" src="assets/image/key-points/Job-Oriented-Courses.png"
-                                    alt="Job Oriented Courses"></div> -->
+
                             <div class="c-dets">
                                 <h4>Job-Oriented Courses</h4>
                                 <p><span>Skill Up for Real IT Careers</span></p>
@@ -195,8 +151,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                 <div class="kabslt">
                     <div class="content">
                         <div class="carte ctwo">
-                            <!-- <div class="key-imag"><img class="" src="assets/image/key-points/Expert-Trainers.png"
-                                    alt="Expert Trainers"></div> -->
+
                             <div class="c-dets">
                                 <h4>Expert Trainers</h4>
                                 <p><span>Learn from IT Professionals</span></p>
@@ -211,8 +166,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                 <div class="kabslt">
                     <div class="content">
                         <div class="carte cthree">
-                            <!-- <div class="key-imag"><img class="" src="assets/image/key-points/live-projects.png"
-                                    alt="Live Projects"></div> -->
+
                             <div class="c-dets">
                                 <h4>Live Projects</h4>
                                 <p><span>Learn by Doing</span></p>
@@ -227,8 +181,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                 <div class="kabslt">
                     <div class="content">
                         <div class="carte cfour">
-                            <!-- <div class="key-imag"><img class="" src="assets/image/key-points/placement-assistance.png"
-                                    alt="Placement Assistance"></div> -->
+                            
                             <div class="c-dets">
                                 <h4>100% Placement Assistance</h4>
                                 <p><span>From Classroom to Career</span></p>
@@ -242,8 +195,6 @@ $canonical_url = "https://www.5trainers.com/index.php";
         </div><!--/row-->
     </div><!--container-->
 </section><!--/key-point-->
-
-
 
 <!--About-->
 <section class="container-fluid about-sec  pt pb aos-all" id="transcroller-body">
@@ -432,8 +383,8 @@ $canonical_url = "https://www.5trainers.com/index.php";
                     <!--span-- class="section-subtitle section-subtitle-2">Why Choose Us</!--span-->
                     <h3 data-aos="fade-up" data-aos-duration="1000" class="section-title aos-init aos-animate">Why
                         Learn With Us</h3>
-                    <p data-aos="fade-up" data-aos-duration="1700" class="aos-init aos-animate text-center">We stand
-                        out for our practical approach, real-world projects, and industry-focused training</p>
+                    <h5 data-aos="fade-up" data-aos-duration="1700" class="aos-init aos-animate text-center text-white">We stand
+                        out for our practical approach, real-world projects, and industry-focused training</h5>
                 </div><!--/heading-->
             </div>
         </div>
@@ -922,7 +873,6 @@ $canonical_url = "https://www.5trainers.com/index.php";
 
             <div class="col-lg-4">
                 <div class="placementAssistanceImage">
-                    <!-- <img src="assets/image/other/success-growing.png" alt="Success Growing" class="img-fluid"> -->
                     <img src="assets/image/other/Your-Career.png" loading="lazy" alt="Success Growing" class="img-fluid">
                 </div>
             </div><!--/col-->

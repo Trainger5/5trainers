@@ -112,143 +112,7 @@ $canonical_url = "https://www.5trainers.com/Cyber-Security.php";
     </div>
 </section>
 
-<!--Slider-->
-<section class="setbgs-landing mtt" id="transcroller-body">
-    <div class="custom-container width80">
-        <div class="">
-            <div class="row">
-                <div class="col-lg-7">
-                    <div class="intro-details">
-                        <div class="slide-text">
-                            <!--<p class="topP mb-15">Restricted by opportunities?</p>-->
-                            <div class="sliderHeading mb-20">
-                                <!-- <h2>Digital Marketing Courses</h2>
-                            <h2> with AI</h2> -->
-                                <h2 style="font-size: 45px ;">Cyber Security Training for Himachal Pradesh | 100% Job
-                                    Placement Support</h2>
-                                <h4 class="mt-3 "
-                                    style="color: #0a6da5; background-color:white; padding:20px; border-radius:8px;">
-                                    Launch Your Cyber Security Career from Himachal Pradesh with Expert Mohali-Based
-                                    Training</h4>
-                            </div>
-                            <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
-                            <p class="coDetail">Amidst the serene hills of Himachal Pradesh lies a growing demand for
-                                digital guardians. As businesses, government departments, and educational institutions
-                                across Himachal—from Shimla to Dharamshala, Solan to Mandi—accelerate their digital
-                                transformation, the need for skilled cybersecurity professionals is critical. 5Trainers
-                                brings you premier cyber security training with our expert hub in Mohali, designed
-                                specifically for students and professionals across Himachal Pradesh. We provide
-                                flexible, high-quality education that connects Himachali talent to thriving career
-                                opportunities in the Tricity (Mohali, Chandigarh, Panchkula) and the expanding remote
-                                job market, all without the need for permanent relocation.</p>
-                            <!--for Both Freshers &-->
-                        </div><!--/slider text-->
 
-
-                        <div class="course-features mtb-40">
-                            <div class="features">
-                                <img src="landingpage/assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Affordable Fees </div>
-                            </div>
-
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Certified Trainers </div>
-                            </div>
-
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Internship Opportunity </div>
-                            </div>
-
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Placement assistance</div>
-                            </div>
-
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Professional Resume Building </div>
-                            </div>
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Mock Interviews & HR Rounds</div>
-                            </div>
-
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Lifetime Access to Study Material</div>
-                            </div>
-
-                        </div>
-                        <!-- <div class="course-metrics mt-15 mb-40">
-                                <div class="course-metric">
-                                    <div class="metric-heading"> 95%</div>
-                                    <div class="metric-sub-heading"> placement rate </div>
-                                </div>
-                                <div class="divider"></div>
-
-                                <div class="course-metric">
-                                    <div class="metric-heading"> 1200+</div>
-                                    <div class="metric-sub-heading"> Companies Hiring</div>
-                                </div>
-                                <div class="divider"></div>
-
-                                <div class="course-metric">
-                                    <div class="metric-heading"> 128%</div>
-                                    <div class="metric-sub-heading"> Average hike</div>
-                                </div>
-                                <div class="divider"></div>
-
-                                <div class="course-metric">
-                                    <div class="metric-heading"> 1.5 L+</div>
-                                    <div class="metric-sub-heading"> Learners</div>
-                                </div>
-                            </div> -->
-
-                        <!-- <div class="webinar-text" style="background-color: #ff8503; border-radius: 3px;">
-                                <button class="btn">
-                                    <a href="tel:+918283840606">
-                                        Book Free Demo Class at Our Mohali
-                                    </a>
-                                </button>
-                                
-                            </div> -->
-                    </div>
-                </div>
-
-                <div class="col-lg-5">
-                    <div class="formAlign">
-                        <?php include('course-slider-form.php'); ?>
-                    </div>
-                </div>
-
-            </div>
-
-        </div>
-</section>
-
-<!-- <section class="container-fluid about-sec digitalcourse pt pb aos-all">
-    <div class="no-container width80">
-        <div class="row">
-            <div class="col-sm-9 col-md-12 col-lg-9 align-self-center">
-                <div class="about-us-info-wrap">
-                    <div class="section-title-area">
-                        <h2 class="section-title">Why Choose Our Digital Marketing Institute?</h2>
-                    </div>
-                    <p class="mt-3">
-                        At 5Trainers Digital Marketing Institute, we bridge the gap between ambition and expertise. Led by 5 industry-expert trainers, we don&apos;t just teach theory—we deliver the practical, job-ready skills that top companies demand today. Whether you&apos;re a fresh graduate, a career-changer, or a professional aiming to upskill, our institute provides the structured pathway to success in the dynamic digital world.
-                    </p>
-                </div>
-            </div>
-            <div class="col-sm-3 col-md-12 col-lg-3 align-self-center">
-                <div class="about-us-img-wrap about-img-left">
-                    <img src="assets/image/course/trainer.png" alt="Digital Marketing Institute" class="img-fluid">
-                </div>
-            </div>
-        </div>
-    </div>
-</section> -->
 
 <section class="container-fluid pt pb bg-light">
     <div class="custom-container width80">
@@ -259,7 +123,7 @@ $canonical_url = "https://www.5trainers.com/Cyber-Security.php";
         </div>
         <div class="row mt-4">
             <div class="col-md-6 col-lg-6 mb-4">
-                <a href="#">
+              
                     <div class="servicecol h-100">
                         <div class="service-info">
                             <h5>Placement Success with a Tricity Hub</h5>
@@ -270,11 +134,11 @@ $canonical_url = "https://www.5trainers.com/Cyber-Security.php";
 
                         </div>
                     </div>
-                </a>
+           
             </div>
             <div class="col-md-6 col-lg-6 mb-4">
                 <div class="servicecol h-100">
-                    <a href="#">
+       
                         <div class="service-info">
                             <h5>Hybrid Learning Model: Learn from Anywhere in Himachal</h5>
                             <p>Access our industry-leading curriculum through a flexible hybrid model. Attend intensive
@@ -282,12 +146,12 @@ $canonical_url = "https://www.5trainers.com/Cyber-Security.php";
                                 from your home in Shimla, Kangra, Hamirpur, or any district.</p>
 
                         </div>
-                    </a>
+
                 </div>
             </div>
             <div class="col-md-6 col-lg-6 mb-4">
                 <div class="servicecol h-100">
-                    <a href="#">
+             
                         <div class="service-info">
                             <h5>Curriculum Tailored for Diverse Learners</h5>
                             <p>Whether you are a fresh graduate from Himachal University, a working professional in the
@@ -295,12 +159,12 @@ $canonical_url = "https://www.5trainers.com/Cyber-Security.php";
                                 foundational to advanced levels, ensuring clarity and depth.</p>
 
                         </div>
-                    </a>
+                 
                 </div>
             </div>
             <div class="col-md-6 col-lg-6 mb-4">
                 <div class="servicecol h-100">
-                    <a href="#">
+                
                         <div class="service-info">
                             <h5>Dedicated Support for Outstation Students</h5>
                             <p>We provide comprehensive support for students traveling from Himachal, including
@@ -308,12 +172,12 @@ $canonical_url = "https://www.5trainers.com/Cyber-Security.php";
                                 schedule to maximize your learning during campus visits.</p>
 
                         </div>
-                    </a>
+             
                 </div>
             </div>
             <div class="col-md-6 col-lg-6 mb-4">
                 <div class="servicecol h-100">
-                    <a href="#">
+                    
                         <div class="service-info">
                             <h5>Foundational Cybersecurity Program (Online-Friendly)</h5>
                             <p>A perfect start for graduates and professionals across Himachal. This 12-week program
@@ -321,12 +185,12 @@ $canonical_url = "https://www.5trainers.com/Cyber-Security.php";
                                 online with optional contact sessions in Mohali.</p>
 
                         </div>
-                    </a>
+              
                 </div>
             </div>
             <div class="col-md-6 col-lg-6 mb-4">
                 <div class="servicecol h-100">
-                    <a href="#">
+                  
                         <div class="service-info">
                             <h5>Advanced Cybersecurity Professional Program</h5>
                             <p>A rigorous 6-month program with 300+ hours of hands-on lab work. Includes modules on
@@ -335,12 +199,12 @@ $canonical_url = "https://www.5trainers.com/Cyber-Security.php";
                             </p>
 
                         </div>
-                    </a>
+                
                 </div>
             </div>
             <div class="col-md-6 col-lg-6 mb-4">
                 <div class="servicecol h-100">
-                    <a href="#">
+                   
                         <div class="service-info">
                             <h5>Government & SME Cybersecurity Awareness</h5>
                             <p>Specially designed training modules for Himachal Pradesh government departments, local
@@ -348,19 +212,19 @@ $canonical_url = "https://www.5trainers.com/Cyber-Security.php";
                                 network security.</p>
 
                         </div>
-                    </a>
+                   
                 </div>
             </div>
             <div class="col-md-6 col-lg-6 mb-4">
                 <div class="servicecol h-100">
-                    <a href="#">
+                  
                         <div class="service-info">
                             <h5>Certification & Skill Development Programs</h5>
                             <p>We offer pathways to globally recognized certifications and are aligned with national
                                 skill development missions, providing credible qualifications for Himachali youth.</p>
 
                         </div>
-                    </a>
+             
                 </div>
             </div>
 
@@ -368,85 +232,6 @@ $canonical_url = "https://www.5trainers.com/Cyber-Security.php";
     </div>
 </section>
 
-<!-- <section class="container-fluid pt pb aos-all">
-    <div class="custom-container width80">
-        <div class="row justify-content-center">
-            <div class="col-12 col-xl-10">
-                <div class="row g-4">
-
-                 
-                    <div class="col-12 text-center mb-3">
-                        <h2 class="aos-init aos-animate"
-                            data-aos="fade-up"
-                            data-aos-delay="100">
-                            Our Cyber Security Training Programs for Himachal Pradesh
-                        </h2>
-                    </div>
-
-                    
-                    <div class="col-lg-4 col-md-4 col-6 d-flex servicecol">
-                        <div class="icon-box aos-init aos-animate h-100 w-100"
-                             data-aos="fade-up"
-                             data-aos-delay="100">
-                            <h4>Learn from 5 Trainers</h4>
-                            <p>Each niche—SEO, SMM, Ads, Data, and Development—is led by a dedicated expert.</p>
-                        </div>
-                    </div>
-
-                 
-                    <div class="col-lg-4 col-md-4 col-6 d-flex servicecol">
-                        <div class="icon-box aos-init aos-animate h-100 w-100"
-                             data-aos="fade-up"
-                             data-aos-delay="150">
-                            <h4>100% Practical, Live Projects</h4>
-                            <p>Work on real websites, ad accounts, datasets, and code repositories.</p>
-                        </div>
-                    </div>
-
-                 
-                    <div class="col-lg-4 col-md-4 col-6 d-flex servicecol">
-                        <div class="icon-box aos-init aos-animate h-100 w-100"
-                             data-aos="fade-up"
-                             data-aos-delay="200">
-                            <h4>Industry-Recognized Certification</h4>
-                            <p>Earn certificates that employers across agencies and MNCs value.</p>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-4 col-6 d-flex servicecol">
-                        <div class="icon-box aos-init aos-animate h-100 w-100"
-                             data-aos="fade-up"
-                             data-aos-delay="250">
-                            <h4>Placement-Centric Curriculum</h4>
-                            <p>Designed with direct input from 200+ hiring partners.</p>
-                        </div>
-                    </div>
-
-                  
-                    <div class="col-lg-4 col-md-4 col-6 d-flex servicecol">
-                        <div class="icon-box aos-init aos-animate h-100 w-100"
-                             data-aos="fade-up"
-                             data-aos-delay="300">
-                            <h4>Lifetime Access &amp; Support</h4>
-                            <p>Get course updates, job referrals, and doubt support for life.</p>
-                        </div>
-                    </div>
-
-                   
-                    <div class="col-lg-4 col-md-4 col-6 d-flex servicecol">
-                        <div class="icon-box aos-init aos-animate h-100 w-100"
-                             data-aos="fade-up"
-                             data-aos-delay="350">
-                            <h4>Simple, Jargon-Free Learning</h4>
-                            <p>Complex concepts explained in beginner-friendly, actionable language.</p>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
-</section> -->
 
 
 
@@ -508,7 +293,7 @@ $canonical_url = "https://www.5trainers.com/Cyber-Security.php";
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area text-center">
-                    <!-- <h2 class="section-title">Testimonials &amp; Success Stories</h2> -->
+       
                 </div>
             </div>
         </div>
@@ -600,7 +385,7 @@ $canonical_url = "https://www.5trainers.com/Cyber-Security.php";
     </div>
 </section>
 
-<section class="py-5 slider text-white text-center">
+<section class="py-5 slider text-white text-center" style="background-color:#0f79be">
     <div class="container">
         <h2 class="fw-bold mb-3 text-white">Call to Action:</h2>
         <p class="lead mb-4 text-white text-center">
