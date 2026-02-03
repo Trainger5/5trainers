@@ -2904,20 +2904,20 @@ a:hover {
 
 /*End consult with Expert*/
 .requestCall a {
-  padding: 10px 20px;
-  background: #fff;
-  color: #1585a4;
-  text-transform: capitalize;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  font-size: 18px;
-  font-family: "LexendMedium";
-  text-decoration: none;
+    padding: 10px 20px;
+    background: #0f79be;
+    color: #ffffff;
+    text-transform: capitalize;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    font-family: "LexendMedium";
+    text-decoration: none;
 }
 .requestCall a:hover {
   text-decoration: none;
-  color: #000;
+  color: #ffffff;
 }
 .requestCall {
   display: flex;
@@ -4860,15 +4860,15 @@ p {
   padding: 30px;
 }
 .fresherBox {
-  display: flex;
-  justify-content: flex-start;
-  margin: 0 0 35px;
-  padding: 0px 35px;
-  border-bottom: 3px solid transparent;
-  border-radius: 16px;
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-  min-height: 223px;
-  align-items: center;
+    display: flex;
+    justify-content: flex-start;
+    margin: 0 0 10px;
+    padding: 15 35px;
+    border-bottom: 3px solid transparent;
+    border-radius: 16px;
+    /* box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); */
+    /* min-height: 223px; */
+    /* align-items: center; */
 }
 .fresherCont {
   margin-left: 20px;
@@ -12377,4 +12377,50 @@ a.contb:hover {
   right: 0;
   z-index: 1;
   background-image: url(../image/bg/bg3.png);
+}
+
+
+ /* Counseling for Students */
+.tab_icon::before {
+    content: "\F4CF";
+    font-family: "Bootstrap-icons";
+    font-size: 20px;
+    color: #ff8501;
+    position: relative;
+    bottom: -4px;
+    left: -5px;
+}
+.tab_icon_two::before {
+    content: "\F38B";
+    font-family: "Bootstrap-icons";
+    font-size: 20px;
+    color: #ff8501;
+    position: relative;
+    bottom: -4px;
+     left: -5px;
+}
+.tab_icon_three::before {
+    content: "\F673";
+    font-family: "Bootstrap-icons";
+    font-size: 20px;
+    color: #ff8501;
+    position: relative;
+    bottom: -4px;
+     left: -5px;
+}.tab_icon_four::before {
+    content: "\F6FE";
+    font-family: "Bootstrap-icons";
+    font-size: 20px;
+    color: #ff8501;
+    position: relative;
+    bottom: -4px;
+     left: -5px;
+}.tab_icon_five::before {
+    content: " \F1E2";
+    font-family: "Bootstrap-icons";
+    font-size: 20px;
+    color: #ff8501;
+    position: relative;
+    bottom: -4px;
+     left: -5px;
 }

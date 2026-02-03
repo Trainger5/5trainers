@@ -159,11 +159,11 @@ $canonical_url = "https://www.5trainers.com/professionals.php";
                         <div id="tab-4" class="tab-content">
                             <div class="tabInner">
                                 <div class="tabBasicInfo">
-                                    <p> Certified and experienced counselors</p>
-                                    <p> Personalized approach for every student</p>
-                                    <p> In-depth understanding of the latest career trends</p>
-                                    <p> 100% unbiased and professional guidance</p>
-                                    <p> Support via in-person and online sessions</p>
+                                    <p class="tab_icon"> Certified and experienced counselors</p>
+                                    <p class="tab_icon_two"> Personalized approach for every student</p>
+                                    <p class="tab_icon_three"> In-depth understanding of the latest career trends</p>
+                                    <p class="tab_icon_four"> 100% unbiased and professional guidance</p>
+                                    <p class="tab_icon_five"> Support via in-person and online sessions</p>
                                     <ul class="mt-20 p-0">
                                         <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Career counselor near me</li>
                                         <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Online career counseling</li>

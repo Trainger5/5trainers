@@ -239,11 +239,11 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 						<div id="tab-2" class="tab-content">
 							<div class="tabInner">
 								<div class="tabBasicInfo">
-									<p>One-on-one career counseling sessions</p>
-									<p>Career assessment tests (based on your skills, interests, and personality)</p>
-									<p>Guidance on trending courses and in-demand skills</p>
-									<p>Help with course selection after 10th / 12th / graduation</p>
-									<p>Support in making short-term and long-term career plans</p>
+									<p class="tab_icon"> One-on-one career counseling sessions</p>
+									<p class="tab_icon_two">Career assessment tests (based on your skills, interests, and personality)</p>
+									<p class="tab_icon_three">Guidance on trending courses and in-demand skills</p>
+									<p class="tab_icon_four">Help with course selection after 10th / 12th / graduation</p>
+									<p class="tab_icon_five">Support in making short-term and long-term career plans</p>
 									<ul class="mt-20 p-0">
 										<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Career Assessment for Students</li>
 										<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Student Guidance Program</li>
@@ -397,11 +397,11 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 						<div id="tab-3" class="tab-content">
 							<div class="tabInner">
 								<div class="tabBasicInfo">
-									<p>Certified and experienced counselors</p>
-									<p>Personalized approach for every student</p>
-									<p>In-depth understanding of the latest career trends</p>
-									<p>100% unbiased and professional guidance</p>
-									<p>Support via in-person and online sessions</p>
+									<p class="tab_icon">Certified and experienced counselors</p>
+									<p class="tab_icon_two">Personalized approach for every student</p>
+									<p class="tab_icon_three">In-depth understanding of the latest career trends</p>
+									<p class="tab_icon_four">100% unbiased and professional guidance</p>
+									<p class="tab_icon_five"	>Support via in-person and online sessions</p>
 									<ul class="mt-20 p-0">
 										<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> student career counselor near me</li>
 										<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> online career counseling</li>
@@ -564,11 +564,11 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 						<div id="tab-4" class="tab-content">
 							<div class="tabInner">
 								<div class="tabBasicInfo">
-									<p>Certified and experienced counselors</p>
-									<p>Personalized approach for every student</p>
-									<p>In-depth understanding of the latest career trends</p>
-									<p>100% unbiased and professional guidance</p>
-									<p>Support via in-person and online sessions</p>
+									<p class="tab_icon">Certified and experienced counselors</p>
+									<p class="tab_icon_two">Personalized approach for every student</p>
+									<p class="tab_icon_three">In-depth understanding of the latest career trends</p>
+									<p class="tab_icon_four">100% unbiased and professional guidance</p>
+									<p class="tab_icon_five">Support via in-person and online sessions</p>
 									<ul class="mt-20 p-0">
 										<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> student career counselor near me</li>
 										<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> online career counseling</li>

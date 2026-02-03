@@ -257,7 +257,7 @@
     <div class="custom-container width80">
         <div class="row">
             <!-- Fixed Left Column -->
-            <div class="col-lg-4 col-md-5 left-fixed">
+            <div class="col-lg-6 col-md-5 left-fixed">
                 <div class="section-title-area">
                     <h2 data-aos="fade-up" data-aos-duration="500" class="section-title">Fresher Job Assured Program
                         with Stipend</h2>
@@ -270,7 +270,7 @@
 
             </div>
             <!-- Scrollable Right Column -->
-            <div class="col-lg-8 col-md-7 right-scroll">
+            <div class="col-lg-6 col-md-7 ">
                 <div class="scroll-content">
                     <div class="row mt-80">
                         <div class="col-md-12 col-lg-12">
@@ -315,7 +315,7 @@
                                 </div>
                             </div>
                         </div><!--/col-->
-                        <div class="col-md-12 col-lg-12">
+                        <!-- <div class="col-md-12 col-lg-12">
                             <div class="fresherBox">
                                 <div><img src="assets/image/icon/permanent_job.png" alt=""></div>
                                 <div class="fresherCont">
@@ -324,7 +324,8 @@
                                         internship with a top tech company.</p>
                                 </div>
                             </div>
-                        </div><!--/col-->
+                        </div> -->
+                        <!--/col-->
                         <div class="col-md-12 col-lg-12">
                             <div class="fresherBox">
                                 <div><img src="assets/image/icon/permanent_job.png" alt=""></div>
