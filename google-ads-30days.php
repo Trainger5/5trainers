@@ -26,182 +26,105 @@ $meta_description = "Master Google Ads in 30 days with 5Trainers Mohali. Learn P
 $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
 ?>
 <?php include('header.php'); ?>
-<link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/shorttermcourse.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/coursedetails.css" type="text/css" rel="stylesheet" />
 
-<!--Slider-->
-<section id="slide-shows" class="setbgs landignsetbg">
-    <div class="custom-container width80">
-        <div>
-            <div class="hero-main row">
-                <div class="col-lg-7 ">
-                    <div class="intro-details">
-                        <div class="slide-text">
-                            <p class="topP mb-15">Restricted by opportunities?</p>
-                            <div class="sliderHeading mb-20">
-                                <h2>Google Ads in 30 Days</h2>
-                                <h1>Job Bootcamp with GenAI</h1>
-                            </div>
-                            <p class="coDetail">Google Ads Mastery in 30 Days Course with Guaranteed Placement Support
-                                <br> Perfect for Both Freshers & Working Professionals.
-                            </p>
-                        </div><!--/slider text-->
+<section class="hero-demo">
+    <div class="hero-demo-main width80">
+        <div class="row align-items-center">
+            <div class="col-12 col-xl-7">
+                <div class="intro-details">
+                    <div>
+                        <p class="topP mb-15">Restricted by opportunities?</p>
+                        <div class="sliderHeading mb-20">
+                            <h2>Google Ads in 30 Days</h2>
+                            <h1>Job Bootcamp with GenAI</h1>
+                        </div>
+                        <p class="coDetail">Google Ads Mastery in 30 Days Course with Guaranteed Placement Support
+                            <br> Perfect for Both Freshers & Working Professionals.
+                        </p>
+                    </div><!--/slider text-->
+                    <div>
+                        <p class="coDetail text-white">5Trainers offers professionally structured Digital
+                            Marketing Training in Ropar, designed to make you job-ready with practical skills
+                            that local businesses, nearby industrial units, and remote employers actively seek.
+                            Learn through live campaigns, real projects, and expert mentorship—gaining the
+                            confidence and portfolio needed to thrive in today’s digital economy.</p>
+                    </div>
+                    <div class="course-features mtb-40">
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Affordable Fees </div>
+                        </div><!--/features-->
 
-                        <div class="course-features mtb-40">
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Affordable Fees </div>
-                            </div><!--/features-->
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Certified Trainers </div>
+                        </div><!--/features-->
 
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Certified Trainers </div>
-                            </div><!--/features-->
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Internship Opportunity </div>
+                        </div><!--/features-->
 
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Internship Opportunity </div>
-                            </div><!--/features-->
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Placement assistance</div>
+                        </div><!--/features-->
 
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Placement assistance</div>
-                            </div><!--/features-->
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Professional Resume Building </div>
+                        </div><!--/features-->
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Mock Interviews & HR Rounds</div>
+                        </div><!--/features-->
 
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Professional Resume Building </div>
-                            </div><!--/features-->
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Mock Interviews & HR Rounds</div>
-                            </div><!--/features-->
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Lifetime Access to Study Material</div>
+                        </div><!--/features-->
 
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Lifetime Access to Study Material</div>
-                            </div><!--/features-->
+                    </div><!--/course-features-->
+                    <div class="course-metrics mt-15 mb-40">
+                        <div class="course-metric">
+                            <div class="metric-heading"> 95%</div>
+                            <div class="metric-sub-heading"> placement rate </div>
+                        </div><!--/course-metric-->
+                        <div class="divider"></div><!--/divider-->
 
-                        </div><!--/course-features-->
-                        <div class="course-metrics mt-15 mb-40">
-                            <div class="course-metric">
-                                <div class="metric-heading"> 95%</div>
-                                <div class="metric-sub-heading"> placement rate </div>
-                            </div><!--/course-metric-->
-                            <div class="divider"></div><!--/divider-->
+                        <div class="course-metric">
+                            <div class="metric-heading"> 1200+</div>
+                            <div class="metric-sub-heading"> Companies Hiring</div>
+                        </div><!--/course-metric-->
+                        <div class="divider"></div><!--/divider-->
 
-                            <div class="course-metric">
-                                <div class="metric-heading"> 1200+</div>
-                                <div class="metric-sub-heading"> Companies Hiring</div>
-                            </div><!--/course-metric-->
-                            <div class="divider"></div><!--/divider-->
+                        <div class="course-metric">
+                            <div class="metric-heading"> 128%</div>
+                            <div class="metric-sub-heading"> Average hike</div>
+                        </div><!--/course-metric-->
+                        <div class="divider"></div><!--/divider-->
 
-                            <div class="course-metric">
-                                <div class="metric-heading"> 128%</div>
-                                <div class="metric-sub-heading"> Average hike</div>
-                            </div><!--/course-metric-->
-                            <div class="divider"></div><!--/divider-->
-
-                            <div class="course-metric">
-                                <div class="metric-heading"> 1.5 L+</div>
-                                <div class="metric-sub-heading"> Learners</div>
-                            </div><!--/course-metric-->
-                        </div><!--/course-metrics-->
-
-                        <div class="webinar-text">
-                            <p>Know in-depth details in our free Consultancy</p>
-                        </div><!--/class="webinar-text-->
-                    </div><!--/intro-details-->
-                </div>
-                <div class="col-lg-5">
-                    <div class="formAlign">
-                        <div class="form-screen">
-                            <div class="title">Book a <span class="talert">Course</span> <span class="more">Now</span>
-                            </div>
-                            <?php
-                            // session_start();
-                            
-                            // Check for success/error messages for SweetAlert
-                            $show_alert = false;
-                            $alert_type = '';
-                            $alert_message = '';
-
-                            if (isset($_SESSION['form_status'])) {
-                                $show_alert = true;
-                                $alert_type = $_SESSION['form_status'];
-                                $alert_message = $_SESSION['form_message'];
-                                unset($_SESSION['form_status'], $_SESSION['form_message']);
-                            }
-                            ?>
-
-                            <form action="sendmail.php" method="POST">
-                                <input type="hidden" name="form_type" value="Callback Request">
-                                <div class="row">
-                                    <div class="col-lg-12 col-md-12">
-                                        <div class="form-group">
-                                            <label>Name</label>
-                                            <input type="text" name="name" required="required" placeholder="Jordan Belfort"
-                                                  class="form-control border" minlength="4">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12 col-md-12">
-                                        <div class="form-group">
-                                            <label>Email</label>
-                                            <input type="email" name="email" required="required" placeholder="Example@gmail.com"
-                                                class="form-control border">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12 col-md-12">
-                                        <div class="form-group">
-                                            <label>Phone Number</label>
-                                            <input type="tel" name="phone_number" required="required"
-                                                placeholder="9874563210" class="form-control border">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12 col-md-12">
-                                        <div class="form-group">
-                                            <label>Courses</label>
-                                            <div class="basic-container">
-                                                <div>
-                                                    <input type="radio" id="option1" name="basic" value="Google Ads">
-                                                    <label for="option1">Google Ads</label>
-                                                </div>
-                                                <div>
-                                                    <input type="radio" id="option2" name="basic"
-                                                        value="Digital Marketing">
-                                                    <label for="option2">Digital Marketing</label>
-                                                </div>
-                                                <div>
-                                                    <input type="radio" id="option3" name="basic" value="SEO">
-                                                    <label for="option3">SEO</label>
-                                                </div>
-                                                <div>
-                                                    <input type="radio" id="option4" name="basic" value="Social Media">
-                                                    <label for="option4">Social Media</label>
-                                                </div>
-                                                <div>
-                                                    <input type="radio" id="option5" name="basic" value="Meta Ads"
-                                                        checked>
-                                                    <label for="option5">Meta Ads</label>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12 col-md-12">
-                                        <input type="submit" class="submitbtn btn btn-primary"
-                                            value="Enroll for Course Booking">
-                                    </div>
-                                </div>
-                            </form>
-                        </div><!--/form-screen-->
+                        <div class="course-metric">
+                            <div class="metric-heading"> 1.5 L+</div>
+                            <div class="metric-sub-heading"> Learners</div>
+                        </div><!--/course-metric-->
+                    </div><!--/course-metrics-->
+                    <div class="webinar-text">
+                        <p>Know in-depth details in our free Consultancy</p>
+                        <img src="assets/image/icon/hand.webp" alt="Icon">
                     </div>
                 </div>
             </div>
+            <div class="col-12 col-xl-5 mb-5 mb-lg-0">
+                <div class="formAlign">
+                    <?php include('course-slider-form.php'); ?>
+                </div>
+            </div>
+
         </div>
-</section><!--/Slider-->
+    </div>
+</section>
+
 <span id="top"></span>
 <section class="container-fluid slider-hding">
     <div class="custom-container width80">
@@ -238,29 +161,26 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
                 <div class="keywordsBox">
                     <ul class="mt-20">
                         <li data-aos="fade-up" data-aos-duration="500" class="aos-init aos-animate p-0">
-                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">     
-                        career counseling for students</li>
+                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                            career counseling for students
+                        </li>
                         <li data-aos="fade-up" data-aos-duration="500" class="aos-init aos-animate p-0">
-                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">    
-                        importance of career counseling</li>
+                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                            importance of career counseling
+                        </li>
                         <li data-aos="fade-up" data-aos-duration="500" class="aos-init aos-animate p-0">
-                         <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">   
-                        student career guidance</li>
+                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                            student career guidance
+                        </li>
                     </ul>
                 </div>
-
-                <!-- Trigger Button -->
-                <!-- <div class="counselingButn">
-                    <div class="yellowBtn"><a href="#">Get a Free Consultation</a></div>
-                </div> -->
-
 
             </div>
             <!--/col-->
             <div class="col-lg-5">
                 <div class="counselingAbout">
-                    <!-- <img src="assets/image/slider/counseling-for-students.png" class="img-fluid" alt="Counseling"> -->
-                    <img src="assets/image/slider/counseling-for-student.png" loading="lazy" class="img-fluid" alt="Counseling">
+                    <img src="assets/image/slider/counseling-for-student.png" loading="lazy" class="img-fluid"
+                        alt="Counseling">
                 </div>
             </div>
             <!--/col-->

@@ -5,11 +5,11 @@ $canonical_url = "https://www.5trainers.com/digital_marketing_institute_in_mohal
 ?>
 <?php include('header.php'); ?>
 
-<link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
+<!-- <link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
 <link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
 <link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
 <link href="landingpage/assets/css/shorttermcourse.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/coursedetails.css" type="text/css" rel="stylesheet" />
+<link href="landingpage/assets/css/coursedetails.css" type="text/css" rel="stylesheet" /> -->
 
 <!-- Hero Section -->
 <!--Slider-->
@@ -120,7 +120,7 @@ $canonical_url = "https://www.5trainers.com/digital_marketing_institute_in_mohal
     </section><!--/Slider-->
 
     <span id="top mt-5"></span>
-    <section class="container-fluid slider-hding">
+    <section class="slider-hding">
         <div class="custom-container width90">
             <div class="row">
                 <div class="col-lg-12">

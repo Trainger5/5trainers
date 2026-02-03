@@ -4,97 +4,114 @@ $meta_description = "Become a job-ready developer with our Full Stack Developmen
 $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
 ?>
 <?php include('header.php'); ?>
-<link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/shorttermcourse.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/coursedetails.css" type="text/css" rel="stylesheet" />
-<section id="slide-shows" class="setbgs landignsetbg">
-    <div class="custom-container width80">
-        <div class="hero-main">
-            <div class="row">
-                <div class="col-lg-7 ">
-                    <div class="intro-details">
-                        <div class="slide-text">
-                            <p class="topP mb-15">Restricted by opportunities?</p>
-                            <div class="sliderHeading mb-20">
-                                <h2>Full Stack Web Development</h2>
-                                <h2>Job Bootcamp with GenAI</h2>
-                            </div>
-                            <p class="coDetail">Full Stack Development Course with Guaranteed Placement Support <br>
-                                Perfect for Both Freshers & Working Professionals.</p>
-                        </div><!--/slider text-->
 
-                        <div class="course-features mtb-40">
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Expert Career Counseling </div>
-                            </div><!--/features-->
+<style>
+    .banner-box img{
+        width: 500px;
+    }
+    @media only screen and (max-width: 500px) {
+ .banner-box img{
+        width: 300px;
+    }
+}
 
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Live Project Based Training </div>
-                            </div><!--/features-->
+</style>
 
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Personality Develoment</div>
-                            </div><!--/features-->
+<section class="hero-demo">
+    <div class="hero-demo-main width80">
+        <div class="row align-items-center">
 
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Professional Resume Building </div>
-                            </div><!--/features-->
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Mock Interviews & HR Rounds</div>
-                            </div><!--/features-->
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Placement assistance</div>
-                            </div><!--/features-->
+            <div class="col-12 col-xl-7">
+                <div class="intro-details">
+                    <div>
+                        <p class="topP mb-15 text-white">Restricted by opportunities?</p>
+                        <div class="sliderHeading mb-20 text-white">
+                            <h2>Full Stack Web Development</h2>
+                            <h2>Job Bootcamp with GenAI</h2>
+                        </div>
+                        <p class="coDetail">Full Stack Development Course with Guaranteed Placement Support <br>
+                            Perfect for Both Freshers & Working Professionals.</p>
+                    </div><!--/slider text-->
+                    <div class="course-features mtb-40">
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Affordable Fees </div>
+                        </div><!--/features-->
 
-                        </div><!--/course-features-->
-                        <div class="course-metrics mt-15 mb-40">
-                            <div class="course-metric">
-                                <div class="metric-heading"> 95%</div>
-                                <div class="metric-sub-heading"> placement rate </div>
-                            </div><!--/course-metric-->
-                            <div class="divider"></div><!--/divider-->
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Certified Trainers </div>
+                        </div><!--/features-->
 
-                            <div class="course-metric">
-                                <div class="metric-heading"> 1200+</div>
-                                <div class="metric-sub-heading"> Companies Hiring</div>
-                            </div><!--/course-metric-->
-                            <div class="divider"></div><!--/divider-->
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Internship Opportunity </div>
+                        </div><!--/features-->
 
-                            <div class="course-metric">
-                                <div class="metric-heading"> 128%</div>
-                                <div class="metric-sub-heading"> Average hike</div>
-                            </div><!--/course-metric-->
-                            <div class="divider"></div><!--/divider-->
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Placement assistance</div>
+                        </div><!--/features-->
 
-                            <div class="course-metric">
-                                <div class="metric-heading"> 1.5 L+</div>
-                                <div class="metric-sub-heading"> Learners</div>
-                            </div><!--/course-metric-->
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Professional Resume Building </div>
+                        </div><!--/features-->
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Mock Interviews & HR Rounds</div>
+                        </div><!--/features-->
 
-                        </div><!--/course-metrics-->
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Lifetime Access to Study Material</div>
+                        </div><!--/features-->
 
-                        <div class="webinar-text">
-                            <p>Know in-depth details in our free Consultancy</p>
-                        </div><!--/class="webinar-text-->
+                    </div><!--/course-features-->
+                    <div class="course-metrics mt-15 mb-40">
+                        <div class="course-metric">
+                            <div class="metric-heading"> 95%</div>
+                            <div class="metric-sub-heading"> placement rate </div>
+                        </div><!--/course-metric-->
+                        <div class="divider"></div><!--/divider-->
 
-                    </div><!--/intro-details-->
-                </div>
-                <div class="col-lg-5">
-                    <div class="formAlign">
-                        <?php include('course-slider-form.php'); ?>
+                        <div class="course-metric">
+                            <div class="metric-heading"> 1200+</div>
+                            <div class="metric-sub-heading"> Companies Hiring</div>
+                        </div><!--/course-metric-->
+                        <div class="divider"></div><!--/divider-->
+
+                        <div class="course-metric">
+                            <div class="metric-heading"> 128%</div>
+                            <div class="metric-sub-heading"> Average hike</div>
+                        </div><!--/course-metric-->
+                        <div class="divider"></div><!--/divider-->
+
+                        <div class="course-metric">
+                            <div class="metric-heading"> 1.5 L+</div>
+                            <div class="metric-sub-heading"> Learners</div>
+                        </div><!--/course-metric-->
+                    </div><!--/course-metrics-->
+
+                    <div class="webinar-text">
+                        <p>Know in-depth details in our free Consultancy</p>
+                        <img src="assets/image/icon/hand.webp" alt="Icon">
                     </div>
                 </div>
             </div>
+            <div class="col-12 col-lg-6 banner-box hero_right_box d-block d-md-none">
+                  <img src="assets/image/slider/benners.png" loading="lazy" class="bannerimg" alt="image">
+            </div>
+            <div class="col-12 col-xl-5 mb-5 mb-lg-0">
+                <div class="formAlign m-0 mt-md-4">
+                    <?php include('course-slider-form.php'); ?>
+                </div>
+            </div>
+
         </div>
-</section><!--/banner-->
+    </div>
+</section>
+
 <span id="top"></span>
 <section class="container-fluid slider-hding">
     <div class="custom-container width80">
@@ -102,7 +119,6 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
             <div class="col-lg-12">
                 <div class="buildText">
                     <h2>You Are One Step Closer To Building A Thriving Career As <span>Web Developer!</span></h2>
-                    <!-- <a href="contact.php">Register Now</a> -->
                 </div>
             </div><!--col-->
         </div><!--/row-->
@@ -186,9 +202,9 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
                     <h2 data-aos="fade-up" data-aos-delay="100" class="aos-init aos-animate">Why Get <span>Full Stack
                             Development</span> Certification From 5Trainers?</h2>
                 </div>
-                <div class="registerstack"><a href="contact.php" class="theme-btn mt-30 aos-init aos-animate" data-aos="fade-up"
-                        data-aos-delay="200">Register Now<span><img src="assets/image/icon/reply_arrow.png"
-                                alt=""></span></a></div>
+                <div class="registerstack"><a href="contact.php" class="theme-btn mt-30 aos-init aos-animate"
+                        data-aos="fade-up" data-aos-delay="200">Register Now<span><img
+                                src="assets/image/icon/reply_arrow.png" alt=""></span></a></div>
             </div>
         </div>
     </div>
@@ -199,13 +215,14 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
         <div class="row">
             <div class="col-sm-5 col-md-12 col-lg-5 align-self-center">
                 <div data-aos="fade-up" data-aos-duration="800" class="about-us-img-wrap about-img-left">
-                    <img src="assets/image/about/about-2.png" loading="lazy"     alt="About Us Image" class="img-fluid">
+                    <img src="assets/image/about/about-2.png" loading="lazy" alt="About Us Image" class="img-fluid">
                 </div>
             </div>
             <div class="col-sm-7 col-md-12 col-lg-7 align-self-center">
                 <div class="about-us-info-wrap">
                     <div class="section-title-area">
-                        <h6 data-aos="fade-up" data-aos-duration="1000" class="section-subtitle section-subtitle-2 mt-5">
+                        <h6 data-aos="fade-up" data-aos-duration="1000"
+                            class="section-subtitle section-subtitle-2 mt-5">
                             Overview</h6>
                         <h2 data-aos="fade-up" data-aos-duration="1500" class="section-title">Full Stack Development
                             Course Overview</h2>
@@ -266,7 +283,7 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
     <div class="cutom-container width80">
         <div class="row">
             <div class="col-lg-12">
-                <div class="section-title-area text-center centerhding">
+                <div class="section-title-area centerhding">
                     <h6 data-aos="fade-up" data-aos-duration="1000" class="section-subtitle section-subtitle-2">Skills
                     </h6>
                     <h2 data-aos="fade-up" data-aos-duration="1500" class="section-title">Skills Covered</h2>
@@ -359,9 +376,10 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
             <div class="col-lg-12">
                 <div class="section-title-area whitetext centerhding">
                     <h2 data-aos="fade-up" data-aos-duration="1500" class="section-title">Tools Covered</h2>
-                    <p data-aos="fade-up" data-aos-duration="1700" class="aos-init aos-animate text-center">With over
+                    <h5 data-aos="fade-up" data-aos-duration="1700" class="aos-init aos-animate  text-white">
+                        With over
                         10+ years of experience in the Digital and IT Training industry, we have successfully trained
-                        hundreds of students and professionals under our former name 5Trainers.</p>
+                        hundreds of students and professionals under our former name 5Trainers.</h5>
                 </div>
             </div>
         </div><!--/row-->
@@ -528,7 +546,7 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
     </div>
 </section><!--/Project Agile Activity with Student Participation-->
 
-<section class="container-fluid pt pb fresherJob">
+<section class="container-fluid pY-5  pb fresherJob">
     <div class="custom-container width80">
         <div class="row">
             <div class="col-lg-12">
@@ -537,15 +555,14 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
                     </h6>
                     <h2 data-aos="fade-up" data-aos-duration="1500" class="section-title">Fresher Job Assured Program
                         with Stipend</h2>
-                    <p data-aos="fade-up" data-aos-duration="1700" class="aos-init aos-animate text-center">9 Month
-                        Program, Placement Assistance after successful Completing course</p>
+                    <h5 data-aos="fade-up" data-aos-duration="1700" class="aos-init aos-animate  mb-3">9 Month
+                        Program, Placement Assistance after successful Completing course</h5>
                 </div>
             </div>
         </div>
         <div class="row mt-80">
             <div class="col-md-6 col-lg-6">
                 <div class="fresherBox" data-aos="fade-up" data-aos-duration="800">
-                    <!-- <div><img src="assets/image/landing-page/check1.png" alt=""></div> -->
                     <div class="fresherCont">
                         <p>The Job Assured program is a unique training program that combines classroom instruction with
                             real-world experience to prepare students for successful careers in the tech industry.</p>
@@ -554,7 +571,6 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
             </div>
             <div class="col-md-6 col-lg-6">
                 <div class="fresherBox" data-aos="fade-up" data-aos-duration="1000">
-                    <!-- <div><img src="assets/image/landing-page/check1.png" alt=""></div> -->
                     <div class="fresherCont">
                         <p>The program is structured in two phases: a four-month course followed by a nine-month
                             internship.</p>
@@ -563,7 +579,6 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
             </div>
             <div class="col-md-6 col-lg-6">
                 <div class="fresherBox" data-aos="fade-up" data-aos-duration="1200">
-                    <!-- <div><img src="assets/image/landing-page/check1.png" alt=""></div> -->
                     <div class="fresherCont">
                         <p>During the course phase, students receive comprehensive training in a variety of technical
                             and professional skills, including programming,projectmanagement, and communication.</p>
@@ -572,7 +587,6 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
             </div>
             <div class="col-md-6 col-lg-6">
                 <div class="fresherBox" data-aos="fade-up" data-aos-duration="1400">
-                    <!-- <div><img src="assets/image/landing-page/check1.png" alt=""></div> -->
                     <div class="fresherCont">
                         <p>Upon completing the course phase, students are eligible to receive a stipend while they
                             complete a nine-month internship with a top tech company.</p>
@@ -581,7 +595,6 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
             </div>
             <div class="col-md-6 col-lg-6">
                 <div class="fresherBox" data-aos="fade-up" data-aos-duration="1600">
-                    <!-- <div><img src="assets/image/landing-page/check1.png" alt=""></div> -->
                     <div class="fresherCont">
                         <p>Upon completing the course phase, students are eligible to receive a stipend while they
                             complete a nine-month internship with a top tech company.</p>
@@ -590,7 +603,6 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
             </div>
             <div class="col-md-6 col-lg-6">
                 <div class="fresherBox" data-aos="fade-up" data-aos-duration="1800">
-                    <!-- <div><img src="assets/image/landing-page/check1.png" alt=""></div> -->
                     <div class="fresherCont">
                         <p>Upon completing the program, students are well-prepared for careers in the tech industry and
                             are Assured a job offer from the company where they completed their internship.</p>
@@ -612,9 +624,7 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
                     <p data-aos="fade-up" data-aos-duration="1700" class="aos-init">The Most Eminent Visas and
                         Immigration Consultant service provider. Branches in Delhi and overseas state.</p>
                 </div>
-                <!--heading-->
-                <!-- <div class="faqimg"><img src="assets/image/services/faq-bg.png" alt="" class="img-fluid"></div> -->
-                 <div class="faqimg"><img src="assets/image/services/Q-A.png" alt="" class="img-fluid"></div>
+                <div class="faqimg"><img src="assets/image/services/Q-A.png" alt="" class="img-fluid"></div>
             </div>
             <div class="col-sm-7 col-lg-6">
                 <div class="accordion rpt mt-80">
@@ -677,9 +687,7 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
                             128%, with some achieving 425% hikes.
                         </div>
                     </div>
-
                 </div>
-                <!--/accordion-->
             </div>
         </div>
     </div>

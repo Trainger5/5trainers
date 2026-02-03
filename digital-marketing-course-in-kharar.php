@@ -4,110 +4,93 @@ $meta_description = "Join Digital Marketing Training in Kharar. Learn SEO, Googl
 $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.php";
 ?>
 <?php include('header.php'); ?>
-<link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/toogle-slide.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/about.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/shorttermcourse.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/image/favicon32.png" rel="shortcut icon">
-<link href="landingpage/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-<link href="landingpage/assets/css/animate.css" rel="stylesheet">
-<link href="landingpage/assets/css/aos.css" rel="stylesheet">
-<link href="assets/css/faq.css" type="text/css" rel="stylesheet" />
-<link href="landingpage/assets/css/landing-page.css" type="text/css" rel="stylesheet" />
-
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K3N4DF4B" height="0" width="0"
         style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
+<section class="hero-demo">
+    <div class="hero-demo-main width80">
+        <div class="row align-items-center">
 
-<section class="setbgs-landing aos-all mtt" id="transcroller-body">
-    <div class="custom-container width80">
-        <div class="">
-            <div class="row">
-                <div class="col-lg-7">
-                    <div class="intro-details">
-                        <div class="slide-text">
-                            <!--<p class="topP mb-15">Restricted by opportunities?</p>-->
-                            <div class="sliderHeading ">
-                                <!-- <h2>Digital Marketing Courses</h2>
-                            <h2> with AI</h2> -->
-                                <h2 style="font-size: 45px ;"><a href="https://5trainers.com/"
-                                        style="text-decoration: none; color:white;">Digital Marketing </a> Training in
-                                    Kharar</h2>
-                                <h4 class="mt-4 "  style="color: #0a6da5; background-color:white; padding:20px; border-radius:8px">Digital Marketing Training in
-                                    Kharar – Best Institute with 100% Practical Training</h4>
-                            </div>
-                            <!-- <p class="coDetail">Digital Marketing Course with Guaranteed Placement Support <br> Perfect for Both Freshers &  Working Professionals.</p> -->
-                            <p class="coDetail">Become a certified digital marketing expert with Kharar's leading
-                                institute. Master SEO, Google Ads, Social Media Marketing, AI tools, and more through
-                                our completely practical, project-based curriculum designed to launch careers and grow
-                                local businesses.</p>
-                            <!--for Both Freshers &-->
-                            <h4  style="color: #0a6da5; background-color:white; padding:20px; border-radius:8px">Build In-Demand Digital Skills for Today’s Job Market</h4>
-                        </div><!--/slider text-->
+            <div class="col-12 col-xl-7">
+                <div class="intro-details">
+                    <div>
 
-                        <div>
-                            <p class="coDetail text-white">5Trainers provides industry-focused Digital Marketing
-                                Training in Kharar, designed to make you job-ready with skills that local businesses and
-                                national companies actively need. Learn through live projects, real campaign management,
-                                and expert guidance—gaining confidence that goes beyond theory</p>
+                        <div class="sliderHeading ">
+
+                            <h2 class="heading-main">Digital Marketing Training in
+                                Kharar</h2>
+                            <h4 class="mt-4 main-heading">Digital Marketing Training in
+                                Kharar – Best Institute with 100% Practical Training</h4>
                         </div>
 
+                        <p class="coDetail">Become a certified digital marketing expert with Kharar's leading
+                            institute. Master SEO, Google Ads, Social Media Marketing, AI tools, and more through
+                            our completely practical, project-based curriculum designed to launch careers and grow
+                            local businesses.</p>
 
-                        <div class="course-metrics mt-15 mb-40">
-                            <div class="course-metric">
-                                <div class="metric-heading"> 95%</div>
-                                <div class="metric-sub-heading"> placement rate </div>
-                            </div><!--/course-metric-->
-                            <div class="divider"></div><!--/divider-->
+                        <h4 class="main-heading">Build In-Demand Digital Skills for Today’s Job Market</h4>
+                    </div><!--/slider text-->
 
-                            <div class="course-metric">
-                                <div class="metric-heading"> 1200+</div>
-                                <div class="metric-sub-heading"> Companies Hiring</div>
-                            </div><!--/course-metric-->
-                            <div class="divider"></div><!--/divider-->
+                    <div>
+                        <p class="coDetail text-white">5Trainers provides industry-focused Digital Marketing
+                            Training in Kharar, designed to make you job-ready with skills that local businesses and
+                            national companies actively need. Learn through live projects, real campaign management,
+                            and expert guidance—gaining confidence that goes beyond theory</p>
+                    </div>
+                    <div class="course-metrics mt-15 mb-40">
+                        <div class="course-metric">
+                            <div class="metric-heading"> 95%</div>
+                            <div class="metric-sub-heading"> placement rate </div>
+                        </div><!--/course-metric-->
+                        <div class="divider"></div><!--/divider-->
 
-                            <div class="course-metric">
-                                <div class="metric-heading"> 128%</div>
-                                <div class="metric-sub-heading"> Average hike</div>
-                            </div><!--/course-metric-->
-                            <div class="divider"></div><!--/divider-->
+                        <div class="course-metric">
+                            <div class="metric-heading"> 1200+</div>
+                            <div class="metric-sub-heading"> Companies Hiring</div>
+                        </div><!--/course-metric-->
+                        <div class="divider"></div><!--/divider-->
 
-                            <div class="course-metric">
-                                <div class="metric-heading"> 1.5 L+</div>
-                                <div class="metric-sub-heading"> Learners</div>
-                            </div><!--/course-metric-->
-                        </div><!--/course-metrics-->
+                        <div class="course-metric">
+                            <div class="metric-heading"> 128%</div>
+                            <div class="metric-sub-heading"> Average hike</div>
+                        </div><!--/course-metric-->
+                        <div class="divider"></div><!--/divider-->
 
-                        <div class="webinar-text">
-                            <p>Know in-depth details in our free Consultancy</p>
-                            <img src="assets/image/icon/hand.webp" alt="Icon">
-                        </div>
+                        <div class="course-metric">
+                            <div class="metric-heading"> 1.5 L+</div>
+                            <div class="metric-sub-heading"> Learners</div>
+                        </div><!--/course-metric-->
+                    </div><!--/course-metrics-->
+
+                    <div class="webinar-text">
+                        <p>Know in-depth details in our free Consultancy</p>
+                        <img src="assets/image/icon/hand.webp" alt="Icon">
                     </div>
                 </div>
-
-                <div class="col-lg-5">
-                    <div class="formAlign">
-                        <?php include('course-slider-form.php'); ?>
-                    </div>
+            </div>
+            <div class="col-12 col-xl-5 mb-5 mb-lg-0">
+                <div class="formAlign">
+                    <?php include('course-slider-form.php'); ?>
                 </div>
-
             </div>
 
         </div>
-</section><!--/Slider-->
+    </div>
+</section>
+
+
 
 <span id="top mt-5"></span>
-<section class="container-fluid slider-hding">
+<section class="slider-hding">
     <div class="custom-container width80">
         <div class="row">
             <div class="col-lg-12">
                 <div class="buildText">
                     <h2>You Are One Step Closer To Building A Thriving Career As <span>Digital Marketing
                             Expert in Kharar !</span></h2>
-                    <!-- <a href="#" style="text-decoration: none;">Register Now </a> -->
+
                 </div>
             </div><!--col-->
         </div><!--/row-->
@@ -195,19 +178,18 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
             </div>
             <div class="col-12 col-xl-5 offset-xl-1 mt-5 mt-xl-0">
                 <div class="section-title">
-                    <h2 data-aos="fade-up" data-aos-delay="100" class="aos-init aos-animate">Why Get <a
-                            href="https://5trainers.com/" style="text-decoration: none;">Digital
-                            Marketing Course</a> Certification From 5Trainers?</h2>
+                    <h2 data-aos="fade-up" data-aos-delay="100" class="aos-init aos-animate">Why Get Digital
+                        Marketing Course Certification From 5Trainers?</h2>
                 </div>
-                <div class="registerstack"><a href="contact.php" class="theme-btn mt-30 aos-init aos-animate" data-aos="fade-up"
-                        data-aos-delay="200" style="text-decoration: none;">Register Now<span><img
+                <div class="registerstack"><a href="contact.php" class="theme-btn mt-30 aos-init aos-animate"
+                        data-aos="fade-up" data-aos-delay="200" style="text-decoration: none;">Register Now<span><img
                                 src="assets/image/icon/reply_arrow.png" alt=""></span></a></div>
             </div>
         </div>
     </div>
 </section>
 
-<section class="container-fluid about-sec pt pb aos-all" id="transcroller-body">
+<section class=" about-sec pt pb aos-all" id="transcroller-body">
     <div class="no-container width80">
         <div class="row">
             <div class="col-sm-9 col-md-9 col-lg-9 align-self-center">
@@ -253,10 +235,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 
                         <div class="col-lg-6">
                             <div class="servicecol">
-                                <!-- <div class="service-imag">
-                                        <img src="assets/image/course/digital-marketing.png" class="img-fluid"
-                                            alt="Digital Marketing">
-                                    </div> -->
+
                                 <div class="service-info">
                                     <h5>Paid Advertising (PPC)</h5>
                                     <ul>
@@ -284,7 +263,6 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 
             <div class="col-sm-3 col-md-3 col-lg-3 align-self-center">
                 <div data-aos="fade-up" data-aos-duration="800" class="about-us-img-wrap about-img-left">
-                    <!--<img src="assets/image/about/about-2.png" alt="About Us Image" class="img-fluid">-->
                     <img src="assets/image/course/digital-image.jpeg" alt="About Us Image" class="img-fluid">
                 </div>
             </div><!--/col-->
@@ -411,13 +389,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
                             Master on-page, off-page, technical, and local SEO. Learn keyword research, website
                             optimization, and strategies to rank local businesses.
                         </p>
-                        <!-- <ul>
-                                <li>Keyword research</li>
-                                <li>On-page SEO</li>
-                                <li>Off-page SEO</li>
-                                <li>Technical SEO</li>
-                                <li>Local SEO</li>
-                            </ul> -->
+
                     </div>
                 </div>
             </div>
@@ -431,13 +403,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
                             Create engaging brand strategies for Facebook, Instagram, and YouTube. Learn content
                             creation, paid advertising, and community management.
                         </p>
-                        <!-- <ul>
-                                <li>Facebook</li>
-                                <li>Instagram</li>
-                                <li>LinkedIn</li>
-                                <li>YouTube</li>
-                               
-                            </ul> -->
+
                     </div>
                 </div>
             </div>
@@ -451,12 +417,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
                             Set up and manage effective paid campaigns on Google. Learn budgeting, targeting, ad
                             creation, and measuring ROI.
                         </p>
-                        <!-- <ul>
-                                <li>Google Search Ads</li>
-                                <li>Display Ads</li>
-                                <li>YouTube Ads</li>
-                                <li>Social media paid campaigns</li>
-                            </ul> -->
+
                     </div>
                 </div>
             </div>
@@ -470,12 +431,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
                             Learn to create compelling blogs, videos, and social media content that attracts customers
                             and supports business growth.
                         </p>
-                        <!-- <ul>
-                                <li>Blogs</li>
-                                <li>Website content</li>
-                                <li>Social media posts</li>
-                                <li>Basic copywriting for ads and landing pages</li>
-                            </ul> -->
+
                     </div>
                 </div>
             </div>
@@ -489,12 +445,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
                             Build email lists, design effective campaigns, and write engaging copy to nurture customer
                             relationships.
                         </p>
-                        <!-- <ul>
-                                <li>Build email lists</li>
-                                <li>Design email campaigns</li>
-                                <li>Write effective emails</li>
-                                <li>Track open rates and conversions</li>
-                            </ul> -->
+
                     </div>
                 </div>
             </div>
@@ -508,28 +459,14 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
                             Use Google Analytics and modern tools to track performance and make data-driven marketing
                             decisions.
                         </p>
-                        <!-- <ul>
-                                <li>Google Analytics</li>
-                                <li>Google Search Console</li>
-                                <li>AI-powered marketing tools</li>
-                                <li>Reporting & performance analysis</li>
-                            </ul> -->
+
                     </div>
                 </div>
             </div>
         </div>
 
-        <!-- <div class="text-center mt-5">
-                <a href="#" class="btn slider px-4 py-2 text-white">
-                    Enroll Now
-                </a>
-            </div> -->
     </div>
 </section>
-
-
-
-
 
 <section class="contaianer-fluid pt pb howitwork">
     <div class="cutom-container width80">
@@ -537,9 +474,10 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
             <div class="col-lg-12">
                 <div class="section-title-area whitetext centerhding">
                     <h2 data-aos="fade-up" data-aos-duration="1500" class="section-title">Tools Covered</h2>
-                    <p data-aos="fade-up" data-aos-duration="1700" class="aos-init aos-animate text-center">With
+                    <h5 data-aos="fade-up" data-aos-duration="1700" class="aos-init aos-animate text-center text-white">
+                        With
                         over 10+ years of experience in the Digital and IT Training industry, we have successfully
-                        trained hundreds of students and professionals under our former name 5Trainers.</p>
+                        trained hundreds of students and professionals under our former name 5Trainers.</h5>
                 </div>
             </div>
         </div><!--/row-->
@@ -632,13 +570,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
                     <h5 class="fw-semibold">100% Live Project-Based Learning:</h5>
                     <p class="text-muted"> Execute real SEO audits, run Google Ads campaigns, manage social media
                         accounts, and work on live websites during training.</p>
-                    <!-- <ul class="text-muted ps-3">
-            <li>Live websites</li>
-            <li>SEO audits</li>
-            <li>Google Ads campaigns</li>
-            <li>Social media marketing</li>
-            <li>Content creation & analytics</li>
-          </ul> -->
+
                 </div>
             </div>
 
@@ -659,12 +591,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
                     <h5 class="fw-semibold">Complete Career & Freelance Support</h5>
                     <p class="text-muted"> Get dedicated help with resume building, interview preparation, freelancing
                         setup, and job placement assistance.</p>
-                    <!-- <ul class="text-muted ps-3">
-            <li>Job interview preparation</li>
-            <li>Resume & portfolio building</li>
-            <li>Freelancing platform guidance</li>
-            <li>Client handling basics</li>
-          </ul> -->
+
                 </div>
             </div>
 
@@ -906,7 +833,8 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
             </div>
             <div class="col-md-4 col-lg-6">
                 <div class="callbackButton">
-                    <a class="open-modal-btn requestCall" data-aos-duration="800" href="contact.php">Request Callback</a>
+                    <a class="open-modal-btn requestCall" data-aos-duration="800" href="contact.php">Request
+                        Callback</a>
 
                     <div class="modal" id="callbackModal" onclick="outsideClick(event)">
                         <div class="modal-content">
@@ -1009,7 +937,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
                             data-aos-duration="1500">
                         </div>
                         <h3>Career Opportunities After Certification</h3>
-                        <!-- <h5 class="text-white">After completing the course, you can work as:</h5> -->
+
                         <ul class="p p-0">
                             <li Class="text-white">Digital Marketing Executive</li>
                             <li Class="text-white">SEO Specialist</li>
@@ -1050,7 +978,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
 
 
 <!--  -->
-<section class="py-5 slider text-white text-center">
+<section class="py-5 slider text-white text-center" style="background: #0f79be;">
     <div class="container">
 
         <h2 class="fw-bold mb-3 text-white">Start Your Digital Career in Kharar Today</h2>
@@ -1156,7 +1084,7 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
         </div>
 </section>
 <!--  -->
-<section class="py-5 slider text-white">
+<section class="py-5 slider text-white" style="background: #0f79be;">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-12 text-center">
@@ -1175,70 +1103,80 @@ $canonical_url = "https://www.5trainers.com/digital-marketing-course-in-kharar.p
                         campaigns</strong>, so you gain confidence to handle real clients and job roles.
                 </p>
 
-                <!-- <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a> -->
+
             </div>
         </div>
     </div>
 </section>
 <!--  -->
-    <section class="our-location py-5">
-  <div class="no-container width80">
-    <h2 class="text-center mb-4 fw-bold">Our Location</h2>
+<section class="our-location py-5">
+    <div class="no-container width80">
+        <h2 class="text-center mb-4 fw-bold">Our Location</h2>
 
-    <div class="row g-4">
-      <!-- Box -->
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-ropar.php" class="location-box"> Digital Marketing Course In Ropar <span> ›</span></a>
-      </div>
+        <div class="row g-4">
+            <!-- Box -->
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="digital-marketing-course-in-ropar.php" class="location-box"> Digital Marketing Course In Ropar
+                    ›</a>
+            </div>
 
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-airport-road-chandigarh.php" class="location-box">Digital Marketing Course In Airport Road Chandigarh ›</a>
-      </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="digital-marketing-course-in-airport-road-chandigarh.php" class="location-box">Digital Marketing
+                    Course In Airport Road Chandigarh ›</a>
+            </div>
 
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-ambala.php" class="location-box"> Digital Marketing Course In Ambala<span>›</span></a>
-      </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="digital-marketing-course-in-ambala.php" class="location-box"> Digital Marketing Course In
+                    Ambala ›</a>
+            </div>
 
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-faridabad.php" class="location-box">Digital Marketing Course In Faridabad <span>›</span></a>
-      </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="digital-marketing-course-in-faridabad.php" class="location-box">Digital Marketing Course In
+                    Faridabad ›</a>
+            </div>
 
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-ghaziabad.php" class="location-box">Digital Marketing Course In Ghaziabad <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-gurgaon.php" class="location-box">Digital Marketing Course In Gurgaon <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-kharar.php" class="location-box">Digital Marketing Course In Kharar <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-noida.php" class="location-box">Digital Marketing Course In Noida <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-panchkula.php" class="location-box">Digital Marketing Course In Panchkula <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-course-in-zirakpur.php" class="location-box">Digital Marketing Course In Zirakpur <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="Digital-Marketing-Training-in-Chandigarh.php" class="location-box">Digital Marketing Training In Chandigarh <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="digital-marketing-training-in-delhi.php" class="location-box">Digital Marketing Training In Delhi <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="Digital-Marketing-Training-in-HimachalPradesh.php" class="location-box">Digital Marketing Training In Himachal Pradesh <span>›</span></a>
-      </div>
-      <div class="col-lg-3 col-md-4 col-sm-6">
-        <a href="Digital-Marketing-Training-in-Mohali.php" class="location-box">Digital Marketing Training In Mohali <span>›</span></a>
-      </div>
-      
-
-
-      <!-- copy more boxes as needed -->
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="digital-marketing-course-in-ghaziabad.php" class="location-box">Digital Marketing Course In
+                    Ghaziabad ›</a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="digital-marketing-course-in-gurgaon.php" class="location-box">Digital Marketing Course In
+                    Gurgaon ›</a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="digital-marketing-course-in-kharar.php" class="location-box">Digital Marketing Course In Kharar
+                    ›</a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="digital-marketing-course-in-noida.php" class="location-box">Digital Marketing Course In Noida
+                    ›</a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="digital-marketing-course-in-panchkula.php" class="location-box">Digital Marketing Course In
+                    Panchkula ›</a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="digital-marketing-course-in-zirakpur.php" class="location-box">Digital Marketing Course In
+                    Zirakpur ›</a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="Digital-Marketing-Training-in-Chandigarh.php" class="location-box">Digital Marketing Training
+                    In Chandigarh ›</a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="digital-marketing-training-in-delhi.php" class="location-box">Digital Marketing Training In
+                    Delhi ›</a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="Digital-Marketing-Training-in-HimachalPradesh.php" class="location-box">Digital Marketing
+                    Training In Himachal Pradesh ›</a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <a href="Digital-Marketing-Training-in-Mohali.php" class="location-box">Digital Marketing Training In
+                    Mohali ›</a>
+            </div>
+        </div>
     </div>
-  </div>
 </section>
 <!-- faq -->
 <section class="container-fluid pt pb faq">

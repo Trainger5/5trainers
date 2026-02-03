@@ -48,7 +48,7 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 			<div class="col-lg-7 col-md-12 col-sm-12">
 				<div class="section-title-area">
 					<h2 data-aos="fade-up" data-aos-duration="700" class="section-title aos-init aos-animate">Digital
-						Marketing Institute in Mohali</h2>
+						Marketing Institute in Mohali </h2>
 					<p data-aos="fade-up" data-aos-duration="900" class="aos-init aos-animate" style="color:#0f79be;">
 						Where Ambition Meets Digital Excellence</p>
 				</div>
@@ -112,7 +112,7 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 				</div>
 			</div><!--/col-->
 		</div><!--/row-->
-		<div class="row mt-80 misn-visin-row">
+		<div class="row mt-80 misn-visin-row pb-5">
 			<div class="colof col-sm-6 col-lg-4">
 				<div class="features-list">
 					<div class="li">
@@ -306,7 +306,7 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 					<div class="work-item__icon">
 						<span class="icon-research"><img src="assets/image/icon/setup.png" alt=""></span>
 					</div>
-					<h5 class="work-item__title">Learn From Certified Industry Experts</h5>
+					<h5 class="work-item__title_black">Learn From Certified Industry Experts</h5>
 					<div class="d-flex justify-content-center">
 						<p class="work-item__desc text">Our trainers aren’t just instructors, they’re active
 							practitioners.
@@ -331,7 +331,7 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 					<div class="work-item__icon second">
 						<span class="icon-research"><img src="assets/image/icon/tracking-no.png" alt=""></span>
 					</div>
-					<h5 class="work-item__title">Practical, Project-Based Learning</h5>
+					<h5 class="work-item__title_black">Practical, Project-Based Learning</h5>
 					<div class="d-flex justify-content-center">
 						<p class="work-item__desc">Theory alone won’t make you proficient. Our courses include
 							real-world projects like...</p>
@@ -355,7 +355,7 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 					<div class="work-item__icon">
 						<span class="icon-research"><img src="assets/image/icon/target.png" alt="target"></span>
 					</div>
-					<h5 class="work-item__title">Up-To-Date Curriculum</h5>
+					<h5 class="work-item__title_black">Up-To-Date Curriculum</h5>
 					<div class="d-flex justify-content-center">
 						<p class="work-item__desc">The digital landscape evolves rapidly. We update our courses
 							quarterly to reflect...</p>
@@ -376,7 +376,7 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 					<div class="work-item__icon second">
 						<span class="icon-research"><img src="assets/image/icon/Launch.png" alt="Launch"></span>
 					</div>
-					<h5 class="work-item__title">Flexible Learning For All Schedules</h5>
+					<h5 class="work-item__title_black">Flexible Learning For All Schedules</h5>
 					<div class="d-flex justify-content-center">
 						<p class="work-item__desc">Stream pre-recorded video lessons, participate in live Q&A sessions,
 							and download...</p>
@@ -397,7 +397,7 @@ $canonical_url = "https://5trainers.com/about-us.php"; ?>
 					<div class="work-item__icon">
 						<span class="icon-research"><img src="assets/image/icon/Dollar.png" alt="Dollar"></span>
 					</div>
-					<h5 class="work-item__title">Affordable Excellence</h5>
+					<h5 class="work-item__title_black">Affordable Excellence</h5>
 					<div class="d-flex justify-content-center">
 						<p class="work-item__desc">We’re committed to making elite training accessible. Our courses
 							cost....</p>

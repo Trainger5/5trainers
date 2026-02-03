@@ -103,9 +103,9 @@
             <div class="col-lg-12">
                 <div class="section-title-area whitetext centerhding">
                     <h2 data-aos="fade-up" data-aos-duration="500" class="section-title">Tools Covered</h2>
-                    <p data-aos="fade-up" data-aos-duration="800" class="aos-init aos-animate text-center">With over 10+
+                    <h5 data-aos="fade-up" data-aos-duration="800" class="aos-init aos-animate text-center text-white">With over 10+
                         years of experience in the Digital and IT Training industry, we have successfully trained
-                        hundreds of students and professionals under our former name 5Trainers.</p>
+                        hundreds of students and professionals under our former name 5Trainers.</h5>
                 </div>
             </div>
         </div><!--/row-->

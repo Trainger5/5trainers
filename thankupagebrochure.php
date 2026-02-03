@@ -1,21 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Thank You</title>
+<?php
+$meta_title = "Thank You";
+$meta_description = "";
+$canonical_url = "https://www.5trainers.com/thanku-page.php";
+?>
+<?php include('header.php'); ?>
 
   <style>
     body {
       margin: 0;
       padding: 0;
       font-family: "Segoe UI", sans-serif;
-      display: flex;
+      /* display: flex; */
       align-items: center;
       justify-content: center;
       height: 100vh;
-      background: #2D849E;
+      background: #0f79be;
+      text-align: -webkit-center;
+      
     }
 
     .thankyou-box {
@@ -26,11 +27,12 @@
       text-align: center;
       max-width: 450px;
       animation: fadeIn 1s ease-in-out;
+  
     }
 
     .thankyou-box h1 {
       font-size: 2.5rem;
-      color: #2D849E;
+      color: #0f79be;
       margin-bottom: 15px;
     }
 
@@ -44,7 +46,7 @@
       width: 80px;
       height: 80px;
       border-radius: 50%;
-      border: 5px solid #2D849E;
+      border: 5px solid #0f79be;
       position: relative;
       margin: 0 auto 20px;
     }
@@ -56,8 +58,8 @@
       top: 14px;
       width: 20px;
       height: 40px;
-      border-right: 5px solid #2D849E;
-      border-bottom: 5px solid #2D849E;
+      border-right: 5px solid #0f79be;
+      border-bottom: 5px solid #0f79be;
       transform: rotate(45deg);
     }
 
@@ -83,7 +85,7 @@
     <p>Your brochure will download automatically.</p>
     <a href="index.php" style="
       display:inline-block; margin-top:20px; padding:12px 25px; 
-      background:#2D849E; color:white; border-radius:30px; 
+      background:#0f79be; color:white; border-radius:30px; 
       text-decoration:none;">Back to Home</a>
   </div>
 
@@ -101,6 +103,9 @@
     </script>
   <?php endif; ?>
 
+
+<?php include('footer.php'); ?>
 </body>
+
 
 </html>

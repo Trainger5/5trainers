@@ -1,7 +1,7 @@
 <?php
-$meta_title = "Digital Marketing Training in Chandigarh | Best Institute 100% Placement";
-$meta_description = "Join Digital Marketing Training in Chandigarh. Best Institute with 100% Placement support. Learn SEO, Google Ads, Social Media & AI tools. Enroll now!";
-$canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandigarh.php";
+$meta_title = "Digital Marketing Training in Ropar | Best Institute with Practical Training & Placement Support";
+$meta_description = "Join the best Digital Marketing Course in Ropar. Learn SEO, Google Ads, SMM, AI Tools with live projects. Get placement support for local & remote jobs. Enroll now!";
+$canonical_url = "https://www.5trainers.com/digital-marketing-course-in-ropar.php";
 ?>
 <?php include('header.php'); ?>
 <!-- Google Tag Manager -->
@@ -15,97 +15,70 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
     })(window, document, 'script', 'dataLayer', 'GTM-K3N4DF4B');</script>
 <!-- End Google Tag Manager -->
 
+
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K3N4DF4B" height="0" width="0"
         style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
+
 <section class="hero-demo">
     <div class="hero-demo-main width80">
         <div class="row align-items-center">
-
+            
             <div class="col-12 col-xl-7">
                 <div class="intro-details">
-                    <div>
+                        <div>
+                            <div class="sliderHeading mb-20">
+                                <h2 class="heading-main">Digital Marketing Training in
+                                    Ropar</h2>
+                                <h4 class="mt-4 main-heading">Digital Marketing Training in
+                                    Ropar – Best Institute with Practical Career-Focused Training</h4>
+                            </div>
+                            <p class="coDetail">Become a certified digital marketing professional with Ropar’s
+                                leading practical training institute. Master SEO, Google Ads, Social Media
+                                Marketing, and modern digital tools through our hands-on, project-based curriculum
+                                designed to launch successful careers or boost local businesses.</p>
 
-                        <div class="sliderHeading mb-20">
-
-                            <h2 class="heading-main">Digital Marketing Training in Chandigarh</h2>
-                            <h4 class="mt-3 "
-                                style="color: #0a6da5; background-color:white; padding:20px; border-radius:8px">Digital
-                                Marketing Training in Chandigarh – Best Institute 100% Placement</h4>
+                            <h4 class="main-heading">Build Industry-Ready Digital Skills for Modern Opportunities</h4>
+                        </div><!--/slider text-->
+                        <div>
+                            <p class="coDetail text-white">5Trainers offers professionally structured Digital
+                                Marketing Training in Ropar, designed to make you job-ready with practical skills
+                                that local businesses, nearby industrial units, and remote employers actively seek.
+                                Learn through live campaigns, real projects, and expert mentorship—gaining the
+                                confidence and portfolio needed to thrive in today’s digital economy.</p>
                         </div>
+                        <div class="course-metrics mt-15 mb-40">
+                            <div class="course-metric">
+                                <div class="metric-heading"> 95%</div>
+                                <div class="metric-sub-heading"> placement rate </div>
+                            </div><!--/course-metric-->
+                            <div class="divider"></div><!--/divider-->
 
-                        <p class="coDetail">Join the best digital marketing institute in Chandigarh and learn SEO,
-                            Google Ads, Social Media & AI-powered tools with practical training and real projects.</p>
+                            <div class="course-metric">
+                                <div class="metric-heading"> 1200+</div>
+                                <div class="metric-sub-heading"> Companies Hiring</div>
+                            </div><!--/course-metric-->
+                            <div class="divider"></div><!--/divider-->
 
-                    </div><!--/slider text-->
-                    <div class="course-features mtb-40">
-                        <div class="features">
-                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                            <div class="typo-pills"> Affordable Fees </div>
-                        </div><!--/features-->
+                            <div class="course-metric">
+                                <div class="metric-heading"> 128%</div>
+                                <div class="metric-sub-heading"> Average hike</div>
+                            </div><!--/course-metric-->
+                            <div class="divider"></div><!--/divider-->
 
-                        <div class="features">
-                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                            <div class="typo-pills"> Certified Trainers </div>
-                        </div><!--/features-->
+                            <div class="course-metric">
+                                <div class="metric-heading"> 1.5 L+</div>
+                                <div class="metric-sub-heading"> Learners</div>
+                            </div><!--/course-metric-->
+                        </div><!--/course-metrics-->
 
-                        <div class="features">
-                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                            <div class="typo-pills"> Internship Opportunity </div>
-                        </div><!--/features-->
-
-                        <div class="features">
-                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                            <div class="typo-pills"> Placement assistance</div>
-                        </div><!--/features-->
-
-                        <div class="features">
-                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                            <div class="typo-pills"> Professional Resume Building </div>
-                        </div><!--/features-->
-                        <div class="features">
-                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                            <div class="typo-pills"> Mock Interviews & HR Rounds</div>
-                        </div><!--/features-->
-
-                        <div class="features">
-                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                            <div class="typo-pills"> Lifetime Access to Study Material</div>
-                        </div><!--/features-->
-
-                    </div><!--/course-features-->
-                    <div class="course-metrics mt-15 mb-40">
-                        <div class="course-metric">
-                            <div class="metric-heading"> 95%</div>
-                            <div class="metric-sub-heading"> placement rate </div>
-                        </div><!--/course-metric-->
-                        <div class="divider"></div><!--/divider-->
-
-                        <div class="course-metric">
-                            <div class="metric-heading"> 1200+</div>
-                            <div class="metric-sub-heading"> Companies Hiring</div>
-                        </div><!--/course-metric-->
-                        <div class="divider"></div><!--/divider-->
-
-                        <div class="course-metric">
-                            <div class="metric-heading"> 128%</div>
-                            <div class="metric-sub-heading"> Average hike</div>
-                        </div><!--/course-metric-->
-                        <div class="divider"></div><!--/divider-->
-
-                        <div class="course-metric">
-                            <div class="metric-heading"> 1.5 L+</div>
-                            <div class="metric-sub-heading"> Learners</div>
-                        </div><!--/course-metric-->
-                    </div><!--/course-metrics-->
-
-                    <div class="webinar-text">
-                        <p>Know in-depth details in our free Consultancy</p>
-                        <img src="assets/image/icon/hand.webp" alt="Icon">
+                        <div class="webinar-text">
+                            <p>Know in-depth details in our free Consultancy</p>
+                            <img src="assets/image/icon/hand.webp" alt="Icon">
+                        </div>
                     </div>
-                </div>
             </div>
             <div class="col-12 col-xl-5 mb-5 mb-lg-0">
                 <div class="formAlign">
@@ -118,6 +91,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
 </section>
 
 
+
 <span id="top mt-5"></span>
 <section class="slider-hding">
     <div class="custom-container width80">
@@ -125,7 +99,8 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
             <div class="col-lg-12">
                 <div class="buildText">
                     <h2>You Are One Step Closer To Building A Thriving Career As <span>Digital Marketing
-                            Expert in Chandigarh !</span></h2>
+                            Expert in Ropar !</span></h2>
+                    <a href="contact.php" style="text-decoration: none;">Register Now </a>
                 </div>
             </div><!--col-->
         </div><!--/row-->
@@ -213,11 +188,11 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
             </div>
             <div class="col-12 col-xl-5 offset-xl-1 mt-5 mt-xl-0">
                 <div class="section-title">
-                    <h2 data-aos="fade-up" data-aos-delay="100" class="aos-init aos-animate">Why Get <span>Digital
-                            Marketing Course</span> Certification From 5Trainers?</h2>
+                    <h2 data-aos="fade-up" data-aos-delay="100" class="aos-init aos-animate">Why Get Digital
+                        Marketing Course</a> Certification From 5Trainers?</h2>
                 </div>
-                <div class="registerstack"><a href="contact.php" class="theme-btn mt-30 aos-init aos-animate"
-                        data-aos="fade-up" data-aos-delay="200" style="text-decoration: none;">Register Now<span><img
+                <div class="registerstack"><a href="#" class="theme-btn mt-30 aos-init aos-animate" data-aos="fade-up"
+                        data-aos-delay="200" style="text-decoration: none;">Register Now<span><img
                                 src="assets/image/icon/reply_arrow.png" alt=""></span></a></div>
             </div>
         </div>
@@ -232,7 +207,9 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
                     <div class="section-title-area">
                         <h6 data-aos="fade-up" data-aos-duration="1000" class="section-subtitle section-subtitle-2">
                             Overview</h6>
-                        <h2 data-aos="fade-up" data-aos-duration="1500" class="section-title">Digital Marketing
+                        <h2 data-aos="fade-up" data-aos-duration="1500" class="section-title"><a
+                                href="https://5trainers.com/" style="text-decoration: none; color:black;">Digital
+                                Marketing</a>
                             Course Overview</h2>
                         <p data-aos="fade-up" data-aos-duration="1700"></p>
                     </div>
@@ -248,7 +225,8 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
                                     <h5>Digital Marketing Fundamentals</h5>
                                     <ul>
                                         <li><img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
-                                            Introduction to Digital Marketing & Career Scope</li>
+                                            Introduction to Digital Marketing & Career
+                                            Scope</li>
                                         <li><img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
                                             Website Planning & Structure</li>
                                         <li><img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
@@ -268,10 +246,10 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
 
                         <div class="col-lg-6">
                             <div class="servicecol">
-                                <div class="service-imag">
-                                    <img src="assets/image/course/digital-marketing.png" class="img-fluid"
-                                        alt="Digital Marketing">
-                                </div>
+                                <!-- <div class="service-imag">
+                                        <img src="assets/image/course/digital-marketing.png" class="img-fluid"
+                                            alt="Digital Marketing">
+                                    </div> -->
                                 <div class="service-info">
                                     <h5>Paid Advertising (PPC)</h5>
                                     <ul>
@@ -292,7 +270,6 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
                                 </div>
                             </div><!--/courseModules-->
                         </div><!--/col-->
-
                     </div><!--/row-->
                 </div>
             </div><!--/col-->
@@ -305,6 +282,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
         </div>
     </div>
 </section><!--/about -->
+
 <section class="contaianer-fluid pt pb skill-cover">
     <div class="cutom-container width80">
         <div class="row">
@@ -408,87 +386,94 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
 <section class="py-5 bg-light">
     <div class="cutom-container width80">
         <div class="text-center mb-5">
-            <h2 class="fw-bold">Digital Marketing Course in Chandigarh – What You Will Learn</h2>
+            <h2 class="fw-bold">Digital Marketing Course in Ropar – Comprehensive Curriculum</h2>
             <p class="text-muted text-center">
-                Our course covers all major digital marketing skills required in today’s market:
+                Our complete program covers all essential areas of modern digital marketing:
             </p>
         </div>
 
         <div class="row ">
             <!-- SEO -->
             <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm">
+                <div class="card h-100 shadow-sm Digital-card">
                     <div class="card-body">
-                        <h5 class="card-title">SEO Training in Chandigarh</h5>
+                        <h5 class="card-title">SEO Training in Ropar:</h5>
                         <p class="card-text">
-                            Learn how to rank websites on Google and drive organic traffic. Covers keyword research,
-                            on-page SEO, off-page SEO, technical SEO, and local SEO with live projects.
+                            Master on-page, off-page, technical, and local SEO. Learn keyword research, website
+                            optimization, and strategies to rank businesses locally and nationally.
                         </p>
+
                     </div>
                 </div>
             </div>
 
             <!-- SMM -->
             <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm">
+                <div class="card h-100 shadow-sm digital-card-new">
                     <div class="card-body">
-                        <h5 class="card-title">SMM Training in Chandigarh (Social Media Marketing) </h5>
+                        <h5 class="card-title">Social Media Marketing (SMM) Training in Ropar: </h5>
                         <p class="card-text">
-                            Grow brands on Facebook, Instagram, LinkedIn, and YouTube. Learn content creation, paid
-                            campaigns, follower growth, and performance analysis.
+                            Plan and execute complete brand strategies across Facebook, Instagram, LinkedIn, and
+                            YouTube. Learn content creation, paid advertising, community management, and performance
+                            analytics.
                         </p>
+
                     </div>
                 </div>
             </div>
 
             <!-- PPC -->
             <div class="col-md-6 col-lg-4">
-                <div class="card h-100 shadow-sm">
+                <div class="card h-100 shadow-sm Digital-card">
                     <div class="card-body">
-                        <h5 class="card-title">PPC Training in Chandigarh (Google Ads & Paid Marketing)</h5>
+                        <h5 class="card-title">PPC & Google Ads Training in Ropar:</h5>
                         <p class="card-text">
-                            Create and manage paid ad campaigns on Google and social platforms. Learn targeting, ad
-                            creation, budgeting, conversion tracking, and optimization.
+                            Create, manage, and optimize high-ROI paid campaigns on Google Search and Display networks.
+                            Master budgeting, targeting strategies, ad creation, and conversion tracking.
                         </p>
+
                     </div>
                 </div>
             </div>
 
             <!-- Content Marketing -->
             <div class="col-md-6 col-lg-4 mt-4">
-                <div class="card h-100 shadow-sm">
+                <div class="card h-100 shadow-sm digital-card-new">
                     <div class="card-body">
-                        <h5 class="card-title">Content Marketing Training in Chandigarh</h5>
+                        <h5 class="card-title">Content Marketing Training in Ropar:</h5>
                         <p class="card-text">
-                            Create content that attracts and converts—blogs, website content, social posts, and basic
-                            copywriting aligned with SEO goals.
+                            Develop compelling content strategies that drive traffic and engagement. Learn blog writing,
+                            video content creation, SEO-optimized copy, and content calendar management.
                         </p>
+
                     </div>
                 </div>
             </div>
 
             <!-- Email Marketing -->
             <div class="col-md-6 col-lg-4 mt-4">
-                <div class="card h-100 shadow-sm">
+                <div class="card h-100 shadow-sm Digital-card">
                     <div class="card-body">
-                        <h5 class="card-title">Email Marketing Training in Chandigarh</h5>
+                        <h5 class="card-title">Email Marketing Training in Ropar:</h5>
                         <p class="card-text">
-                            Understand Google Analytics, Search Console, and modern AI-powered marketing tools to track
-                            users and improve results.
+                            Build effective email marketing campaigns, design engaging newsletters, write
+                            high-converting copy, and analyze performance using industry tools.
                         </p>
+
                     </div>
                 </div>
             </div>
 
             <!-- Analytics & AI -->
             <div class="col-md-6 col-lg-4 mt-4">
-                <div class="card h-100 shadow-sm">
+                <div class="card h-100 shadow-sm digital-card-new">
                     <div class="card-body">
-                        <h5 class="card-title">Analytics & AI Tools Training in Chandigarh</h5>
+                        <h5 class="card-title">Analytics & AI Tools Training in Ropar:</h5>
                         <p class="card-text">
-                            Understand Google Analytics, Search Console, and modern AI-powered marketing tools to
-                            track users and improve results.
+                            Use Google Analytics 4 and Search Console to track performance and leverage AI tools for
+                            content creation, ad optimization, and data-driven decisions.
                         </p>
+
                     </div>
                 </div>
             </div>
@@ -496,19 +481,16 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
     </div>
 </section>
 
-
-
-
-
 <section class="contaianer-fluid pt pb howitwork">
     <div class="cutom-container width80">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title-area whitetext centerhding">
                     <h2 data-aos="fade-up" data-aos-duration="1500" class="section-title">Tools Covered</h2>
-                    <p data-aos="fade-up" data-aos-duration="1700" class="aos-init aos-animate text-center">With
+                    <h5 data-aos="fade-up" data-aos-duration="1700" class="aos-init aos-animate text-center text-white">
+                        With
                         over 10+ years of experience in the Digital and IT Training industry, we have successfully
-                        trained hundreds of students and professionals under our former name 5Trainers.</p>
+                        trained hundreds of students and professionals under our former name 5Trainers.</h5>
                 </div>
             </div>
         </div><!--/row-->
@@ -573,7 +555,99 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
     </div><!--/container-->
 </section><!--/Tool Covered-->
 
+<!--  -->
+<section class="py-5 bg-light">
+    <div class="cutom-container width80">
+        <div class="text-center mb-5">
+            <h2 class="fw-bold">Why Choose 5Trainers for Digital Marketing Training in Ropar?</h2>
+            <p class="text-muted mt-2 text-center">
+                We provide a supportive, practical, and locally relevant learning experience.
+            </p>
+        </div>
 
+        <section class="container-fluid ">
+            <div class="no-container ">
+                <div class="row">
+                    <div class="col-lg-4 col-md-6">
+                        <div data-aos="fade-up" data-aos-duration="800"
+                            class="aos-init aos-animate chooseContentBox cyangreenbg">
+                            <h5>Learn from Certified Industry Experts</h5>
+                            <p class="text-center"> Our trainers are active digital marketers who bring real campaign
+                                experience and current industry insights to the classroom.</p>
+                        </div>
+                    </div><!--/col-->
+                    <div class="col-lg-4 col-md-6">
+                        <div data-aos="fade-up" data-aos-duration="1000"
+                            class="aos-init aos-animate chooseContentBox whitebg">
+                            <h5>100% Live Project-Based Training:</h5>
+                            <p class="text-center">Execute real SEO audits, manage Google Ads campaigns, run social
+                                media strategies, and create content portfolios during your training.</p>
+                        </div>
+                    </div><!--/col-->
+                    <div class="col-lg-4 col-md-6">
+                        <div data-aos="fade-up" data-aos-duration="1200"
+                            class="aos-init aos-animate chooseContentBox cyangreenbg">
+                            <h5>Beginner to Professional Learning Path:</h5>
+                            <p class="text-center"> No prior technical knowledge required. We start with fundamentals
+                                and build your skills step-by-step in a supportive environment.</p>
+                        </div>
+                    </div><!--/col-->
+                    <div class="col-lg-4 col-md-6">
+                        <div data-aos="fade-up" data-aos-duration="1400"
+                            class="aos-init aos-animate chooseContentBox whitebg">
+                            <h5>Complete Career & Freelance Support:</h5>
+                            <p class="text-center">Receive dedicated guidance for resume building, interview
+                                preparation, freelancing setup, and job placement assistance for local and remote
+                                opportunities.</p>
+                        </div>
+                    </div><!--/col-->
+                    <div class="col-lg-4 col-md-6">
+                        <div data-aos="fade-up" data-aos-duration="1600"
+                            class="aos-init aos-animate chooseContentBox cyangreenbg">
+                            <h5>Training Based on Real Market Needs:</h5>
+                            <p class="text-center">Curriculum is tailored to support local businesses, service
+                                industries, e-commerce, and remote job requirements relevant to Ropar and surrounding
+                                regions.</p>
+                        </div>
+                    </div><!--/col-->
+                    <div class="col-lg-4 col-md-6">
+                        <div data-aos="fade-up" data-aos-duration="1800"
+                            class="aos-init aos-animate chooseContentBox whitebg">
+                            <h5>Hands-On Experience with Essential Tools:</h5>
+                            <p class="text-center">Gain proficiency in Google Analytics, Google Ads, Meta Business
+                                Suite, Canva, SEO tools, and AI-powered marketing platforms.</p>
+                        </div>
+                    </div><!--/col-->
+                    <div class="col-lg-4 col-md-6">
+                        <div data-aos="fade-up" data-aos-duration="1800"
+                            class="aos-init aos-animate chooseContentBox cyangreenbg">
+                            <h5>Simple, Jargon-Free Learning Approach:</h5>
+                            <p class="text-center">We break down complex digital concepts into easy-to-understand,
+                                actionable steps perfect for beginners.</p>
+                        </div>
+                    </div><!--/col-->
+                    <div class="col-lg-4 col-md-6">
+                        <div data-aos="fade-up" data-aos-duration="1800"
+                            class="aos-init aos-animate chooseContentBox whitebg">
+                            <h5>Personalized Attention in Small Batches:</h5>
+                            <p class="text-center"> Our limited class sizes ensure individual mentorship, regular
+                                doubt-clearing sessions, and direct interaction with trainers.</p>
+                        </div>
+                    </div><!--/col-->
+                    <div class="col-lg-4 col-md-6">
+                        <div data-aos="fade-up" data-aos-duration="1800"
+                            class="aos-init aos-animate chooseContentBox cyangreenbg">
+                            <h5>Honest Local & Remote Career Guidance:</h5>
+                            <p class="text-center">Get transparent advice about Ropar’s job market, remote work
+                                opportunities, freelancing potential, and realistic growth pathways.</p>
+                        </div>
+                    </div><!--/col-->
+                </div><!--/row-->
+            </div>
+        </section><!--/Why Choose Us-->
+    </div>
+</section>
+<!--  -->
 
 <section class="contaianer-fluid pt pb studentParticipation" style="display:none;">
     <div class="cutom-container width80">
@@ -588,7 +662,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
                 </div>
             </div>
         </div><!--/row-->
-        <div class="row mt-80 mt-5">
+        <div class="row mt-80">
             <div class="col-lg-6">
                 <div class="projectVideo">
                     <div class="wrap">
@@ -860,18 +934,19 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
                         <div class="icon aos-init aos-animate" data-aos="flip-left" data-aos-easing="ease-out-cubic"
                             data-aos-duration="1500">
                         </div>
-                        <h3>Career Opportunities After Digital Marketing Course</h3>
+                        <h3>Career Opportunities After Certification</h3>
                         <!-- <h5 class="text-white">After completing the course, you can work as:</h5> -->
                         <ul class="p" style="padding: 0px;">
-                            <li class="text-white">Digital Marketing Executive</li>
-                            <li class="text-white">SEO Specialist</li>
-                            <li class="text-white">Social Media Manager</li>
-                            <li class="text-white">PPC / Google Ads Expert</li>
-                            <li class="text-white">Content Marketer</li>
-                            <li class="text-white">Freelancer or Consultant</li>
+                            <li class="text-white">Digital Marketing Executive / Specialist</li>
+                            <li class="text-white">SEO Specialist / Analyst</li>
+                            <li class="text-white">Social Media Marketing Manager</li>
+                            <li class="text-white">PPC / Google Ads Specialist</li>
+                            <li class="text-white">Content Marketing Manager</li>
+                            <li class="text-white">Digital Marketing Consultant / Freelancer</li>
                         </ul>
-                        <p class="text-white">Digital marketing skills are in high demand across Chandigarh, IT
-                            companies, startups, agencies, and businesses.</p>
+                        <p class="text-white">Ropar’s growing educational and industrial ecosystem, combined with access
+                            to remote positions nationwide, offers diverse opportunities for skilled digital marketers.
+                        </p>
                     </div>
                 </div>
             </div><!--/col-->
@@ -882,19 +957,23 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
                             data-aos-duration="1500">
                             <!-- <img src="assets/image/icon/mission-about.png" class="img-fluid" alt="Icon"> -->
                         </div>
-                        <h3>Who Should Join This Digital Marketing Training in Chandigarh?</h3>
-                        <ul class="p mt-4" style="padding: 0px;">
-                            <li class="text-white">Students & fresh graduates</li>
-                            <li class="text-white">Job seekers & career switchers</li>
-                            <li class="text-white">Business owners & entrepreneurs</li>
-                            <li class="text-white">Freelancers & content creators </li>
-                            <li class="text-white">Working professionals looking to upgrade skills</li>
+                        <h3>Who Should Join This Digital Marketing Training in Ropar?</h3>
+                        <ul class="p " style="padding: 0px;">
+                            <li class="text-white">Students and recent graduates looking to build a strong digital
+                                career</li>
+                            <li class="text-white">Job seekers and professionals aiming to transition into high-growth
+                                digital roles </li>
+                            <li class="text-white">Local business owners, entrepreneurs, and industrial unit operators
+                                wanting to grow online presence</li>
+                            <li class="text-white">Freelancers, bloggers, and content creators seeking to expand their
+                                service offerings </li>
+                            <li class="text-white">Working professionals looking to upgrade their digital expertise for
+                                better opportunities</li>
                         </ul>
-                        <p class="text-white">No technical degree required—just the willingness to learn.</p>
+                        <p class="text-white">No degree or experience required—just the willingness to learn.</p>
                     </div>
                 </div>
             </div><!--/col-->
-
         </div><!--/mission vission-->
     </div><!--/Container-->
 </section>
@@ -902,21 +981,21 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
 
 
 <!--  -->
-<section class="py-5 slider text-white text-center">
+<section class="py-5 slider text-white text-center" style="background: #0f79be;">
     <div class="container">
 
-        <h2 class="fw-bold mb-3 text-white">Start Your Digital Marketing Journey in Chandigarh Today</h2>
+        <h2 class="fw-bold mb-3 text-white">Start Your Digital Career in Ropar Today</h2>
 
         <p class="lead mb-4 text-white text-center">
-            Join 5Trainers – the best digital marketing institute in Chandigarh and gain skills that help you grow
-            professionally and financially.
+            Join 5Trainers—Ropar's trusted digital marketing institute—and gain the practical skills and confidence to
+            excel in the digital world.
         </p>
         <p class="lead mb-4 text-white text-center">
-            Contact us today to enroll in our Digital Marketing Training in Chandigarh and take the first step toward a
-            successful digital career.
+            Contact us now to book a free demo session or enroll in our upcoming batch of Digital Marketing Training in
+            Ropar.
         </p>
 
-        <a href="contact.php" class="btn  btn-lg fw-semibold px-4" style="background-color: #ff8503;">
+        <a href="#" class="btn btn-lg fw-semibold px-4" style="background-color: #ff8503; border-radius: 3px;">
             Enroll Now
         </a>
 
@@ -1010,24 +1089,26 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
         </div>
 </section>
 <!--  -->
-<section class="py-5 slider text-white">
-    <div class="container">
+<section class="py-5 slider text-white" style="background: #0f79be;">
+    <div class="container width80">
         <div class="row align-items-center">
             <div class="col-lg-12 text-center">
                 <h1 class="fw-bold mb-3">
-                    Learn Skills That Grow Careers & Businesses
+                    Learn Digital
+                    Marketing Skills That Build Careers & Businesses
                 </h1>
                 <p class="lead mb-3 text-white text-center">
+                    At 5Trainers, our <strong>Digital Marketing Course in Ropar</strong> focuses on hands-on
+                    learning and industry-relevant skills that companies actually look for.
 
 
-                    5Trainers offers professional <strong>Digital Marketing Training in Chandigarh</strong> designed to
-                    help you learn real-world skills that companies actually need today.
                 </p>
                 <p class="mb-4 text-white text-center">
-                    Our digital marketing course in Chandigarh focuses on practical learning, live projects, and
-                    step-by-step guidance so you can confidently work on real campaigns—not just theory.
+                    We don’t just teach concepts—we help you <strong>work on live projects, real websites, and
+                        active ad campaigns</strong>, so you gain confidence to handle real clients and job roles.
                 </p>
 
+                <!-- <a href="#" class="btn btn-outline-light btn-lg px-4">Free Demo Class</a> -->
             </div>
         </div>
     </div>
@@ -1041,7 +1122,7 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
             <!-- Box -->
             <div class="col-lg-3 col-md-4 col-sm-6">
                 <a href="digital-marketing-course-in-ropar.php" class="location-box"> Digital Marketing Course In Ropar
-                    <span> ›</span></a>
+                    ›</a>
             </div>
 
             <div class="col-lg-3 col-md-4 col-sm-6">
@@ -1051,66 +1132,62 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
 
             <div class="col-lg-3 col-md-4 col-sm-6">
                 <a href="digital-marketing-course-in-ambala.php" class="location-box"> Digital Marketing Course In
-                    Ambala<span>›</span></a>
+                    Ambala ›</a>
             </div>
 
             <div class="col-lg-3 col-md-4 col-sm-6">
                 <a href="digital-marketing-course-in-faridabad.php" class="location-box">Digital Marketing Course In
-                    Faridabad <span>›</span></a>
+                    Faridabad ›</a>
             </div>
 
             <div class="col-lg-3 col-md-4 col-sm-6">
                 <a href="digital-marketing-course-in-ghaziabad.php" class="location-box">Digital Marketing Course In
-                    Ghaziabad <span>›</span></a>
+                    Ghaziabad ›</a>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6">
                 <a href="digital-marketing-course-in-gurgaon.php" class="location-box">Digital Marketing Course In
-                    Gurgaon <span>›</span></a>
+                    Gurgaon ›</a>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6">
                 <a href="digital-marketing-course-in-kharar.php" class="location-box">Digital Marketing Course In Kharar
-                    <span>›</span></a>
+                    ›</a>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6">
                 <a href="digital-marketing-course-in-noida.php" class="location-box">Digital Marketing Course In Noida
-                    <span>›</span></a>
+                    ›</a>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6">
                 <a href="digital-marketing-course-in-panchkula.php" class="location-box">Digital Marketing Course In
-                    Panchkula <span>›</span></a>
+                    Panchkula ›</a>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6">
                 <a href="digital-marketing-course-in-zirakpur.php" class="location-box">Digital Marketing Course In
-                    Zirakpur <span>›</span></a>
+                    Zirakpur ›</a>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6">
                 <a href="Digital-Marketing-Training-in-Chandigarh.php" class="location-box">Digital Marketing Training
-                    In Chandigarh <span>›</span></a>
+                    In Chandigarh ›</a>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6">
                 <a href="digital-marketing-training-in-delhi.php" class="location-box">Digital Marketing Training In
-                    Delhi <span>›</span></a>
+                    Delhi ›</a>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6">
                 <a href="Digital-Marketing-Training-in-HimachalPradesh.php" class="location-box">Digital Marketing
-                    Training In Himachal Pradesh <span>›</span></a>
+                    Training In Himachal Pradesh ›</a>
             </div>
             <div class="col-lg-3 col-md-4 col-sm-6">
                 <a href="Digital-Marketing-Training-in-Mohali.php" class="location-box">Digital Marketing Training In
-                    Mohali <span>›</span></a>
+                    Mohali ›</a>
             </div>
-
-
-
-            <!-- copy more boxes as needed -->
         </div>
     </div>
 </section>
+
 <!-- faq -->
 <section class="container-fluid pt pb faq">
     <div class="custom-container width80">
-        <span class="section-subtitle section-subtitle-2 text-center">Frequently Asked Questions (FAQs) –
-            Chandigarh</span>
+        <span class="section-subtitle section-subtitle-2 text-center">Frequently Asked Questions (FAQs) – Ropar</span>
         <div class="row">
 
 
@@ -1119,62 +1196,68 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
                     <div class="box active">
                         <div class="label">1. What is digital marketing?</div>
                         <div class="content">
-                            Digital marketing is the promotion of products or services using online platforms like
-                            Google, social media, websites, email, and paid ads.
+                            Digital marketing involves promoting products, services, or brands using online platforms
+                            like Google, social media, email, and websites to connect with customers and grow business.
                         </div>
                     </div>
                     <div class="box">
-                        <div class="label">2. Who can join the digital marketing course in Chandigarh?</div>
+                        <div class="label">2. Who can join this course in Ropar?</div>
                         <div class="content">
-                            Anyone can join—students, freshers, professionals, business owners, freelancers, or career
-                            switchers.
+                            The course is ideal for students, working professionals, business owners, freelancers, and
+                            anyone interested in building a successful career or business online.
                         </div>
                     </div>
                     <div class="box">
-                        <div class="label">3. Is this course suitable for beginners?</div>
-                        <div class="content">Yes. The training starts from basics and is easy to understand for
-                            beginners.</div>
+                        <div class="label">3. I have no prior knowledge of computers or marketing. Is this course
+                            suitable?</div>
+                        <div class="content">Yes, absolutely. The course is specifically designed for complete
+                            beginners. We start from the very basics and guide you step-by-step..</div>
                     </div>
                     <div class="box">
-                        <div class="label">4. What topics are covered?</div>
+                        <div class="label">4. What topics are covered in the training?</div>
                         <div class="content">
-                            SEO, social media marketing, Google Ads, content marketing, email marketing, analytics, and
-                            AI-based tools.
+                            The complete training covers SEO, Social Media Marketing, Google Ads (PPC), Content
+                            Marketing, Email Marketing, Web Analytics, and AI in digital marketing.
                         </div>
                     </div>
                     <div class="box">
-                        <div class="label">5. Is the training practical?</div>
+                        <div class="label">5. How practical is the training?</div>
                         <div class="content">
-                            Yes, it is highly practical with live projects and real campaigns.
+                            The training is 100% practical and hands-on. You will work on live projects, real websites,
+                            and active marketing campaigns throughout the program.
                         </div>
                     </div>
 
                     <div class="box">
-                        <div class="label">6. Will I get a certificate?</div>
-                        <div class="content">Yes, you will receive a course completion certificate from 5Trainers.
+                        <div class="label">6. Do you provide a certificate?</div>
+                        <div class="content">Yes, you will receive a recognized course completion certificate from
+                            5Trainers that is valued by employers locally and nationally.
                         </div>
                     </div>
 
                     <div class="box">
-                        <div class="label">7. Does this course help with jobs or freelancing?</div>
-                        <div class="content">Yes. We provide career guidance, interview preparation, and freelancing
-                            support.
+                        <div class="label">7.Do you offer placement assistance in Ropar?</div>
+                        <div class="content">Yes, we provide complete placement support, including interview
+                            preparation, resume workshops, and connecting you with job opportunities in Ropar, nearby
+                            cities, and remote positions.
                         </div>
                     </div>
                     <div class="box">
-                        <div class="label">8. Why choose 5Trainers in Chandigarh?</div>
-                        <div class="content">Experienced trainers, practical learning, small batches, affordable fees,
-                            and industry-focused training.
+                        <div class="label">8. Why should I choose 5Trainers in Ropar?</div>
+                        <div class="content">For our industry-expert trainers, completely practical approach, strong
+                            placement support, affordable fees, and proven track record of student success in Ropar.
                         </div>
                     </div>
                     <div class="box">
-                        <div class="label">9. How long is the course?</div>
-                        <div class="content">The duration depends on the learning plan you choose.
+                        <div class="label">9. What is the duration and schedule of the course?</div>
+                        <div class="content">We offer flexible weekday and weekend batches to suit different schedules.
+                            The duration typically ranges from 3 to 4 months. Contact us for current batch details.
                         </div>
                     </div>
                     <div class="box">
-                        <div class="label">10. How can I enroll?</div>
-                        <div class="content">You can contact us through our website or call our team to book your seat.
+                        <div class="label">10. How do I enroll or get more information?</div>
+                        <div class="content">You can call our Ropar center directly, visit our website, or come to our
+                            institute for a detailed counseling session and course overview.
                         </div>
                     </div>
                 </div>
@@ -1182,6 +1265,5 @@ $canonical_url = "https://www.5trainers.com/Digital-Marketing-Training-in-Chandi
             </div>
         </div>
 </section>
-
 
 <?php include('footer.php'); ?>

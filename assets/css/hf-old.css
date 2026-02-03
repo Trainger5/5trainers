@@ -462,6 +462,9 @@ nav.fixed-header .wrapper{
   .wrapper .btn {
     display: block;
   }
+   .top-contact-bar {
+    display: none !important;
+  }
 
   .nav-links li a {
     color: #fff;

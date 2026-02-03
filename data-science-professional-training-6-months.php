@@ -4,118 +4,99 @@ $meta_description = "Get hands-on Data Science training in Mohali. Learn Python,
 $canonical_url = "https://www.5trainers.com/data-science-professional-training-6-months.php";
 ?>
 <?php include('header.php'); ?>
-<link href="landingpage/assets/css/slider-landing.css" type="text/css" rel="stylesheet" />
-<!--Slider-->
-<section id="slide-shows" class="setbgs landignsetbg">
-    <div class="custom-container width80">
-        <div class="hero-main">
-            <div class="row">
-                <div class="col-lg-7 ">
-                    <div class="intro-details">
-                        <div class="slide-text">
-                            <p class="topP mb-15">Restricted by opportunities?</p>
-                            <div class="sliderHeading mb-20">
-                                <h2>Data Science Professional</h2>
-                                <h2>Job Bootcamp with GenAI</h2>
-                            </div>
-                            <p class="coDetail">Data Science Professional Training (6 Months)</p>
+
+<section class="hero-demo">
+    <div class="hero-demo-main width80">
+        <div class="row align-items-center">
+
+            <div class="col-12 col-xl-7">
+                <div class="intro-details">
+                    <div >
+                        <p class="topP mb-15">Restricted by opportunities?</p>
+                        <div class="sliderHeading mb-20">
+                            <h2>Data Science Professional</h2>
+                            <h2>Job Bootcamp with GenAI</h2>
                         </div>
-                        <!--/slider text-->
-
-                        <div class="course-features mtb-40">
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Affordable Fees </div>
-                            </div>
-                            <!--/features-->
-
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Certified Trainers </div>
-                            </div>
-                            <!--/features-->
-
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Internship Opportunity </div>
-                            </div>
-                            <!--/features-->
-
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Placement assistance</div>
-                            </div>
-                            <!--/features-->
-
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Professional Resume Building </div>
-                            </div>
-                            <!--/features-->
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Mock Interviews & HR Rounds</div>
-                            </div>
-                            <!--/features-->
-
-                            <div class="features">
-                                <img src="assets/image/landing-page/live-one.png" alt="Icon">
-                                <div class="typo-pills"> Lifetime Access to Study Material</div>
-                            </div>
-                            <!--/features-->
-
-                        </div>
-                        <!--/course-features-->
-                        <div class="course-metrics mt-15 mb-40">
-                            <div class="course-metric">
-                                <div class="metric-heading"> 95%</div>
-                                <div class="metric-sub-heading"> placement rate </div>
-                            </div>
-                            <!--/course-metric-->
-                            <div class="divider"></div>
-                            <!--/divider-->
-
-                            <div class="course-metric">
-                                <div class="metric-heading"> 1200+</div>
-                                <div class="metric-sub-heading"> Companies Hiring</div>
-                            </div>
-                            <!--/course-metric-->
-                            <div class="divider"></div>
-                            <!--/divider-->
-
-                            <div class="course-metric">
-                                <div class="metric-heading"> 128%</div>
-                                <div class="metric-sub-heading"> Average hike</div>
-                            </div>
-                            <!--/course-metric-->
-                            <div class="divider"></div>
-                            <!--/divider-->
-
-                            <div class="course-metric">
-                                <div class="metric-heading"> 1.5 L+</div>
-                                <div class="metric-sub-heading"> Learners</div>
-                            </div>
-                            <!--/course-metric-->
-                        </div>
-                        <!--/course-metrics-->
-
-                        <div class="webinar-text">
-                            <p>Know in-depth details in our free Consultancy</p>
-                        </div>
-                        <!--/class="webinar-text-->
+                        <p class="coDetail">Data Science Professional Training (6 Months)</p>
                     </div>
-                    <!--/intro-details-->
-                </div>
-                <div class="col-lg-5">
-                    <div class="formAlign">
-                        <?php include('course-slider-form.php'); ?>
+                    <div class="course-features mtb-40">
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Affordable Fees </div>
+                        </div><!--/features-->
+
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Certified Trainers </div>
+                        </div><!--/features-->
+
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Internship Opportunity </div>
+                        </div><!--/features-->
+
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Placement assistance</div>
+                        </div><!--/features-->
+
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Professional Resume Building </div>
+                        </div><!--/features-->
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Mock Interviews & HR Rounds</div>
+                        </div><!--/features-->
+
+                        <div class="features">
+                            <img src="assets/image/landing-page/live-one.png" alt="Icon">
+                            <div class="typo-pills"> Lifetime Access to Study Material</div>
+                        </div><!--/features-->
+
+                    </div><!--/course-features-->
+                    <div class="course-metrics mt-15 mb-40">
+                        <div class="course-metric">
+                            <div class="metric-heading"> 95%</div>
+                            <div class="metric-sub-heading"> placement rate </div>
+                        </div><!--/course-metric-->
+                        <div class="divider"></div><!--/divider-->
+
+                        <div class="course-metric">
+                            <div class="metric-heading"> 1200+</div>
+                            <div class="metric-sub-heading"> Companies Hiring</div>
+                        </div><!--/course-metric-->
+                        <div class="divider"></div><!--/divider-->
+
+                        <div class="course-metric">
+                            <div class="metric-heading"> 128%</div>
+                            <div class="metric-sub-heading"> Average hike</div>
+                        </div><!--/course-metric-->
+                        <div class="divider"></div><!--/divider-->
+
+                        <div class="course-metric">
+                            <div class="metric-heading"> 1.5 L+</div>
+                            <div class="metric-sub-heading"> Learners</div>
+                        </div><!--/course-metric-->
+                    </div><!--/course-metrics-->
+
+                    <div class="webinar-text">
+                        <p>Know in-depth details in our free Consultancy</p>
+                        <img src="assets/image/icon/hand.webp" alt="Icon">
                     </div>
                 </div>
             </div>
+            <div class="col-12 col-xl-5 mb-5 mb-lg-0">
+                <div class="formAlign">
+                    <?php include('course-slider-form.php'); ?>
+                </div>
+            </div>
+
         </div>
+    </div>
 </section>
-<!--/Slider-->
-<section class="container-fluid slider-hding">
+
+<section class="container-fluid slider-hding" style="background: #ff8503; position: relative; z-index: 1;">
     <div class="custom-container width80">
         <div class="row">
             <div class="col-lg-12">
@@ -149,25 +130,25 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
                 <div class="keywordsBox">
                     <ul class="mt-20 p-0">
                         <li>
-                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">    
-                        career counseling for students</li>
+                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                            career counseling for students
+                        </li>
                         <li>
-                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">    
-                        importance of career counseling</li>
+                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                            importance of career counseling
+                        </li>
                         <li>
-                        <img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon">    
-                        student career guidance</li>
+                            <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon">
+                            student career guidance
+                        </li>
                     </ul>
                 </div>
-                <!-- <div class="counselingButn">
-                    <div class="yellowBtn"><a href="#">Get a Free Consultation</a></div>
-                </div> -->
             </div>
             <!--/col-->
             <div class="col-lg-5">
                 <div class="counselingAbout">
-                    <!-- <img src="assets/image/slider/counseling-for-students.png" class="img-fluid" alt="Counseling"> -->
-                       <img src="assets/image/slider/counseling-for-student.png" loading="lazy" class="img-fluid" alt="Counseling">
+                    <img src="assets/image/slider/counseling-for-student.png" loading="lazy" class="img-fluid"
+                        alt="Counseling">
                 </div>
             </div>
             <!--/col-->
@@ -186,12 +167,18 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
                         </div>
                         <div class="serviceContent">
                             <ul id="courseMenu" class="p-0">
-                                <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"><a href="#course1" > Python for Data Science</a></li>
-                                <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"><a href="#course2"> SQL for Data Analysis</a></li>
-                                <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"><a href="#course3"> Advanced Excel</a></li>
-                                <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"><a href="#course4"> Power BI for Data Visualization</a></li>
-                                <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"><a href="#course5">  Statistics for Data Science</a></li>
-                                <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"><a href="#course6"> Machine Learning</a></li>
+                                <li><img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon"><a
+                                        href="#course1"> Python for Data Science</a></li>
+                                <li><img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon"><a
+                                        href="#course2"> SQL for Data Analysis</a></li>
+                                <li><img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon"><a
+                                        href="#course3"> Advanced Excel</a></li>
+                                <li><img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon"><a
+                                        href="#course4"> Power BI for Data Visualization</a></li>
+                                <li><img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon"><a
+                                        href="#course5"> Statistics for Data Science</a></li>
+                                <li><img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon"><a
+                                        href="#course6"> Machine Learning</a></li>
                             </ul>
                         </div>
                     </div>
@@ -227,7 +214,6 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
                                     <!--/imageBoxCont-->
                                 </div>
                             </div>
-                            <!--/Image Content Container-->
                             <div id="course2" class="imgContContainer">
                                 <div class="image-box-wrapper">
                                     <div class="imageBoxImg">
@@ -330,12 +316,6 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
                                     </div><!--/imageBoxCont-->
                                 </div>
                             </div><!--/Image Content Container-->
-
-                            <div class="getFreeConsultationButn">
-                                <!-- <div class="getFreeConsultation">
-                                    <a href="" style="text-decoration: none;">Get a Free Consultation</a>
-                                </div> -->
-                            </div>
                         </div><!--/Process Content-->
                     </div>
                 </div><!--/col-->
@@ -742,15 +722,15 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
                                 beef brisket ball tip short ribs.
                             </p>
                         </div>
-                       
+
                     </div>
                 </div>
                 <!--/FAQ-->
             </div>
             <!--/col-->
             <div class="col-lg-5">
-                <!-- <div class="faqImage"><img src="assets/image/other/faq.svg" class="img-fluid" alt=""></div> -->
-                 <div class="faqImage"><img src="assets/image/other/faq.png" loading="lazy" class="img-fluid" alt="faq-img"></div>
+                <div class="faqImage"><img src="assets/image/other/faq.png" loading="lazy" class="img-fluid"
+                        alt="faq-img"></div>
             </div>
         </div>
     </div>

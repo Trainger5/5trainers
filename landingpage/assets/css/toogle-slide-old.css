@@ -1,0 +1,119 @@
+#wrap .content {
+  width: 520px;
+  height: 100vh;
+  background: #fff;
+  border-radius: 0;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
+  position: relative;
+}
+.toglecont .open-call {
+  background: #0f79be;
+  color: #fff;
+  padding: 7px 20px;
+  border-radius: 10px;
+  font-size: 16px;
+  font-family: "PoppinsMedium";
+  letter-spacing: 0.03em;
+  text-transform: capitalize;
+  border: none;
+}
+.toglecont button:focus {
+  outline: 0px dotted;
+  outline: 0px auto -webkit-focus-ring-color;
+}
+.toglecont .open-call:hover {
+  background: #0f79be;
+  color: #fff;
+}
+#wrap {
+  position: absolute;
+  top: 0;
+  right: -187px;
+  display: none;
+}
+.open-call {
+  padding: 15px 30px;
+  font-size: 18px;
+  cursor: pointer;
+}
+.close-call {
+  position: absolute;
+  right: 10px;
+  top: 25px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+#wrap h2 {
+  color: #1d1e22;
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+#wrap p {
+  color: #1d1e22;
+  line-height: normal;
+  letter-spacing: 1px;
+}
+#wrap .form-screen {
+  border: none;
+  box-shadow: none;
+  width: 100%;
+  padding: 0;
+}
+p.ftrAuthorise {
+  font-size: 12px;
+  text-align: justify;
+  margin: 10px 0 0;
+  padding: 0;
+  text-transform: inherit;
+}
+.hAdjust {
+  position: relative;
+  height: 70vh;
+  padding: 20px;
+  margin-bottom: 30px;
+  width: 100%;
+}
+.fFotr {
+  background: #fff;
+  width: auto;
+  border-top: 1px solid #e8e9e9;
+  padding: 20px;
+  position: sticky;
+  bottom: 0;
+  overflow: hidden;
+  right: 0;
+}
+#wrap .form-screen .title {
+  background: #f3f8f9;
+  padding: 20px 20px;
+}
+
+.slide-text h2 {
+        font-size: 45px;
+    }
+
+    .review-card {
+        background: #fff;
+        padding: 20px;
+        border-radius: 15px;
+        box-shadow: 0 3px 15px rgba(0, 0, 0, 0.1);
+        height: 100%;
+    }
+
+    .review-name {
+        font-weight: bold;
+        margin-top: 10px;
+        font-size: 18px;
+    }
+
+    .review-stars {
+        color: #f7b500;
+        font-size: 20px;
+    }
+
+    .slider {
+        /* background-color: #1685a4; */
+        background-color: #0f79bf;
+        padding: 200px 0px;
+    }
