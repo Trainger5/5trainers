@@ -207,7 +207,7 @@ $canonical_url = "https://www.5trainers.com/institutions.php";
             </div>
             <!--/col-->
 
-            <div class="col-lg-8">
+            <div class="col-lg-8 mt-3 lg-mt-0 sm-mt-0">
                 <div class="content-wrapper ourProcessBox">
                     <div class="processTitle">
                         <h2>Our Counselling Process</h2>

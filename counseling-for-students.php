@@ -105,7 +105,7 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 									</ul>
 								</div>
 
-								<div class="row serviceProcess">
+								<div class="row serviceProcess ">
 									<div class="col-lg-4">
 										<div class="servicePBox">
 											<div class="serviceTitle">
@@ -124,7 +124,7 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 										</div>
 									</div><!--/col-->
 
-									<div class="col-lg-8">
+									<div class="col-lg-8 mt-3 lg-mt-0 sm-mt-0">
 										<div class="ourProcessBox">
 											<div class="processTitle">
 												<h2>Our Counseling Process</h2>
@@ -269,7 +269,7 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 										</div>
 									</div><!--/col-->
 
-									<div class="col-lg-8">
+									<div class="col-lg-8 ">
 										<div class="processTitle">
 											<h2>Our Process</h2>
 										</div><!--/Process Title-->
