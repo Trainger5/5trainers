@@ -748,10 +748,10 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 					</div><!--/heading div-->
 					<div class="buttonBox">
 						<div class="assesssmentButn yellow">
-							<a href="#" style="text-decoration:none;">View More</a>
+							<a href="about.php" style="text-decoration:none;">View More</a>
 						</div>
 						<div class="assesssmentButn blue">
-							<a href="#" style="text-decoration:none;">Take Our Assessment</a>
+							<a href="contact.php" style="text-decoration:none;">Take Our Assessment</a>
 						</div>
 
 					</div>
@@ -759,12 +759,12 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="getFreeConsultation yellow">
-									<a href="#" style="text-decoration: none;">View More</a>
+									<a href="about.php" style="text-decoration: none;">View More</a>
 								</div>
 							</div><!--/col-->
 							<div class="col-lg-6">
 								<div class="getFreeConsultation blue">
-									<a href="#" style="text-decoration:none;">Take Our Assessment</a>
+									<a href="contact.php" style="text-decoration:none;">Take Our Assessment</a>
 								</div>
 							</div><!--/col-->
 						</div><!--/row-->
