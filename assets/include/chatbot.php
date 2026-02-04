@@ -318,10 +318,10 @@
     });
 
     // Auto-open chat window shortly after page load
-    window.addEventListener("load", () => {
-      setTimeout(() => {
-        openChat();
-      }, 2000);
-    });
+    // window.addEventListener("load", () => {
+    //   setTimeout(() => {
+    //     openChat();
+    //   }, 2000);
+    // });
   })();
 </script>

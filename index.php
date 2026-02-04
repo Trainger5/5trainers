@@ -350,9 +350,9 @@ $canonical_url = "https://www.5trainers.com/index.php";
                         <li data-aos="fade-up" class="aos-init aos-animate" class=""><span><img
                                     src="assets/image/icon/checked.png" alt="icon" class="flaticon-checked">
                                 Confused between different career options</span></li>
-                        <li data-aos="fade-up" class="aos-init aos-animate" class=""><span><img
+                        <!-- <li data-aos="fade-up" class="aos-init aos-animate" class=""><span><img
                                     src="assets/image/icon/checked.png" alt="icon" class="flaticon-checked">
-                                Confused between different career options</span></li>
+                                Confused between different career options</span></li> -->
                         <li data-aos="fade-up" class="aos-init aos-animate" class=""><span><img
                                     src="assets/image/icon/checked.png" alt="icon" class="flaticon-checked"> Seeking
                                 clarity about your strengths and passion</span></li>
@@ -1146,7 +1146,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
                     </div>
 
                     <div class="box">
-                        <div class="label">8How does this prepare me for the job market?</div>
+                        <div class="label">8.How does this prepare me for the job market?</div>
                         <div class="content">You’ll learn multiple approaches to solving problems, making you
                             adaptable and job-ready.
                         </div>

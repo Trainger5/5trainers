@@ -159,11 +159,11 @@ $canonical_url = "https://www.5trainers.com/institutions.php";
                         <div id="tab-4" class="tab-content">
                             <div class="tabInner">
                                 <div class="tabBasicInfo">
-                                    <p>Certified and experienced counselors</p>
-                                    <p>Personalized approach for every student</p>
-                                    <p>In-depth understanding of the latest career trends</p>
-                                    <p>100% unbiased and professional guidance</p>
-                                    <p>Support via in-person and online sessions</p>
+                                    <p class="tab_icon">Certified and experienced counselors</p>
+                                    <p class="tab_icon_two">Personalized approach for every student</p>
+                                    <p class="tab_icon_three">In-depth understanding of the latest career trends</p>
+                                    <p class="tab_icon_four">100% unbiased and professional guidance</p>
+                                    <p class="tab_icon_five">Support via in-person and online sessions</p>
                                     <ul class="mt-20 p-0">
                                         <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Career counselor near me</li>
                                         <li><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Online career counseling</li>
@@ -207,7 +207,7 @@ $canonical_url = "https://www.5trainers.com/institutions.php";
             </div>
             <!--/col-->
 
-            <div class="col-lg-8">
+            <div class="col-lg-8 mt-3 lg-mt-0 sm-mt-0">
                 <div class="content-wrapper ourProcessBox">
                     <div class="processTitle">
                         <h2>Our Counselling Process</h2>
@@ -372,10 +372,10 @@ $canonical_url = "https://www.5trainers.com/institutions.php";
                     <!--/heading div-->
                     <div class="buttonBox">
                         <div class="assesssmentButn yellow">
-                            <a href="#" style="text-decoration: none;">View More</a>
+                            <a href="about.php" style="text-decoration: none;">View More</a>
                         </div>
                         <div class="assesssmentButn blue">
-                            <a href="#" style="text-decoration: none;">Take Our Assessment</a>
+                            <a href="contact.php" style="text-decoration: none;">Take Our Assessment</a>
                         </div>
 
                     </div>
@@ -383,13 +383,13 @@ $canonical_url = "https://www.5trainers.com/institutions.php";
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="getFreeConsultation yellow">
-                                    <a href="#" style="text-decoration: none;">View More</a>
+                                    <a href="about.php" style="text-decoration: none;">View More</a>
                                 </div>
                             </div>
                             <!--/col-->
                             <div class="col-lg-6">
                                 <div class="getFreeConsultation blue">
-                                    <a href="#" style="text-decoration: none;">Take Our Assessment</a>
+                                    <a href="contact.php" style="text-decoration: none;">Take Our Assessment</a>
                                 </div>
                             </div>
                             <!--/col-->

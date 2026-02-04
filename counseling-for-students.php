@@ -105,7 +105,7 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 									</ul>
 								</div>
 
-								<div class="row serviceProcess">
+								<div class="row serviceProcess ">
 									<div class="col-lg-4">
 										<div class="servicePBox">
 											<div class="serviceTitle">
@@ -124,7 +124,7 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 										</div>
 									</div><!--/col-->
 
-									<div class="col-lg-8">
+									<div class="col-lg-8 mt-3 lg-mt-0 sm-mt-0">
 										<div class="ourProcessBox">
 											<div class="processTitle">
 												<h2>Our Counseling Process</h2>
@@ -239,11 +239,11 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 						<div id="tab-2" class="tab-content">
 							<div class="tabInner">
 								<div class="tabBasicInfo">
-									<p>One-on-one career counseling sessions</p>
-									<p>Career assessment tests (based on your skills, interests, and personality)</p>
-									<p>Guidance on trending courses and in-demand skills</p>
-									<p>Help with course selection after 10th / 12th / graduation</p>
-									<p>Support in making short-term and long-term career plans</p>
+									<p class="tab_icon"> One-on-one career counseling sessions</p>
+									<p class="tab_icon_two">Career assessment tests (based on your skills, interests, and personality)</p>
+									<p class="tab_icon_three">Guidance on trending courses and in-demand skills</p>
+									<p class="tab_icon_four">Help with course selection after 10th / 12th / graduation</p>
+									<p class="tab_icon_five">Support in making short-term and long-term career plans</p>
 									<ul class="mt-20 p-0">
 										<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Career Assessment for Students</li>
 										<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> Student Guidance Program</li>
@@ -269,7 +269,7 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 										</div>
 									</div><!--/col-->
 
-									<div class="col-lg-8">
+									<div class="col-lg-8 ">
 										<div class="processTitle">
 											<h2>Our Process</h2>
 										</div><!--/Process Title-->
@@ -397,11 +397,11 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 						<div id="tab-3" class="tab-content">
 							<div class="tabInner">
 								<div class="tabBasicInfo">
-									<p>Certified and experienced counselors</p>
-									<p>Personalized approach for every student</p>
-									<p>In-depth understanding of the latest career trends</p>
-									<p>100% unbiased and professional guidance</p>
-									<p>Support via in-person and online sessions</p>
+									<p class="tab_icon">Certified and experienced counselors</p>
+									<p class="tab_icon_two">Personalized approach for every student</p>
+									<p class="tab_icon_three">In-depth understanding of the latest career trends</p>
+									<p class="tab_icon_four">100% unbiased and professional guidance</p>
+									<p class="tab_icon_five"	>Support via in-person and online sessions</p>
 									<ul class="mt-20 p-0">
 										<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> student career counselor near me</li>
 										<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> online career counseling</li>
@@ -564,11 +564,11 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 						<div id="tab-4" class="tab-content">
 							<div class="tabInner">
 								<div class="tabBasicInfo">
-									<p>Certified and experienced counselors</p>
-									<p>Personalized approach for every student</p>
-									<p>In-depth understanding of the latest career trends</p>
-									<p>100% unbiased and professional guidance</p>
-									<p>Support via in-person and online sessions</p>
+									<p class="tab_icon">Certified and experienced counselors</p>
+									<p class="tab_icon_two">Personalized approach for every student</p>
+									<p class="tab_icon_three">In-depth understanding of the latest career trends</p>
+									<p class="tab_icon_four">100% unbiased and professional guidance</p>
+									<p class="tab_icon_five">Support via in-person and online sessions</p>
 									<ul class="mt-20 p-0">
 										<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> student career counselor near me</li>
 										<li class="p-0"><img src="assets/image/icon/bulb-blue.png"  alt="icon" class="footer-icon"> online career counseling</li>
@@ -748,10 +748,10 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 					</div><!--/heading div-->
 					<div class="buttonBox">
 						<div class="assesssmentButn yellow">
-							<a href="#" style="text-decoration:none;">View More</a>
+							<a href="about.php" style="text-decoration:none;">View More</a>
 						</div>
 						<div class="assesssmentButn blue">
-							<a href="#" style="text-decoration:none;">Take Our Assessment</a>
+							<a href="contact.php" style="text-decoration:none;">Take Our Assessment</a>
 						</div>
 
 					</div>
@@ -759,12 +759,12 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="getFreeConsultation yellow">
-									<a href="#" style="text-decoration: none;">View More</a>
+									<a href="about.php" style="text-decoration: none;">View More</a>
 								</div>
 							</div><!--/col-->
 							<div class="col-lg-6">
 								<div class="getFreeConsultation blue">
-									<a href="#" style="text-decoration:none;">Take Our Assessment</a>
+									<a href="contact.php" style="text-decoration:none;">Take Our Assessment</a>
 								</div>
 							</div><!--/col-->
 						</div><!--/row-->
