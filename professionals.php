@@ -207,7 +207,7 @@ $canonical_url = "https://www.5trainers.com/professionals.php";
             </div>
             <!--/col-->
 
-            <div class="col-lg-8">
+            <div class="col-lg-8 mt-5 mt-sm-3 mt-lg-0">
                 <div class="content-wrapper ourProcessBox">
                     <div class="processTitle">
                         <h2>Career Counselling for Professionals</h2>
@@ -449,33 +449,26 @@ $canonical_url = "https://www.5trainers.com/professionals.php";
             <div class="col-lg-7">
                 <div class="counsellingFaq">
                     <details>
-                        <summary>What does college counselling include?</summary>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione sint, hic consequuntur
-                            consectetur, corporis enim ipsum quasi recusandae vel nobis, exercitationem aspernatur autem
-                            vero ad soluta eius ipsam praesentium
-                            aliquam!</p>
+                        <summary>What is career counseling for professionals?</summary>
+                        <p> Career counseling for professionals helps working individuals evaluate their skills, experience, and career goals to make informed decisions about growth, job change, or career transition. At 5Trainers, we provide personalized guidance to support long-term career success.</p>
                     </details>
                     <details>
-                        <summary>Can you help me choose the right major?</summary>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione sint, hic consequuntur
-                            consectetur, corporis enim ipsum quasi recusandae vel nobis, exercitationem aspernatur autem
-                            vero ad soluta eius ipsam praesentium
-                            aliquam!</p>
+                        <summary>.What does college counselling include?</summary>
+                        <p> At 5Trainers, college counselling includes personalized guidance to help students choose the right college and course based on their academic background, interests, and career goals. Our counselling covers stream and course selection, shortlisting of suitable colleges, complete information about entrance exams, step-by-step support with the admission process, assistance with application forms, and guidance on eligibility criteria and scholarships. The goal of our college counselling is to help students make confident, well-informed decisions about their academic future.</p>
                     </details>
                     <details>
-                        <summary>Do you offer career counselling?</summary>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione sint, hic consequuntur
-                            consectetur, corporis enim ipsum quasi recusandae vel nobis, exercitationem aspernatur autem
-                            vero ad soluta eius ipsam praesentium
-                            aliquam!</p>
+                        <summary>Who should opt for career counseling as a professional?</summary>
+                        <p> Professionals who feel stuck in their current role, are considering a career switch, seeking faster growth, or want clarity about future opportunities can benefit from career counseling at 5Trainers.</p>
                     </details>
                     <details>
-                        <summary>What kind of support is included in college admissions?</summary>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione sint, hic consequuntur
-                            consectetur, corporis enim ipsum quasi recusandae vel nobis, exercitationem aspernatur autem
-                            vero ad soluta eius ipsam praesentium
-                            aliquam!</p>
+                        <summary>Is career counseling useful for mid-career professionals?</summary>
+                        <p> Yes, 5Trainers provides specialized counseling for mid-career professionals to overcome stagnation, plan leadership roles, or move into strategic and high-growth positions.</p>
                     </details>
+                    <details>
+                        <summary>Does 5Trainers offer guidance on upskilling and certifications?</summary>
+                        <p> Yes, our counselors recommend relevant courses, certifications, and skill development programs to help professionals stay competitive and achieve career goals.
+                    </details>
+
 
                 </div>
                 <!--/FAQ-->

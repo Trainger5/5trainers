@@ -124,7 +124,7 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 										</div>
 									</div><!--/col-->
 
-									<div class="col-lg-8 mt-3 lg-mt-0 sm-mt-0">
+									<div class="col-lg-8 mt-5 mt-sm-3 mt-lg-0">
 										<div class="ourProcessBox">
 											<div class="processTitle">
 												<h2>Our Counseling Process</h2>
@@ -849,33 +849,26 @@ $canonical_url = "https://www.5trainers.com/counseling-for-students.php";
 			<div class="col-lg-7">
 				<div class="counselingFaq">
 					<details>
+						<summary>What is career counseling?</summary>
+						<p> Career counseling is a guided process that helps students understand their interests, skills, and strengths to choose the right career path. At 5Trainers, we provide expert support to help students make informed career decisions.</p>
+					</details>
+					<details>
 						<summary>What does college counseling include?</summary>
-						<p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
-							sint, hic consequuntur consectetur, corporis enim ipsum quasi
-							recusandae vel nobis, exercitationem aspernatur autem vero ad soluta
-							eius ipsam praesentium aliquam!</p>
+						<p> At 5Trainers, college counseling includes personalized guidance to help students choose the right college and course based on their academic profile, interests, and career goals. Our counseling covers stream and course selection, shortlisting of suitable colleges, detailed information about entrance exams, guidance on the admission process, assistance with application forms, and support related to eligibility criteria and scholarships. The aim of our college counseling is to help students make well-informed decisions and confidently plan their academic future.</p>
 					</details>
 					<details>
-						<summary>Can you help me choose the right major?</summary>
-						<p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
-							sint, hic consequuntur consectetur, corporis enim ipsum quasi
-							recusandae vel nobis, exercitationem aspernatur autem vero ad soluta
-							eius ipsam praesentium aliquam!</p>
+						<summary>Can career counseling help after 10th or 12th grade?</summary>
+						<p> Absolutely. 5Trainers offers career counseling after 10th and 12th to guide students in choosing the right stream, course, and career direction.</p>
 					</details>
 					<details>
-						<summary>Do you offer career counseling?</summary>
-						<p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
-							sint, hic consequuntur consectetur, corporis enim ipsum quasi
-							recusandae vel nobis, exercitationem aspernatur autem vero ad soluta
-							eius ipsam praesentium aliquam!</p>
+						<summary>Is career counseling only for students who are confused?</summary>
+						<p> No. Career counseling is also helpful for students who want to explore better opportunities, validate their choices, or plan a structured career roadmap.</p>
 					</details>
 					<details>
-						<summary>What kind of support is included in college admissions?</summary>
-						<p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
-							sint, hic consequuntur consectetur, corporis enim ipsum quasi
-							recusandae vel nobis, exercitationem aspernatur autem vero ad soluta
-							eius ipsam praesentium aliquam!</p>
+						<summary>Does career counseling include aptitude and interest tests?</summary>
+						<p>Yes, at 5Trainers, career counseling includes aptitude and interest assessments to identify students’ strengths, abilities, and suitable career paths.
 					</details>
+
 
 				</div><!--/FAQ-->
 			</div><!--/col-->

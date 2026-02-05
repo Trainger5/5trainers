@@ -207,7 +207,7 @@ $canonical_url = "https://www.5trainers.com/institutions.php";
             </div>
             <!--/col-->
 
-            <div class="col-lg-8 mt-3 lg-mt-0 sm-mt-0">
+            <div class="col-lg-8 mt-5 mt-sm-3 mt-lg-0">
                 <div class="content-wrapper ourProcessBox">
                     <div class="processTitle">
                         <h2>Our Counselling Process</h2>
@@ -475,32 +475,24 @@ $canonical_url = "https://www.5trainers.com/institutions.php";
             <div class="col-lg-7">
                 <div class="counsellingFaq">
                     <details>
-                        <summary>What does college counselling include?</summary>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione sint, hic consequuntur
-                            consectetur, corporis enim ipsum quasi recusandae vel nobis, exercitationem aspernatur autem
-                            vero ad soluta eius ipsam praesentium
-                            aliquam!</p>
+                        <summary>What is career counselling for institutions?</summary>
+                        <p> Career counselling for institutions is a structured program designed to help schools and colleges guide students in making informed academic and career decisions. At 5Trainers, we partner with institutions to deliver expert-led career guidance programs.</p>
                     </details>
                     <details>
-                        <summary>Can you help me choose the right major?</summary>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione sint, hic consequuntur
-                            consectetur, corporis enim ipsum quasi recusandae vel nobis, exercitationem aspernatur autem
-                            vero ad soluta eius ipsam praesentium
-                            aliquam!</p>
+                        <summary>Does 5Trainers offer career counselling programs for schools?</summary>
+                        <p> Yes, 5Trainers offers customized career counselling programs for schools, including guidance after 8th, 10th, and 12th grade, aptitude assessments, and career awareness sessions.</p>
                     </details>
                     <details>
-                        <summary>Do you offer career counselling?</summary>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione sint, hic consequuntur
-                            consectetur, corporis enim ipsum quasi recusandae vel nobis, exercitationem aspernatur autem
-                            vero ad soluta eius ipsam praesentium
-                            aliquam!</p>
+                        <summary>Can career counselling be customized for colleges and universities?</summary>
+                        <p> Absolutely. 5Trainers designs customized counselling programs for colleges and universities based on student demographics, academic streams, and institutional goals.</p>
                     </details>
                     <details>
-                        <summary>What kind of support is included in college admissions?</summary>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione sint, hic consequuntur
-                            consectetur, corporis enim ipsum quasi recusandae vel nobis, exercitationem aspernatur autem
-                            vero ad soluta eius ipsam praesentium
-                            aliquam!</p>
+                        <summary>Can 5Trainers help institutions improve student outcomes?</summary>
+                        <p> Yes, our career counselling programs help institutions improve student engagement, decision-making, academic alignment, and overall placement and career readiness outcomes.</p>
+                    </details>
+                    <details>
+                        <summary>Which institutions can benefit from 5Trainers’ career counselling services?</summary>
+                        <p> Our career counselling services are ideal for schools, colleges, universities, coaching institutes, and training centers looking to offer structured career guidance to their students.</p>
                     </details>
 
                 </div>
