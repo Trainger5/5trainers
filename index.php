@@ -60,7 +60,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
 }
 .two-btns{
     margin-bottom: 40px !important;
-    z-index: 9999;
+    z-index: 2;
 }
 }
 
@@ -73,7 +73,7 @@ $canonical_url = "https://www.5trainers.com/index.php";
 
 @media only screen  and (max-width: 20000px) {
     .two-btns{
-    z-index: 9999;
+    z-index: 2;
 }
 }
 
