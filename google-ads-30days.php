@@ -35,8 +35,8 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
                     <div>
                         <p class="topP mb-15">Restricted by opportunities?</p>
                         <div class="sliderHeading mb-20">
-                            <h2>Google Ads in 30 Days</h2>
-                            <h1>Job Bootcamp with GenAI</h1>
+                            <h2 class="sh_course">Google Ads in 30 Days</h2>
+                            <h1 class="sh_course">Job Bootcamp with GenAI</h1>
                         </div>
                         <p class="coDetail">Google Ads Mastery in 30 Days Course with Guaranteed Placement Support
                             <br> Perfect for Both Freshers & Working Professionals.
@@ -139,7 +139,7 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
     </div><!--container-->
 </section><!--/slider Heading-->
 
-<section class="continer-fluid pt pb counseling">
+<section class="continer-fluid gap pt pb counseling">
     <div class="no-container width80">
         <div class="row">
             <div class="col-lg-7">
@@ -589,7 +589,7 @@ $canonical_url = "https://www.5trainers.com/google-ads-30days.php";
                 </div><!--/heading div-->
             </div><!--/col-->
         </div><!--/row-->
-        <div class="row mt-80">
+        <div class="row mt-80 g-4 g-lg-3 g-sm-3">
             <div class="col-lg-3">
                 <div class="whyShould-container">
                     <div class="whyShould-image-box-wrapper">

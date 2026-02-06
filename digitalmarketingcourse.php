@@ -21,10 +21,10 @@ $canonical_url = "https://www.5trainers.com/digitalmarketingcourse.php";
                     <div>
                         <p class="topP mb-15 text-white">Restricted by opportunities?</p>
                         <div class="sliderHeading text-white mb-20">
-                            <h2 class="m-0">Digital Marketing Course</h2>
-                            <h2 class="m-0">Job Bootcamp with GenAI</h2>
+                            <h2 class="m-0 sh_course">Digital Marketing Course</h2>
+                            <h2 class="m-0 sh_course">Job Bootcamp with GenAI</h2>
                         </div>
-                        <p class="coDetail m-0">Digital Marketing Course with Guaranteed Placement Support <br> Perfect
+                        <p class="coDetail m-0">Digital Marketing Course with Guaranteed Placement Support  Perfect
                             for Both Freshers & Working Professionals.</p>
                     </div>
 

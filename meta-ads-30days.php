@@ -13,8 +13,8 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                     <div>
                         <p class="topP mb-15">Restricted by opportunities?</p>
                         <div class="sliderHeading mb-20">
-                            <h2>Meta Ads Mastery</h2>
-                            <h2>Job Bootcamp with GenAI</h2>
+                            <h2 class="sh_course">Meta Ads Mastery</h2>
+                            <h1 class="sh_course">Job Bootcamp with GenAI</h1>
                         </div>
                         <p class="coDetail">Google Ads Mastery in 30 Days Course with Guaranteed Placement Support
                             <br> Perfect for Both Freshers & Working Professionals.
@@ -118,7 +118,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
     </div><!--container-->
 </section><!--/slider Heading-->
 
-<section class="continer-fluid pt pb counseling">
+<section class="continer-fluid gap pt pb counseling ">
     <div class="no-container width80">
         <div class="row">
             <div class="col-lg-7">
@@ -166,7 +166,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
     </div><!--/container-->
 </section><!--/Course Overview-->
 
-<section class="contaianer-fluid pt  courseModules">
+<section class="contaianer-fluid gap pt  courseModules">
     <div class="cutom-container width80">
         <div class="row">
             <div class="col-lg-12">
@@ -407,7 +407,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
         </div><!--/container-->
 </section><!--/courseModules-->
 
-<section class="contaianer-fluid pt pb courseModules">
+<section class="contaianer-fluid gap pt pb courseModules">
     <div class="cutom-container width80">
         <div class="row">
             <div class="col-lg-4">
@@ -566,7 +566,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                 </div><!--/heading div-->
             </div><!--/col-->
         </div><!--/row-->
-        <div class="row mt-80">
+        <div class="row mt-80 g-4 g-lg-3 g-sm-3">
             <div class="col-lg-3">
                 <div class="whyShould-container">
                     <div class="whyShould-image-box-wrapper">

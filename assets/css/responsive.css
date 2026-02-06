@@ -1,4 +1,66 @@
 @media only screen and (min-device-width: 300px) and (max-device-width: 480px) {
+.gap {
+    padding: 50px 0px !important;
+}
+
+  /* courses */
+  .sh_course {
+    font-size: 25px;
+    font-weight: 600;
+}
+.coDetail {
+    font-size: 16px;
+    font-family: 'PoppinsRegular';
+}
+.course-features .features {
+    padding: 10px 10px;
+}
+
+
+
+/* one-months */
+.dpflex li {
+    padding: 0 0 0 0px;
+}
+.courseMleft, .courseMright {
+    padding: 15px !important;
+}
+.course-tab-content h5 {
+    font-size: 20px;
+}
+.daybox h6 {
+    font-size: 18px;
+}
+.plt-30 {
+    padding: 10px 0 0 10px;
+}
+
+.daybox.prb-30 {
+    padding: 10px 0 30px 0px;
+}
+.course-metrics {
+    padding: 15px;
+}
+
+/* smo  */
+.dpflex{
+  padding: 10px 0px 0px 0px;
+}
+
+
+.row.methods-work-row {
+    margin-top: 30px;
+}
+ul.smm_gap {
+    padding: 0px;
+}
+
+
+
+
+
+
+
     .learning-paths .tabs {
     flex-wrap: wrap;
     gap: 10px;
@@ -149,7 +211,7 @@
   }
 
   .features-2 {
-    padding: 30px 0px !important;
+    padding: 50px 0px !important;
   }
 
   .pt {
@@ -597,7 +659,7 @@
   }
 
   .section-title {
-    font-size: 18px !important;
+    font-size: 20px !important;
     line-height: 29px;
     text-align: start;
   }

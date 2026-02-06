@@ -1,4 +1,4 @@
-<section class="contaianer-fluid pt pb skill-cover">
+<section class="contaianer-fluid gap pt pb skill-cover">
     <div class="cutom-container width80">
         <div class="row">
             <div class="col-lg-12">
@@ -15,7 +15,7 @@
                 </div>
             </div>
         </div><!--/row-->
-        <div class="row mt-80">
+        <div class="row mt-80 g-4 g-lg-3 g-sm-3">
             <div class="col-6 col-md-2 col-lg-2">
                 <div class="placementbox" data-aos="fade-up" data-aos-duration="1000">
                     <div class=""><img src="assets/image/landing-page/placement/microsoft.webp" alt=""
@@ -107,7 +107,7 @@
         </div><!--/row-->
     </div>
 </section>
-<section class="container-fluid pt pb certificateProgram">
+<section class="container-fluid gap pt pb certificateProgram">
     <div class="custom-container width80">
         <div class="row">
             <div class="col-lg-12">

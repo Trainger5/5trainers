@@ -14,8 +14,8 @@ $canonical_url = "https://www.5trainers.com/smo-one-month.php";
                     <div>
                         <p class="topP mb-15">Restricted by opportunities?</p>
                         <div class="sliderHeading mb-20">
-                            <h2>SMO One Month Course</h2>
-                            <h2>Job Bootcamp with GenAI</h2>
+                            <h2 class="sh_course">SMO One Month Course</h2>
+                            <h1 class="sh_course">Job Bootcamp with GenAI</h1>
                         </div>
                         <p class="coDetail">Social Media Optimization One Month Course with Guaranteed Placement
                             Support <br> Perfect for Both Freshers & Working Professionals.</p>
@@ -112,7 +112,7 @@ $canonical_url = "https://www.5trainers.com/smo-one-month.php";
     </div><!--container-->
 </section><!--/slider Heading-->
 
-<section class="container-fluid about-sec pt pb aos-all" id="transcroller-body">
+<section class="container-fluid gap about-sec pt pb aos-all" id="transcroller-body">
     <div class="no-container width80">
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-12 align-self-center">
@@ -565,7 +565,7 @@ $canonical_url = "https://www.5trainers.com/smo-one-month.php";
                 </div><!--/heading div-->
             </div><!--/col-->
         </div><!--/row-->
-        <div class="row mt-80">
+        <div class="row mt-80 g-4 g-lg-3 g-sm-3">
             <div class="col-lg-3">
                 <div class="whyShould-container">
                     <div class="whyShould-image-box-wrapper">

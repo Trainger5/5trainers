@@ -26,8 +26,8 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
                     <div>
                         <p class="topP mb-15 text-white">Restricted by opportunities?</p>
                         <div class="sliderHeading mb-20 text-white">
-                            <h2>Full Stack Web Development</h2>
-                            <h2>Job Bootcamp with GenAI</h2>
+                            <h2 class="sh_course">Full Stack Web Development</h2>
+                            <h2 class="sh_course">Job Bootcamp with GenAI</h2>
                         </div>
                         <p class="coDetail">Full Stack Development Course with Guaranteed Placement Support <br>
                             Perfect for Both Freshers & Working Professionals.</p>
@@ -210,7 +210,7 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
     </div>
 </section>
 
-<section class="container-fluid about-sec pt pb aos-all" id="transcroller-body">
+<section class="container-fluid gap about-sec pt pb aos-all" id="transcroller-body">
     <div class="no-container width80">
         <div class="row">
             <div class="col-sm-5 col-md-12 col-lg-5 align-self-center">
@@ -279,7 +279,7 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
 </section>
 <!--/about -->
 
-<section class="contaianer-fluid  skill-cover">
+<section class="contaianer-fluid gap  skill-cover">
     <div class="cutom-container width80">
         <div class="row">
             <div class="col-lg-12">
@@ -370,7 +370,7 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
     </div>
 </section><!--/skill cover-->
 
-<section class="contaianer-fluid  howitwork">
+<section class="contaianer-fluid gap howitwork">
     <div class="cutom-container width80">
         <div class="row">
             <div class="col-lg-12">
@@ -546,7 +546,7 @@ $canonical_url = "https://www.5trainers.com/full-stack-webdevelopment.php";
     </div>
 </section><!--/Project Agile Activity with Student Participation-->
 
-<section class="container-fluid pY-5  pb fresherJob">
+<section class="container-fluid gap pY-5  pb fresherJob">
     <div class="custom-container width80">
         <div class="row">
             <div class="col-lg-12">

@@ -4856,9 +4856,9 @@ p {
   display: none; /* Chrome, Safari */
 }
 
-.fresherJob .scroll-content {
+/* .fresherJob .scroll-content {
   padding: 30px;
-}
+} */
 .fresherBox {
     display: flex;
     justify-content: flex-start;
@@ -5778,7 +5778,7 @@ p.certip {
     margin: 0px;
   }
   .howitwork {
-    padding: 30px 0px !important;
+    padding: 50px 0px !important;
   }
   .skill-cover {
     padding: 20px 0px !important;
@@ -5836,10 +5836,17 @@ p.certip {
     font-size: 14px;
   }
   .slider-hding h2 {
-    font-size: 18px;
+    font-size: 20px;
     line-height: 30px;
     margin-bottom: 10px;
     text-align: start;
+  }
+  .service-info h5{
+    font-size: 18px;
+
+  }
+  .service-info li{
+    font-size: 16px;
   }
   .slider-hding p {
     font-size: 16px;
@@ -5943,12 +5950,12 @@ p.certip {
     padding: 4px;
   }
   p.certip {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 25px;
     text-align: start !important;
   }
   .combine-text-size-regular {
-    font-size: 17px;
+    font-size: 16px;
     text-align: start;
   }
   .combine-feature2_item {
@@ -5973,7 +5980,7 @@ p.certip {
     font-size: 14px;
   }
   .haveQuestion .form-screen .form-group label {
-    font-size: 14px;
+    font-size: 16px;
   }
   .haveQuestion .fFotr {
     padding: 20px 0;
@@ -6932,7 +6939,7 @@ p.certip {
   padding: 20px 0px !important;
 }
 .container-fluid {
-  padding: 20px 0px;
+  padding: 50px 0px;
 }
 .footer-icon {
   width: 15px !important;
@@ -7159,7 +7166,7 @@ p.certip {
   opacity: 0.8;
 }
 .course-metrics {
-  /* background-color: #00AFD6; */
+  /* background-color: #00AFD6; */  
   background-color: #0f79be;
   display: flex;
   flex-direction: row;
@@ -7475,8 +7482,11 @@ p.certip {
     margin-bottom: 7px;
   }
   .container-fluid {
-    padding: 20px 0px !important;
+    padding: 50px 0px !important;
   }
+ .skill-cover {
+    padding: 50px 0px !important;
+}
   .main-heading {
     font-size: 20px !important;
   }
@@ -7516,7 +7526,7 @@ p.certip {
   }
   .course-metrics {
     gap: 7px;
-    padding: 7px;
+    padding: 20px;
     width: 100%;
     flex-direction: row;
     align-items: stretch;
@@ -10573,6 +10583,7 @@ p.image-box-description strong {
   line-height: 25px;
   letter-spacing: 0.01em;
   display: table;
+  color:white;
 }
 .faq.bp-2 .box.active .content {
   height: auto;
@@ -11296,6 +11307,7 @@ body {
   margin: 0 0 20px;
   text-align: left;
   text-transform: capitalize;
+  font-weight: 600;
 }
 .widget-container ul {
   padding: 0px;
@@ -11892,7 +11904,7 @@ span.icon-list-text {
   z-index: 1;
 }
 .two-btns a::after {
-  background-color: #19232b;
+  /* background-color: #19232b; */
 }
 
 .two-btns a:hover::after {
@@ -11907,7 +11919,7 @@ span.icon-list-text {
   top: 0;
   right: 0;
   border-radius: inherit;
-  background-color: #0365d3;
+  /* background-color: #0365d3; */
   z-index: -1;
   transition: all 500ms ease;
 }

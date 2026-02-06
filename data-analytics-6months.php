@@ -14,8 +14,8 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
                     <div >
                         <p class="topP mb-15">Restricted by opportunities?</p>
                         <div class="sliderHeading mb-20">
-                            <h2>Data Analytics Training</h2>
-                            <h2>Job Bootcamp with GenAI</h2>
+                            <h2 class="sh_course">Data Analytics Training</h2>
+                            <h2 class="sh_course">Job Bootcamp with GenAI</h2>
                         </div>
                         <p class="coDetail">Data Analytics Training – 6 Months with Guaranteed Placement Support
                             <br> Perfect for Both Freshers & Working Professionals.
@@ -100,7 +100,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
 
 
 <span id="top"></span>
-<section class="container-fluid slider-hding">
+<section class="container-fluid gap slider-hding">
     <div class="custom-container width80">
         <div class="row">
             <div class="col-lg-12">
@@ -114,7 +114,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
     </div><!--container-->
 </section><!--/slider Heading-->
 
-<section class="container-fluid about-sec pt pb aos-all" id="transcroller-body">
+<section class="container-fluid gap about-sec pt pb aos-all" id="transcroller-body">
     <div class="no-container width80">
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-12 align-self-center">
@@ -144,7 +144,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
                 </div>
             </div>
             <div class="col-sm-5 col-md-5 col-lg-5 align-self-center">
-                <ul class="dpflex">
+                <ul class="dpflex pt-4 lg-pt-0 sm-pt-3">
                     <li><img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon"><span> Certification
                             Prep:</span> Google & HubSpot SEO certification ready</li>
                     <li><img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon"><span> Live
@@ -509,7 +509,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
             </div><!--/col-->
         </div><!--/row-->
         <div class="row mt-80">
-            <div class="col-lg-3 col-md-3 col-6">
+            <div class="col-lg-3 col-md-3 col-12">
                 <div class="whyShould-container">
                     <div class="whyShould-image-box-wrapper">
                         <figure class="whyShould-image-box-img">
@@ -522,7 +522,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
                     </div>
                 </div>
             </div><!--/col-->
-            <div class="col-lg-3 col-md-3 col-6">
+            <div class="col-lg-3 col-md-3 col-12">
                 <div class="whyShould-container">
                     <div class="whyShould-image-box-wrapper">
                         <figure class="whyShould-image-box-img">
@@ -535,7 +535,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
                     </div>
                 </div>
             </div><!--/col-->
-            <div class="col-lg-3 col-md-3 col-6">
+            <div class="col-lg-3 col-md-3 col-12">
                 <div class="whyShould-container">
                     <div class="whyShould-image-box-wrapper">
                         <figure class="whyShould-image-box-img">
@@ -548,7 +548,7 @@ $canonical_url = "https://www.5trainers.com/data-analytics-6months.php";
                     </div>
                 </div>
             </div><!--/col-->
-            <div class="col-lg-3 col-md-3 col-6">
+            <div class="col-lg-3 col-md-3 col-12">
                 <div class="whyShould-container">
                     <div class="whyShould-image-box-wrapper">
                         <figure class="whyShould-image-box-img">

@@ -14,8 +14,8 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
                     <div >
                         <p class="topP mb-15">Restricted by opportunities?</p>
                         <div class="sliderHeading mb-20">
-                            <h2>Data Science Professional</h2>
-                            <h2>Job Bootcamp with GenAI</h2>
+                            <h2 class="sh_course">Data Science Professional</h2>
+                            <h2 class="sh_course">Job Bootcamp with GenAI</h2>
                         </div>
                         <p class="coDetail">Data Science Professional Training (6 Months)</p>
                     </div>
@@ -185,7 +185,7 @@ $canonical_url = "https://www.5trainers.com/data-science-professional-training-6
                 </div>
                 <!--/col-->
 
-                <div class="col-lg-8">
+                <div class="col-lg-8 g-4 g-lg-0 g-sm-3">
                     <div class="ourProcessBox">
                         <div class="processTitle">
                             <h2>Our Counseling Process</h2>

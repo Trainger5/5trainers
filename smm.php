@@ -34,7 +34,7 @@ $canonical_url = "https://www.5trainers.com/smm.php";
 	</div>
 </section><!--/breadcrumbs-->
 
-<section class="continer-fluid pt pb seo-sec comm-margin over-dm">
+<section class="continer-fluid gap pt pb seo-sec comm-margin over-dm">
 	<div class="over-dm-circle"></div>
 	<div class="container">
 		<div class="row">
@@ -102,7 +102,7 @@ $canonical_url = "https://www.5trainers.com/smm.php";
 		</div>
 	</div>
 </section><!--/SMM Details-->
-<section class="container-fluid pt pb team-section methods-work">
+<section class="container-fluid gap pt pb team-section methods-work">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
@@ -126,7 +126,7 @@ $canonical_url = "https://www.5trainers.com/smm.php";
 					<div class="mw-icon"><img src="assets/image/icon/work03.png" alt=""></div>
 					<div class="mw-content list-services">
 						<h3 class="title">Social Media Marketing</h3>
-						<ul>
+						<ul class="smm_gap">
 							<li>What Is SMM, And Why Is It Important?</li>
 							<li>Key Platforms: Facebook, Instagram, LinkedIn, Twitter, YouTube</li>
 							<li>Understanding Brand Identity And Tone Of Voice</li>
@@ -143,7 +143,7 @@ $canonical_url = "https://www.5trainers.com/smm.php";
 					<div class="mw-icon"><img src="assets/image/icon/work03.png" alt=""></div>
 					<div class="mw-content list-services">
 						<h3 class="title">Content Creation And Strategy</h3>
-						<ul>
+						<ul class="smm_gap" >
 							<li>What Is SMM, And Why Is It Important?</li>
 							<li>Key Platforms: Facebook, Instagram, LinkedIn, Twitter, YouTube</li>
 							<li>Understanding Brand Identity And Tone Of Voice</li>
@@ -160,7 +160,7 @@ $canonical_url = "https://www.5trainers.com/smm.php";
 					<div class="mw-icon"><img src="assets/image/icon/work03.png" alt=""></div>
 					<div class="mw-content list-services">
 						<h3 class="title">Social Media Optimization (SMO)</h3>
-						<ul>
+						<ul class="smm_gap">
 							<li>What Is SMM, And Why Is It Important?</li>
 							<li>Key Platforms: Facebook, Instagram, LinkedIn, Twitter, YouTube</li>
 							<li>Understanding Brand Identity And Tone Of Voice</li>
@@ -180,7 +180,7 @@ $canonical_url = "https://www.5trainers.com/smm.php";
 					<div class="mw-icon"><img src="assets/image/icon/work03.png" alt=""></div>
 					<div class="mw-content list-services">
 						<h3 class="title">Paid Advertising And Analytics</h3>
-						<ul>
+						<ul class="smm_gap">
 							<li>What Is SMM, And Why Is It Important?</li>
 							<li>Key Platforms: Facebook, Instagram, LinkedIn, Twitter, YouTube</li>
 							<li>Understanding Brand Identity And Tone Of Voice</li>
@@ -197,7 +197,7 @@ $canonical_url = "https://www.5trainers.com/smm.php";
 					<div class="mw-icon"><img src="assets/image/icon/work03.png" alt=""></div>
 					<div class="mw-content list-services">
 						<h3 class="title">Key Highlights Of Our SMM Course</h3>
-						<ul>
+						<ul class="smm_gap">
 							<li>What Is SMM, And Why Is It Important?</li>
 							<li>Key Platforms: Facebook, Instagram, LinkedIn, Twitter, YouTube</li>
 							<li>Understanding Brand Identity And Tone Of Voice</li>
@@ -210,7 +210,7 @@ $canonical_url = "https://www.5trainers.com/smm.php";
 	</div>
 </section><!--/SMM Course-->
 
-<section class="continer-fluid pt pb CI-7">
+<section class="continer-fluid gap pt pb CI-7">
 	<div class="no-container width80">
 		<div class="row">
 			<div class="col-lg-12">
@@ -227,7 +227,7 @@ $canonical_url = "https://www.5trainers.com/smm.php";
 				</div><!--/Heading-->
 			</div><!--/col-->
 		</div>
-		<div class="row mt-80">
+		<div class="row mt-80 g-4 g-lg-3 g-sm-3 ">
 			<div class="col-sm-6 col-md-4 col-lg-2 AS-type aos-init aos-animate" data-aos="zoom-out-down"
 				data-aos-duration="800">
 				<div class="content">
@@ -337,7 +337,7 @@ $canonical_url = "https://www.5trainers.com/smm.php";
 		</div>
 	</div>
 </section>
-<section class="container-fluid pt pb faq bp-2">
+<section class="container-fluid gap pt pb faq bp-2">
 	<div class="bp-bg"></div>
 	<div class="shape10"><img src="assets/image/shape/shape10.png"></div>
 	<div class="container">
@@ -377,8 +377,10 @@ $canonical_url = "https://www.5trainers.com/smm.php";
 					<div class="box aos-init" data-aos="fade-up" data-aos-duration="1600">
 						<div class="label">What is included in the complete Digital Marketing Course?</div>
 						<div class="content">
-							<ul>
-								<li>Our 60-day full course covers:</li>
+
+						
+							<ul class="smm_faq">
+								<li class="faq_list">Our 60-day full course covers:</li>
 								<li>SEO (On-page &amp; Off-page)</li>
 								<li>Social Media Marketing</li>
 								<li>Google Ads (Search, Display, Video)</li>

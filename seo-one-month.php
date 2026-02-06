@@ -14,8 +14,8 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                     <div class="text-white">
                         <p class="topP mb-15 text-white ">Restricted by opportunities?</p>
                         <div class="sliderHeading mb-20">
-                            <h2>SEO One Month Course</h2>
-                            <h2>Job Bootcamp with GenAI</h2>
+                            <h2 class="sh_course">SEO One Month Course</h2>
+                            <h2 class="sh_course">Job Bootcamp with GenAI</h2>
                         </div>
                         <h5 class="coDetail">SEO One Month Course with Guaranteed Placement Support <br> Perfect for
                             Both Freshers & Working Professionals.</h5>
@@ -120,9 +120,9 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
     </div><!--container-->
 </section><!--/slider Heading-->
 
-<section class="container-fluid about-sec seopage pt pb aos-all" id="transcroller-body">
+<section class="container-fluid gap about-sec seopage pt pb aos-all" id="transcroller-body">
     <div class="no-container width80">
-        <div class="row">
+        <div class="row g-3 g-lg-0 g-sm-0">
             <div class="col-sm-12 col-md-12 col-lg-12 align-self-center">
                 <div class="about-us-info-wrap">
                     <div class="section-title-area">
@@ -145,7 +145,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                 </div>
             </div>
             <div class="col-sm-5 col-md-5 col-lg-5 align-self-center">
-                <ul class="dpflex">
+                <ul class="dpflex p-0">
                     <li><span><img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon"> Certification
                             Prep:</span> Google & HubSpot SEO certification ready</li>
                     <li><span> <img src="assets/image/icon/bulb-blue.png" alt="icon" class="footer-icon"> Live
@@ -162,7 +162,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
     </div>
 </section><!--/SEO Course Overview-->
 
-<section class="contaianer-fluid pt pb courseModules">
+<section class="contaianer-fluid gap pt pb courseModules">
     <div class="cutom-container width80">
         <div class="row">
             <div class="col-lg-12">
@@ -515,7 +515,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
 
 <?php include('placement-certificate-havequestion.php'); ?>
 
-<section id="faqSec" class="container-fluid pt pb faq">
+<section id="faqSec" class="container-fluid gap pt pb faq">
     <div class="custom-container width80">
         <div class="row">
             <div class="col-sm-12 col-lg-12">
