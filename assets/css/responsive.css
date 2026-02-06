@@ -5,7 +5,7 @@
 
   /* courses */
   .sh_course {
-    font-size: 25px;
+    font-size: 25px !important;
     font-weight: 600;
 }
 .coDetail {
@@ -971,6 +971,10 @@ ul.smm_gap {
 }
 
 @media only screen and (min-device-width: 480px) and (max-device-width: 576px) {
+  .sh_course {
+    font-size: 25px !important;
+    font-weight: 600;
+}
   .logo {
     width: 140px;
   }
@@ -1041,6 +1045,10 @@ ul.smm_gap {
 
 /*  Smartphones (portrait and landscape) */
 @media only screen and (min-device-width: 481px) and (max-device-width: 767px) {
+  .sh_course {
+    font-size: 25px !important;
+    font-weight: 600;
+}
   .menu__brand img {
     position: relative;
     top: 10px;
@@ -1609,6 +1617,10 @@ ul.smm_gap {
 
 /*  Smartphones (portrait and landscape) */
 @media only screen and (min-device-width: 768px) and (max-device-width: 991px) {
+  .sh_course {
+    font-size: 25px !important;
+    font-weight: 600;
+}
   .hding-para h6 a {
     font-size: 16px;
     line-height: 22px;

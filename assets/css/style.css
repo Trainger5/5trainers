@@ -50,6 +50,7 @@
   font-size: 16px;
   line-height: 1.7;
   text-align: start;
+  font-weight: 600;
 }
 
 /* METRICS */
@@ -10905,6 +10906,10 @@ p.image-box-description strong {
 
 /*End Business Process Service*/
 
+.sh_course {
+    font-size: 40px !important;
+    font-weight: 600;
+}
 /* faq section css */
 /*Start FAQ*/
 .faq {
