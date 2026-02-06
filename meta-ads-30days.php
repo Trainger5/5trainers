@@ -17,7 +17,7 @@ $canonical_url = "https://www.5trainers.com/seo-one-month.php";
                             <h1 class="sh_course">Job Bootcamp with GenAI</h1>
                         </div>
                         <p class="coDetail">Google Ads Mastery in 30 Days Course with Guaranteed Placement Support
-                            <br> Perfect for Both Freshers & Working Professionals.
+                             Perfect for Both Freshers & Working Professionals.
                         </p>
                     </div><!--/slider text-->
                     <div>

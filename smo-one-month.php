@@ -18,7 +18,7 @@ $canonical_url = "https://www.5trainers.com/smo-one-month.php";
                             <h1 class="sh_course">Job Bootcamp with GenAI</h1>
                         </div>
                         <p class="coDetail">Social Media Optimization One Month Course with Guaranteed Placement
-                            Support <br> Perfect for Both Freshers & Working Professionals.</p>
+                            Support  Perfect for Both Freshers & Working Professionals.</p>
                     </div><!--/slider text-->
                     <div class="course-features mtb-40">
                         <div class="features">
